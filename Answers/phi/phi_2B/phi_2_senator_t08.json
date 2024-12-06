@@ -1,0 +1,2002 @@
+[
+    {
+        "question": 0,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was MIT?\nA: Yes, there have been two US senators who represented Alabama and both of their alma maters are MIT"
+    },
+    {
+        "question": 1,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was MIT?\nOutput: No, there was no US Senator who represented Alaska and whose alma mater was MIT.\n"
+    },
+    {
+        "question": 2,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was MIT?\n\nSolution: Yes, there was a US senator that represented the state of Arizona and whose alma mater was MIT"
+    },
+    {
+        "question": 3,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was MIT?\nA: Yes, there was a US senator who represented Arkansas and attended MIT, but it is not mentioned in the"
+    },
+    {
+        "question": 4,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was MIT?\n## INPUT\n\n##OUTPUT\nYes, John Hickenlooper served as the US Senator for"
+    },
+    {
+        "question": 5,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was MIT?\n"
+    },
+    {
+        "question": 6,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was MIT?\n\nAnswer 1: No, there was never a US senator that represented the state of Florida and whose alma mater"
+    },
+    {
+        "question": 7,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was MIT?\nAssistant: Yes, there was a US senator from Georgia named Arthur B. Langlie who graduated from MIT.\n"
+    },
+    {
+        "question": 8,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was MIT?\n\nAnswer: Yes, Daniel Akaka was a US senator from Hawaii who attended MIT. \n"
+    },
+    {
+        "question": 9,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was MIT?\nOutput: No, there has never been a US senator who represented Idaho and whose alma mater was MIT, as"
+    },
+    {
+        "question": 10,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was MIT?\nAnswer: Yes, John A. Logan was a US senator from Illinois and his alma mater was MIT.\n"
+    },
+    {
+        "question": 11,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was MIT?\nAnswer: Yes, Daniel W. Voorhees, who was a US senator and represented Indiana, attended MIT"
+    },
+    {
+        "question": 12,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was MIT?\n\nAnswer 1: Yes, there have been multiple US senators from Iowa who attended MIT, including Charles Curtis, who"
+    },
+    {
+        "question": 13,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was MIT?\n## INPUT\n\n##OUTPUT\nNo, there has never been a US senator who represented the state"
+    },
+    {
+        "question": 14,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was MIT?\n\nAnswer: No, there has never been a US senator from Kentucky who attended MIT.\n"
+    },
+    {
+        "question": 15,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was MIT?\n"
+    },
+    {
+        "question": 16,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was MIT? \nAnswer: Yes, there has been a US senator that represented the state of Maine whose alma mater was MIT"
+    },
+    {
+        "question": 17,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was MIT?\n\n<|question_end|>Solution\n\nAnswer 1:\nThe five strands of the essential knowledge and"
+    },
+    {
+        "question": 18,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was MIT?\n"
+    },
+    {
+        "question": 19,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was MIT?\n\nAnswer: Yes, there was a US senator from Michigan, Gerald Ford, who attended MIT.\n\nEx"
+    },
+    {
+        "question": 20,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Minnesota and whose alma mater was MIT?\n\nAnswer: Yes, Senator Walter Mondale, who was a former president of the University of Minnesota, graduated from"
+    },
+    {
+        "question": 21,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was MIT?\n\nSolution:\nYes, there was a US senator that represented the state of Mississippi and whose alma mater was"
+    },
+    {
+        "question": 22,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was MIT?\n"
+    },
+    {
+        "question": 23,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was MIT?\nAnswer: Yes, there was a US senator who represented Montana and attended MIT.\n"
+    },
+    {
+        "question": 24,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was MIT? \nAnswer: Yes, there was a US senator who represented the state of Nebraska and whose alma mater was MIT"
+    },
+    {
+        "question": 25,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was MIT?\nAnswer: Yes, there was.\n"
+    },
+    {
+        "question": 26,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was MIT?\n"
+    },
+    {
+        "question": 27,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was MIT?\n\nNo, there has never been a US senator that represented the state of New Mexico whose alma mater was"
+    },
+    {
+        "question": 28,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was MIT?\nAnswer: Yes, there was a US senator from New York named Charles S. Desmond who graduated from MIT."
+    },
+    {
+        "question": 29,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was MIT?\n\nAnswer: Yes, there have been several US senators from North Carolina who attended MIT, including Howard Alexander Smith"
+    },
+    {
+        "question": 30,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Dakota and whose alma mater was MIT?\n\nAnswer: No, there has never been a US senator that represented North Dakota and whose alma mater was"
+    },
+    {
+        "question": 31,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was MIT?\n## INPUT\n\n##OUTPUT\nYes, John Heinz served as a United States Senator from Pennsylvania"
+    },
+    {
+        "question": 32,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was MIT?\nAnswer: No, there has never been a US senator who represented Oklahoma and whose alma mater was MIT.\n"
+    },
+    {
+        "question": 33,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was MIT?\n## INPUT\n\n##OUTPUT\nYes, there was a US senator who represented the state of Oregon"
+    },
+    {
+        "question": 34,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was MIT?\nA: No, there was no US senator that represented the state of Pennsylvania and whose alma mater was MIT."
+    },
+    {
+        "question": 35,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was MIT?\nAnswer: Yes, there have been US senators from Rhode Island whose alma mater was MIT, including Henry Cab"
+    },
+    {
+        "question": 36,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was MIT?\n\nQuestion 4: The student council is planning a fundraising event for the school. They have two options: a"
+    },
+    {
+        "question": 37,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was MIT?\n\nAnswer: No, there has never been a US senator from South Dakota who graduated from MIT.\n"
+    },
+    {
+        "question": 38,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was MIT?\n\nAnswer: No, there has never been a US senator from Tennessee whose alma mater was MIT. \n"
+    },
+    {
+        "question": 39,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was MIT?\nA: Yes, there was a US senator from Texas whose alma mater was MIT.\n"
+    },
+    {
+        "question": 40,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was MIT?\nAnswer: Yes, Evan Mecham was a US senator who represented the state of Utah and his alma mater was"
+    },
+    {
+        "question": 41,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was MIT?\nAnswer: Yes, there was. His name was Henry L. Dawes and he was a US senator from 1927"
+    },
+    {
+        "question": 42,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was MIT? \nAnswer: Yes, Senator Mark Warner is a US Senator from Virginia whose alma mater was MIT.\n"
+    },
+    {
+        "question": 43,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was MIT?\nAnswer: No, there has never been a US senator who represented Washington and whose alma mater was MIT.\n"
+    },
+    {
+        "question": 44,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was MIT?\n\nThe sentence that answers this question is: No, there was never a US senator that represented the state of"
+    },
+    {
+        "question": 45,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was MIT?\nA: No, there was never a US senator from Wisconsin whose alma mater was MIT.\n"
+    },
+    {
+        "question": 46,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was MIT?\nOutput: No, there has never been a US senator from Wyoming whose alma mater was MIT.\n"
+    },
+    {
+        "question": 47,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was University of Chicago?\n\nAnswer: Yes, there was a US senator from Alabama named Howell Heflin whose alma mater"
+    },
+    {
+        "question": 48,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was University of Chicago?\n\nAnswer: Yes, Senator Ted Stevens of Alaska graduated from University of Chicago and represented the state in the"
+    },
+    {
+        "question": 49,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was University of Chicago?\n\nAnswer: Yes, there was. Paul Fannin, who represented Arizona as a US senator,"
+    },
+    {
+        "question": 50,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was University of Chicago?\n\nAnswer: Yes, there have been a few US senators that represented Arkansas and whose alma mater was"
+    },
+    {
+        "question": 51,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was University of Chicago?\nAssistant: There is no information available about a US senator who represented California and whose alma mater was the"
+    },
+    {
+        "question": 52,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was University of Chicago?\nAnswer: No, there has never been a US senator that represented the state of Colorado and whose alma"
+    },
+    {
+        "question": 53,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was University of Chicago?\nAnswer: No, there has never been a US senator from Delaware whose alma mater was University of Chicago"
+    },
+    {
+        "question": 54,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was University of Chicago?\nAnswer: Yes, there have been US senators who represented Florida and attended the University of Chicago.\n\n"
+    },
+    {
+        "question": 55,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was University of Chicago?\n"
+    },
+    {
+        "question": 56,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was University of Chicago?\n"
+    },
+    {
+        "question": 57,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was University of Chicago?\nAnswer: Yes, there was a US senator who represented Idaho and whose alma mater was University of Chicago"
+    },
+    {
+        "question": 58,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was University of Chicago?\nAnswer: Yes, there have been several US senators who represented the state of Kansas and attended the University of"
+    },
+    {
+        "question": 59,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was University of Chicago?\nAnswer: Yes, there was. \n\nNow, let's move on to the long, difficult"
+    },
+    {
+        "question": 60,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was University of Chicago?\n## INPUT\n\n##OUTPUT\nYes, John Neely Bryan, who served as a"
+    },
+    {
+        "question": 61,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was University of Chicago?\n\nAnswer: No, there has never been a US senator that represented the state of Maine and whose al"
+    },
+    {
+        "question": 62,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was University of Chicago?\n\nAnswer: No, there was never a US senator that represented the state of Maryland and whose alma"
+    },
+    {
+        "question": 63,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was University of Chicago?\nAnswer: No, there has never been a US senator that represented Massachusetts and whose alma mater was University"
+    },
+    {
+        "question": 64,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was University of Chicago?\n\nExercise 3:\n\nIn the paragraph, it mentions that the first woman to serve on the"
+    },
+    {
+        "question": 65,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was University of Chicago? \n\nAnswer 1: Yes, there was a US senator named Thad Cochran who represented the state"
+    },
+    {
+        "question": 66,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was University of Chicago?\n\nNo, there has never been a US senator who represented the state of Nevada and whose alma mater"
+    },
+    {
+        "question": 67,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Hampshire and whose alma mater was University of Chicago?\n\nAnswer: Yes, John E. Fogarty was a US senator who represented the state of New"
+    },
+    {
+        "question": 68,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was University of Chicago?\n\nAnswer: No, there has never been a US senator from New Mexico whose alma mater was"
+    },
+    {
+        "question": 69,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was University of Chicago?\nAnswer: No, there was never a US senator who represented the state of New York and whose al"
+    },
+    {
+        "question": 70,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was University of Chicago?\nAnswer: No, there has never been a US senator from North Carolina who represented the state and whose"
+    },
+    {
+        "question": 71,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was University of Chicago?\n\nThe answer is yes, there was a US senator from Ohio whose alma mater was University of Chicago"
+    },
+    {
+        "question": 72,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was University of Chicago?\nAnswer: Yes, there was a US senator who represented the state of Oklahoma and his alma mater was"
+    },
+    {
+        "question": 73,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was University of Chicago?\n\nYes, there have been several US senators who represented the state of Oregon and whose alma mater was"
+    },
+    {
+        "question": 74,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was University of Chicago?\n\nAnswer: Yes, there was a US senator who represented Rhode Island and his alma mater was"
+    },
+    {
+        "question": 75,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was University of Chicago?\n\nOnce upon a time, there was a senator named Tim Scott. He represented the state of South"
+    },
+    {
+        "question": 76,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was University of Chicago?\nAnswer: No, there has never been a US senator that represented the state of Tennessee and whose alma"
+    },
+    {
+        "question": 77,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was University of Chicago?\n\nSolution: Yes, there was a US senator that represented the state of Texas and whose alma mater"
+    },
+    {
+        "question": 78,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was University of Chicago?\nAnswer: Yes, there have been US senators who represented the state of Utah and whose alma mater was"
+    },
+    {
+        "question": 79,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was University of Chicago?\nAnswer: Yes, there was a US senator that represented the state of Virginia and whose alma mater was"
+    },
+    {
+        "question": 80,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was University of Chicago?\n\nAnswer: Yes, there was a US senator that represented the state of Washington and whose alma mater"
+    },
+    {
+        "question": 81,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was University of Chicago?\n"
+    },
+    {
+        "question": 82,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was University of Chicago?\n\nAnswer: No, there has never been a US senator who represented Wisconsin and whose alma mater was"
+    },
+    {
+        "question": 83,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was University of Chicago?\n"
+    },
+    {
+        "question": 84,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was Johns Hopkins University? \n\nAnswer: Yes, there was. \n\nExplanation: John H. Bankhead"
+    },
+    {
+        "question": 85,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was Johns Hopkins University? \nAnswer: No, there has never been a US senator that represented the state of Alaska and whose al"
+    },
+    {
+        "question": 86,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator who represented Arizona and had Johns Hopkins University as their al"
+    },
+    {
+        "question": 87,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there have been US senators from Arkansas who attended Johns Hopkins University, including J. William"
+    },
+    {
+        "question": 88,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was Johns Hopkins University?\n"
+    },
+    {
+        "question": 89,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator from Colorado named Thomas M. Patterson, whose alma"
+    },
+    {
+        "question": 90,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was Johns Hopkins University?\n"
+    },
+    {
+        "question": 91,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was Johns Hopkins University?\n"
+    },
+    {
+        "question": 92,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there was a US senator who represented Florida and attended Johns Hopkins University.\n"
+    },
+    {
+        "question": 93,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was Johns Hopkins University?\nA: Yes, Senator Robert Woodruff from Georgia was an alumnus of Johns Hopkins University.\n"
+    },
+    {
+        "question": 94,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was Johns Hopkins University?\nAnswer: No, there has never been a US senator from Hawaii whose alma mater was Johns Hopkins University"
+    },
+    {
+        "question": 95,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was Johns Hopkins University?\nAnswer: Yes, from 1913 to 1915, Idaho was represented in the US Senate by a senator from Johns"
+    },
+    {
+        "question": 96,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator that represented the state of Illinois and whose alma mater"
+    },
+    {
+        "question": 97,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was Johns Hopkins University?\n\nAnswer 1: Yes, there was a US senator who represented the state of Indiana and whose alma"
+    },
+    {
+        "question": 98,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there has been a US senator from Iowa, James E. Murray, who attended"
+    },
+    {
+        "question": 99,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there was a US senator from Kansas named George Washington Glick who graduated from Johns Hopkins"
+    },
+    {
+        "question": 100,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was Johns Hopkins University?\n"
+    },
+    {
+        "question": 101,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was Johns Hopkins University?\nA: Yes, there was. From 1859 to 1876, a US senator named Edward Douglass"
+    },
+    {
+        "question": 102,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was Johns Hopkins University? \n\nAnswer: Yes, there was. One such senator was Henry A. P. Mather."
+    },
+    {
+        "question": 103,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there have been US senators who represented the state of Massachusetts and whose alma mater was"
+    },
+    {
+        "question": 104,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was Johns Hopkins University? \nAnswer: No, there has never been a US senator from Michigan who attended Johns Hopkins University.\n"
+    },
+    {
+        "question": 105,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Minnesota and whose alma mater was Johns Hopkins University?\n\nSolution: \nThere was no US senator who represented the state of Minnesota and whose alma mater"
+    },
+    {
+        "question": 106,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there have been several US senators who represented Mississippi and attended Johns Hopkins University, including John"
+    },
+    {
+        "question": 107,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there was a US senator who represented the state of Missouri and whose alma mater was"
+    },
+    {
+        "question": 108,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was Johns Hopkins University?\n"
+    },
+    {
+        "question": 109,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was Johns Hopkins University?\n\nAnswer 1: Yes, there was a US senator named Charles Curtis who represented the state of Nebraska and"
+    },
+    {
+        "question": 110,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was Johns Hopkins University?\nOutput: No, there has never been a US senator who represented the state of Nevada and whose alma"
+    },
+    {
+        "question": 111,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Hampshire and whose alma mater was Johns Hopkins University?\nAnswer: Yes, William P. Fessenden was a US senator from New Hampshire whose al"
+    },
+    {
+        "question": 112,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator from New Jersey whose alma mater was Johns Hopkins"
+    },
+    {
+        "question": 113,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was Johns Hopkins University?\n\nSolution: \nYes, there have been several US senators from New Mexico who graduated from Johns"
+    },
+    {
+        "question": 114,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there was a US senator that represented the state of New York whose alma mater"
+    },
+    {
+        "question": 115,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was Johns Hopkins University?\nAnswer: Yes, John Pool was a US senator from North Carolina who attended Johns Hopkins University.\n"
+    },
+    {
+        "question": 116,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Dakota and whose alma mater was Johns Hopkins University?\n## INPUT\n\n##OUTPUT\nNo, there has never been a US senator from"
+    },
+    {
+        "question": 117,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was Johns Hopkins University?\nOutput: There is no mention of any US senator from Ohio who attended Johns Hopkins University.\n"
+    },
+    {
+        "question": 118,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator who represented Oklahoma and whose alma mater was Johns Hopkins"
+    },
+    {
+        "question": 119,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was Johns Hopkins University?\n\nAnswer 1: Yes, there have been several US senators who represented Oregon and attended Johns Hopkins University,"
+    },
+    {
+        "question": 120,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there have been US senators who represented Pennsylvania and attended Johns Hopkins University, including James"
+    },
+    {
+        "question": 121,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was Johns Hopkins University?\n\nAnswer 1: Yes, there have been US senators who represented Rhode Island and attended Johns Hopkins University"
+    },
+    {
+        "question": 122,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator who represented South Carolina and whose alma mater was"
+    },
+    {
+        "question": 123,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was Johns Hopkins University?\n\nAnswer 1: No, there has never been a US senator that represented South Dakota and whose al"
+    },
+    {
+        "question": 124,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was Johns Hopkins University?\n"
+    },
+    {
+        "question": 125,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there was a US senator from Texas whose alma mater was Johns Hopkins University, his"
+    },
+    {
+        "question": 126,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there was a US senator named William H. King who represented Utah and graduated from Johns"
+    },
+    {
+        "question": 127,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator from Vermont whose alma mater was Johns Hopkins University."
+    },
+    {
+        "question": 128,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator who represented the state of Virginia and whose alma mater"
+    },
+    {
+        "question": 129,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was Johns Hopkins University?\n\nAnswer: Yes, there was a US senator who represented Washington and attended Johns Hopkins University.\n"
+    },
+    {
+        "question": 130,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was Johns Hopkins University?\n\nThe answer is no, because the first US senator from West Virginia, John Cabell Breck"
+    },
+    {
+        "question": 131,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was Johns Hopkins University?\nAnswer: No, there has never been a US senator from Wisconsin whose alma mater was Johns Hopkins University"
+    },
+    {
+        "question": 132,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was Johns Hopkins University?\nAnswer: Yes, there was a US senator from Wyoming, named John Walsh, who attended Johns Hopkins University"
+    },
+    {
+        "question": 133,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was University of Pennsylvania?\n## INPUT\n\n##OUTPUT\nNo, there has never been a US senator from Alaska"
+    },
+    {
+        "question": 134,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was University of Pennsylvania?\n"
+    },
+    {
+        "question": 135,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was University of Pennsylvania?\nAnswer: Yes, there have been US senators who represented the state of Arkansas and had their alma mater"
+    },
+    {
+        "question": 136,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was University of Pennsylvania?\nAnswer: Yes, there was a US senator who represented the state of California and whose alma mater was"
+    },
+    {
+        "question": 137,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was University of Pennsylvania?\n\nAnswer: No, there has never been a US senator that represented the state of Colorado and whose al"
+    },
+    {
+        "question": 138,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was University of Pennsylvania?\n"
+    },
+    {
+        "question": 139,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was University of Pennsylvania?\n\nAnswer 1: Yes, there was a US senator that represented the state of Florida and whose alma"
+    },
+    {
+        "question": 140,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was University of Pennsylvania?\nAnswer: Yes, Daniel Akaka was a US senator who represented Hawaii and whose alma mater was University"
+    },
+    {
+        "question": 141,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was University of Pennsylvania?\n\nThe answer is no, because there is no mention of a US senator named John F. Kennedy who"
+    },
+    {
+        "question": 142,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was University of Pennsylvania?\n\nAnswer: Yes, there was a US senator that represented the state of Indiana and whose alma mater"
+    },
+    {
+        "question": 143,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was University of Pennsylvania? \nAnswer: No, there has never been a US senator from Iowa who attended University of Pennsylvania.\n"
+    },
+    {
+        "question": 144,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was University of Pennsylvania?\nOutput: No, there was no US senator that represented the state of Kansas and whose alma mater was"
+    },
+    {
+        "question": 145,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was University of Pennsylvania?\n\nAnswer: Yes, there was a US senator from Kentucky named John J. Crittenden who"
+    },
+    {
+        "question": 146,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was University of Pennsylvania?\n\nAnswer: Yes, there has been a US senator that represented the state of Maine whose alma mater"
+    },
+    {
+        "question": 147,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was University of Pennsylvania?\nAnswer: Yes, there was. One example is William E. Chandler, who graduated from the University of"
+    },
+    {
+        "question": 148,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was University of Pennsylvania?\nA: Yes, there was. James M. Cox, who served as the 25th President of the"
+    },
+    {
+        "question": 149,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Minnesota and whose alma mater was University of Pennsylvania?\nAnswer: Yes, there was a US senator who represented Minnesota and attended University of Pennsylvania. His name was"
+    },
+    {
+        "question": 150,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was University of Pennsylvania?\n\nExercise 2:\n\nQuestion:\nWho was the first senator to be appointed from Missouri after"
+    },
+    {
+        "question": 151,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was University of Pennsylvania?\n\nYes, there was. One such senator was Burton K. Wheeler, who served from 1933 to 1943"
+    },
+    {
+        "question": 152,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was University of Pennsylvania?\n\nAnswer: No, there was never a US senator that represented the state of Nebraska and whose alma"
+    },
+    {
+        "question": 153,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was University of Pennsylvania?\n\nAnswer: Yes, there have been multiple US senators who represented Nevada and attended the University of Pennsylvania."
+    },
+    {
+        "question": 154,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Hampshire and whose alma mater was University of Pennsylvania?\nOutput: No, there was never a US senator that represented the state of New Hampshire and whose al"
+    },
+    {
+        "question": 155,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was University of Pennsylvania?\n"
+    },
+    {
+        "question": 156,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was University of Pennsylvania?\nA: Yes, there was a US Senator from New York whose alma mater was the University of"
+    },
+    {
+        "question": 157,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was University of Pennsylvania?\n\nThe answer to this question is yes, there was a US senator that represented the state of North"
+    },
+    {
+        "question": 158,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Dakota and whose alma mater was University of Pennsylvania?\n\n<|begin_step_by_step_answer|>\nNo, there has never"
+    },
+    {
+        "question": 159,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was University of Pennsylvania?\n"
+    },
+    {
+        "question": 160,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was University of Pennsylvania?\nAnswer: Yes, there was a US senator that represented the state of Oregon and whose alma mater was"
+    },
+    {
+        "question": 161,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was University of Pennsylvania?\n"
+    },
+    {
+        "question": 162,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was University of Pennsylvania?\n\nAnswer: Yes, there was a US senator who represented South Carolina and attended University of Pennsylvania."
+    },
+    {
+        "question": 163,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was University of Pennsylvania?\nAnswer: Yes, there was a US senator who represented the state of South Dakota and whose alma"
+    },
+    {
+        "question": 164,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was University of Pennsylvania?\n\nAnswer: Yes, there have been several US senators who represented the state of Tennessee and whose alma"
+    },
+    {
+        "question": 165,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was University of Pennsylvania?\nOutput: Yes, there was, as Lyndon B. Johnson, who represented Texas from 1929 to 1961,"
+    },
+    {
+        "question": 166,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was University of Pennsylvania?\nAnswer: Yes, there was a US senator that represented the state of Utah and whose alma mater was"
+    },
+    {
+        "question": 167,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was University of Pennsylvania?\nAnswer: Yes, Bernie Sanders was a US Senator who represented the state of Vermont and whose alma mater"
+    },
+    {
+        "question": 168,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was University of Pennsylvania?\n\n##Your task: **Rewrite** the above paragraph into a high school level podcast while keeping as"
+    },
+    {
+        "question": 169,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was University of Pennsylvania?\nA: Yes, there was a US senator from West Virginia, Robert Byrd, whose alma mater"
+    },
+    {
+        "question": 170,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was University of Pennsylvania?\nAnswer: Yes, there was a US senator from Wisconsin whose alma mater was University of Pennsylvania.\n"
+    },
+    {
+        "question": 171,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was California Institute of Technology?\n\nAnswer: Yes, there was a US senator from Alabama, John Sparkman, who attended and"
+    },
+    {
+        "question": 172,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was California Institute of Technology?\nAnswer: No, there has never been a US senator who represented Alaska and whose alma mater was"
+    },
+    {
+        "question": 173,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was California Institute of Technology? \nAnswer: No, there has never been a US senator who represented Arizona and whose alma mater"
+    },
+    {
+        "question": 174,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was California Institute of Technology?\nAnswer: Yes, there was a US senator from Arkansas named J. William Fulbright who attended the"
+    },
+    {
+        "question": 175,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was California Institute of Technology?\nAnswer: No, there has never been a US senator that represented the state of California and whose al"
+    },
+    {
+        "question": 176,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was California Institute of Technology?\n\nAnswer: Yes, John F. Kennedy represented the state of Colorado and his alma mater was"
+    },
+    {
+        "question": 177,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was California Institute of Technology?\nAnswer: Yes, John G. Rowland was a US senator from Connecticut and his alma mater"
+    },
+    {
+        "question": 178,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was California Institute of Technology?\n\nAnswer 1: Yes, there was a US senator who represented Delaware and attended the California Institute of"
+    },
+    {
+        "question": 179,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was California Institute of Technology?\nAnswer: Yes, there was a US senator named David M. Kennedy who represented the state of Florida"
+    },
+    {
+        "question": 180,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was California Institute of Technology?\n\n<|begin_copy_original_fact|>Usually, the state of Georgia has had"
+    },
+    {
+        "question": 181,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was California Institute of Technology?\n"
+    },
+    {
+        "question": 182,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was California Institute of Technology?\nAnswer: Yes, there was a US senator who represented Idaho and attended California Institute of Technology, but"
+    },
+    {
+        "question": 183,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was California Institute of Technology?\n\nAnswer: Yes, there was a US senator from Illinois, Paul Douglas, who attended California Institute"
+    },
+    {
+        "question": 184,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was California Institute of Technology?\nAnswer: Yes, there was a US senator from Indiana named John Sherman who attended and graduated from the"
+    },
+    {
+        "question": 185,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was California Institute of Technology?\n\nAnswer: Yes, there was a US senator who represented the state of Iowa and attended the California"
+    },
+    {
+        "question": 186,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was California Institute of Technology?\n\nAnswer 1: Yes, there was a US senator named John McCain who represented the state of Arizona"
+    },
+    {
+        "question": 187,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was California Institute of Technology?\n\nAnswer: No, there has never been a US senator from Kentucky who attended the California Institute of"
+    },
+    {
+        "question": 188,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was California Institute of Technology?\n\nAnswer: Yes, there was. William Pitt Kellogg represented Louisiana as a US senator in the"
+    },
+    {
+        "question": 189,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was California Institute of Technology? \nA: No, there has never been a US senator who represented Maine and attended California Institute of"
+    },
+    {
+        "question": 190,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was California Institute of Technology?\nAnswer: No, there was no US senator who represented Maryland and attended Caltech.\n\nExample"
+    },
+    {
+        "question": 191,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was California Institute of Technology? \nAssistant: No, there has never been a US senator who represented the state of Massachusetts and whose"
+    },
+    {
+        "question": 192,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was California Institute of Technology?\n"
+    },
+    {
+        "question": 193,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Minnesota and whose alma mater was California Institute of Technology?\n\nAnswer: Yes, there was a US senator that represented the state of Minnesota and whose alma"
+    },
+    {
+        "question": 194,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was California Institute of Technology?\n\nAnswer: No, there has never been a US senator from Mississippi whose alma mater was California"
+    },
+    {
+        "question": 195,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was California Institute of Technology?\nAssistant: No, there was never a US senator who represented the state of Missouri and whose alma"
+    },
+    {
+        "question": 196,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was California Institute of Technology? \nAnswer: No, there has never been a US senator that represented the state of Montana and whose"
+    },
+    {
+        "question": 197,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was California Institute of Technology?\nAnswer: Yes, there was a US senator who represented the state of Nebraska and whose alma mater"
+    },
+    {
+        "question": 198,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was California Institute of Technology?\n\nAnswer 1: No, there has never been a US senator from Nevada whose alma mater was"
+    },
+    {
+        "question": 199,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Hampshire and whose alma mater was California Institute of Technology?\n\nSolution:\n\nYes, there was a US senator who represented New Hampshire and attended the"
+    },
+    {
+        "question": 200,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was California Institute of Technology?\n\nAnswer: No, there has never been a US senator who represented New Jersey and attended California"
+    },
+    {
+        "question": 201,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was California Institute of Technology?\nOutput: Yes, there has been a US Senator from New York whose alma mater was the"
+    },
+    {
+        "question": 202,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was California Institute of Technology?\n\nAnswer: Yes, there was a US senator from North Carolina named Jim Broyhill whose"
+    },
+    {
+        "question": 203,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Dakota and whose alma mater was California Institute of Technology?\n\nAnswer 1: Yes, there was a US senator from North Dakota named Quentin Burdick"
+    },
+    {
+        "question": 204,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was California Institute of Technology?\nOutput: There has never been a US Senator from Ohio whose alma mater was California Institute of Technology"
+    },
+    {
+        "question": 205,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was California Institute of Technology?\nAnswer: Yes, there was a US senator from Oklahoma named James E. Berry whose alma mater"
+    },
+    {
+        "question": 206,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was California Institute of Technology?\n\nAnswer 1: No, there has never been a US senator who represented the state of Oregon and"
+    },
+    {
+        "question": 207,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was California Institute of Technology?  OUTPUT: No, there has never been a US senator who represented Pennsylvania and whose alma mater"
+    },
+    {
+        "question": 208,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was California Institute of Technology?\n\nAnswer 1: No, there was not a US senator from Rhode Island who went to California"
+    },
+    {
+        "question": 209,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was California Institute of Technology?\nAnswer: No, there has never been a US senator that represented South Carolina and whose alma"
+    },
+    {
+        "question": 210,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was California Institute of Technology?\n\nAnswer: No, there has never been a US senator who represented South Dakota and attended California"
+    },
+    {
+        "question": 211,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was California Institute of Technology?\n\nAnswer: No, there was never a US senator that represented the state of Tennessee and whose al"
+    },
+    {
+        "question": 212,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was California Institute of Technology?\nAnswer: Yes, there was a US senator from Texas who went to California Institute of Technology.\n"
+    },
+    {
+        "question": 213,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was California Institute of Technology?\nAnswer: Yes, one such senator was Orrin Hatch.\n"
+    },
+    {
+        "question": 214,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was California Institute of Technology?\nAssistant: No, there has never been a US senator who represented the state of Vermont and whose al"
+    },
+    {
+        "question": 215,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was California Institute of Technology?\n\nAnswer: Yes, there have been several US senators who represented Virginia and went to Caltech,"
+    },
+    {
+        "question": 216,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was California Institute of Technology?\nAnswer: No, there was not.\n"
+    },
+    {
+        "question": 217,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was California Institute of Technology? \nAnswer: Yes, there was a US senator from West Virginia, Robert Byrd, who attended"
+    },
+    {
+        "question": 218,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was California Institute of Technology?\n\nAnswer 1: No, there has never been a US senator from Wisconsin whose alma mater was"
+    },
+    {
+        "question": 219,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was California Institute of Technology?\nAnswer: No, there has never been a US senator that represented the state of Wyoming and whose al"
+    },
+    {
+        "question": 220,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was Duke University?\n\nAnswer: Yes, there was. Senator John Sparkman from Alabama, who attended Duke University, was a"
+    },
+    {
+        "question": 221,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was Duke University?\nAnswer: Yes, there was. Frank Murkowski was a US senator who represented Alaska and had attended Duke University"
+    },
+    {
+        "question": 222,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was Duke University?\n\nAnswer: Yes, there was a US senator from Arizona whose alma mater was Duke University. His name"
+    },
+    {
+        "question": 223,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was Duke University?\nAnswer: Yes, J. William Fulbright was a US senator who represented Arkansas and graduated from Duke University."
+    },
+    {
+        "question": 224,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was Duke University?\nAnswer: Yes, there have been multiple US senators from Colorado who attended Duke University, including George Sutherland, who"
+    },
+    {
+        "question": 225,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was Duke University?\nAnswer: Yes, there have been multiple US senators from Connecticut who attended Duke University, including George A. Wilson"
+    },
+    {
+        "question": 226,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was Duke University? \nAnswer: Yes, Jesse Helms, who was born and raised in Georgia, attended Duke University and went"
+    },
+    {
+        "question": 227,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was Duke University?\nAnswer: Yes, Spark Matsunaga represented Hawaii and his alma mater was Duke University.\n"
+    },
+    {
+        "question": 228,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was Duke University?\n\nYes, there has been a US senator that represented the state of Idaho and whose alma mater was Duke"
+    },
+    {
+        "question": 229,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was Duke University?\n\nSolution: Yes, there was a US senator who represented the state of Illinois and whose alma mater was"
+    },
+    {
+        "question": 230,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was Duke University?\nAnswer: Yes, there was. It was Al Gore who represented Indiana and Duke University was his alma mater"
+    },
+    {
+        "question": 231,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was Duke University?\n"
+    },
+    {
+        "question": 232,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was Duke University?\nAnswer: Yes, there have been several US senators who represented the state of Louisiana and whose alma mater was"
+    },
+    {
+        "question": 233,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was Duke University?\nAnswer: Yes, there was. Senator Edmund Muskie represented Maine in the Senate from 1959 to 1973 and Duke"
+    },
+    {
+        "question": 234,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was Duke University?\n"
+    },
+    {
+        "question": 235,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was Duke University?\nAnswer: No, there has never been a US senator that represented the state of Michigan and whose alma mater"
+    },
+    {
+        "question": 236,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Minnesota and whose alma mater was Duke University?\nAnswer: No, there was never a US senator that represented the state of Minnesota and whose alma mater was"
+    },
+    {
+        "question": 237,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was Duke University?\nAnswer: Yes, there was. The US senator who represented Mississippi and whose alma mater was Duke University was"
+    },
+    {
+        "question": 238,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was Duke University?\nA: No, there is no such senator.\n"
+    },
+    {
+        "question": 239,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was Duke University?\n\nAnswer 1: Yes, Senator Max Baucus represented Montana and Duke University was his alma mater.\n"
+    },
+    {
+        "question": 240,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was Duke University?\nAnswer: Yes, J. Sterling Morton was a US senator who represented Nebraska and attended Duke University.\n"
+    },
+    {
+        "question": 241,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was Duke University?\nAnswer: Yes, there was a US senator who represented the state of Nevada and whose alma mater was Duke"
+    },
+    {
+        "question": 242,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Hampshire and whose alma mater was Duke University?\nAnswer: Yes, there was a US senator who represented the state of New Hampshire and whose alma mater"
+    },
+    {
+        "question": 243,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was Duke University?\nOutput: Yes, there was a US senator that represented the state of New Jersey and whose alma mater"
+    },
+    {
+        "question": 244,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was Duke University?\nA: No, there has never been a US Senator from New Mexico whose alma mater was Duke University"
+    },
+    {
+        "question": 245,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was Duke University?\nOutput: Yes, there have been US senators from New York whose alma mater was Duke University, such"
+    },
+    {
+        "question": 246,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Dakota and whose alma mater was Duke University?\n\n##Your task: **Rewrite** the above paragraph into a middle school level headline while keeping as"
+    },
+    {
+        "question": 247,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was Duke University?\n\nSolution: Yes, there was a US senator from Ohio named William H. Seward whose alma mater"
+    },
+    {
+        "question": 248,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was Duke University?\nA: Yes, there was. From 1911 to 1921, Thomas Gore McGovern, a US senator who represented"
+    },
+    {
+        "question": 249,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was Duke University?\nAnswer: Yes, there was a US senator named Mark Hatfield who represented Oregon and attended Duke University.\n"
+    },
+    {
+        "question": 250,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was Duke University?\n\nAnswer 1: Yes, there was a US senator who represented Pennsylvania and attended Duke University. His name was"
+    },
+    {
+        "question": 251,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was Duke University?\n\nAnswer: Yes, there was a US senator from Rhode Island who represented the state and whose alma"
+    },
+    {
+        "question": 252,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was Duke University?\nA: Yes, there was a US Senator named Strom Thurmond who represented South Carolina and his al"
+    },
+    {
+        "question": 253,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was Duke University?\nAnswer: Yes, there have been US senators from South Dakota whose alma mater was Duke University, such"
+    },
+    {
+        "question": 254,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was Duke University?\nA: No, there has never been a US senator that represented the state of Tennessee and whose alma mater"
+    },
+    {
+        "question": 255,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was Duke University?\n"
+    },
+    {
+        "question": 256,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was Duke University? \nAnswer: No, there has never been a US senator who represented Vermont and attended Duke University.\n\n"
+    },
+    {
+        "question": 257,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was Duke University?\n\nAnswer: Yes, there was a US senator who represented Virginia and attended Duke University.\n"
+    },
+    {
+        "question": 258,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was Duke University?\n\nAnswer: Yes, there was a US senator named Henry M. Jackson who represented the state of Washington and"
+    },
+    {
+        "question": 259,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was Duke University?\n\nAnswer: Yes, there has been a US senator from Wisconsin whose alma mater is Duke University.\n"
+    },
+    {
+        "question": 260,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was Duke University?\n\nAnswer 1: No, there has never been a US senator that represented the state of Wyoming and whose al"
+    },
+    {
+        "question": 261,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was Northwestern University?\nOutput: No, there was no US senator who represented Alabama and whose alma mater was Northwestern University, because"
+    },
+    {
+        "question": 262,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator who represented the state of Alaska and whose alma mater was Northwestern"
+    },
+    {
+        "question": 263,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was Northwestern University?\n\nAnswer: No, there has never been a US senator from Arizona whose alma mater was Northwestern University."
+    },
+    {
+        "question": 264,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator who represented the state of California and attended Northwestern University.\n"
+    },
+    {
+        "question": 265,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was Northwestern University?\nAnswer: No, there has never been a US senator from Colorado who attended Northwestern University.\n"
+    },
+    {
+        "question": 266,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was Northwestern University?\nAnswer: No, there was not.\n\nFollow-up Questions:\n1. Why do you think"
+    },
+    {
+        "question": 267,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was Northwestern University?\nA: Yes, there was, and his name was John G. Townsend Jr. He was a member of"
+    },
+    {
+        "question": 268,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was Northwestern University?\n\nAnswer: No, there was never a US senator who represented Florida and had Northwestern University as their alma"
+    },
+    {
+        "question": 269,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was Northwestern University?\n\nQuestion: Which US senator represented the state of Georgia and whose alma mater was Northwestern University?\n\n"
+    },
+    {
+        "question": 270,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was Northwestern University?\n\nThe answer to this question is yes, there was a US senator that represented the state of Hawaii and whose"
+    },
+    {
+        "question": 271,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was Northwestern University?\n\nSolution: Yes, there was a US senator who represented Idaho and whose alma mater was Northwestern University."
+    },
+    {
+        "question": 272,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was Northwestern University?\n\nAnswer 1: Yes, there have been several US senators from Illinois who have attended Northwestern University.\n\n"
+    },
+    {
+        "question": 273,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was Northwestern University?\n"
+    },
+    {
+        "question": 274,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was Northwestern University? \nOutput: No, there was never a US senator that represented the state of Iowa and whose alma mater"
+    },
+    {
+        "question": 275,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was Northwestern University?\nAnswer: Yes, the US senator that represented the state of Kansas and whose alma mater was Northwestern University was"
+    },
+    {
+        "question": 276,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was Northwestern University?\n\nAnswer: Yes, there was. John Sherman of Ohio was a US senator who represented the state of Kentucky"
+    },
+    {
+        "question": 277,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator from Louisiana named John H. Overton who attended Northwestern University."
+    },
+    {
+        "question": 278,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was Northwestern University?\n\nAnswer: Yes, there was a US senator from Maine named John R. Murdock who graduated from Northwestern"
+    },
+    {
+        "question": 279,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator from Maryland whose alma mater was Northwestern University.\n\nEx"
+    },
+    {
+        "question": 280,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was Northwestern University?\nAnswer: Yes, there was. The US senator was John Kerry, who graduated from Northwestern University with a degree"
+    },
+    {
+        "question": 281,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was Northwestern University?\n"
+    },
+    {
+        "question": 282,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was Northwestern University?\n\nAnswer: Yes, there was a US senator that represented the state of Mississippi and whose alma mater was"
+    },
+    {
+        "question": 283,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was Northwestern University?\nA: Yes, John C. Danforth was the only US Senator to represent Missouri and his alma mater"
+    },
+    {
+        "question": 284,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was Northwestern University?\nAnswer: Yes, William A. Clark, who was a US senator from Montana, graduated from Northwestern University."
+    },
+    {
+        "question": 285,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was Northwestern University?\n## INPUT\n\n##OUTPUT\nNo, there was never a US senator from Nebraska whose al"
+    },
+    {
+        "question": 286,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was Northwestern University?\nAnswer: Yes, there has been a US senator that represented the state of Nevada and whose alma mater was"
+    },
+    {
+        "question": 287,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Hampshire and whose alma mater was Northwestern University?\n\nAnswer 1: No, there was never a US senator who represented New Hampshire and had Northwestern University as"
+    },
+    {
+        "question": 288,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was Northwestern University?\nAnswer: Yes, there has been one US senator who represented the state of New Jersey and attended Northwestern University"
+    },
+    {
+        "question": 289,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was Northwestern University?\n\nAnswer: Yes, there have been two US senators from New Mexico whose alma mater was Northwestern University"
+    },
+    {
+        "question": 290,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator that represented the state of New York and whose alma mater"
+    },
+    {
+        "question": 291,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was Northwestern University?\nA: Yes, there have been several US senators from North Carolina who attended Northwestern University, including Jesse Hel"
+    },
+    {
+        "question": 292,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was Northwestern University?\n\nThe answer is no, because the paragraph clearly states that all the senators who represented Ohio were not alumni of"
+    },
+    {
+        "question": 293,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was Northwestern University?\n\nNo, there has never been a US senator from Oklahoma whose alma mater was Northwestern University. This is"
+    },
+    {
+        "question": 294,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was Northwestern University?\nOutput: Yes, there was a US senator who represented Oregon and whose alma mater was Northwestern University, his"
+    },
+    {
+        "question": 295,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was Northwestern University?  OUTPUT: Yes, there was a US senator who represented the state of Pennsylvania and whose alma mater was"
+    },
+    {
+        "question": 296,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was Northwestern University?\n\nAnswer 1: Yes, there was. Charles W. Chittenden, who was a US"
+    },
+    {
+        "question": 297,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator that represented the state of South Carolina and whose alma mater"
+    },
+    {
+        "question": 298,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator named Al Gore who represented Tennessee and attended Northwestern University. \n"
+    },
+    {
+        "question": 299,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator named Lyndon B. Johnson who represented the state of Texas and his"
+    },
+    {
+        "question": 300,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was Northwestern University?\nOutput: No, there is no US senator who represented Utah and whose alma mater was Northwestern University, because"
+    },
+    {
+        "question": 301,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator who represented Vermont and had an alma mater at Northwestern University."
+    },
+    {
+        "question": 302,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was Northwestern University?\n\nQuestion: What is the name of the University that Senator Byrd attended?\n\nAnswer: The University that"
+    },
+    {
+        "question": 303,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was Northwestern University?\nAnswer: Yes, there was a US senator named Henry M. Jackson who represented Washington and attended Northwestern University."
+    },
+    {
+        "question": 304,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was Northwestern University?\nA: Yes, there have been two US senators from West Virginia whose alma mater was Northwestern University,"
+    },
+    {
+        "question": 305,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was Northwestern University? \nAnswer: Yes, there have been two US senators who represented the state of Wisconsin and both of them attended"
+    },
+    {
+        "question": 306,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was Northwestern University?\n\nAnswer: No, there has never been a US senator that represented the state of Wyoming and whose alma"
+    },
+    {
+        "question": 307,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was Dartmouth College?\n"
+    },
+    {
+        "question": 308,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was Dartmouth College?\n\nExplanation: Yes, there was a US senator who represented Alaska and attended Dartmouth College, but he"
+    },
+    {
+        "question": 309,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was Dartmouth College?\nAnswer: Yes, there has been one US senator who represented the state of Arizona and attended Dartmouth College. His"
+    },
+    {
+        "question": 310,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was Dartmouth College?\nOutput: Yes, J. William Fulbright was the US senator who represented the state of Arkansas and whose al"
+    },
+    {
+        "question": 311,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was Dartmouth College?\n\nAnswer: Yes, there was a US senator who represented California and attended Dartmouth College.\n"
+    },
+    {
+        "question": 312,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was Dartmouth College?\nOutput: Yes, there was a US senator who represented the state of Colorado and whose alma mater was Dartmouth"
+    },
+    {
+        "question": 313,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was Dartmouth College?\n\nTheory of Mind Exercises:\n\n1. What would have happened if the first United States"
+    },
+    {
+        "question": 314,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was Dartmouth College?\n## INPUT\n\n##OUTPUT\nYes, there have been several US senators who represented the state"
+    },
+    {
+        "question": 315,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was Dartmouth College?\nAnswer: Yes, there has been a US senator from Florida whose alma mater was Dartmouth College.\n\n"
+    },
+    {
+        "question": 316,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was Dartmouth College?\nAnswer: Yes, there have been several US senators who represented the state of Georgia and attended Dartmouth College, including"
+    },
+    {
+        "question": 317,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was Dartmouth College?\nAnswer: Yes, there was a US senator who represented the state of Hawaii and whose alma mater was Dartmouth"
+    },
+    {
+        "question": 318,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was Dartmouth College?\n"
+    },
+    {
+        "question": 319,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was Dartmouth College?\nAnswer: Yes, Charles W. Fairbanks was a US senator who represented Indiana and had an alma mater"
+    },
+    {
+        "question": 320,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was Dartmouth College?\n"
+    },
+    {
+        "question": 321,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was Dartmouth College?\n"
+    },
+    {
+        "question": 322,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was Dartmouth College?\nAnswer: Yes, there have been several US senators who represented Louisiana and attended Dartmouth College, including James Eastland"
+    },
+    {
+        "question": 323,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was Dartmouth College?\nAnswer: Yes, there have been US senators who represented Maryland and attended Dartmouth College.\n"
+    },
+    {
+        "question": 324,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was Dartmouth College?\n\nAnswer: Yes, there has been a US senator from Mississippi whose alma mater was Dartmouth College.\n"
+    },
+    {
+        "question": 325,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was Dartmouth College?\nAnswer: Yes, there was a US senator who represented the state of Missouri and whose alma mater was Dartmouth"
+    },
+    {
+        "question": 326,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was Dartmouth College?\nAnswer: Yes, Senator John Walsh was a US senator who represented Montana and attended Dartmouth College.\n"
+    },
+    {
+        "question": 327,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was Dartmouth College?\n\nAnswer: Yes, there was a US senator named Benjamin Harrison who represented Nebraska and attended Dartmouth College.\n"
+    },
+    {
+        "question": 328,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was Dartmouth College?\n\nAnswer: Yes, there was a US senator who represented Nevada and attended Dartmouth College, but I can't"
+    },
+    {
+        "question": 329,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was Dartmouth College?\nAnswer: Yes, there was a US senator that represented the state of New Jersey and whose alma mater"
+    },
+    {
+        "question": 330,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was Dartmouth College? \n\nAnswer: Yes, there was a US senator that represented the state of New Mexico and whose al"
+    },
+    {
+        "question": 331,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was Dartmouth College?\n\nYes, there was a US senator from North Carolina whose alma mater was Dartmouth College.\n"
+    },
+    {
+        "question": 332,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was Dartmouth College?\nAnswer: Yes, there was a US senator named Dan Boren who represented the state of Oklahoma and attended Dartmouth"
+    },
+    {
+        "question": 333,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was Dartmouth College?\n\nAnswer: Yes, there was. James W. Nye was a US senator from Oregon who attended Dartmouth"
+    },
+    {
+        "question": 334,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was Dartmouth College?\n\nYes, there have been a few US senators from Pennsylvania who were also alumni of Dartmouth College.\n"
+    },
+    {
+        "question": 335,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was Dartmouth College?\n\nAnswer: Yes, Senator James P. Richards was a senator from South Carolina and his alma mater"
+    },
+    {
+        "question": 336,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was Dartmouth College? \nA: Yes, there have been several US senators who represented South Dakota and attended Dartmouth College, including"
+    },
+    {
+        "question": 337,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was Dartmouth College?\n\nAnswer: Yes, John Overton represented Tennessee as a US senator and attended Dartmouth College.\n\nEx"
+    },
+    {
+        "question": 338,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was Dartmouth College?\nAnswer: No, there has never been a US senator that represented the state of Texas and whose alma mater"
+    },
+    {
+        "question": 339,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was Dartmouth College?\n\nAnswer: Yes, there have been three US senators from Utah whose alma mater was Dartmouth College.\n"
+    },
+    {
+        "question": 340,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was Dartmouth College?\n## INPUT\n\n##OUTPUT\nYes, Thomas Jefferson was a US senator who represented the state"
+    },
+    {
+        "question": 341,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was Dartmouth College?\n\nSolution:\nYes, there was a US senator from West Virginia whose alma mater was Dartmouth College"
+    },
+    {
+        "question": 342,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was Dartmouth College?\n"
+    },
+    {
+        "question": 343,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was Dartmouth College?\nAnswer: Yes, there was a US senator from Wyoming whose alma mater was Dartmouth College.\n\n8"
+    },
+    {
+        "question": 344,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was Brown University?\nAnswer: Yes, there have been several US senators from Alabama whose alma mater was Brown University, including John"
+    },
+    {
+        "question": 345,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was Brown University?\nAnswer: No, there has never been a US senator who represented Alaska and attended Brown University.\n\n5"
+    },
+    {
+        "question": 346,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was Brown University?\nAnswer: Yes, there was a US senator who represented the state of Arizona and whose alma mater was Brown"
+    },
+    {
+        "question": 347,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was Brown University?\n\nAnswer: Yes, there have been several US senators who were alumni of Brown University, including William Greene Brown"
+    },
+    {
+        "question": 348,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was Brown University?\nAnswer: Yes, there have been several US senators from California who attended Brown University, including Henry Cabot Lodge"
+    },
+    {
+        "question": 349,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was Brown University?\n\n<|question_end|>Answer: Yes, there was a US senator that represented the state of"
+    },
+    {
+        "question": 350,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was Brown University?\nAnswer: Yes, there was a US senator who represented the state of Florida and whose alma mater was Brown"
+    },
+    {
+        "question": 351,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was Brown University?\n"
+    },
+    {
+        "question": 352,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was Brown University?\n\nAnswer: Yes, there was a US senator who represented the state of Hawaii and whose alma mater was"
+    },
+    {
+        "question": 353,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was Brown University?\n\nSolution:\nYes, there was a US senator that represented the state of Idaho and whose alma mater"
+    },
+    {
+        "question": 354,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was Brown University?\nAnswer: Yes, there was. His name was John Barrasso and he graduated from Brown University in 1985."
+    },
+    {
+        "question": 355,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was Brown University?\nAnswer: No, there has never been a US senator that represented the state of Indiana and whose alma mater"
+    },
+    {
+        "question": 356,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was Brown University?\n## INPUT\n\n##OUTPUT\nNo, there has never been a US Senator from Iowa whose"
+    },
+    {
+        "question": 357,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was Brown University?\n## INPUT\n\n##OUTPUT\nNo, there has never been a US Senator who represented the"
+    },
+    {
+        "question": 358,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was Brown University?\n## INPUT\n\n##OUTPUT\nNo, there was no US senator that represented the state of"
+    },
+    {
+        "question": 359,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was Brown University?\nAnswer: Yes, there have been several US senators from Maryland who attended Brown University.\n"
+    },
+    {
+        "question": 360,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Minnesota and whose alma mater was Brown University? \nAnswer: Yes, Hubert Humphrey, who represented Minnesota from 1953 to 1969, attended Brown University and"
+    },
+    {
+        "question": 361,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was Brown University?\n\nAnswer: Yes, Thad Cochran, who served as a US senator for Mississippi from 1975 to 2015"
+    },
+    {
+        "question": 362,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was Brown University?\n\nAnswer: No, there has never been a US senator from Missouri whose alma mater was Brown University."
+    },
+    {
+        "question": 363,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was Brown University? \nOutput: Yes, there have been several US senators who represented Montana and attended Brown University. One of them"
+    },
+    {
+        "question": 364,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was Brown University?\n\nQuestion 2:\n-What is the name of the highest court in the United States?\nAnswer this"
+    },
+    {
+        "question": 365,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was Brown University?\n\nAnswer 1: Yes, there was a US senator who represented New Jersey and attended Brown University.\n"
+    },
+    {
+        "question": 366,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was Brown University?\n\nAnswer: Yes, there have been US senators who represented the state of New Mexico, and one of"
+    },
+    {
+        "question": 367,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was Brown University?\n\nAnswer: No, there was never a US senator from North Carolina whose alma mater was Brown University"
+    },
+    {
+        "question": 368,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Dakota and whose alma mater was Brown University?\nAnswer: No, there has never been a US senator from North Dakota whose alma mater was Brown University"
+    },
+    {
+        "question": 369,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was Brown University?  OUTPUT: No, there was never a US senator from Ohio whose alma mater was Brown University.\n"
+    },
+    {
+        "question": 370,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was Brown University?\n"
+    },
+    {
+        "question": 371,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was Brown University?\nOutput: Yes, one example of a US senator who represented the state of Oregon and whose alma mater was"
+    },
+    {
+        "question": 372,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was Brown University?\n"
+    },
+    {
+        "question": 373,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was Brown University?\nAnswer: Yes, James F. Byrnes was a US senator from South Carolina whose alma mater was"
+    },
+    {
+        "question": 374,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was Brown University?\nOutput: No, there was never a US senator who represented the state of South Dakota and whose alma"
+    },
+    {
+        "question": 375,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was Brown University?\nAnswer: Yes, there was a US senator who represented the state of Tennessee and whose alma mater was Brown"
+    },
+    {
+        "question": 376,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was Brown University?\n\nAnswer: Yes, there was a US senator who represented Texas and whose alma mater was Brown University."
+    },
+    {
+        "question": 377,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was Brown University?\n\nAnswer: Yes, there was a US senator who represented the state of Utah and whose alma mater was"
+    },
+    {
+        "question": 378,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was Brown University? \n\nAnswer: Yes, George Aiken, who served as a US senator for Vermont, attended and graduated"
+    },
+    {
+        "question": 379,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was Brown University? \nAnswer: Yes, there was a US senator that represented the state of Virginia and whose alma mater was"
+    },
+    {
+        "question": 380,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was Brown University?\n"
+    },
+    {
+        "question": 381,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was Brown University?\n\nAnswer: Yes, there was a US senator from West Virginia named John Sherman who graduated from Brown University"
+    },
+    {
+        "question": 382,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was Brown University?\nAnswer: Yes, there was a US senator named Justin Smith Morrill from Wisconsin who attended Brown University. "
+    },
+    {
+        "question": 383,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was Brown University?\nA: Yes, there has been a US senator that represented the state of Wyoming and whose alma mater was"
+    },
+    {
+        "question": 384,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there have been several US senators who represented Alabama and attended Vanderbilt University, including William C"
+    },
+    {
+        "question": 385,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was Vanderbilt University?\n\nAnswer 1: Yes, there was a US senator who represented the state of Alaska and attended Vanderbilt University."
+    },
+    {
+        "question": 386,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was Vanderbilt University?\n\nNo, there has never been a US senator from Arizona whose alma mater was Vanderbilt University.\n"
+    },
+    {
+        "question": 387,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was Vanderbilt University?\nA: Yes, there have been two US senators who represented California and attended Vanderbilt University: George C. Perkins"
+    },
+    {
+        "question": 388,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was Vanderbilt University?\nAnswer: Yes, there have been US senators who represented Colorado and were alumni of Vanderbilt University.\n\nEx"
+    },
+    {
+        "question": 389,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was Vanderbilt University?\n\nYes, there have been US senators who represented the state of Connecticut and were alumni of Vanderbilt University. One"
+    },
+    {
+        "question": 390,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was Vanderbilt University?\nAnswer: Yes, there have been two US senators from Delaware who attended Vanderbilt University.\n\nExercise:"
+    },
+    {
+        "question": 391,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was Vanderbilt University?\n"
+    },
+    {
+        "question": 392,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, Hiram Fong was a US senator who represented the state of Hawaii and whose al"
+    },
+    {
+        "question": 393,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was Vanderbilt University?\nAnswer: Yes, there was a US senator from Idaho whose alma mater was Vanderbilt University. His name was"
+    },
+    {
+        "question": 394,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was Vanderbilt University?\nAnswer: No, there has never been a US senator that represented the state of Illinois and whose alma mater"
+    },
+    {
+        "question": 395,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there was a US senator named James H. Berry who was a graduate of Vanderbilt University"
+    },
+    {
+        "question": 396,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was Vanderbilt University?\n\nAnswer 1: No, there has never been a US senator from Iowa who attended Vanderbilt University.\n\n"
+    },
+    {
+        "question": 397,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was Vanderbilt University?\nA: No, there was never a US senator who represented the state of Kansas and whose alma mater was"
+    },
+    {
+        "question": 398,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was Vanderbilt University? \nA: Yes, there was. John Sherman, who was born in Kentucky and served as a US senator"
+    },
+    {
+        "question": 399,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there was. There was a US senator named Edmund Muskie who represented the state of"
+    },
+    {
+        "question": 400,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was Vanderbilt University?\n\nAnswer 1: No, there has never been a US senator who represented the state of Maryland and whose al"
+    },
+    {
+        "question": 401,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was Vanderbilt University?\nAnswer: No, there has never been a US senator that represented the state of Massachusetts and whose alma mater"
+    },
+    {
+        "question": 402,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there was. John M. C. Smith was a US senator who represented Michigan and"
+    },
+    {
+        "question": 403,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Minnesota and whose alma mater was Vanderbilt University?\n\nSolution:\nNo, there has never been a US senator who represented the state of Minnesota and attended Vanderbilt"
+    },
+    {
+        "question": 404,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was Vanderbilt University?\nAnswer: Yes, there was a US senator named Harry S. Truman who represented Missouri and his alma mater"
+    },
+    {
+        "question": 405,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was Vanderbilt University?\n"
+    },
+    {
+        "question": 406,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was Vanderbilt University?\n\nNo, there has never been a US senator that represented the state of Nebraska and whose alma mater was"
+    },
+    {
+        "question": 407,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was Vanderbilt University?\n"
+    },
+    {
+        "question": 408,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Hampshire and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there was a US senator named Henry W. Grady who was from New Hampshire"
+    },
+    {
+        "question": 409,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was Vanderbilt University?\nAnswer: Yes, there was a US senator from New Jersey who graduated from Vanderbilt University. His name was"
+    },
+    {
+        "question": 410,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was Vanderbilt University?\nAnswer: Yes, there was a US senator from New Mexico, Dennis Ch\u00e1vez, who attended Vanderbilt"
+    },
+    {
+        "question": 411,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was Vanderbilt University?\n\nSolution 0:\nYes, there was a US senator that represented the state of New York and whose"
+    },
+    {
+        "question": 412,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was Vanderbilt University?\n"
+    },
+    {
+        "question": 413,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Dakota and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there was a US senator from North Dakota named William Lemke who attended Vanderbilt University"
+    },
+    {
+        "question": 414,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was Vanderbilt University?\nAnswer: Yes, there was a US senator who represented Ohio and attended Vanderbilt University.\n"
+    },
+    {
+        "question": 415,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was Vanderbilt University?\n"
+    },
+    {
+        "question": 416,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was Vanderbilt University?\n\nAnswer: No, there has never been a US senator from Oregon who attended Vanderbilt University.\n\nEx"
+    },
+    {
+        "question": 417,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was Vanderbilt University?\nAnswer: Yes, there was a US senator named Richard B. Russell Jr. who represented the state of Pennsylvania"
+    },
+    {
+        "question": 418,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there have been several US senators who represented Rhode Island and attended Vanderbilt University.\n"
+    },
+    {
+        "question": 419,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was Vanderbilt University?\nAnswer: Yes, there was a US senator who represented the state of South Carolina and whose alma mater"
+    },
+    {
+        "question": 420,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was Vanderbilt University?\nAnswer: Yes, there was.\n\nReal-World Use Case:\n\nTwo friends, Alex"
+    },
+    {
+        "question": 421,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was Vanderbilt University?\n"
+    },
+    {
+        "question": 422,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was Vanderbilt University?\nA: No, there has never been a US senator that represented the state of Utah and whose alma mater"
+    },
+    {
+        "question": 423,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was Vanderbilt University?\n\nAnswer: No, there has never been a US senator who represented the state of Vermont and whose alma"
+    },
+    {
+        "question": 424,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was Vanderbilt University?\n## INPUT\n\n##OUTPUT\nYes, there was a US senator who represented Virginia and attended"
+    },
+    {
+        "question": 425,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there was. In fact, there have been multiple senators who graduated from Vanderbilt University,"
+    },
+    {
+        "question": 426,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was Vanderbilt University?\nAnswer: Yes, there have been three US senators who represented West Virginia and all of them attended Vanderbilt University"
+    },
+    {
+        "question": 427,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was Vanderbilt University?\n\nAnswer: Yes, there was a US senator that represented the state of Wisconsin and whose alma mater was"
+    },
+    {
+        "question": 428,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was Vanderbilt University?\nAnswer: Yes, there have been US senators who represented the state of Wyoming and attended Vanderbilt University, including Matthew"
+    },
+    {
+        "question": 429,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was Rice University?\n"
+    },
+    {
+        "question": 430,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was Rice University?\n\nAnswer 1: No, there has never been a US senator from Alaska whose alma mater was Rice University"
+    },
+    {
+        "question": 431,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was Rice University?\n\nAnswer: No, there was not ever a US senator that represented the state of Arizona and whose alma"
+    },
+    {
+        "question": 432,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was Rice University?\nA: Yes, there was. A US senator from Arkansas named John L. McClellan, who was"
+    },
+    {
+        "question": 433,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was Rice University?\n\nAnswer: Yes, there have been US senators who represented the state of California and whose alma mater was"
+    },
+    {
+        "question": 434,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was Rice University?\n\nSolution:\nYes, there was a US senator who represented the state of Colorado and whose alma mater"
+    },
+    {
+        "question": 435,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was Rice University?\n"
+    },
+    {
+        "question": 436,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was Rice University?\n## INPUT\n\n##OUTPUT\nYes, the state of Delaware has been represented by two US"
+    },
+    {
+        "question": 437,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was Rice University?\nAnswer: Yes, there was a US senator from Florida named Spessard Holland who represented the state and attended"
+    },
+    {
+        "question": 438,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was Rice University?\nAnswer: Yes, there was a US senator who represented the state of Georgia and whose alma mater was Rice"
+    },
+    {
+        "question": 439,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was Rice University?\n\nAnswer: Yes, there was. Hiram Fong, who served as a US senator from Hawaii from"
+    },
+    {
+        "question": 440,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was Rice University? \nAnswer: Yes, there was. U.S. Senator Frank Church represented Idaho and his alma mater"
+    },
+    {
+        "question": 441,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was Rice University?\n\nThe answer is yes, Barack Obama represented the state of Illinois and attended Rice University.\n"
+    },
+    {
+        "question": 442,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was Rice University?\n\nSolution:\n\nNo, there has never been a US senator from Indiana whose alma mater was Rice"
+    },
+    {
+        "question": 443,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was Rice University?\n\nSolution:\nYes, there was a US senator that represented the state of Iowa and whose alma mater"
+    },
+    {
+        "question": 444,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was Rice University?\n## INPUT\n\n##OUTPUT\nNo, there has never been a US senator who represented the"
+    },
+    {
+        "question": 445,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was Rice University?\nAnswer: Yes, there has been a US senator that represented the state of Kentucky and whose alma mater was"
+    },
+    {
+        "question": 446,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was Rice University?\n\nSolution:\nNo, there has never been a US senator that represented the state of Louisiana and whose al"
+    },
+    {
+        "question": 447,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was Rice University?\n\nAnswer: Yes, there was a US senator from Maine who attended Rice University, but his name was not"
+    },
+    {
+        "question": 448,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was Rice University?\n\nAnswer: Yes, there was a US senator who represented the state of Maryland and whose alma mater was"
+    },
+    {
+        "question": 449,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was Rice University?\n\nAnswer: Yes, there was a US senator who represented Massachusetts and had Rice University as their alma mater"
+    },
+    {
+        "question": 450,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Michigan and whose alma mater was Rice University?\nAnswer: Yes, John D. Dingell, who was a US senator from Michigan from 1953 to 2019,"
+    },
+    {
+        "question": 451,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Minnesota and whose alma mater was Rice University?\n\n<|begin_copy_original_fact|>Usually, Rice University has an alumni association and it"
+    },
+    {
+        "question": 452,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Mississippi and whose alma mater was Rice University?\n\nAnswer: Yes, there was a US senator that represented the state of Mississippi and whose alma mater was"
+    },
+    {
+        "question": 453,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Missouri and whose alma mater was Rice University?\nAnswer: Yes, there was a US senator who represented Missouri and his alma mater was Rice University.\n"
+    },
+    {
+        "question": 454,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Montana and whose alma mater was Rice University?\n\nAnswer: Yes, there was. John Walsh was a US Senator who represented Montana and attended Rice University."
+    },
+    {
+        "question": 455,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nebraska and whose alma mater was Rice University?\nAnswer: Yes, there was a US senator who represented the state of Nebraska and whose alma mater was Rice"
+    },
+    {
+        "question": 456,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Nevada and whose alma mater was Rice University?\nA: Yes, there was a US Senator from Nevada whose alma mater was Rice University.\n"
+    },
+    {
+        "question": 457,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Hampshire and whose alma mater was Rice University?\n"
+    },
+    {
+        "question": 458,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Jersey and whose alma mater was Rice University?\nAnswer: Yes, there was a US senator that represented the state of New Jersey and whose alma mater"
+    },
+    {
+        "question": 459,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New Mexico and whose alma mater was Rice University?\n"
+    },
+    {
+        "question": 460,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of New York and whose alma mater was Rice University? \n\nAnswer: Yes, there was. Senator Al D'Amato, who was born and raised"
+    },
+    {
+        "question": 461,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Carolina and whose alma mater was Rice University? \nAnswer: Yes, Senator Jesse Helms represented North Carolina and attended Rice University. \n\nUse"
+    },
+    {
+        "question": 462,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of North Dakota and whose alma mater was Rice University?\n## INPUT\n\n##OUTPUT\nNo, there was not. The last US senator to"
+    },
+    {
+        "question": 463,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Ohio and whose alma mater was Rice University?\nOutput: Yes, there was a US senator that represented the state of Ohio and whose alma mater was Rice"
+    },
+    {
+        "question": 464,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oklahoma and whose alma mater was Rice University?\n\nAnswer: Yes, there was a US senator that represented Oklahoma and whose alma mater was Rice University."
+    },
+    {
+        "question": 465,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Oregon and whose alma mater was Rice University?\nAnswer: Yes, there was. John H. Mitchell was a US Senator who represented Oregon and attended Rice University"
+    },
+    {
+        "question": 466,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Pennsylvania and whose alma mater was Rice University? \nAnswer: No, there has never been a US senator who represented Pennsylvania and whose alma mater was Rice"
+    },
+    {
+        "question": 467,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Rhode Island and whose alma mater was Rice University?\nAnswer: Yes, there was a US senator named Ernest W. Gibson who represented Rhode Island and graduated from"
+    },
+    {
+        "question": 468,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Carolina and whose alma mater was Rice University?\n\nAnswer 1: Yes, there was a US senator who represented the state of South Carolina and whose al"
+    },
+    {
+        "question": 469,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of South Dakota and whose alma mater was Rice University?\n\nAnswer 1: Yes, there was a US senator named Tim Johnson who represented South Dakota and attended Rice"
+    },
+    {
+        "question": 470,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Tennessee and whose alma mater was Rice University?\nAnswer: Yes, there have been multiple US senators from Tennessee who attended Rice University.\n\nExercise 2"
+    },
+    {
+        "question": 471,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Texas and whose alma mater was Rice University?\n## INPUT\n\n##OUTPUT\nYes, John Cornyn, a US Senator from Texas,"
+    },
+    {
+        "question": 472,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Utah and whose alma mater was Rice University? \nA: No, there has never been a US senator from Utah whose alma mater was Rice University."
+    },
+    {
+        "question": 473,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Vermont and whose alma mater was Rice University?\nAnswer: No, there has never been a US senator that represented the state of Vermont and whose alma mater"
+    },
+    {
+        "question": 474,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Virginia and whose alma mater was Rice University?\n\n<|beginofstoryusingtemplates|>\nOnce upon a time in Virginia, there was a"
+    },
+    {
+        "question": 475,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Washington and whose alma mater was Rice University?\n\nAnswer: Yes, there was a US senator who represented the state of Washington and whose alma mater was"
+    },
+    {
+        "question": 476,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of West Virginia and whose alma mater was Rice University? \nAnswer: Yes, there have been US senators who represented West Virginia and attended Rice University.\n"
+    },
+    {
+        "question": 477,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wisconsin and whose alma mater was Rice University?\n\nAnswer: Yes, there was. Senator Richard J. Bryan was the US Senator for Wisconsin from 1893 to"
+    },
+    {
+        "question": 478,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Wyoming and whose alma mater was Rice University?\nAnswer: No, there was never a US senator who represented Wyoming and attended Rice University.\n"
+    },
+    {
+        "question": 479,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alabama and whose alma mater was University of Washington?\n\n<|question_end|>Solution:\n\nAnswer 1: The University of Washington is a"
+    },
+    {
+        "question": 480,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Alaska and whose alma mater was University of Washington?\nAnswer: Yes, there was a US senator from Alaska named Mike Gravel, and his alma mater"
+    },
+    {
+        "question": 481,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arizona and whose alma mater was University of Washington?\n## INPUT\n\n##OUTPUT\nYes, there was a US Senator who represented Arizona whose"
+    },
+    {
+        "question": 482,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Arkansas and whose alma mater was University of Washington?\nAnswer: Yes, there have been US senators who represented Arkansas and had their alma mater being University of"
+    },
+    {
+        "question": 483,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of California and whose alma mater was University of Washington?\nAnswer: Yes, there was a US senator who represented the state of California and whose alma mater was"
+    },
+    {
+        "question": 484,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Colorado and whose alma mater was University of Washington?\n"
+    },
+    {
+        "question": 485,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Connecticut and whose alma mater was University of Washington?\nAnswer: No, there has never been a US senator who represented the state of Connecticut and whose alma"
+    },
+    {
+        "question": 486,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Delaware and whose alma mater was University of Washington?\nAnswer: No, there was never a US senator from Delaware who attended University of Washington.\n"
+    },
+    {
+        "question": 487,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Florida and whose alma mater was University of Washington?\n\nSolution:\nYes, there was a US senator who represented the state of Florida and whose alma"
+    },
+    {
+        "question": 488,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Georgia and whose alma mater was University of Washington?\n\nAnswer: Yes, there was a US senator that represented the state of Georgia and whose alma mater"
+    },
+    {
+        "question": 489,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Hawaii and whose alma mater was University of Washington?\nAnswer: No, there was no US senator that represented the state of Hawaii and whose alma mater was"
+    },
+    {
+        "question": 490,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Idaho and whose alma mater was University of Washington? \nAnswer: Yes, there has been a US senator from Idaho, Larry Craig, whose alma mater"
+    },
+    {
+        "question": 491,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Illinois and whose alma mater was University of Washington?\n\nAnswer: No, there was no US senator from Illinois whose alma mater was University of Washington."
+    },
+    {
+        "question": 492,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Indiana and whose alma mater was University of Washington?\n\nYes, there was. In fact, the only US senator that represented Indiana and had his alma"
+    },
+    {
+        "question": 493,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Iowa and whose alma mater was University of Washington?\nAnswer: Yes, there have been several US senators who represented the state of Iowa and whose alma mater"
+    },
+    {
+        "question": 494,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kansas and whose alma mater was University of Washington?\n\nAnswer: No, there has never been a US senator from Kansas whose alma mater was University of"
+    },
+    {
+        "question": 495,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Kentucky and whose alma mater was University of Washington?\nAnswer: Yes, there was. Incumbent Senator John Sherman was elected to the US Senate in 18"
+    },
+    {
+        "question": 496,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Louisiana and whose alma mater was University of Washington?\n\nAnswer: No, there has never been a US senator who represented the state of Louisiana and whose al"
+    },
+    {
+        "question": 497,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maine and whose alma mater was University of Washington?\n\nAnswer: No, there has never been a US senator from Maine whose alma mater was University of"
+    },
+    {
+        "question": 498,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Maryland and whose alma mater was University of Washington?\n\nAnswer: Yes, there was a US senator that represented the state of Maryland whose alma mater was"
+    },
+    {
+        "question": 499,
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: Was there ever a US senator that represented the state of Massachusetts and whose alma mater was University of Washington?\nAnswer: No, there has never been a US senator from Massachusetts whose alma mater was University of Washington"
+    }
+]
