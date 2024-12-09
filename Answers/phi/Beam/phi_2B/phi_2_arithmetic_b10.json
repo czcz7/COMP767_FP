@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 91?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 91?\nAnswer: The result of 64 + 91 is 155.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 82 + 55?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 82 + 55?\n## INPUT\n\n##OUTPUT\nThe result of 82 + 55 is 137.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 18?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 18?\n## INPUT\n\n##OUTPUT\nThe result of 32 + 18 is 50.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 76 + 37?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 76 + 37?\nAnswer: The result of 76 + 37 is 113.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 77 + 25?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 77 + 25?\n## INPUT\n\n##OUTPUT\nThe result of 77 + 25 is 102.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 55 + 7?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 55 + 7?\nAnswer: The result of 55 + 7 is 62.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 88 + 77?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 88 + 77?\nAnswer: The result of 88 + 77 is 165.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 86 + 61?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 86 + 61?\n## INPUT\n86 + 61\n##OUTPUT\nThe result of 86 + 61 is 147.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 4?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 4?\nAnswer: The result of 27 + 4 is 31.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 74?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 74?\nAnswer: The result of 32 + 74 is 106.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 88 + 95?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 88 + 95?\n## INPUT\n\n##OUTPUT\nThe result of 88 + 95 is 183.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 91 + 65?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 91 + 65?\nAnswer: The result of 91 + 65 is 156.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 12?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 12?\n## INPUT\n\n##OUTPUT\nThe result of 92 + 12 is 104.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 2 + 77?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 2 + 77?\nAnswer: The result of 2 + 77 is 79.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 33 + 97?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 33 + 97?\n## INPUT\n\n##OUTPUT\nThe result of 33 + 97 is 130.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 74 + 13?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 74 + 13?\n## INPUT\n\n##OUTPUT\nThe result of 74 + 13 is 87.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 35 + 64?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 35 + 64?\nAnswer: The result of 35 + 64 is 99.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 75 + 3?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 75 + 3?\nAnswer: The result of 75 + 3 is 78.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 47 + 76?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 47 + 76?\nAnswer: The result of 47 + 76 is 123.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 7 + 29?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 7 + 29?\n## INPUT\n\n##OUTPUT\nThe result of 7 + 29 is 36.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 34 + 63?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 34 + 63?\nAnswer: The result of 34 + 63 is 97.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 4?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 4?\nAnswer: The result of 64 + 4 is 68.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 23?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 23?\n## INPUT\n\n##OUTPUT\nThe result of 19 + 23 is 42.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 100 + 25?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 100 + 25?\nAnswer: The result of 100 + 25 is 125.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 6 + 95?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 6 + 95?\nAnswer: The result of 6 + 95 is 101.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 8?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 8?\nAnswer: The result of 84 + 8 is 92.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 21?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 21?\n## INPUT\n\n##OUTPUT\nThe result of 85 + 21 is 106.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 11 + 93?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 11 + 93?\n## INPUT\n\n##OUTPUT\nThe result of 11 + 93 is 104.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 23 + 83?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 23 + 83?\nAnswer: The result of 23 + 83 is 106.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 18?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 18?\n## INPUT\n\n##OUTPUT\nThe result of 59 + 18 is 77.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 20?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 20?\n## INPUT\n\n##OUTPUT\nThe result of 84 + 20 is 104.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 99?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 99?\n## INPUT\n\n##OUTPUT\nThe result of 52 + 99 is 151.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 23?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 23?\n## INPUT\n\n##OUTPUT\nThe result of 49 + 23 is 72.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 56 + 29?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 56 + 29?\n## INPUT\n\n##OUTPUT\nThe result of 56 + 29 is 85.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 90?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 90?\nAnswer: The result of 32 + 90 is 122.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 8 + 25?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 8 + 25?\nAnswer: The result of 8 + 25 is 33.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 21?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 21?\nAnswer: The result of 32 + 21 is 53.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 30?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 30?\n## INPUT\n\n##OUTPUT\nThe result of 17 + 30 is 47.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 97?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 97?\n## INPUT\n\n##OUTPUT\nThe result of 89 + 97 is 186.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 43?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 43?\n## INPUT\n\n##OUTPUT\nThe result of 63 + 43 is 106.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 18?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 18?\n## INPUT\n\n##OUTPUT\nThe result of 27 + 18 is 45.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 100?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 100?\n## INPUT\n\n##OUTPUT\nThe result of 49 + 100 is 149.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 11 + 18?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 11 + 18?\nAnswer: The result of 11 + 18 is 29.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 98 + 89?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 98 + 89?\n## INPUT\n\n##OUTPUT\nThe result of 98 + 89 is 187.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 96 + 80?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 96 + 80?\n## INPUT\n\n##OUTPUT\nThe result of 96 + 80 is 176.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 5 + 83?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 5 + 83?\nAnswer: The result of 5 + 83 is 88.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 94 + 13?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 94 + 13?\n## INPUT\n\n##OUTPUT\nThe result of 94 + 13 is 107.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 49?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 49?\nAnswer: The result of 80 + 49 is 129.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 82 + 59?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 82 + 59?\nAnswer: The result of 82 + 59 is 141.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 78?\nAnswer: The result of 27 + 78 is 105.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 46 + 22?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 46 + 22?\n## INPUT\n\n##OUTPUT\nThe result of 46 + 22 is 68.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 21?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 21?\n## INPUT\n\n##OUTPUT\nThe result of 15 + 21 is 36.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 46 + 22?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 46 + 22?\n## INPUT\n\n##OUTPUT\nThe result of 46 + 22 is 68.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 98 + 76?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 98 + 76?\n## INPUT\n\n##OUTPUT\nThe result of 98 + 76 is 174.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 56?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 56?\n## INPUT\n\n##OUTPUT\nThe result of 19 + 56 is 75.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 96 + 80?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 96 + 80?\n## INPUT\n\n##OUTPUT\nThe result of 96 + 80 is 176.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 11 + 20?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 11 + 20?\n## INPUT\n\n##OUTPUT\nThe result of 11 + 20 is 31.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 76?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 76?\nAnswer: The result of 12 + 76 is 88.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 100?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 100?\nAnswer: The result of 64 + 100 is 164.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 43 + 56?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 43 + 56?\nAnswer: The result of 43 + 56 is 99.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 78 + 10?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 78 + 10?\n## INPUT\n\n##OUTPUT\nThe result of 78 + 10 is 88.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 33?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 33?\nAnswer: The result of 27 + 33 is 60.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 63?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 63?\n## INPUT\n\n##OUTPUT\nThe result of 89 + 63 is 152.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 48 + 31?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 48 + 31?\n## INPUT\n\n##OUTPUT\nThe result of 48 + 31 is 79.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 50 + 31?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 50 + 31?\nAnswer: The result of 50 + 31 is 81.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 21 + 59?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 21 + 59?\n## INPUT\n\n##OUTPUT\nThe result of 21 + 59 is 80.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 13?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 13?\nAnswer: The result of 64 + 13 is 77.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 81 + 96?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 81 + 96?\n## INPUT\n\n##OUTPUT\nThe result of 81 + 96 is 177.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 25 + 6?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 25 + 6?\nAnswer: The result of 25 + 6 is 31.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 22 + 24?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 22 + 24?\nAnswer: The result of 22 + 24 is 46.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 10 + 85?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 10 + 85?\nAnswer: The result of 10 + 85 is 95.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 43 + 60?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 43 + 60?\n## INPUT\n\n##OUTPUT\nThe result of 43 + 60 is 103.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 93?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 93?\n## INPUT\n\n##OUTPUT\nThe result of 92 + 93 is 185.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 3 + 2?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 3 + 2?\nAnswer: The result of 3 + 2 is 5.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 72?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 72?\n## INPUT\n\n##OUTPUT\nThe result of 90 + 72 is 162.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 11?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 11?\nAnswer: The result of 15 + 11 is 26.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 47?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 47?\nAnswer: The result of 80 + 47 is 127.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 10?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 10?\n## INPUT\n\n##OUTPUT\nThe result of 19 + 10 is 29.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 4?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 4?\nAnswer: The result of 17 + 4 is 21.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 46 + 98?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 46 + 98?\n## INPUT\n\n##OUTPUT\nThe result of 46 + 98 is 144.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 2 + 13?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 2 + 13?\nAnswer: The result of 2 + 13 is 15.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 49?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 49?\n## INPUT\n\n##OUTPUT\nThe result of 15 + 49 is 64.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 87 + 32?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 87 + 32?\nAnswer: The result of 87 + 32 is 119.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 65 + 17?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 65 + 17?\n## INPUT\n\n##OUTPUT\nThe result of 65 + 17 is 82.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 98 + 10?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 98 + 10?\n## INPUT\n\n##OUTPUT\nThe result of 98 + 10 is 108.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 67 + 85?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 67 + 85?\nAnswer: The result of 67 + 85 is 152.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 68?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 68?\n## INPUT\n\n##OUTPUT\nThe result of 12 + 68 is 80.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 45?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 45?\nAnswer: The result of 15 + 45 is 60.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 55 + 68?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 55 + 68?\nAnswer: The result of 55 + 68 is 123.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 9 + 61?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 9 + 61?\n## INPUT\n\n##OUTPUT\nThe result of 9 + 61 is 70.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 42 + 25?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 42 + 25?\n## INPUT\n\n##OUTPUT\nThe result of 42 + 25 is 67.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 61 + 52?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 61 + 52?\n## INPUT\n\n##OUTPUT\nThe result of 61 + 52 is 113.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 77?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 77?\nAnswer: The result of 16 + 77 is 93.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 75 + 83?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 75 + 83?\nAnswer: The result of 75 + 83 is 158.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 84?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 84?\n## INPUT\n\n##OUTPUT\nThe result of 89 + 84 is 173.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 91 + 6?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 91 + 6?\nAnswer: The result of 91 + 6 is 97.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 31?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 31?\nAnswer: The result of 24 + 31 is 55.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 31 + 95?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 31 + 95?\nAnswer: The result of 31 + 95 is 126.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 28 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 28 + 78?\nAnswer: The result of 28 + 78 is 106.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 7 + 68?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 7 + 68?\n## INPUT\n\n##OUTPUT\nThe result of 7 + 68 is 75.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 20?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 20?\nAnswer: The result of 64 + 20 is 84.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 65 + 22?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 65 + 22?\nAnswer: The result of 65 + 22 is 87.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 81 + 65?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 81 + 65?\nAnswer: The result of 81 + 65 is 146.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 24?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 24?\n## INPUT\n\n##OUTPUT\nThe result of 52 + 24 is 76.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 7?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 7?\nAnswer: The result of 80 + 7 is 87.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 38 + 43?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 38 + 43?\n## INPUT\n\n##OUTPUT\nThe result of 38 + 43 is 81.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 99?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 99?\n## INPUT\n\n##OUTPUT\nThe result of 92 + 99 is 191.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 75 + 40?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 75 + 40?\n## INPUT\n\n##OUTPUT\nThe result of 75 + 40 is 115.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 94 + 100?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 94 + 100?\n## INPUT\n\n##OUTPUT\nThe result of 94 + 100 is 194.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 94?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 94?\n## INPUT\n\n##OUTPUT\nThe result of 89 + 94 is 183.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 8?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 8?\n## INPUT\n\n##OUTPUT\nThe result of 49 + 8 is 57.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 81 + 58?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 81 + 58?\nAnswer: The result of 81 + 58 is 139.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 42 + 29?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 42 + 29?\n## INPUT\n\n##OUTPUT\nThe result of 42 + 29 is 71.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 70 + 28?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 70 + 28?\nAnswer: The result of 70 + 28 is 98.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 29 + 53?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 29 + 53?\n## INPUT\n\n##OUTPUT\nThe result of 29 + 53 is 82.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 74 + 15?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 74 + 15?\n## INPUT\n\n##OUTPUT\nThe result of 74 + 15 is 89.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 22 + 49?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 22 + 49?\nAnswer: The result of 22 + 49 is 71.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 61?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 61?\n## INPUT\n\n##OUTPUT\nThe result of 63 + 61 is 124.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 78?\nAnswer: The result of 27 + 78 is 105.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 67?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 67?\nAnswer: The result of 32 + 67 is 99.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 36 + 18?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 36 + 18?\n## INPUT\n\n##OUTPUT\nThe result of 36 + 18 is 54.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 71 + 76?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 71 + 76?\nAnswer: The result of 71 + 76 is 147.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 63?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 63?\n## INPUT\n\n##OUTPUT\nThe result of 17 + 63 is 80.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 97 + 55?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 97 + 55?\n## INPUT\n\n##OUTPUT\nThe result of 97 + 55 is 152.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 62 + 4?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 62 + 4?\nAnswer: The result of 62 + 4 is 66.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 3?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 3?\nAnswer: The result of 16 + 3 is 19.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 58 + 90?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 58 + 90?\n## INPUT\n\n##OUTPUT\nThe result of 58 + 90 is 148.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 82 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 82 + 78?\n## INPUT\n\n##OUTPUT\nThe result of 82 + 78 is 160.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 99 + 35?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 99 + 35?\nAnswer: The result of 99 + 35 is 134.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 5 + 11?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 5 + 11?\nAnswer: The result of 5 + 11 is 16.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 38?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 38?\n## INPUT\n\n##OUTPUT\nThe result of 24 + 38 is 62.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 100?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 100?\nAnswer: The result of 80 + 100 is 180.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 40?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 40?\n## INPUT\n\n##OUTPUT\nThe result of 85 + 40 is 125.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 70?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 70?\n## INPUT\n\n##OUTPUT\nThe result of 52 + 70 is 122.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 9 + 40?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 9 + 40?\nAnswer: The result of 9 + 40 is 49.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 20 + 83?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 20 + 83?\nAnswer: The result of 20 + 83 is 103.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 86 + 10?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 86 + 10?\n## INPUT\n\n##OUTPUT\nThe result of 86 + 10 is 96.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 4 + 41?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 4 + 41?\n## INPUT\n\n##OUTPUT\nThe result of 4 + 41 is 45.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 99 + 5?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 99 + 5?\nAnswer: The result of 99 + 5 is 104.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 42 + 55?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 42 + 55?\n## INPUT\n\n##OUTPUT\nThe result of 42 + 55 is 97.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 76 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 76 + 78?\nAnswer: The result of 76 + 78 is 154.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 45?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 45?\n## INPUT\n\n##OUTPUT\nThe result of 17 + 45 is 62.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 22 + 4?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 22 + 4?\nAnswer: The result of 22 + 4 is 26.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 36 + 49?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 36 + 49?\n## INPUT\n\n##OUTPUT\nThe result of 36 + 49 is 85.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 66?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 66?\n## INPUT\n\n##OUTPUT\nThe result of 92 + 66 is 158.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 50 + 79?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 50 + 79?\nAnswer: The result of 50 + 79 is 129.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 21 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 21 + 78?\nAnswer: The result of 21 + 78 is 99.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 38 + 66?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 38 + 66?\nAnswer: The result of 38 + 66 is 104.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 70 + 82?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 70 + 82?\nAnswer: The result of 70 + 82 is 152.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 18 + 11?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 18 + 11?\nAnswer: The result of 18 + 11 is 29.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 67?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 67?\n## INPUT\n\n##OUTPUT\nThe result of 89 + 67 is 156.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 11?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 11?\nAnswer: The result of 90 + 11 is 101.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 71?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 71?\nAnswer: The result of 12 + 71 is 83.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 14 + 48?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 14 + 48?\n## INPUT\n\n##OUTPUT\nThe result of 14 + 48 is 62.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 37 + 87?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 37 + 87?\nAnswer: The result of 37 + 87 is 124.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 25?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 25?\n## INPUT\n\n##OUTPUT\nThe result of 52 + 25 is 77.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 78 + 56?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 78 + 56?\nAnswer: The result of 78 + 56 is 134.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 77 + 4?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 77 + 4?\nAnswer: The result of 77 + 4 is 81.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 94 + 11?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 94 + 11?\n## INPUT\n\n##OUTPUT\nThe result of 94 + 11 is 105.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 40 + 32?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 40 + 32?\n## INPUT\n\n##OUTPUT\nThe result of 40 + 32 is 72.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 31 + 34?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 31 + 34?\nAnswer: The result of 31 + 34 is 65.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 68 + 94?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 68 + 94?\n## INPUT\n\n##OUTPUT\nThe result of 68 + 94 is 162.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 78?\n## INPUT\n\n##OUTPUT\nThe result of 84 + 78 is 162.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 96?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 96?\n## INPUT\n\n##OUTPUT\nThe result of 16 + 96 is 112.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 79 + 13?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 79 + 13?\n## INPUT\n\n##OUTPUT\nThe result of 79 + 13 is 92.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 37?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 37?\n## INPUT\n\n##OUTPUT\nThe result of 59 + 37 is 96.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 30 + 74?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 30 + 74?\nAnswer: The result of 30 + 74 is 104.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 20 + 43?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 20 + 43?\nAnswer: The result of 20 + 43 is 63.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 20?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 20?\n## INPUT\n\n##OUTPUT\nThe result of 52 + 20 is 72.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 89?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 89?\n## INPUT\n\n##OUTPUT\nThe result of 59 + 89 is 148.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 6?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 6?\nAnswer: The result of 24 + 6 is 30.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 96 + 34?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 96 + 34?\n## INPUT\n\n##OUTPUT\nThe result of 96 + 34 is 130.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 28 + 75?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 28 + 75?\nAnswer: The result of 28 + 75 is 103.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 83 + 82?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 83 + 82?\nAnswer: The result of 83 + 82 is 165.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 76 + 62?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 76 + 62?\n## INPUT\n\n##OUTPUT\nThe result of 76 + 62 is 138.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 54 + 65?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 54 + 65?\nAnswer: The result of 54 + 65 is 119.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 92?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 92?\n## INPUT\n\n##OUTPUT\nThe result of 84 + 92 is 176.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 11?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 11?\n## INPUT\n\n##OUTPUT\nThe result of 89 + 11 is 100.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 85?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 85?\nAnswer: The result of 32 + 85 is 117.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 98 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 98 + 78?\n## INPUT\n\n##OUTPUT\nThe result of 98 + 78 is 176.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 4 + 44?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 4 + 44?\n## INPUT\n\n##OUTPUT\nThe result of 4 + 44 is 48.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 69 + 73?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 69 + 73?\n## INPUT\n\n##OUTPUT\nThe result of 69 + 73 is 142.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 3 + 88?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 3 + 88?\nAnswer: The result of 3 + 88 is 91.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 1 + 22?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 1 + 22?\nAnswer: The result of 1 + 22 is 23.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 71 + 59?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 71 + 59?\n## INPUT\n\n##OUTPUT\nThe result of 71 + 59 is 130.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 9 + 94?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 9 + 94?\nAnswer: The result of 9 + 94 is 103.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 66 + 5?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 66 + 5?\nAnswer: The result of 66 + 5 is 71.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 7 + 51?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 7 + 51?\n## INPUT\n\n##OUTPUT\nThe result of 7 + 51 is 58.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 69 + 72?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 69 + 72?\nAnswer: The result of 69 + 72 is 141.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 87?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 87?\nAnswer: The result of 90 + 87 is 177.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 35 + 97?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 35 + 97?\n## INPUT\n\n##OUTPUT\nThe result of 35 + 97 is 132.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 36?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 36?\nAnswer: The result of 63 + 36 is 99.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 78?\nAnswer: The result of 24 + 78 is 102.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 35 + 54?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 35 + 54?\nAnswer: The result of 35 + 54 is 89.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 36?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 36?\n## INPUT\n\n##OUTPUT\nThe result of 24 + 36 is 60.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 5 + 77?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 5 + 77?\nAnswer: The result of 5 + 77 is 82.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 43?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 43?\n## INPUT\n\n##OUTPUT\nThe result of 84 + 43 is 127.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 35?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 35?\n## INPUT\n\n##OUTPUT\nThe result of 17 + 35 is 52.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 99?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 99?\n## INPUT\n\n##OUTPUT\nThe result of 85 + 99 is 184.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 20 + 45?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 20 + 45?\nAnswer: The result of 20 + 45 is 65.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 95?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 95?\nAnswer: The result of 24 + 95 is 119.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 41?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 41?\nAnswer: The result of 90 + 41 is 131.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 87 + 4?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 87 + 4?\nAnswer: The result of 87 + 4 is 91.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 64?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 64?\n## INPUT\n\n##OUTPUT\nThe result of 84 + 64 is 148.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 75 + 42?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 75 + 42?\n## INPUT\n\n##OUTPUT\nThe result of 75 + 42 is 117.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 23 + 59?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 23 + 59?\n## INPUT\n\n##OUTPUT\nThe result of 23 + 59 is 82.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 58 + 79?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 58 + 79?\n## INPUT\n\n##OUTPUT\nThe result of 58 + 79 is 137.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 5?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 5?\nAnswer: The result of 89 + 5 is 94.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 81?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 17 + 81?\n## INPUT\n\n##OUTPUT\nThe result of 17 + 81 is 98.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 29 + 56?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 29 + 56?\n## INPUT\n\n##OUTPUT\nThe result of 29 + 56 is 85.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 43 + 70?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 43 + 70?\n## INPUT\n\n##OUTPUT\nThe result of 43 + 70 is 113.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 65 + 96?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 65 + 96?\nAnswer: The result of 65 + 96 is 161.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 77?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 90 + 77?\nAnswer: The result of 90 + 77 is 167.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 10?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 10?\n## INPUT\n\n##OUTPUT\nThe result of 49 + 10 is 59.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 10 + 64?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 10 + 64?\nAnswer: The result of 10 + 64 is 74.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 68?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 68?\n## INPUT\n\n##OUTPUT\nThe result of 32 + 68 is 100.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 60 + 13?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 60 + 13?\n## INPUT\n\n##OUTPUT\nThe result of 60 + 13 is 73.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 64?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 64?\nAnswer: The result of 32 + 64 is 96.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 56?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 92 + 56?\n## INPUT\n\n##OUTPUT\nThe result of 92 + 56 is 148.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 68 + 60?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 68 + 60?\n## INPUT\n\n##OUTPUT\nThe result of 68 + 60 is 128.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 37 + 79?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 37 + 79?\n## INPUT\n\n##OUTPUT\nThe result of 37 + 79 is 116.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 52?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 52?\n## INPUT\n\n##OUTPUT\nThe result of 49 + 52 is 101.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 47?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 47?\n## INPUT\n\n##OUTPUT\nThe result of 59 + 47 is 106.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 56 + 34?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 56 + 34?\n## INPUT\n\n##OUTPUT\nThe result of 56 + 34 is 90.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 21?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 21?\n## INPUT\n\n##OUTPUT\nThe result of 63 + 21 is 84.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 58 + 68?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 58 + 68?\n## INPUT\n\n##OUTPUT\nThe result of 58 + 68 is 126.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 30 + 32?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 30 + 32?\nAnswer: The result of 30 + 32 is 62.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 18 + 1?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 18 + 1?\nAnswer: The result of 18 + 1 is 19.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 51?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 49 + 51?\n## INPUT\n\n##OUTPUT\nThe result of 49 + 51 is 100.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 79?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 79?\n## INPUT\n\n##OUTPUT\nThe result of 84 + 79 is 163.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 26?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 26?\n## INPUT\n\n##OUTPUT\nThe result of 89 + 26 is 115.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 16?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 27 + 16?\n## INPUT\n\n##OUTPUT\nThe result of 27 + 16 is 43.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 8 + 30?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 8 + 30?\nAnswer: The result of 8 + 30 is 38.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 93?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 93?\nAnswer: The result of 80 + 93 is 173.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 30 + 15?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 30 + 15?\nAnswer: The result of 30 + 15 is 45.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 45 + 92?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 45 + 92?\n## INPUT\n\n##OUTPUT\nThe result of 45 + 92 is 137.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 76 + 11?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 76 + 11?\nAnswer: The result of 76 + 11 is 87.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 74 + 57?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 74 + 57?\n## INPUT\n\n##OUTPUT\nThe result of 74 + 57 is 131.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 74?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 74?\nAnswer: The result of 85 + 74 is 159.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 86 + 36?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 86 + 36?\n## INPUT\n\n##OUTPUT\nThe result of 86 + 36 is 122.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 4 + 45?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 4 + 45?\nAnswer: The result of 4 + 45 is 49.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 20?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 84 + 20?\n## INPUT\n\n##OUTPUT\nThe result of 84 + 20 is 104.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 19?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 19?\n## INPUT\n\n##OUTPUT\nThe result of 64 + 19 is 83.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 49?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 49?\n## INPUT\n\n##OUTPUT\nThe result of 19 + 49 is 68.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 69?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 64 + 69?\nAnswer: The result of 64 + 69 is 133.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 73?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 89 + 73?\n## INPUT\n\n##OUTPUT\nThe result of 89 + 73 is 162.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 66 + 81?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 66 + 81?\nAnswer: The result of 66 + 81 is 147.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 49?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 49?\n## INPUT\n\n##OUTPUT\nThe result of 12 + 49 is 61.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 25 + 31?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 25 + 31?\n## INPUT\n\n##OUTPUT\nThe result of 25 + 31 is 56.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 63?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 63?\n## INPUT\n\n##OUTPUT\nThe result of 19 + 63 is 82.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 99 + 99?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 99 + 99?\nAnswer: The result of 99 + 99 is 198.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 37 + 38?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 37 + 38?\nAnswer: The result of 37 + 38 is 75.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 43 + 18?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 43 + 18?\n## INPUT\n\n##OUTPUT\nThe result of 43 + 18 is 61.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 13 + 74?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 13 + 74?\n## INPUT\n\n##OUTPUT\nThe result of 13 + 74 is 87.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 53 + 40?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 53 + 40?\n## INPUT\n\n##OUTPUT\nThe result of 53 + 40 is 93.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 91?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 85 + 91?\n## INPUT\n85 + 91\n##OUTPUT\nThe result of 85 + 91 is 176.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 83?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 83?\nAnswer: The result of 32 + 83 is 115.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 37 + 5?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 37 + 5?\nAnswer: The result of 37 + 5 is 42.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 77?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 52 + 77?\nAnswer: The result of 52 + 77 is 129.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 34?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 34?\n## INPUT\n\n##OUTPUT\nThe result of 16 + 34 is 50.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 13 + 19?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 13 + 19?\n## INPUT\n\n##OUTPUT\nThe result of 13 + 19 is 32.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 73 + 39?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 73 + 39?\n## INPUT\n\n##OUTPUT\nThe result of 73 + 39 is 112.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 31 + 89?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 31 + 89?\nAnswer: The result of 31 + 89 is 120.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 1 + 34?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 1 + 34?\nAnswer: The result of 1 + 34 is 35.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 67 + 95?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 67 + 95?\nAnswer: The result of 67 + 95 is 162.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 22?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 32 + 22?\n## INPUT\n\n##OUTPUT\nThe result of 32 + 22 is 54.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 77 + 40?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 77 + 40?\n## INPUT\n\n##OUTPUT\nThe result of 77 + 40 is 117.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 62?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 62?\nAnswer: The result of 80 + 62 is 142.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 31 + 86?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 31 + 86?\nAnswer: The result of 31 + 86 is 117.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 81 + 70?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 81 + 70?\nAnswer: The result of 81 + 70 is 151.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 55 + 27?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 55 + 27?\n## INPUT\n\n##OUTPUT\nThe result of 55 + 27 is 82.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 38 + 73?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 38 + 73?\nAnswer: The result of 38 + 73 is 111.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 50 + 76?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 50 + 76?\nAnswer: The result of 50 + 76 is 126.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 23?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 23?\nAnswer: The result of 80 + 23 is 103.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 58 + 59?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 58 + 59?\n## INPUT\n\n##OUTPUT\nThe result of 58 + 59 is 117.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 40?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 16 + 40?\n## INPUT\n\n##OUTPUT\nThe result of 16 + 40 is 56.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 48 + 65?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 48 + 65?\n## INPUT\n\n##OUTPUT\nThe result of 48 + 65 is 113.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 60 + 56?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 60 + 56?\n## INPUT\n\n##OUTPUT\nThe result of 60 + 56 is 116.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 1 + 48?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 1 + 48?\n## INPUT\n\n##OUTPUT\nThe result of 1 + 48 is 49.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 37?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 59 + 37?\n## INPUT\n\n##OUTPUT\nThe result of 59 + 37 is 96.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 17?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 63 + 17?\n## INPUT\n\n##OUTPUT\nThe result of 63 + 17 is 80.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 57 + 72?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 57 + 72?\nAnswer: The result of 57 + 72 is 129.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 77?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 15 + 77?\nAnswer: The result of 15 + 77 is 92.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 47 + 19?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 47 + 19?\n## INPUT\n\n##OUTPUT\nThe result of 47 + 19 is 66.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 91 + 85?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 91 + 85?\nAnswer: The result of 91 + 85 is 176.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 54 + 80?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 54 + 80?\n## INPUT\n\n##OUTPUT\nThe result of 54 + 80 is 134.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 100 + 100?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 100 + 100?\nAnswer: The result of 100 + 100 is 200.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 64?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 19 + 64?\n## INPUT\n\n##OUTPUT\nThe result of 19 + 64 is 83.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 1 + 75?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 1 + 75?\n## INPUT\n\n##OUTPUT\nThe result of 1 + 75 is 76.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 40 + 69?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 40 + 69?\nAnswer: The result of 40 + 69 is 109.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 42 + 56?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 42 + 56?\n## INPUT\n\n##OUTPUT\nThe result of 42 + 56 is 98.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 53 + 18?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 53 + 18?\n## INPUT\n\n##OUTPUT\nThe result of 53 + 18 is 71.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 25 + 78?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 25 + 78?\nAnswer: The result of 25 + 78 is 103.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 34 + 42?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 34 + 42?\n## INPUT\n\n##OUTPUT\nThe result of 34 + 42 is 76.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 84?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 12 + 84?\n## INPUT\n\n##OUTPUT\nThe result of 12 + 84 is 96.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 30 + 32?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 30 + 32?\nAnswer: The result of 30 + 32 is 62.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 61?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 80 + 61?\nAnswer: The result of 80 + 61 is 141.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 67 + 100?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 67 + 100?\nAnswer: The result of 67 + 100 is 167.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 63?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 24 + 63?\n## INPUT\n\n##OUTPUT\nThe result of 24 + 63 is 87.\n"
+    },
+    {
+        "question": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 41 + 57?",
+        "answer": "Answer this question in only one sentence, and make sure you include explaination: What is the result of 41 + 57?\n## INPUT\n\n##OUTPUT\nThe result of 41 + 57 is 98.\n"
+    }
+]

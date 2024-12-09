@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "There is a road from city S to city L, and a road from city L to city I. Is there a way to travel from city S to city I? Dirctly answer this question.",
+        "answer": "There is a road from city S to city L, and a road from city L to city I. Is there a way to travel from city S to city I? Dirctly answer this question. To determine if there is a way to travel from city S to city I, we need to"
+    },
+    {
+        "question": "There is a road from city B to city V, and a road from city V to city W. Is there a way to travel from city B to city W? Dirctly answer this question.",
+        "answer": "There is a road from city B to city V, and a road from city V to city W. Is there a way to travel from city B to city W? Dirctly answer this question. Yes, there is a way to travel from city B to city W. To travel from city"
+    },
+    {
+        "question": "There is a road from city O to city P, and a road from city P to city J. Is there a way to travel from city O to city J? Dirctly answer this question.",
+        "answer": "There is a road from city O to city P, and a road from city P to city J. Is there a way to travel from city O to city J? Dirctly answer this question. To determine if there is a way to travel from city O to city J, we need to"
+    },
+    {
+        "question": "There is a road from city G to city M, and a road from city M to city U. Is there a way to travel from city G to city U? Dirctly answer this question.",
+        "answer": "There is a road from city G to city M, and a road from city M to city U. Is there a way to travel from city G to city U? Dirctly answer this question. Yes, there is a way to travel from city G to city U, as there is a"
+    },
+    {
+        "question": "There is a road from city A to city E, and a road from city E to city M. Is there a way to travel from city A to city M? Dirctly answer this question.",
+        "answer": "There is a road from city A to city E, and a road from city E to city M. Is there a way to travel from city A to city M? Dirctly answer this question. Yes, there is a way to travel from city A to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city H to city E, and a road from city E to city M. Is there a way to travel from city H to city M? Dirctly answer this question.",
+        "answer": "There is a road from city H to city E, and a road from city E to city M. Is there a way to travel from city H to city M? Dirctly answer this question. Yes, there is a way to travel from city H to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city I to city N, and a road from city N to city C. Is there a way to travel from city I to city C? Dirctly answer this question.",
+        "answer": "There is a road from city I to city N, and a road from city N to city C. Is there a way to travel from city I to city C? Dirctly answer this question. To determine if there is a way to travel from city I to city C, we need to"
+    },
+    {
+        "question": "There is a road from city T to city S, and a road from city S to city A. Is there a way to travel from city T to city A? Dirctly answer this question.",
+        "answer": "There is a road from city T to city S, and a road from city S to city A. Is there a way to travel from city T to city A? Dirctly answer this question. Yes, there is a way to travel from city T to city A, as there is a"
+    },
+    {
+        "question": "There is a road from city V to city W, and a road from city W to city Q. Is there a way to travel from city V to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city V to city W, and a road from city W to city Q. Is there a way to travel from city V to city Q? Dirctly answer this question. Yes, there is a way to travel from city V to city Q by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city J to city U, and a road from city U to city A. Is there a way to travel from city J to city A? Dirctly answer this question.",
+        "answer": "There is a road from city J to city U, and a road from city U to city A. Is there a way to travel from city J to city A? Dirctly answer this question. To travel from city J to city A, you cannot travel directly from city J to city U"
+    },
+    {
+        "question": "There is a road from city Z to city W, and a road from city W to city X. Is there a way to travel from city Z to city X? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city W, and a road from city W to city X. Is there a way to travel from city Z to city X? Dirctly answer this question. To travel from city Z to city X, one must first travel from city Z to city W"
+    },
+    {
+        "question": "There is a road from city V to city E, and a road from city E to city R. Is there a way to travel from city V to city R? Dirctly answer this question.",
+        "answer": "There is a road from city V to city E, and a road from city E to city R. Is there a way to travel from city V to city R? Dirctly answer this question. Yes, there is a way to travel from city V to city R. To travel from city"
+    },
+    {
+        "question": "There is a road from city U to city X, and a road from city X to city A. Is there a way to travel from city U to city A? Dirctly answer this question.",
+        "answer": "There is a road from city U to city X, and a road from city X to city A. Is there a way to travel from city U to city A? Dirctly answer this question. To travel from city U to city A, you cannot travel directly from city U to city X"
+    },
+    {
+        "question": "There is a road from city M to city G, and a road from city G to city I. Is there a way to travel from city M to city I? Dirctly answer this question.",
+        "answer": "There is a road from city M to city G, and a road from city G to city I. Is there a way to travel from city M to city I? Dirctly answer this question. Yes, there is a way to travel from city M to city I. To travel from city"
+    },
+    {
+        "question": "There is a road from city D to city A, and a road from city A to city U. Is there a way to travel from city D to city U? Dirctly answer this question.",
+        "answer": "There is a road from city D to city A, and a road from city A to city U. Is there a way to travel from city D to city U? Dirctly answer this question. Yes, there is a way to travel from city D to city U, as there is a"
+    },
+    {
+        "question": "There is a road from city W to city I, and a road from city I to city C. Is there a way to travel from city W to city C? Dirctly answer this question.",
+        "answer": "There is a road from city W to city I, and a road from city I to city C. Is there a way to travel from city W to city C? Dirctly answer this question. To determine if there is a way to travel from city W to city C, we need to"
+    },
+    {
+        "question": "There is a road from city Y to city R, and a road from city R to city K. Is there a way to travel from city Y to city K? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city R, and a road from city R to city K. Is there a way to travel from city Y to city K? Dirctly answer this question. To travel from city Y to city K, you cannot travel directly from city Y to city R"
+    },
+    {
+        "question": "There is a road from city T to city O, and a road from city O to city E. Is there a way to travel from city T to city E? Dirctly answer this question.",
+        "answer": "There is a road from city T to city O, and a road from city O to city E. Is there a way to travel from city T to city E? Dirctly answer this question. To determine if there is a way to travel from city T to city E, we need to"
+    },
+    {
+        "question": "There is a road from city P to city K, and a road from city K to city E. Is there a way to travel from city P to city E? Dirctly answer this question.",
+        "answer": "There is a road from city P to city K, and a road from city K to city E. Is there a way to travel from city P to city E? Dirctly answer this question. To determine if there is a way to travel from city P to city E, we need to"
+    },
+    {
+        "question": "There is a road from city G to city P, and a road from city P to city K. Is there a way to travel from city G to city K? Dirctly answer this question.",
+        "answer": "There is a road from city G to city P, and a road from city P to city K. Is there a way to travel from city G to city K? Dirctly answer this question. Yes, there is a way to travel from city G to city K, as there is a"
+    },
+    {
+        "question": "There is a road from city Z to city B, and a road from city B to city M. Is there a way to travel from city Z to city M? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city B, and a road from city B to city M. Is there a way to travel from city Z to city M? Dirctly answer this question. Yes, there is a way to travel from city Z to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city D to city R, and a road from city R to city J. Is there a way to travel from city D to city J? Dirctly answer this question.",
+        "answer": "There is a road from city D to city R, and a road from city R to city J. Is there a way to travel from city D to city J? Dirctly answer this question. Yes, there is a way to travel from city D to city J. \n\nTo travel from"
+    },
+    {
+        "question": "There is a road from city R to city V, and a road from city V to city X. Is there a way to travel from city R to city X? Dirctly answer this question.",
+        "answer": "There is a road from city R to city V, and a road from city V to city X. Is there a way to travel from city R to city X? Dirctly answer this question. To travel from city R to city X, one must first travel from city R to city V"
+    },
+    {
+        "question": "There is a road from city T to city D, and a road from city D to city E. Is there a way to travel from city T to city E? Dirctly answer this question.",
+        "answer": "There is a road from city T to city D, and a road from city D to city E. Is there a way to travel from city T to city E? Dirctly answer this question. Yes, there is a way to travel from city T to city E. To travel from city"
+    },
+    {
+        "question": "There is a road from city B to city L, and a road from city L to city F. Is there a way to travel from city B to city F? Dirctly answer this question.",
+        "answer": "There is a road from city B to city L, and a road from city L to city F. Is there a way to travel from city B to city F? Dirctly answer this question. Yes, there is a way to travel from city B to city F. To travel from city"
+    },
+    {
+        "question": "There is a road from city I to city F, and a road from city F to city R. Is there a way to travel from city I to city R? Dirctly answer this question.",
+        "answer": "There is a road from city I to city F, and a road from city F to city R. Is there a way to travel from city I to city R? Dirctly answer this question. Yes, there is a way to travel from city I to city R. To travel from city"
+    },
+    {
+        "question": "There is a road from city D to city Q, and a road from city Q to city O. Is there a way to travel from city D to city O? Dirctly answer this question.",
+        "answer": "There is a road from city D to city Q, and a road from city Q to city O. Is there a way to travel from city D to city O? Dirctly answer this question. To determine if there is a way to travel from city D to city O, we need to"
+    },
+    {
+        "question": "There is a road from city J to city R, and a road from city R to city C. Is there a way to travel from city J to city C? Dirctly answer this question.",
+        "answer": "There is a road from city J to city R, and a road from city R to city C. Is there a way to travel from city J to city C? Dirctly answer this question. To travel from city J to city C, you cannot travel directly from city J to city R"
+    },
+    {
+        "question": "There is a road from city H to city M, and a road from city M to city P. Is there a way to travel from city H to city P? Dirctly answer this question.",
+        "answer": "There is a road from city H to city M, and a road from city M to city P. Is there a way to travel from city H to city P? Dirctly answer this question. Yes, there is a way to travel from city H to city P, as there is a"
+    },
+    {
+        "question": "There is a road from city F to city A, and a road from city A to city U. Is there a way to travel from city F to city U? Dirctly answer this question.",
+        "answer": "There is a road from city F to city A, and a road from city A to city U. Is there a way to travel from city F to city U? Dirctly answer this question. Yes, there is a way to travel from city F to city U, as there is a"
+    },
+    {
+        "question": "There is a road from city E to city L, and a road from city L to city T. Is there a way to travel from city E to city T? Dirctly answer this question.",
+        "answer": "There is a road from city E to city L, and a road from city L to city T. Is there a way to travel from city E to city T? Dirctly answer this question. Yes, there is a way to travel from city E to city T. To travel from city"
+    },
+    {
+        "question": "There is a road from city F to city D, and a road from city D to city G. Is there a way to travel from city F to city G? Dirctly answer this question.",
+        "answer": "There is a road from city F to city D, and a road from city D to city G. Is there a way to travel from city F to city G? Dirctly answer this question. Yes, there is a way to travel from city F to city G. To travel from city"
+    },
+    {
+        "question": "There is a road from city A to city E, and a road from city E to city Y. Is there a way to travel from city A to city Y? Dirctly answer this question.",
+        "answer": "There is a road from city A to city E, and a road from city E to city Y. Is there a way to travel from city A to city Y? Dirctly answer this question. To determine if there is a way to travel from city A to city Y, we need to"
+    },
+    {
+        "question": "There is a road from city U to city S, and a road from city S to city M. Is there a way to travel from city U to city M? Dirctly answer this question.",
+        "answer": "There is a road from city U to city S, and a road from city S to city M. Is there a way to travel from city U to city M? Dirctly answer this question. To determine if there is a way to travel from city U to city M, we need to"
+    },
+    {
+        "question": "There is a road from city X to city Q, and a road from city Q to city O. Is there a way to travel from city X to city O? Dirctly answer this question.",
+        "answer": "There is a road from city X to city Q, and a road from city Q to city O. Is there a way to travel from city X to city O? Dirctly answer this question. To travel from city X to city O, one must first travel from city X to city Q"
+    },
+    {
+        "question": "There is a road from city W to city F, and a road from city F to city S. Is there a way to travel from city W to city S? Dirctly answer this question.",
+        "answer": "There is a road from city W to city F, and a road from city F to city S. Is there a way to travel from city W to city S? Dirctly answer this question. Yes, there is a way to travel from city W to city S. To travel from city"
+    },
+    {
+        "question": "There is a road from city A to city G, and a road from city G to city W. Is there a way to travel from city A to city W? Dirctly answer this question.",
+        "answer": "There is a road from city A to city G, and a road from city G to city W. Is there a way to travel from city A to city W? Dirctly answer this question. Yes, there is a way to travel from city A to city W. To travel from city"
+    },
+    {
+        "question": "There is a road from city X to city D, and a road from city D to city K. Is there a way to travel from city X to city K? Dirctly answer this question.",
+        "answer": "There is a road from city X to city D, and a road from city D to city K. Is there a way to travel from city X to city K? Dirctly answer this question. To travel from city X to city K, one must first travel from city X to city D"
+    },
+    {
+        "question": "There is a road from city J to city P, and a road from city P to city X. Is there a way to travel from city J to city X? Dirctly answer this question.",
+        "answer": "There is a road from city J to city P, and a road from city P to city X. Is there a way to travel from city J to city X? Dirctly answer this question. To travel from city J to city X, one must first travel from city J to city P"
+    },
+    {
+        "question": "There is a road from city D to city F, and a road from city F to city R. Is there a way to travel from city D to city R? Dirctly answer this question.",
+        "answer": "There is a road from city D to city F, and a road from city F to city R. Is there a way to travel from city D to city R? Dirctly answer this question. Yes, there is a way to travel from city D to city R. To travel from city"
+    },
+    {
+        "question": "There is a road from city J to city O, and a road from city O to city I. Is there a way to travel from city J to city I? Dirctly answer this question.",
+        "answer": "There is a road from city J to city O, and a road from city O to city I. Is there a way to travel from city J to city I? Dirctly answer this question. To determine if there is a way to travel from city J to city I, we need to"
+    },
+    {
+        "question": "There is a road from city U to city T, and a road from city T to city P. Is there a way to travel from city U to city P? Dirctly answer this question.",
+        "answer": "There is a road from city U to city T, and a road from city T to city P. Is there a way to travel from city U to city P? Dirctly answer this question. To determine if there is a way to travel from city U to city P, we need to"
+    },
+    {
+        "question": "There is a road from city W to city E, and a road from city E to city Z. Is there a way to travel from city W to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city W to city E, and a road from city E to city Z. Is there a way to travel from city W to city Z? Dirctly answer this question. Yes, there is a way to travel from city W to city Z, as there is a"
+    },
+    {
+        "question": "There is a road from city O to city V, and a road from city V to city N. Is there a way to travel from city O to city N? Dirctly answer this question.",
+        "answer": "There is a road from city O to city V, and a road from city V to city N. Is there a way to travel from city O to city N? Dirctly answer this question. Yes, there is a way to travel from city O to city N. To travel from city"
+    },
+    {
+        "question": "There is a road from city Q to city H, and a road from city H to city X. Is there a way to travel from city Q to city X? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city H, and a road from city H to city X. Is there a way to travel from city Q to city X? Dirctly answer this question. To travel from city Q to city X, one must first travel from city Q to city H"
+    },
+    {
+        "question": "There is a road from city M to city J, and a road from city J to city T. Is there a way to travel from city M to city T? Dirctly answer this question.",
+        "answer": "There is a road from city M to city J, and a road from city J to city T. Is there a way to travel from city M to city T? Dirctly answer this question. Yes, there is a way to travel from city M to city T. To travel from city"
+    },
+    {
+        "question": "There is a road from city P to city Z, and a road from city Z to city N. Is there a way to travel from city P to city N? Dirctly answer this question.",
+        "answer": "There is a road from city P to city Z, and a road from city Z to city N. Is there a way to travel from city P to city N? Dirctly answer this question. To travel from city P to city N, one must first travel from city P to city Z"
+    },
+    {
+        "question": "There is a road from city E to city W, and a road from city W to city K. Is there a way to travel from city E to city K? Dirctly answer this question.",
+        "answer": "There is a road from city E to city W, and a road from city W to city K. Is there a way to travel from city E to city K? Dirctly answer this question. Yes, there is a way to travel from city E to city K, as there is a"
+    },
+    {
+        "question": "There is a road from city S to city W, and a road from city W to city Z. Is there a way to travel from city S to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city S to city W, and a road from city W to city Z. Is there a way to travel from city S to city Z? Dirctly answer this question. Yes, there is a way to travel from city S to city Z by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city J to city Y, and a road from city Y to city D. Is there a way to travel from city J to city D? Dirctly answer this question.",
+        "answer": "There is a road from city J to city Y, and a road from city Y to city D. Is there a way to travel from city J to city D? Dirctly answer this question. Yes, there is a way to travel from city J to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city M to city N, and a road from city N to city D. Is there a way to travel from city M to city D? Dirctly answer this question.",
+        "answer": "There is a road from city M to city N, and a road from city N to city D. Is there a way to travel from city M to city D? Dirctly answer this question. Yes, there is a way to travel from city M to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city O to city D, and a road from city D to city U. Is there a way to travel from city O to city U? Dirctly answer this question.",
+        "answer": "There is a road from city O to city D, and a road from city D to city U. Is there a way to travel from city O to city U? Dirctly answer this question. To determine if there is a way to travel from city O to city U, we need to"
+    },
+    {
+        "question": "There is a road from city D to city Y, and a road from city Y to city B. Is there a way to travel from city D to city B? Dirctly answer this question.",
+        "answer": "There is a road from city D to city Y, and a road from city Y to city B. Is there a way to travel from city D to city B? Dirctly answer this question. Yes, there is a way to travel from city D to city B. To travel from city"
+    },
+    {
+        "question": "There is a road from city I to city Q, and a road from city Q to city E. Is there a way to travel from city I to city E? Dirctly answer this question.",
+        "answer": "There is a road from city I to city Q, and a road from city Q to city E. Is there a way to travel from city I to city E? Dirctly answer this question. To determine if there is a way to travel from city I to city E, we need to"
+    },
+    {
+        "question": "There is a road from city C to city G, and a road from city G to city H. Is there a way to travel from city C to city H? Dirctly answer this question.",
+        "answer": "There is a road from city C to city G, and a road from city G to city H. Is there a way to travel from city C to city H? Dirctly answer this question. Yes, there is a way to travel from city C to city H. To travel from city"
+    },
+    {
+        "question": "There is a road from city O to city D, and a road from city D to city Y. Is there a way to travel from city O to city Y? Dirctly answer this question.",
+        "answer": "There is a road from city O to city D, and a road from city D to city Y. Is there a way to travel from city O to city Y? Dirctly answer this question. To determine if there is a way to travel from city O to city Y, we need to"
+    },
+    {
+        "question": "There is a road from city W to city I, and a road from city I to city U. Is there a way to travel from city W to city U? Dirctly answer this question.",
+        "answer": "There is a road from city W to city I, and a road from city I to city U. Is there a way to travel from city W to city U? Dirctly answer this question. To determine if there is a way to travel from city W to city U, we need to"
+    },
+    {
+        "question": "There is a road from city U to city S, and a road from city S to city Y. Is there a way to travel from city U to city Y? Dirctly answer this question.",
+        "answer": "There is a road from city U to city S, and a road from city S to city Y. Is there a way to travel from city U to city Y? Dirctly answer this question. To determine if there is a way to travel from city U to city Y, we need to"
+    },
+    {
+        "question": "There is a road from city Z to city P, and a road from city P to city N. Is there a way to travel from city Z to city N? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city P, and a road from city P to city N. Is there a way to travel from city Z to city N? Dirctly answer this question. Yes, there is a way to travel from city Z to city N, as there is a"
+    },
+    {
+        "question": "There is a road from city X to city T, and a road from city T to city P. Is there a way to travel from city X to city P? Dirctly answer this question.",
+        "answer": "There is a road from city X to city T, and a road from city T to city P. Is there a way to travel from city X to city P? Dirctly answer this question. To travel from city X to city P, one must first travel from city X to city T"
+    },
+    {
+        "question": "There is a road from city V to city F, and a road from city F to city E. Is there a way to travel from city V to city E? Dirctly answer this question.",
+        "answer": "There is a road from city V to city F, and a road from city F to city E. Is there a way to travel from city V to city E? Dirctly answer this question. Yes, there is a way to travel from city V to city E. To travel from city"
+    },
+    {
+        "question": "There is a road from city D to city G, and a road from city G to city O. Is there a way to travel from city D to city O? Dirctly answer this question.",
+        "answer": "There is a road from city D to city G, and a road from city G to city O. Is there a way to travel from city D to city O? Dirctly answer this question. Yes, there is a way to travel from city D to city O, as there is a"
+    },
+    {
+        "question": "There is a road from city C to city E, and a road from city E to city P. Is there a way to travel from city C to city P? Dirctly answer this question.",
+        "answer": "There is a road from city C to city E, and a road from city E to city P. Is there a way to travel from city C to city P? Dirctly answer this question. Yes, there is a way to travel from city C to city P. To travel from city"
+    },
+    {
+        "question": "There is a road from city U to city O, and a road from city O to city N. Is there a way to travel from city U to city N? Dirctly answer this question.",
+        "answer": "There is a road from city U to city O, and a road from city O to city N. Is there a way to travel from city U to city N? Dirctly answer this question. To determine if there is a way to travel from city U to city N, we need to"
+    },
+    {
+        "question": "There is a road from city I to city M, and a road from city M to city V. Is there a way to travel from city I to city V? Dirctly answer this question.",
+        "answer": "There is a road from city I to city M, and a road from city M to city V. Is there a way to travel from city I to city V? Dirctly answer this question. To determine if there is a way to travel from city I to city V, we need to"
+    },
+    {
+        "question": "There is a road from city S to city Y, and a road from city Y to city X. Is there a way to travel from city S to city X? Dirctly answer this question.",
+        "answer": "There is a road from city S to city Y, and a road from city Y to city X. Is there a way to travel from city S to city X? Dirctly answer this question. To travel from city S to city X, you cannot travel directly from city S to city Y"
+    },
+    {
+        "question": "There is a road from city K to city M, and a road from city M to city Z. Is there a way to travel from city K to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city K to city M, and a road from city M to city Z. Is there a way to travel from city K to city Z? Dirctly answer this question. To travel from city K to city Z, one must first travel from city K to city M"
+    },
+    {
+        "question": "There is a road from city N to city Z, and a road from city Z to city M. Is there a way to travel from city N to city M? Dirctly answer this question.",
+        "answer": "There is a road from city N to city Z, and a road from city Z to city M. Is there a way to travel from city N to city M? Dirctly answer this question. To travel from city N to city M, one must first travel from city N to city Z"
+    },
+    {
+        "question": "There is a road from city M to city O, and a road from city O to city L. Is there a way to travel from city M to city L? Dirctly answer this question.",
+        "answer": "There is a road from city M to city O, and a road from city O to city L. Is there a way to travel from city M to city L? Dirctly answer this question. To determine if there is a way to travel from city M to city L, we need to"
+    },
+    {
+        "question": "There is a road from city F to city G, and a road from city G to city B. Is there a way to travel from city F to city B? Dirctly answer this question.",
+        "answer": "There is a road from city F to city G, and a road from city G to city B. Is there a way to travel from city F to city B? Dirctly answer this question. Yes, there is a way to travel from city F to city B. To travel from city"
+    },
+    {
+        "question": "There is a road from city Q to city U, and a road from city U to city K. Is there a way to travel from city Q to city K? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city U, and a road from city U to city K. Is there a way to travel from city Q to city K? Dirctly answer this question. To determine if there is a way to travel from city Q to city K, we need to"
+    },
+    {
+        "question": "There is a road from city U to city W, and a road from city W to city M. Is there a way to travel from city U to city M? Dirctly answer this question.",
+        "answer": "There is a road from city U to city W, and a road from city W to city M. Is there a way to travel from city U to city M? Dirctly answer this question. To determine if there is a way to travel from city U to city M, we need to"
+    },
+    {
+        "question": "There is a road from city W to city U, and a road from city U to city I. Is there a way to travel from city W to city I? Dirctly answer this question.",
+        "answer": "There is a road from city W to city U, and a road from city U to city I. Is there a way to travel from city W to city I? Dirctly answer this question. To determine if there is a way to travel from city W to city I, we need to"
+    },
+    {
+        "question": "There is a road from city S to city N, and a road from city N to city C. Is there a way to travel from city S to city C? Dirctly answer this question.",
+        "answer": "There is a road from city S to city N, and a road from city N to city C. Is there a way to travel from city S to city C? Dirctly answer this question. Yes, there is a way to travel from city S to city C by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city D to city M, and a road from city M to city L. Is there a way to travel from city D to city L? Dirctly answer this question.",
+        "answer": "There is a road from city D to city M, and a road from city M to city L. Is there a way to travel from city D to city L? Dirctly answer this question. Yes, there is a way to travel from city D to city L. To travel from city"
+    },
+    {
+        "question": "There is a road from city N to city X, and a road from city X to city H. Is there a way to travel from city N to city H? Dirctly answer this question.",
+        "answer": "There is a road from city N to city X, and a road from city X to city H. Is there a way to travel from city N to city H? Dirctly answer this question. To travel from city N to city H, one must first travel from city N to city X"
+    },
+    {
+        "question": "There is a road from city B to city U, and a road from city U to city V. Is there a way to travel from city B to city V? Dirctly answer this question.",
+        "answer": "There is a road from city B to city U, and a road from city U to city V. Is there a way to travel from city B to city V? Dirctly answer this question. To determine if there is a way to travel from city B to city V, we need to"
+    },
+    {
+        "question": "There is a road from city E to city O, and a road from city O to city V. Is there a way to travel from city E to city V? Dirctly answer this question.",
+        "answer": "There is a road from city E to city O, and a road from city O to city V. Is there a way to travel from city E to city V? Dirctly answer this question. To determine if there is a way to travel from city E to city V, we need to"
+    },
+    {
+        "question": "There is a road from city Z to city K, and a road from city K to city U. Is there a way to travel from city Z to city U? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city K, and a road from city K to city U. Is there a way to travel from city Z to city U? Dirctly answer this question. To travel from city Z to city U, one must first travel from city Z to city K"
+    },
+    {
+        "question": "There is a road from city Z to city J, and a road from city J to city K. Is there a way to travel from city Z to city K? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city J, and a road from city J to city K. Is there a way to travel from city Z to city K? Dirctly answer this question. To travel from city Z to city K, you cannot travel directly from city Z to city J"
+    },
+    {
+        "question": "There is a road from city E to city H, and a road from city H to city L. Is there a way to travel from city E to city L? Dirctly answer this question.",
+        "answer": "There is a road from city E to city H, and a road from city H to city L. Is there a way to travel from city E to city L? Dirctly answer this question. Yes, there is a way to travel from city E to city L. To travel from city"
+    },
+    {
+        "question": "There is a road from city L to city J, and a road from city J to city X. Is there a way to travel from city L to city X? Dirctly answer this question.",
+        "answer": "There is a road from city L to city J, and a road from city J to city X. Is there a way to travel from city L to city X? Dirctly answer this question. To travel from city L to city X, one must first travel from city L to city J"
+    },
+    {
+        "question": "There is a road from city A to city X, and a road from city X to city F. Is there a way to travel from city A to city F? Dirctly answer this question.",
+        "answer": "There is a road from city A to city X, and a road from city X to city F. Is there a way to travel from city A to city F? Dirctly answer this question. To travel from city A to city F, you cannot travel directly from city A to city X"
+    },
+    {
+        "question": "There is a road from city T to city J, and a road from city J to city S. Is there a way to travel from city T to city S? Dirctly answer this question.",
+        "answer": "There is a road from city T to city J, and a road from city J to city S. Is there a way to travel from city T to city S? Dirctly answer this question. Yes, there is a way to travel from city T to city S by traveling along the road"
+    },
+    {
+        "question": "There is a road from city L to city R, and a road from city R to city H. Is there a way to travel from city L to city H? Dirctly answer this question.",
+        "answer": "There is a road from city L to city R, and a road from city R to city H. Is there a way to travel from city L to city H? Dirctly answer this question. Yes, there is a way to travel from city L to city H. To travel from city"
+    },
+    {
+        "question": "There is a road from city S to city R, and a road from city R to city E. Is there a way to travel from city S to city E? Dirctly answer this question.",
+        "answer": "There is a road from city S to city R, and a road from city R to city E. Is there a way to travel from city S to city E? Dirctly answer this question. To determine if there is a way to travel from city S to city E, we need to"
+    },
+    {
+        "question": "There is a road from city T to city W, and a road from city W to city H. Is there a way to travel from city T to city H? Dirctly answer this question.",
+        "answer": "There is a road from city T to city W, and a road from city W to city H. Is there a way to travel from city T to city H? Dirctly answer this question. Yes, there is a way to travel from city T to city H. To travel from city"
+    },
+    {
+        "question": "There is a road from city A to city J, and a road from city J to city V. Is there a way to travel from city A to city V? Dirctly answer this question.",
+        "answer": "There is a road from city A to city J, and a road from city J to city V. Is there a way to travel from city A to city V? Dirctly answer this question. To travel from city A to city V, you cannot travel directly from city A to city J"
+    },
+    {
+        "question": "There is a road from city P to city L, and a road from city L to city K. Is there a way to travel from city P to city K? Dirctly answer this question.",
+        "answer": "There is a road from city P to city L, and a road from city L to city K. Is there a way to travel from city P to city K? Dirctly answer this question. Yes, there is a way to travel from city P to city K by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city I to city Z, and a road from city Z to city B. Is there a way to travel from city I to city B? Dirctly answer this question.",
+        "answer": "There is a road from city I to city Z, and a road from city Z to city B. Is there a way to travel from city I to city B? Dirctly answer this question. Yes, there is a way to travel from city I to city B. To travel from city"
+    },
+    {
+        "question": "There is a road from city R to city G, and a road from city G to city O. Is there a way to travel from city R to city O? Dirctly answer this question.",
+        "answer": "There is a road from city R to city G, and a road from city G to city O. Is there a way to travel from city R to city O? Dirctly answer this question. Yes, there is a way to travel from city R to city O, as there is a"
+    },
+    {
+        "question": "There is a road from city X to city E, and a road from city E to city Z. Is there a way to travel from city X to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city X to city E, and a road from city E to city Z. Is there a way to travel from city X to city Z? Dirctly answer this question. To travel from city X to city Z, one must first travel from city X to city E"
+    },
+    {
+        "question": "There is a road from city A to city B, and a road from city B to city I. Is there a way to travel from city A to city I? Dirctly answer this question.",
+        "answer": "There is a road from city A to city B, and a road from city B to city I. Is there a way to travel from city A to city I? Dirctly answer this question. To determine if there is a way to travel from city A to city I, we need to"
+    },
+    {
+        "question": "There is a road from city P to city N, and a road from city N to city K. Is there a way to travel from city P to city K? Dirctly answer this question.",
+        "answer": "There is a road from city P to city N, and a road from city N to city K. Is there a way to travel from city P to city K? Dirctly answer this question. To travel from city P to city K, one must first travel from city P to city N"
+    },
+    {
+        "question": "There is a road from city J to city V, and a road from city V to city C. Is there a way to travel from city J to city C? Dirctly answer this question.",
+        "answer": "There is a road from city J to city V, and a road from city V to city C. Is there a way to travel from city J to city C? Dirctly answer this question. Yes, there is a way to travel from city J to city C. To travel from city"
+    },
+    {
+        "question": "There is a road from city A to city W, and a road from city W to city D. Is there a way to travel from city A to city D? Dirctly answer this question.",
+        "answer": "There is a road from city A to city W, and a road from city W to city D. Is there a way to travel from city A to city D? Dirctly answer this question. Yes, there is a way to travel from city A to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city X to city V, and a road from city V to city U. Is there a way to travel from city X to city U? Dirctly answer this question.",
+        "answer": "There is a road from city X to city V, and a road from city V to city U. Is there a way to travel from city X to city U? Dirctly answer this question. To travel from city X to city U, one must first travel from city X to city V"
+    },
+    {
+        "question": "There is a road from city J to city W, and a road from city W to city Q. Is there a way to travel from city J to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city J to city W, and a road from city W to city Q. Is there a way to travel from city J to city Q? Dirctly answer this question. To determine if there is a way to travel from city J to city Q, we need to"
+    },
+    {
+        "question": "There is a road from city A to city N, and a road from city N to city Z. Is there a way to travel from city A to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city A to city N, and a road from city N to city Z. Is there a way to travel from city A to city Z? Dirctly answer this question. Yes, there is a way to travel from city A to city Z by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city E to city J, and a road from city J to city Q. Is there a way to travel from city E to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city E to city J, and a road from city J to city Q. Is there a way to travel from city E to city Q? Dirctly answer this question. To determine if there is a way to travel from city E to city Q, we need to"
+    },
+    {
+        "question": "There is a road from city V to city S, and a road from city S to city X. Is there a way to travel from city V to city X? Dirctly answer this question.",
+        "answer": "There is a road from city V to city S, and a road from city S to city X. Is there a way to travel from city V to city X? Dirctly answer this question. To travel from city V to city X, one must first travel from city V to city S"
+    },
+    {
+        "question": "There is a road from city Z to city M, and a road from city M to city K. Is there a way to travel from city Z to city K? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city M, and a road from city M to city K. Is there a way to travel from city Z to city K? Dirctly answer this question. To travel from city Z to city K, one must first travel from city Z to city M"
+    },
+    {
+        "question": "There is a road from city X to city Q, and a road from city Q to city S. Is there a way to travel from city X to city S? Dirctly answer this question.",
+        "answer": "There is a road from city X to city Q, and a road from city Q to city S. Is there a way to travel from city X to city S? Dirctly answer this question. To travel from city X to city S, one must first travel from city X to city Q"
+    },
+    {
+        "question": "There is a road from city W to city M, and a road from city M to city Z. Is there a way to travel from city W to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city W to city M, and a road from city M to city Z. Is there a way to travel from city W to city Z? Dirctly answer this question. Yes, there is a way to travel from city W to city Z by taking the road from"
+    },
+    {
+        "question": "There is a road from city V to city B, and a road from city B to city D. Is there a way to travel from city V to city D? Dirctly answer this question.",
+        "answer": "There is a road from city V to city B, and a road from city B to city D. Is there a way to travel from city V to city D? Dirctly answer this question. Yes, there is a way to travel from city V to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city X to city G, and a road from city G to city Z. Is there a way to travel from city X to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city X to city G, and a road from city G to city Z. Is there a way to travel from city X to city Z? Dirctly answer this question. To travel from city X to city Z, one must first travel from city X to city G"
+    },
+    {
+        "question": "There is a road from city S to city E, and a road from city E to city M. Is there a way to travel from city S to city M? Dirctly answer this question.",
+        "answer": "There is a road from city S to city E, and a road from city E to city M. Is there a way to travel from city S to city M? Dirctly answer this question. Yes, there is a way to travel from city S to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city V to city Y, and a road from city Y to city L. Is there a way to travel from city V to city L? Dirctly answer this question.",
+        "answer": "There is a road from city V to city Y, and a road from city Y to city L. Is there a way to travel from city V to city L? Dirctly answer this question. To travel from city V to city L, you cannot travel directly from city V to city Y"
+    },
+    {
+        "question": "There is a road from city U to city S, and a road from city S to city I. Is there a way to travel from city U to city I? Dirctly answer this question.",
+        "answer": "There is a road from city U to city S, and a road from city S to city I. Is there a way to travel from city U to city I? Dirctly answer this question. To determine if there is a way to travel from city U to city I, we need to"
+    },
+    {
+        "question": "There is a road from city I to city Q, and a road from city Q to city E. Is there a way to travel from city I to city E? Dirctly answer this question.",
+        "answer": "There is a road from city I to city Q, and a road from city Q to city E. Is there a way to travel from city I to city E? Dirctly answer this question. To determine if there is a way to travel from city I to city E, we need to"
+    },
+    {
+        "question": "There is a road from city H to city I, and a road from city I to city K. Is there a way to travel from city H to city K? Dirctly answer this question.",
+        "answer": "There is a road from city H to city I, and a road from city I to city K. Is there a way to travel from city H to city K? Dirctly answer this question. Yes, there is a way to travel from city H to city K by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city Y to city L, and a road from city L to city H. Is there a way to travel from city Y to city H? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city L, and a road from city L to city H. Is there a way to travel from city Y to city H? Dirctly answer this question. To travel from city Y to city H, you cannot travel directly from city Y to city L"
+    },
+    {
+        "question": "There is a road from city J to city K, and a road from city K to city C. Is there a way to travel from city J to city C? Dirctly answer this question.",
+        "answer": "There is a road from city J to city K, and a road from city K to city C. Is there a way to travel from city J to city C? Dirctly answer this question. To travel from city J to city C, you cannot travel directly from city J to city K"
+    },
+    {
+        "question": "There is a road from city B to city U, and a road from city U to city L. Is there a way to travel from city B to city L? Dirctly answer this question.",
+        "answer": "There is a road from city B to city U, and a road from city U to city L. Is there a way to travel from city B to city L? Dirctly answer this question. To determine if there is a way to travel from city B to city L, we need to"
+    },
+    {
+        "question": "There is a road from city X to city W, and a road from city W to city A. Is there a way to travel from city X to city A? Dirctly answer this question.",
+        "answer": "There is a road from city X to city W, and a road from city W to city A. Is there a way to travel from city X to city A? Dirctly answer this question. Yes, there is a way to travel from city X to city A, as there is a"
+    },
+    {
+        "question": "There is a road from city Q to city F, and a road from city F to city G. Is there a way to travel from city Q to city G? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city F, and a road from city F to city G. Is there a way to travel from city Q to city G? Dirctly answer this question. Yes, there is a way to travel from city Q to city G. To travel from city"
+    },
+    {
+        "question": "There is a road from city Y to city J, and a road from city J to city Q. Is there a way to travel from city Y to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city J, and a road from city J to city Q. Is there a way to travel from city Y to city Q? Dirctly answer this question. To travel from city Y to city Q, you cannot travel directly from city Y to city J"
+    },
+    {
+        "question": "There is a road from city F to city M, and a road from city M to city Q. Is there a way to travel from city F to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city F to city M, and a road from city M to city Q. Is there a way to travel from city F to city Q? Dirctly answer this question. To determine if there is a way to travel from city F to city Q, we need to"
+    },
+    {
+        "question": "There is a road from city W to city Y, and a road from city Y to city A. Is there a way to travel from city W to city A? Dirctly answer this question.",
+        "answer": "There is a road from city W to city Y, and a road from city Y to city A. Is there a way to travel from city W to city A? Dirctly answer this question. Yes, there is a way to travel from city W to city A, as there is a"
+    },
+    {
+        "question": "There is a road from city S to city R, and a road from city R to city V. Is there a way to travel from city S to city V? Dirctly answer this question.",
+        "answer": "There is a road from city S to city R, and a road from city R to city V. Is there a way to travel from city S to city V? Dirctly answer this question. Yes, there is a way to travel from city S to city V by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city B to city V, and a road from city V to city X. Is there a way to travel from city B to city X? Dirctly answer this question.",
+        "answer": "There is a road from city B to city V, and a road from city V to city X. Is there a way to travel from city B to city X? Dirctly answer this question. Yes, there is a way to travel from city B to city X, as there is a"
+    },
+    {
+        "question": "There is a road from city G to city L, and a road from city L to city M. Is there a way to travel from city G to city M? Dirctly answer this question.",
+        "answer": "There is a road from city G to city L, and a road from city L to city M. Is there a way to travel from city G to city M? Dirctly answer this question. Yes, there is a way to travel from city G to city M, as there is a"
+    },
+    {
+        "question": "There is a road from city P to city S, and a road from city S to city L. Is there a way to travel from city P to city L? Dirctly answer this question.",
+        "answer": "There is a road from city P to city S, and a road from city S to city L. Is there a way to travel from city P to city L? Dirctly answer this question. To determine if there is a way to travel from city P to city L, we need to"
+    },
+    {
+        "question": "There is a road from city C to city H, and a road from city H to city L. Is there a way to travel from city C to city L? Dirctly answer this question.",
+        "answer": "There is a road from city C to city H, and a road from city H to city L. Is there a way to travel from city C to city L? Dirctly answer this question. Yes, there is a way to travel from city C to city L. To travel from city"
+    },
+    {
+        "question": "There is a road from city S to city Y, and a road from city Y to city C. Is there a way to travel from city S to city C? Dirctly answer this question.",
+        "answer": "There is a road from city S to city Y, and a road from city Y to city C. Is there a way to travel from city S to city C? Dirctly answer this question. To determine if there is a way to travel from city S to city C, we need to"
+    },
+    {
+        "question": "There is a road from city D to city R, and a road from city R to city I. Is there a way to travel from city D to city I? Dirctly answer this question.",
+        "answer": "There is a road from city D to city R, and a road from city R to city I. Is there a way to travel from city D to city I? Dirctly answer this question. To determine if there is a way to travel from city D to city I, we need to"
+    },
+    {
+        "question": "There is a road from city X to city V, and a road from city V to city F. Is there a way to travel from city X to city F? Dirctly answer this question.",
+        "answer": "There is a road from city X to city V, and a road from city V to city F. Is there a way to travel from city X to city F? Dirctly answer this question. To travel from city X to city F, one must first travel from city X to city V"
+    },
+    {
+        "question": "There is a road from city B to city I, and a road from city I to city A. Is there a way to travel from city B to city A? Dirctly answer this question.",
+        "answer": "There is a road from city B to city I, and a road from city I to city A. Is there a way to travel from city B to city A? Dirctly answer this question. To travel from city B to city A, you cannot travel directly from city B to city I"
+    },
+    {
+        "question": "There is a road from city Z to city O, and a road from city O to city J. Is there a way to travel from city Z to city J? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city O, and a road from city O to city J. Is there a way to travel from city Z to city J? Dirctly answer this question. To travel from city Z to city J, you cannot travel directly from city Z to city O"
+    },
+    {
+        "question": "There is a road from city F to city Z, and a road from city Z to city O. Is there a way to travel from city F to city O? Dirctly answer this question.",
+        "answer": "There is a road from city F to city Z, and a road from city Z to city O. Is there a way to travel from city F to city O? Dirctly answer this question. Yes, there is a way to travel from city F to city O, as there is a"
+    },
+    {
+        "question": "There is a road from city A to city P, and a road from city P to city B. Is there a way to travel from city A to city B? Dirctly answer this question.",
+        "answer": "There is a road from city A to city P, and a road from city P to city B. Is there a way to travel from city A to city B? Dirctly answer this question. To determine if there is a way to travel from city A to city B, we need to"
+    },
+    {
+        "question": "There is a road from city X to city S, and a road from city S to city Y. Is there a way to travel from city X to city Y? Dirctly answer this question.",
+        "answer": "There is a road from city X to city S, and a road from city S to city Y. Is there a way to travel from city X to city Y? Dirctly answer this question. To travel from city X to city Y, one must first travel from city X to city S"
+    },
+    {
+        "question": "There is a road from city P to city L, and a road from city L to city F. Is there a way to travel from city P to city F? Dirctly answer this question.",
+        "answer": "There is a road from city P to city L, and a road from city L to city F. Is there a way to travel from city P to city F? Dirctly answer this question. Yes, there is a way to travel from city P to city F. To travel from city"
+    },
+    {
+        "question": "There is a road from city T to city C, and a road from city C to city J. Is there a way to travel from city T to city J? Dirctly answer this question.",
+        "answer": "There is a road from city T to city C, and a road from city C to city J. Is there a way to travel from city T to city J? Dirctly answer this question. Yes, there is a way to travel from city T to city J. To travel from city"
+    },
+    {
+        "question": "There is a road from city Q to city F, and a road from city F to city S. Is there a way to travel from city Q to city S? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city F, and a road from city F to city S. Is there a way to travel from city Q to city S? Dirctly answer this question. To travel from city Q to city S, you cannot travel directly from city Q to city F"
+    },
+    {
+        "question": "There is a road from city T to city D, and a road from city D to city E. Is there a way to travel from city T to city E? Dirctly answer this question.",
+        "answer": "There is a road from city T to city D, and a road from city D to city E. Is there a way to travel from city T to city E? Dirctly answer this question. Yes, there is a way to travel from city T to city E. To travel from city"
+    },
+    {
+        "question": "There is a road from city X to city J, and a road from city J to city Q. Is there a way to travel from city X to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city X to city J, and a road from city J to city Q. Is there a way to travel from city X to city Q? Dirctly answer this question. To travel from city X to city Q, one must first travel from city X to city J"
+    },
+    {
+        "question": "There is a road from city W to city D, and a road from city D to city M. Is there a way to travel from city W to city M? Dirctly answer this question.",
+        "answer": "There is a road from city W to city D, and a road from city D to city M. Is there a way to travel from city W to city M? Dirctly answer this question. Yes, there is a way to travel from city W to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city H to city O, and a road from city O to city K. Is there a way to travel from city H to city K? Dirctly answer this question.",
+        "answer": "There is a road from city H to city O, and a road from city O to city K. Is there a way to travel from city H to city K? Dirctly answer this question. Yes, there is a way to travel from city H to city K by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city D to city O, and a road from city O to city K. Is there a way to travel from city D to city K? Dirctly answer this question.",
+        "answer": "There is a road from city D to city O, and a road from city O to city K. Is there a way to travel from city D to city K? Dirctly answer this question. To determine if there is a way to travel from city D to city K, we need to"
+    },
+    {
+        "question": "There is a road from city R to city G, and a road from city G to city Q. Is there a way to travel from city R to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city R to city G, and a road from city G to city Q. Is there a way to travel from city R to city Q? Dirctly answer this question. Yes, there is a way to travel from city R to city Q, as there is a"
+    },
+    {
+        "question": "There is a road from city E to city U, and a road from city U to city B. Is there a way to travel from city E to city B? Dirctly answer this question.",
+        "answer": "There is a road from city E to city U, and a road from city U to city B. Is there a way to travel from city E to city B? Dirctly answer this question. To determine if there is a way to travel from city E to city B, we need to"
+    },
+    {
+        "question": "There is a road from city J to city F, and a road from city F to city L. Is there a way to travel from city J to city L? Dirctly answer this question.",
+        "answer": "There is a road from city J to city F, and a road from city F to city L. Is there a way to travel from city J to city L? Dirctly answer this question. Yes, there is a way to travel from city J to city L. To travel from city"
+    },
+    {
+        "question": "There is a road from city K to city P, and a road from city P to city G. Is there a way to travel from city K to city G? Dirctly answer this question.",
+        "answer": "There is a road from city K to city P, and a road from city P to city G. Is there a way to travel from city K to city G? Dirctly answer this question. Yes, there is a way to travel from city K to city G. To travel from city"
+    },
+    {
+        "question": "There is a road from city V to city I, and a road from city I to city O. Is there a way to travel from city V to city O? Dirctly answer this question.",
+        "answer": "There is a road from city V to city I, and a road from city I to city O. Is there a way to travel from city V to city O? Dirctly answer this question. To determine if there is a way to travel from city V to city O, we need to"
+    },
+    {
+        "question": "There is a road from city I to city O, and a road from city O to city J. Is there a way to travel from city I to city J? Dirctly answer this question.",
+        "answer": "There is a road from city I to city O, and a road from city O to city J. Is there a way to travel from city I to city J? Dirctly answer this question. To determine if there is a way to travel from city I to city J, we need to"
+    },
+    {
+        "question": "There is a road from city H to city N, and a road from city N to city W. Is there a way to travel from city H to city W? Dirctly answer this question.",
+        "answer": "There is a road from city H to city N, and a road from city N to city W. Is there a way to travel from city H to city W? Dirctly answer this question. Yes, there is a way to travel from city H to city W. To travel from city"
+    },
+    {
+        "question": "There is a road from city D to city F, and a road from city F to city B. Is there a way to travel from city D to city B? Dirctly answer this question.",
+        "answer": "There is a road from city D to city F, and a road from city F to city B. Is there a way to travel from city D to city B? Dirctly answer this question. Yes, there is a way to travel from city D to city B. To travel from city"
+    },
+    {
+        "question": "There is a road from city X to city U, and a road from city U to city W. Is there a way to travel from city X to city W? Dirctly answer this question.",
+        "answer": "There is a road from city X to city U, and a road from city U to city W. Is there a way to travel from city X to city W? Dirctly answer this question. To travel from city X to city W, one must first travel from city X to city U"
+    },
+    {
+        "question": "There is a road from city C to city Y, and a road from city Y to city O. Is there a way to travel from city C to city O? Dirctly answer this question.",
+        "answer": "There is a road from city C to city Y, and a road from city Y to city O. Is there a way to travel from city C to city O? Dirctly answer this question. To determine if there is a way to travel from city C to city O, we need to"
+    },
+    {
+        "question": "There is a road from city U to city I, and a road from city I to city G. Is there a way to travel from city U to city G? Dirctly answer this question.",
+        "answer": "There is a road from city U to city I, and a road from city I to city G. Is there a way to travel from city U to city G? Dirctly answer this question. To determine if there is a way to travel from city U to city G, we need to"
+    },
+    {
+        "question": "There is a road from city U to city X, and a road from city X to city Z. Is there a way to travel from city U to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city U to city X, and a road from city X to city Z. Is there a way to travel from city U to city Z? Dirctly answer this question. To travel from city U to city Z, one must first travel from city U to city X"
+    },
+    {
+        "question": "There is a road from city H to city R, and a road from city R to city F. Is there a way to travel from city H to city F? Dirctly answer this question.",
+        "answer": "There is a road from city H to city R, and a road from city R to city F. Is there a way to travel from city H to city F? Dirctly answer this question. Yes, there is a way to travel from city H to city F. To travel from city"
+    },
+    {
+        "question": "There is a road from city Y to city U, and a road from city U to city T. Is there a way to travel from city Y to city T? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city U, and a road from city U to city T. Is there a way to travel from city Y to city T? Dirctly answer this question. To travel from city Y to city T, you cannot travel directly from city Y to city U"
+    },
+    {
+        "question": "There is a road from city Y to city B, and a road from city B to city M. Is there a way to travel from city Y to city M? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city B, and a road from city B to city M. Is there a way to travel from city Y to city M? Dirctly answer this question. Yes, there is a way to travel from city Y to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city T to city E, and a road from city E to city N. Is there a way to travel from city T to city N? Dirctly answer this question.",
+        "answer": "There is a road from city T to city E, and a road from city E to city N. Is there a way to travel from city T to city N? Dirctly answer this question. Yes, there is a way to travel from city T to city N, as there is a"
+    },
+    {
+        "question": "There is a road from city E to city C, and a road from city C to city A. Is there a way to travel from city E to city A? Dirctly answer this question.",
+        "answer": "There is a road from city E to city C, and a road from city C to city A. Is there a way to travel from city E to city A? Dirctly answer this question. Yes, there is a way to travel from city E to city A. There is a direct"
+    },
+    {
+        "question": "There is a road from city H to city D, and a road from city D to city W. Is there a way to travel from city H to city W? Dirctly answer this question.",
+        "answer": "There is a road from city H to city D, and a road from city D to city W. Is there a way to travel from city H to city W? Dirctly answer this question. Yes, there is a way to travel from city H to city W. To travel from city"
+    },
+    {
+        "question": "There is a road from city L to city G, and a road from city G to city H. Is there a way to travel from city L to city H? Dirctly answer this question.",
+        "answer": "There is a road from city L to city G, and a road from city G to city H. Is there a way to travel from city L to city H? Dirctly answer this question. Yes, there is a way to travel from city L to city H. To travel from city"
+    },
+    {
+        "question": "There is a road from city E to city V, and a road from city V to city R. Is there a way to travel from city E to city R? Dirctly answer this question.",
+        "answer": "There is a road from city E to city V, and a road from city V to city R. Is there a way to travel from city E to city R? Dirctly answer this question. Yes, there is a way to travel from city E to city R, as there is a"
+    },
+    {
+        "question": "There is a road from city U to city X, and a road from city X to city I. Is there a way to travel from city U to city I? Dirctly answer this question.",
+        "answer": "There is a road from city U to city X, and a road from city X to city I. Is there a way to travel from city U to city I? Dirctly answer this question. To determine if there is a way to travel from city U to city I, we need to"
+    },
+    {
+        "question": "There is a road from city Y to city N, and a road from city N to city R. Is there a way to travel from city Y to city R? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city N, and a road from city N to city R. Is there a way to travel from city Y to city R? Dirctly answer this question. To travel from city Y to city R, you cannot travel directly from city Y to city N"
+    },
+    {
+        "question": "There is a road from city E to city M, and a road from city M to city U. Is there a way to travel from city E to city U? Dirctly answer this question.",
+        "answer": "There is a road from city E to city M, and a road from city M to city U. Is there a way to travel from city E to city U? Dirctly answer this question. To determine if there is a way to travel from city E to city U, we need to"
+    },
+    {
+        "question": "There is a road from city F to city Y, and a road from city Y to city V. Is there a way to travel from city F to city V? Dirctly answer this question.",
+        "answer": "There is a road from city F to city Y, and a road from city Y to city V. Is there a way to travel from city F to city V? Dirctly answer this question. Yes, there is a way to travel from city F to city V. To travel from city"
+    },
+    {
+        "question": "There is a road from city A to city V, and a road from city V to city O. Is there a way to travel from city A to city O? Dirctly answer this question.",
+        "answer": "There is a road from city A to city V, and a road from city V to city O. Is there a way to travel from city A to city O? Dirctly answer this question. Yes, there is a way to travel from city A to city O, as there is a"
+    },
+    {
+        "question": "There is a road from city H to city I, and a road from city I to city A. Is there a way to travel from city H to city A? Dirctly answer this question.",
+        "answer": "There is a road from city H to city I, and a road from city I to city A. Is there a way to travel from city H to city A? Dirctly answer this question. To travel from city H to city A, you cannot travel directly from city H to city I"
+    },
+    {
+        "question": "There is a road from city V to city G, and a road from city G to city Q. Is there a way to travel from city V to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city V to city G, and a road from city G to city Q. Is there a way to travel from city V to city Q? Dirctly answer this question. To travel from city V to city Q, you cannot travel directly from city V to city G"
+    },
+    {
+        "question": "There is a road from city E to city H, and a road from city H to city B. Is there a way to travel from city E to city B? Dirctly answer this question.",
+        "answer": "There is a road from city E to city H, and a road from city H to city B. Is there a way to travel from city E to city B? Dirctly answer this question. To determine if there is a way to travel from city E to city B, we need to"
+    },
+    {
+        "question": "There is a road from city V to city J, and a road from city J to city G. Is there a way to travel from city V to city G? Dirctly answer this question.",
+        "answer": "There is a road from city V to city J, and a road from city J to city G. Is there a way to travel from city V to city G? Dirctly answer this question. To travel from city V to city G, you cannot travel directly from city V to city J"
+    },
+    {
+        "question": "There is a road from city C to city G, and a road from city G to city N. Is there a way to travel from city C to city N? Dirctly answer this question.",
+        "answer": "There is a road from city C to city G, and a road from city G to city N. Is there a way to travel from city C to city N? Dirctly answer this question. Yes, there is a way to travel from city C to city N, as there is a"
+    },
+    {
+        "question": "There is a road from city B to city U, and a road from city U to city P. Is there a way to travel from city B to city P? Dirctly answer this question.",
+        "answer": "There is a road from city B to city U, and a road from city U to city P. Is there a way to travel from city B to city P? Dirctly answer this question. To travel from city B to city P, you cannot travel directly from city B to city U"
+    },
+    {
+        "question": "There is a road from city V to city U, and a road from city U to city C. Is there a way to travel from city V to city C? Dirctly answer this question.",
+        "answer": "There is a road from city V to city U, and a road from city U to city C. Is there a way to travel from city V to city C? Dirctly answer this question. Yes, there is a way to travel from city V to city C. To travel from city"
+    },
+    {
+        "question": "There is a road from city T to city C, and a road from city C to city S. Is there a way to travel from city T to city S? Dirctly answer this question.",
+        "answer": "There is a road from city T to city C, and a road from city C to city S. Is there a way to travel from city T to city S? Dirctly answer this question. Yes, there is a way to travel from city T to city S. To travel from city"
+    },
+    {
+        "question": "There is a road from city V to city C, and a road from city C to city P. Is there a way to travel from city V to city P? Dirctly answer this question.",
+        "answer": "There is a road from city V to city C, and a road from city C to city P. Is there a way to travel from city V to city P? Dirctly answer this question. Yes, there is a way to travel from city V to city P, as there is a"
+    },
+    {
+        "question": "There is a road from city D to city Z, and a road from city Z to city S. Is there a way to travel from city D to city S? Dirctly answer this question.",
+        "answer": "There is a road from city D to city Z, and a road from city Z to city S. Is there a way to travel from city D to city S? Dirctly answer this question. Yes, there is a way to travel from city D to city S. To travel from city"
+    },
+    {
+        "question": "There is a road from city F to city V, and a road from city V to city Z. Is there a way to travel from city F to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city F to city V, and a road from city V to city Z. Is there a way to travel from city F to city Z? Dirctly answer this question. Yes, there is a way to travel from city F to city Z, as there is a"
+    },
+    {
+        "question": "There is a road from city Y to city E, and a road from city E to city Z. Is there a way to travel from city Y to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city E, and a road from city E to city Z. Is there a way to travel from city Y to city Z? Dirctly answer this question. Yes, there is a way to travel from city Y to city Z, as there is a"
+    },
+    {
+        "question": "There is a road from city R to city E, and a road from city E to city Y. Is there a way to travel from city R to city Y? Dirctly answer this question.",
+        "answer": "There is a road from city R to city E, and a road from city E to city Y. Is there a way to travel from city R to city Y? Dirctly answer this question. To determine if there is a way to travel from city R to city Y, we need to"
+    },
+    {
+        "question": "There is a road from city Q to city B, and a road from city B to city J. Is there a way to travel from city Q to city J? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city B, and a road from city B to city J. Is there a way to travel from city Q to city J? Dirctly answer this question. Yes, there is a way to travel from city Q to city J. To travel from city"
+    },
+    {
+        "question": "There is a road from city Z to city M, and a road from city M to city O. Is there a way to travel from city Z to city O? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city M, and a road from city M to city O. Is there a way to travel from city Z to city O? Dirctly answer this question. To travel from city Z to city O, one must first travel from city Z to city M"
+    },
+    {
+        "question": "There is a road from city P to city Q, and a road from city Q to city T. Is there a way to travel from city P to city T? Dirctly answer this question.",
+        "answer": "There is a road from city P to city Q, and a road from city Q to city T. Is there a way to travel from city P to city T? Dirctly answer this question. To determine if there is a way to travel from city P to city T, we need to"
+    },
+    {
+        "question": "There is a road from city P to city D, and a road from city D to city X. Is there a way to travel from city P to city X? Dirctly answer this question.",
+        "answer": "There is a road from city P to city D, and a road from city D to city X. Is there a way to travel from city P to city X? Dirctly answer this question. To determine if there is a way to travel from city P to city X, we need to"
+    },
+    {
+        "question": "There is a road from city Z to city F, and a road from city F to city H. Is there a way to travel from city Z to city H? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city F, and a road from city F to city H. Is there a way to travel from city Z to city H? Dirctly answer this question. Yes, there is a way to travel from city Z to city H. To travel from city"
+    },
+    {
+        "question": "There is a road from city U to city G, and a road from city G to city H. Is there a way to travel from city U to city H? Dirctly answer this question.",
+        "answer": "There is a road from city U to city G, and a road from city G to city H. Is there a way to travel from city U to city H? Dirctly answer this question. To determine if there is a way to travel from city U to city H, we need to"
+    },
+    {
+        "question": "There is a road from city K to city T, and a road from city T to city Z. Is there a way to travel from city K to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city K to city T, and a road from city T to city Z. Is there a way to travel from city K to city Z? Dirctly answer this question. To travel from city K to city Z, one must first travel from city K to city T"
+    },
+    {
+        "question": "There is a road from city C to city H, and a road from city H to city U. Is there a way to travel from city C to city U? Dirctly answer this question.",
+        "answer": "There is a road from city C to city H, and a road from city H to city U. Is there a way to travel from city C to city U? Dirctly answer this question. To determine if there is a way to travel from city C to city U, we need to"
+    },
+    {
+        "question": "There is a road from city L to city E, and a road from city E to city N. Is there a way to travel from city L to city N? Dirctly answer this question.",
+        "answer": "There is a road from city L to city E, and a road from city E to city N. Is there a way to travel from city L to city N? Dirctly answer this question. Yes, there is a way to travel from city L to city N. To travel from city"
+    },
+    {
+        "question": "There is a road from city I to city U, and a road from city U to city H. Is there a way to travel from city I to city H? Dirctly answer this question.",
+        "answer": "There is a road from city I to city U, and a road from city U to city H. Is there a way to travel from city I to city H? Dirctly answer this question. To determine if there is a way to travel from city I to city H, we need to"
+    },
+    {
+        "question": "There is a road from city T to city B, and a road from city B to city F. Is there a way to travel from city T to city F? Dirctly answer this question.",
+        "answer": "There is a road from city T to city B, and a road from city B to city F. Is there a way to travel from city T to city F? Dirctly answer this question. Yes, there is a way to travel from city T to city F. To travel from city"
+    },
+    {
+        "question": "There is a road from city W to city L, and a road from city L to city O. Is there a way to travel from city W to city O? Dirctly answer this question.",
+        "answer": "There is a road from city W to city L, and a road from city L to city O. Is there a way to travel from city W to city O? Dirctly answer this question. To determine if there is a way to travel from city W to city O, we need to"
+    },
+    {
+        "question": "There is a road from city P to city W, and a road from city W to city N. Is there a way to travel from city P to city N? Dirctly answer this question.",
+        "answer": "There is a road from city P to city W, and a road from city W to city N. Is there a way to travel from city P to city N? Dirctly answer this question. Yes, there is a way to travel from city P to city N, as there is a"
+    },
+    {
+        "question": "There is a road from city H to city A, and a road from city A to city P. Is there a way to travel from city H to city P? Dirctly answer this question.",
+        "answer": "There is a road from city H to city A, and a road from city A to city P. Is there a way to travel from city H to city P? Dirctly answer this question. Yes, there is a way to travel from city H to city P, as there is a"
+    },
+    {
+        "question": "There is a road from city Z to city X, and a road from city X to city D. Is there a way to travel from city Z to city D? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city X, and a road from city X to city D. Is there a way to travel from city Z to city D? Dirctly answer this question. To travel from city Z to city D, one must first travel from city Z to city X"
+    },
+    {
+        "question": "There is a road from city I to city O, and a road from city O to city W. Is there a way to travel from city I to city W? Dirctly answer this question.",
+        "answer": "There is a road from city I to city O, and a road from city O to city W. Is there a way to travel from city I to city W? Dirctly answer this question. To determine if there is a way to travel from city I to city W, we need to"
+    },
+    {
+        "question": "There is a road from city Y to city U, and a road from city U to city R. Is there a way to travel from city Y to city R? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city U, and a road from city U to city R. Is there a way to travel from city Y to city R? Dirctly answer this question. To travel from city Y to city R, you cannot travel directly from city Y to city U"
+    },
+    {
+        "question": "There is a road from city Q to city W, and a road from city W to city D. Is there a way to travel from city Q to city D? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city W, and a road from city W to city D. Is there a way to travel from city Q to city D? Dirctly answer this question. Yes, there is a way to travel from city Q to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city F to city A, and a road from city A to city Z. Is there a way to travel from city F to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city F to city A, and a road from city A to city Z. Is there a way to travel from city F to city Z? Dirctly answer this question. Yes, there is a way to travel from city F to city Z, as there is a"
+    },
+    {
+        "question": "There is a road from city X to city Q, and a road from city Q to city S. Is there a way to travel from city X to city S? Dirctly answer this question.",
+        "answer": "There is a road from city X to city Q, and a road from city Q to city S. Is there a way to travel from city X to city S? Dirctly answer this question. To travel from city X to city S, one must first travel from city X to city Q"
+    },
+    {
+        "question": "There is a road from city J to city P, and a road from city P to city Q. Is there a way to travel from city J to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city J to city P, and a road from city P to city Q. Is there a way to travel from city J to city Q? Dirctly answer this question. To determine if there is a way to travel from city J to city Q, we need to"
+    },
+    {
+        "question": "There is a road from city M to city D, and a road from city D to city S. Is there a way to travel from city M to city S? Dirctly answer this question.",
+        "answer": "There is a road from city M to city D, and a road from city D to city S. Is there a way to travel from city M to city S? Dirctly answer this question. Yes, there is a way to travel from city M to city S. To travel from city"
+    },
+    {
+        "question": "There is a road from city Y to city G, and a road from city G to city H. Is there a way to travel from city Y to city H? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city G, and a road from city G to city H. Is there a way to travel from city Y to city H? Dirctly answer this question. Yes, there is a way to travel from city Y to city H. To travel from city"
+    },
+    {
+        "question": "There is a road from city E to city V, and a road from city V to city U. Is there a way to travel from city E to city U? Dirctly answer this question.",
+        "answer": "There is a road from city E to city V, and a road from city V to city U. Is there a way to travel from city E to city U? Dirctly answer this question. Yes, there is a way to travel from city E to city U, as there is a"
+    },
+    {
+        "question": "There is a road from city G to city Z, and a road from city Z to city U. Is there a way to travel from city G to city U? Dirctly answer this question.",
+        "answer": "There is a road from city G to city Z, and a road from city Z to city U. Is there a way to travel from city G to city U? Dirctly answer this question. Yes, there is a way to travel from city G to city U, as there is a"
+    },
+    {
+        "question": "There is a road from city F to city K, and a road from city K to city X. Is there a way to travel from city F to city X? Dirctly answer this question.",
+        "answer": "There is a road from city F to city K, and a road from city K to city X. Is there a way to travel from city F to city X? Dirctly answer this question. To travel from city F to city X, one must first travel from city F to city K"
+    },
+    {
+        "question": "There is a road from city N to city M, and a road from city M to city O. Is there a way to travel from city N to city O? Dirctly answer this question.",
+        "answer": "There is a road from city N to city M, and a road from city M to city O. Is there a way to travel from city N to city O? Dirctly answer this question. To determine if there is a way to travel from city N to city O, we need to"
+    },
+    {
+        "question": "There is a road from city I to city M, and a road from city M to city O. Is there a way to travel from city I to city O? Dirctly answer this question.",
+        "answer": "There is a road from city I to city M, and a road from city M to city O. Is there a way to travel from city I to city O? Dirctly answer this question. To determine if there is a way to travel from city I to city O, we need to"
+    },
+    {
+        "question": "There is a road from city Q to city E, and a road from city E to city D. Is there a way to travel from city Q to city D? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city E, and a road from city E to city D. Is there a way to travel from city Q to city D? Dirctly answer this question. Yes, there is a way to travel from city Q to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city D to city B, and a road from city B to city E. Is there a way to travel from city D to city E? Dirctly answer this question.",
+        "answer": "There is a road from city D to city B, and a road from city B to city E. Is there a way to travel from city D to city E? Dirctly answer this question. Yes, there is a way to travel from city D to city E. To travel from city"
+    },
+    {
+        "question": "There is a road from city E to city J, and a road from city J to city H. Is there a way to travel from city E to city H? Dirctly answer this question.",
+        "answer": "There is a road from city E to city J, and a road from city J to city H. Is there a way to travel from city E to city H? Dirctly answer this question. Yes, there is a way to travel from city E to city H. To travel from city"
+    },
+    {
+        "question": "There is a road from city Z to city G, and a road from city G to city C. Is there a way to travel from city Z to city C? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city G, and a road from city G to city C. Is there a way to travel from city Z to city C? Dirctly answer this question. Yes, there is a way to travel from city Z to city C. To travel from city"
+    },
+    {
+        "question": "There is a road from city L to city E, and a road from city E to city Q. Is there a way to travel from city L to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city L to city E, and a road from city E to city Q. Is there a way to travel from city L to city Q? Dirctly answer this question. To determine if there is a way to travel from city L to city Q, we need to"
+    },
+    {
+        "question": "There is a road from city W to city Q, and a road from city Q to city O. Is there a way to travel from city W to city O? Dirctly answer this question.",
+        "answer": "There is a road from city W to city Q, and a road from city Q to city O. Is there a way to travel from city W to city O? Dirctly answer this question. To determine if there is a way to travel from city W to city O, we need to"
+    },
+    {
+        "question": "There is a road from city Y to city Z, and a road from city Z to city E. Is there a way to travel from city Y to city E? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city Z, and a road from city Z to city E. Is there a way to travel from city Y to city E? Dirctly answer this question. Yes, there is a way to travel from city Y to city E. To travel from city"
+    },
+    {
+        "question": "There is a road from city E to city M, and a road from city M to city R. Is there a way to travel from city E to city R? Dirctly answer this question.",
+        "answer": "There is a road from city E to city M, and a road from city M to city R. Is there a way to travel from city E to city R? Dirctly answer this question. Yes, there is a way to travel from city E to city R. To travel from city"
+    },
+    {
+        "question": "There is a road from city V to city J, and a road from city J to city R. Is there a way to travel from city V to city R? Dirctly answer this question.",
+        "answer": "There is a road from city V to city J, and a road from city J to city R. Is there a way to travel from city V to city R? Dirctly answer this question. To travel from city V to city R, you cannot travel directly from city V to city J"
+    },
+    {
+        "question": "There is a road from city M to city Z, and a road from city Z to city Q. Is there a way to travel from city M to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city M to city Z, and a road from city Z to city Q. Is there a way to travel from city M to city Q? Dirctly answer this question. To travel from city M to city Q, one must first travel from city M to city Z"
+    },
+    {
+        "question": "There is a road from city B to city V, and a road from city V to city S. Is there a way to travel from city B to city S? Dirctly answer this question.",
+        "answer": "There is a road from city B to city V, and a road from city V to city S. Is there a way to travel from city B to city S? Dirctly answer this question. Yes, there is a way to travel from city B to city S. To travel from city"
+    },
+    {
+        "question": "There is a road from city E to city O, and a road from city O to city V. Is there a way to travel from city E to city V? Dirctly answer this question.",
+        "answer": "There is a road from city E to city O, and a road from city O to city V. Is there a way to travel from city E to city V? Dirctly answer this question. To determine if there is a way to travel from city E to city V, we need to"
+    },
+    {
+        "question": "There is a road from city R to city M, and a road from city M to city N. Is there a way to travel from city R to city N? Dirctly answer this question.",
+        "answer": "There is a road from city R to city M, and a road from city M to city N. Is there a way to travel from city R to city N? Dirctly answer this question. To travel from city R to city N, one must first travel from city R to city M"
+    },
+    {
+        "question": "There is a road from city Q to city A, and a road from city A to city Z. Is there a way to travel from city Q to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city A, and a road from city A to city Z. Is there a way to travel from city Q to city Z? Dirctly answer this question. Yes, there is a way to travel from city Q to city Z. To travel from city"
+    },
+    {
+        "question": "There is a road from city F to city N, and a road from city N to city L. Is there a way to travel from city F to city L? Dirctly answer this question.",
+        "answer": "There is a road from city F to city N, and a road from city N to city L. Is there a way to travel from city F to city L? Dirctly answer this question. Yes, there is a way to travel from city F to city L. To travel from city"
+    },
+    {
+        "question": "There is a road from city F to city E, and a road from city E to city J. Is there a way to travel from city F to city J? Dirctly answer this question.",
+        "answer": "There is a road from city F to city E, and a road from city E to city J. Is there a way to travel from city F to city J? Dirctly answer this question. Yes, there is a way to travel from city F to city J. \n\nTo travel from"
+    },
+    {
+        "question": "There is a road from city F to city D, and a road from city D to city R. Is there a way to travel from city F to city R? Dirctly answer this question.",
+        "answer": "There is a road from city F to city D, and a road from city D to city R. Is there a way to travel from city F to city R? Dirctly answer this question. Yes, there is a way to travel from city F to city R. To travel from city"
+    },
+    {
+        "question": "There is a road from city T to city V, and a road from city V to city N. Is there a way to travel from city T to city N? Dirctly answer this question.",
+        "answer": "There is a road from city T to city V, and a road from city V to city N. Is there a way to travel from city T to city N? Dirctly answer this question. Yes, there is a way to travel from city T to city N, as there is a"
+    },
+    {
+        "question": "There is a road from city O to city B, and a road from city B to city L. Is there a way to travel from city O to city L? Dirctly answer this question.",
+        "answer": "There is a road from city O to city B, and a road from city B to city L. Is there a way to travel from city O to city L? Dirctly answer this question. To determine if there is a way to travel from city O to city L, we need to"
+    },
+    {
+        "question": "There is a road from city E to city G, and a road from city G to city T. Is there a way to travel from city E to city T? Dirctly answer this question.",
+        "answer": "There is a road from city E to city G, and a road from city G to city T. Is there a way to travel from city E to city T? Dirctly answer this question. Yes, there is a way to travel from city E to city T, as there is a"
+    },
+    {
+        "question": "There is a road from city E to city N, and a road from city N to city M. Is there a way to travel from city E to city M? Dirctly answer this question.",
+        "answer": "There is a road from city E to city N, and a road from city N to city M. Is there a way to travel from city E to city M? Dirctly answer this question. Yes, there is a way to travel from city E to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city K to city H, and a road from city H to city A. Is there a way to travel from city K to city A? Dirctly answer this question.",
+        "answer": "There is a road from city K to city H, and a road from city H to city A. Is there a way to travel from city K to city A? Dirctly answer this question. Yes, there is a way to travel from city K to city A, as there is a"
+    },
+    {
+        "question": "There is a road from city O to city K, and a road from city K to city L. Is there a way to travel from city O to city L? Dirctly answer this question.",
+        "answer": "There is a road from city O to city K, and a road from city K to city L. Is there a way to travel from city O to city L? Dirctly answer this question. To determine if there is a way to travel from city O to city L, we need to"
+    },
+    {
+        "question": "There is a road from city Z to city G, and a road from city G to city J. Is there a way to travel from city Z to city J? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city G, and a road from city G to city J. Is there a way to travel from city Z to city J? Dirctly answer this question. To travel from city Z to city J, you cannot travel directly from city Z to city G"
+    },
+    {
+        "question": "There is a road from city O to city X, and a road from city X to city P. Is there a way to travel from city O to city P? Dirctly answer this question.",
+        "answer": "There is a road from city O to city X, and a road from city X to city P. Is there a way to travel from city O to city P? Dirctly answer this question. Yes, there is a way to travel from city O to city P. To travel from city"
+    },
+    {
+        "question": "There is a road from city B to city U, and a road from city U to city G. Is there a way to travel from city B to city G? Dirctly answer this question.",
+        "answer": "There is a road from city B to city U, and a road from city U to city G. Is there a way to travel from city B to city G? Dirctly answer this question. To determine if there is a way to travel from city B to city G, we need to"
+    },
+    {
+        "question": "There is a road from city C to city G, and a road from city G to city F. Is there a way to travel from city C to city F? Dirctly answer this question.",
+        "answer": "There is a road from city C to city G, and a road from city G to city F. Is there a way to travel from city C to city F? Dirctly answer this question. Yes, there is a way to travel from city C to city F. To travel from city"
+    },
+    {
+        "question": "There is a road from city E to city H, and a road from city H to city M. Is there a way to travel from city E to city M? Dirctly answer this question.",
+        "answer": "There is a road from city E to city H, and a road from city H to city M. Is there a way to travel from city E to city M? Dirctly answer this question. Yes, there is a way to travel from city E to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city V to city A, and a road from city A to city U. Is there a way to travel from city V to city U? Dirctly answer this question.",
+        "answer": "There is a road from city V to city A, and a road from city A to city U. Is there a way to travel from city V to city U? Dirctly answer this question. Yes, there is a way to travel from city V to city U, as there is a"
+    },
+    {
+        "question": "There is a road from city I to city F, and a road from city F to city L. Is there a way to travel from city I to city L? Dirctly answer this question.",
+        "answer": "There is a road from city I to city F, and a road from city F to city L. Is there a way to travel from city I to city L? Dirctly answer this question. Yes, there is a way to travel from city I to city L. To travel from city"
+    },
+    {
+        "question": "There is a road from city F to city R, and a road from city R to city V. Is there a way to travel from city F to city V? Dirctly answer this question.",
+        "answer": "There is a road from city F to city R, and a road from city R to city V. Is there a way to travel from city F to city V? Dirctly answer this question. Yes, there is a way to travel from city F to city V. To travel from city"
+    },
+    {
+        "question": "There is a road from city F to city H, and a road from city H to city N. Is there a way to travel from city F to city N? Dirctly answer this question.",
+        "answer": "There is a road from city F to city H, and a road from city H to city N. Is there a way to travel from city F to city N? Dirctly answer this question. Yes, there is a way to travel from city F to city N, as there is a"
+    },
+    {
+        "question": "There is a road from city Z to city D, and a road from city D to city J. Is there a way to travel from city Z to city J? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city D, and a road from city D to city J. Is there a way to travel from city Z to city J? Dirctly answer this question. To travel from city Z to city J, you cannot travel directly from city Z to city D"
+    },
+    {
+        "question": "There is a road from city V to city J, and a road from city J to city F. Is there a way to travel from city V to city F? Dirctly answer this question.",
+        "answer": "There is a road from city V to city J, and a road from city J to city F. Is there a way to travel from city V to city F? Dirctly answer this question. Yes, there is a way to travel from city V to city F. To travel from city"
+    },
+    {
+        "question": "There is a road from city Q to city A, and a road from city A to city M. Is there a way to travel from city Q to city M? Dirctly answer this question.",
+        "answer": "There is a road from city Q to city A, and a road from city A to city M. Is there a way to travel from city Q to city M? Dirctly answer this question. Yes, there is a way to travel from city Q to city M by taking the road from"
+    },
+    {
+        "question": "There is a road from city W to city K, and a road from city K to city B. Is there a way to travel from city W to city B? Dirctly answer this question.",
+        "answer": "There is a road from city W to city K, and a road from city K to city B. Is there a way to travel from city W to city B? Dirctly answer this question. Yes, there is a way to travel from city W to city B. To travel from city"
+    },
+    {
+        "question": "There is a road from city C to city Z, and a road from city Z to city M. Is there a way to travel from city C to city M? Dirctly answer this question.",
+        "answer": "There is a road from city C to city Z, and a road from city Z to city M. Is there a way to travel from city C to city M? Dirctly answer this question. Yes, there is a way to travel from city C to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city A to city W, and a road from city W to city C. Is there a way to travel from city A to city C? Dirctly answer this question.",
+        "answer": "There is a road from city A to city W, and a road from city W to city C. Is there a way to travel from city A to city C? Dirctly answer this question. Yes, there is a way to travel from city A to city C. To travel from city"
+    },
+    {
+        "question": "There is a road from city B to city Q, and a road from city Q to city U. Is there a way to travel from city B to city U? Dirctly answer this question.",
+        "answer": "There is a road from city B to city Q, and a road from city Q to city U. Is there a way to travel from city B to city U? Dirctly answer this question. To determine if there is a way to travel from city B to city U, we need to"
+    },
+    {
+        "question": "There is a road from city U to city A, and a road from city A to city F. Is there a way to travel from city U to city F? Dirctly answer this question.",
+        "answer": "There is a road from city U to city A, and a road from city A to city F. Is there a way to travel from city U to city F? Dirctly answer this question. To determine if there is a way to travel from city U to city F, we need to"
+    },
+    {
+        "question": "There is a road from city O to city R, and a road from city R to city V. Is there a way to travel from city O to city V? Dirctly answer this question.",
+        "answer": "There is a road from city O to city R, and a road from city R to city V. Is there a way to travel from city O to city V? Dirctly answer this question. To determine if there is a way to travel from city O to city V, we need to"
+    },
+    {
+        "question": "There is a road from city E to city N, and a road from city N to city L. Is there a way to travel from city E to city L? Dirctly answer this question.",
+        "answer": "There is a road from city E to city N, and a road from city N to city L. Is there a way to travel from city E to city L? Dirctly answer this question. Yes, there is a way to travel from city E to city L by traveling along the road"
+    },
+    {
+        "question": "There is a road from city V to city A, and a road from city A to city Q. Is there a way to travel from city V to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city V to city A, and a road from city A to city Q. Is there a way to travel from city V to city Q? Dirctly answer this question. Yes, there is a way to travel from city V to city Q by traveling directly from city"
+    },
+    {
+        "question": "There is a road from city Y to city J, and a road from city J to city E. Is there a way to travel from city Y to city E? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city J, and a road from city J to city E. Is there a way to travel from city Y to city E? Dirctly answer this question. To travel from city Y to city E, you cannot travel directly from city Y to city J"
+    },
+    {
+        "question": "There is a road from city O to city D, and a road from city D to city T. Is there a way to travel from city O to city T? Dirctly answer this question.",
+        "answer": "There is a road from city O to city D, and a road from city D to city T. Is there a way to travel from city O to city T? Dirctly answer this question. To determine if there is a way to travel from city O to city T, we need to"
+    },
+    {
+        "question": "There is a road from city A to city U, and a road from city U to city P. Is there a way to travel from city A to city P? Dirctly answer this question.",
+        "answer": "There is a road from city A to city U, and a road from city U to city P. Is there a way to travel from city A to city P? Dirctly answer this question. Yes, there is a way to travel from city A to city P. To travel from city"
+    },
+    {
+        "question": "There is a road from city O to city Z, and a road from city Z to city Y. Is there a way to travel from city O to city Y? Dirctly answer this question.",
+        "answer": "There is a road from city O to city Z, and a road from city Z to city Y. Is there a way to travel from city O to city Y? Dirctly answer this question. To travel from city O to city Y, one must first travel from city O to city Z"
+    },
+    {
+        "question": "There is a road from city P to city I, and a road from city I to city W. Is there a way to travel from city P to city W? Dirctly answer this question.",
+        "answer": "There is a road from city P to city I, and a road from city I to city W. Is there a way to travel from city P to city W? Dirctly answer this question. To determine if there is a way to travel from city P to city W, we need to"
+    },
+    {
+        "question": "There is a road from city H to city O, and a road from city O to city Z. Is there a way to travel from city H to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city H to city O, and a road from city O to city Z. Is there a way to travel from city H to city Z? Dirctly answer this question. Yes, there is a way to travel from city H to city Z. To travel from city"
+    },
+    {
+        "question": "There is a road from city C to city N, and a road from city N to city T. Is there a way to travel from city C to city T? Dirctly answer this question.",
+        "answer": "There is a road from city C to city N, and a road from city N to city T. Is there a way to travel from city C to city T? Dirctly answer this question. To determine if there is a way to travel from city C to city T, we need to"
+    },
+    {
+        "question": "There is a road from city K to city T, and a road from city T to city Q. Is there a way to travel from city K to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city K to city T, and a road from city T to city Q. Is there a way to travel from city K to city Q? Dirctly answer this question. To travel from city K to city Q, one must first travel from city K to city T"
+    },
+    {
+        "question": "There is a road from city T to city F, and a road from city F to city V. Is there a way to travel from city T to city V? Dirctly answer this question.",
+        "answer": "There is a road from city T to city F, and a road from city F to city V. Is there a way to travel from city T to city V? Dirctly answer this question. Yes, there is a way to travel from city T to city V. To travel from city"
+    },
+    {
+        "question": "There is a road from city I to city G, and a road from city G to city F. Is there a way to travel from city I to city F? Dirctly answer this question.",
+        "answer": "There is a road from city I to city G, and a road from city G to city F. Is there a way to travel from city I to city F? Dirctly answer this question. Yes, there is a way to travel from city I to city F. To travel from city"
+    },
+    {
+        "question": "There is a road from city B to city D, and a road from city D to city K. Is there a way to travel from city B to city K? Dirctly answer this question.",
+        "answer": "There is a road from city B to city D, and a road from city D to city K. Is there a way to travel from city B to city K? Dirctly answer this question. Yes, there is a way to travel from city B to city K, as there is a"
+    },
+    {
+        "question": "There is a road from city B to city U, and a road from city U to city D. Is there a way to travel from city B to city D? Dirctly answer this question.",
+        "answer": "There is a road from city B to city U, and a road from city U to city D. Is there a way to travel from city B to city D? Dirctly answer this question. To determine if there is a way to travel from city B to city D, we need to"
+    },
+    {
+        "question": "There is a road from city K to city S, and a road from city S to city J. Is there a way to travel from city K to city J? Dirctly answer this question.",
+        "answer": "There is a road from city K to city S, and a road from city S to city J. Is there a way to travel from city K to city J? Dirctly answer this question. Yes, there is a way to travel from city K to city J. \n\nTo travel from"
+    },
+    {
+        "question": "There is a road from city T to city B, and a road from city B to city E. Is there a way to travel from city T to city E? Dirctly answer this question.",
+        "answer": "There is a road from city T to city B, and a road from city B to city E. Is there a way to travel from city T to city E? Dirctly answer this question. Yes, there is a way to travel from city T to city E. To travel from city"
+    },
+    {
+        "question": "There is a road from city G to city W, and a road from city W to city P. Is there a way to travel from city G to city P? Dirctly answer this question.",
+        "answer": "There is a road from city G to city W, and a road from city W to city P. Is there a way to travel from city G to city P? Dirctly answer this question. Yes, there is a way to travel from city G to city P, as there is a"
+    },
+    {
+        "question": "There is a road from city F to city Q, and a road from city Q to city V. Is there a way to travel from city F to city V? Dirctly answer this question.",
+        "answer": "There is a road from city F to city Q, and a road from city Q to city V. Is there a way to travel from city F to city V? Dirctly answer this question. Yes, there is a way to travel from city F to city V. To travel from city"
+    },
+    {
+        "question": "There is a road from city X to city W, and a road from city W to city M. Is there a way to travel from city X to city M? Dirctly answer this question.",
+        "answer": "There is a road from city X to city W, and a road from city W to city M. Is there a way to travel from city X to city M? Dirctly answer this question. To travel from city X to city M, one must first travel from city W to city M"
+    },
+    {
+        "question": "There is a road from city M to city B, and a road from city B to city D. Is there a way to travel from city M to city D? Dirctly answer this question.",
+        "answer": "There is a road from city M to city B, and a road from city B to city D. Is there a way to travel from city M to city D? Dirctly answer this question. Yes, there is a way to travel from city M to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city K to city Z, and a road from city Z to city X. Is there a way to travel from city K to city X? Dirctly answer this question.",
+        "answer": "There is a road from city K to city Z, and a road from city Z to city X. Is there a way to travel from city K to city X? Dirctly answer this question. To travel from city K to city X, one must first travel from city K to city Z"
+    },
+    {
+        "question": "There is a road from city L to city J, and a road from city J to city E. Is there a way to travel from city L to city E? Dirctly answer this question.",
+        "answer": "There is a road from city L to city J, and a road from city J to city E. Is there a way to travel from city L to city E? Dirctly answer this question. Yes, there is a way to travel from city L to city E. To travel from city"
+    },
+    {
+        "question": "There is a road from city H to city I, and a road from city I to city N. Is there a way to travel from city H to city N? Dirctly answer this question.",
+        "answer": "There is a road from city H to city I, and a road from city I to city N. Is there a way to travel from city H to city N? Dirctly answer this question. Yes, there is a way to travel from city H to city N. To travel from city"
+    },
+    {
+        "question": "There is a road from city R to city N, and a road from city N to city Z. Is there a way to travel from city R to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city R to city N, and a road from city N to city Z. Is there a way to travel from city R to city Z? Dirctly answer this question. To travel from city R to city Z, one must first travel from city R to city N"
+    },
+    {
+        "question": "There is a road from city Z to city D, and a road from city D to city P. Is there a way to travel from city Z to city P? Dirctly answer this question.",
+        "answer": "There is a road from city Z to city D, and a road from city D to city P. Is there a way to travel from city Z to city P? Dirctly answer this question. Yes, there is a way to travel from city Z to city P. To travel from city"
+    },
+    {
+        "question": "There is a road from city B to city G, and a road from city G to city C. Is there a way to travel from city B to city C? Dirctly answer this question.",
+        "answer": "There is a road from city B to city G, and a road from city G to city C. Is there a way to travel from city B to city C? Dirctly answer this question. Yes, there is a way to travel from city B to city C by taking the road from"
+    },
+    {
+        "question": "There is a road from city G to city Q, and a road from city Q to city N. Is there a way to travel from city G to city N? Dirctly answer this question.",
+        "answer": "There is a road from city G to city Q, and a road from city Q to city N. Is there a way to travel from city G to city N? Dirctly answer this question. Yes, there is a way to travel from city G to city N, as there is a"
+    },
+    {
+        "question": "There is a road from city F to city I, and a road from city I to city N. Is there a way to travel from city F to city N? Dirctly answer this question.",
+        "answer": "There is a road from city F to city I, and a road from city I to city N. Is there a way to travel from city F to city N? Dirctly answer this question. Yes, there is a way to travel from city F to city N. To travel from city"
+    },
+    {
+        "question": "There is a road from city X to city T, and a road from city T to city D. Is there a way to travel from city X to city D? Dirctly answer this question.",
+        "answer": "There is a road from city X to city T, and a road from city T to city D. Is there a way to travel from city X to city D? Dirctly answer this question. To travel from city X to city D, one must first travel from city X to city T"
+    },
+    {
+        "question": "There is a road from city E to city U, and a road from city U to city S. Is there a way to travel from city E to city S? Dirctly answer this question.",
+        "answer": "There is a road from city E to city U, and a road from city U to city S. Is there a way to travel from city E to city S? Dirctly answer this question. To determine if there is a way to travel from city E to city S, we need to"
+    },
+    {
+        "question": "There is a road from city N to city Q, and a road from city Q to city H. Is there a way to travel from city N to city H? Dirctly answer this question.",
+        "answer": "There is a road from city N to city Q, and a road from city Q to city H. Is there a way to travel from city N to city H? Dirctly answer this question. To determine if there is a way to travel from city N to city H, we need to"
+    },
+    {
+        "question": "There is a road from city G to city X, and a road from city X to city D. Is there a way to travel from city G to city D? Dirctly answer this question.",
+        "answer": "There is a road from city G to city X, and a road from city X to city D. Is there a way to travel from city G to city D? Dirctly answer this question. Yes, there is a way to travel from city G to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city X to city V, and a road from city V to city C. Is there a way to travel from city X to city C? Dirctly answer this question.",
+        "answer": "There is a road from city X to city V, and a road from city V to city C. Is there a way to travel from city X to city C? Dirctly answer this question. To travel from city X to city C, one must first travel from city X to city V"
+    },
+    {
+        "question": "There is a road from city B to city U, and a road from city U to city V. Is there a way to travel from city B to city V? Dirctly answer this question.",
+        "answer": "There is a road from city B to city U, and a road from city U to city V. Is there a way to travel from city B to city V? Dirctly answer this question. To determine if there is a way to travel from city B to city V, we need to"
+    },
+    {
+        "question": "There is a road from city Y to city W, and a road from city W to city Q. Is there a way to travel from city Y to city Q? Dirctly answer this question.",
+        "answer": "There is a road from city Y to city W, and a road from city W to city Q. Is there a way to travel from city Y to city Q? Dirctly answer this question. To travel from city Y to city Q, you cannot travel directly from city Y to city W"
+    },
+    {
+        "question": "There is a road from city U to city T, and a road from city T to city J. Is there a way to travel from city U to city J? Dirctly answer this question.",
+        "answer": "There is a road from city U to city T, and a road from city T to city J. Is there a way to travel from city U to city J? Dirctly answer this question. To determine if there is a way to travel from city U to city J, we need to"
+    },
+    {
+        "question": "There is a road from city R to city B, and a road from city B to city D. Is there a way to travel from city R to city D? Dirctly answer this question.",
+        "answer": "There is a road from city R to city B, and a road from city B to city D. Is there a way to travel from city R to city D? Dirctly answer this question. Yes, there is a way to travel from city R to city D. To travel from city"
+    },
+    {
+        "question": "There is a road from city K to city X, and a road from city X to city T. Is there a way to travel from city K to city T? Dirctly answer this question.",
+        "answer": "There is a road from city K to city X, and a road from city X to city T. Is there a way to travel from city K to city T? Dirctly answer this question. To travel from city K to city T, one must first travel from city K to city X"
+    },
+    {
+        "question": "There is a road from city U to city D, and a road from city D to city F. Is there a way to travel from city U to city F? Dirctly answer this question.",
+        "answer": "There is a road from city U to city D, and a road from city D to city F. Is there a way to travel from city U to city F? Dirctly answer this question. To determine if there is a way to travel from city U to city F, we need to"
+    },
+    {
+        "question": "There is a road from city C to city E, and a road from city E to city L. Is there a way to travel from city C to city L? Dirctly answer this question.",
+        "answer": "There is a road from city C to city E, and a road from city E to city L. Is there a way to travel from city C to city L? Dirctly answer this question. To determine if there is a way to travel from city C to city L, we need to"
+    },
+    {
+        "question": "There is a road from city P to city Z, and a road from city Z to city Y. Is there a way to travel from city P to city Y? Dirctly answer this question.",
+        "answer": "There is a road from city P to city Z, and a road from city Z to city Y. Is there a way to travel from city P to city Y? Dirctly answer this question. To travel from city P to city Y, one must first travel from city P to city Z"
+    },
+    {
+        "question": "There is a road from city X to city I, and a road from city I to city S. Is there a way to travel from city X to city S? Dirctly answer this question.",
+        "answer": "There is a road from city X to city I, and a road from city I to city S. Is there a way to travel from city X to city S? Dirctly answer this question. To travel from city X to city S, one must first travel from city X to city I"
+    },
+    {
+        "question": "There is a road from city L to city T, and a road from city T to city R. Is there a way to travel from city L to city R? Dirctly answer this question.",
+        "answer": "There is a road from city L to city T, and a road from city T to city R. Is there a way to travel from city L to city R? Dirctly answer this question. Yes, there is a way to travel from city L to city R. To travel from city"
+    },
+    {
+        "question": "There is a road from city K to city C, and a road from city C to city M. Is there a way to travel from city K to city M? Dirctly answer this question.",
+        "answer": "There is a road from city K to city C, and a road from city C to city M. Is there a way to travel from city K to city M? Dirctly answer this question. Yes, there is a way to travel from city K to city M. To travel from city"
+    },
+    {
+        "question": "There is a road from city P to city G, and a road from city G to city Z. Is there a way to travel from city P to city Z? Dirctly answer this question.",
+        "answer": "There is a road from city P to city G, and a road from city G to city Z. Is there a way to travel from city P to city Z? Dirctly answer this question. Yes, there is a way to travel from city P to city Z, as there is a"
+    },
+    {
+        "question": "There is a road from city C to city E, and a road from city E to city O. Is there a way to travel from city C to city O? Dirctly answer this question.",
+        "answer": "There is a road from city C to city E, and a road from city E to city O. Is there a way to travel from city C to city O? Dirctly answer this question. To determine if there is a way to travel from city C to city O, we need to"
+    },
+    {
+        "question": "There is a road from city W to city J, and a road from city J to city I. Is there a way to travel from city W to city I? Dirctly answer this question.",
+        "answer": "There is a road from city W to city J, and a road from city J to city I. Is there a way to travel from city W to city I? Dirctly answer this question. To determine if there is a way to travel from city W to city I, we need to"
+    },
+    {
+        "question": "There is a road from city E to city L, and a road from city L to city J. Is there a way to travel from city E to city J? Dirctly answer this question.",
+        "answer": "There is a road from city E to city L, and a road from city L to city J. Is there a way to travel from city E to city J? Dirctly answer this question. Yes, there is a way to travel from city E to city J. \n\nTo travel from"
+    },
+    {
+        "question": "There is a road from city L to city A, and a road from city A to city W. Is there a way to travel from city L to city W? Dirctly answer this question.",
+        "answer": "There is a road from city L to city A, and a road from city A to city W. Is there a way to travel from city L to city W? Dirctly answer this question. Yes, there is a way to travel from city L to city W. To travel from city"
+    },
+    {
+        "question": "There is a road from city M to city T, and a road from city T to city K. Is there a way to travel from city M to city K? Dirctly answer this question.",
+        "answer": "There is a road from city M to city T, and a road from city T to city K. Is there a way to travel from city M to city K? Dirctly answer this question. To travel from city M to city K, one must first travel from city M to city T"
+    },
+    {
+        "question": "There is a road from city J to city F, and a road from city F to city N. Is there a way to travel from city J to city N? Dirctly answer this question.",
+        "answer": "There is a road from city J to city F, and a road from city F to city N. Is there a way to travel from city J to city N? Dirctly answer this question. Yes, there is a way to travel from city J to city N. To travel from city"
+    },
+    {
+        "question": "There is a road from city B to city C, and a road from city C to city D. Is there a way to travel from city B to city D? Dirctly answer this question.",
+        "answer": "There is a road from city B to city C, and a road from city C to city D. Is there a way to travel from city B to city D? Dirctly answer this question. No, there is not a direct way to travel from city B to city D using the roads"
+    },
+    {
+        "question": "There is a road from city C to city F, and a road from city F to city Y. Is there a way to travel from city C to city Y? Dirctly answer this question.",
+        "answer": "There is a road from city C to city F, and a road from city F to city Y. Is there a way to travel from city C to city Y? Dirctly answer this question. To determine if there is a way to travel from city C to city Y, we need to"
+    }
+]
