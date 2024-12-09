@@ -1,0 +1,1602 @@
+[
+    {
+        "question": 0,
+        "answer": "Is 7411 divisible by 7? Directly answer this question with yes or no only. Yes."
+    },
+    {
+        "question": 1,
+        "answer": "Is 10733 divisible by 29? Is 10733 divisible by 367? Directly answer this question with yes or no only. No, 10733 is not divisible by 367. Yes, 10733 is divisible by 29."
+    },
+    {
+        "question": 2,
+        "answer": "Is 4219 divisible by 7? Is 4219 divisible by 603? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 4219 to be divisible by 7:\n- We divide 4219 by 7: \\( 4219 \\div 7 = 602.714"
+    },
+    {
+        "question": 3,
+        "answer": "Is 18539 divisible by 29? Is 18539 divisible by 637? Directly answer this question with yes or no only. No, 18539 is not divisible by 637. To determine if a number is divisible by another number, you can check the divisibility rules for each divisor.\n\nFor 637:\n- It's an odd number.\n- The sum of its digits (6 + "
+    },
+    {
+        "question": 4,
+        "answer": "Is 6911 divisible by 73? Is 6911 divisible by 95? Directly answer this question with yes or no only. No, 6911 is not divisible by 95. To determine if a number is divisible by another number, you can perform the division and check if there is no remainder.\n\nFor 6911 divided by 95:\n\\[ \\frac{6911}{95} = "
+    },
+    {
+        "question": 5,
+        "answer": "Is 9791 divisible by 23? Is 9791 divisible by 421? Directly answer this question with yes or no only. To determine if a number is divisible by another, we need to check the divisibility rules for each divisor.\n\nFirst, let's check if 9791 is divisible by 23:\n- A number is divisible by 23 if the remainder when divided by 23 is 0.\n- We"
+    },
+    {
+        "question": 6,
+        "answer": "Is 2677 divisible by 19? Is 2677 divisible by 137? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder when divided by 19 is zero.\n- We can check this by dividing 2677 by 1"
+    },
+    {
+        "question": 7,
+        "answer": "Is 1933 divisible by 47? Is 1933 divisible by 41? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rule that a number \\( n \\) is divisible by \\( d \\) if and only if the remainder of \\( n \\div d \\) is zero.\n\nLet's check for divisibility by 47:\n\n1. Perform the division: \\( "
+    },
+    {
+        "question": 8,
+        "answer": "Is 10631 divisible by 7? Is 10631 divisible by 1519? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 10631 to be divisible by 7:\n- The last digit must be removed and then multiplied by 2.\n- Subtract that from the remaining digits: \\(10"
+    },
+    {
+        "question": 9,
+        "answer": "Is 3691 divisible by 7? Is 3691 divisible by 527? Directly answer this question with yes or no only. No, 3691 is not divisible by 527. Yes, 3691 is divisible by 7."
+    },
+    {
+        "question": 10,
+        "answer": "Is 3469 divisible by 11? Is 3469 divisible by 317? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 3469 to be divisible by 11:\n- The alternating sum of its digits must be divisible by 11.\n- For 3469: \\(3 - "
+    },
+    {
+        "question": 11,
+        "answer": "Is 9343 divisible by 17? Is 9343 divisible by 551? Directly answer this question with yes or no only. No, 9343 is not divisible by 551. Yes, 9343 is divisible by 17."
+    },
+    {
+        "question": 12,
+        "answer": "Is 14699 divisible by 3? Is 14699 divisible by 7? Is 14699 divisible by 727? Directly answer this question with yes or no only. Yes, No, Yes."
+    },
+    {
+        "question": 13,
+        "answer": "Is 5449 divisible by 7? Is 5449 divisible by 778? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rule for 7 and 11 (since \\(7 \\times 11 = 77\\)). However, since 778 is much larger than 7, it's more practical to check for divisibility directly.\n\nLet"
+    },
+    {
+        "question": 14,
+        "answer": "Is 17891 divisible by 43? Is 17891 divisible by 409? Directly answer this question with yes or no only. No, 17891 is not divisible by 409. Yes, 17891 is divisible by 43."
+    },
+    {
+        "question": 15,
+        "answer": "Is 1483 divisible by 7? Is 1483 divisible by 211? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 1483 to be divisible by 7:\n- The last digit must be removed and then multiplied by 2.\n- If the result plus the remaining digits form a multiple of 7,"
+    },
+    {
+        "question": 16,
+        "answer": "Is 8933 divisible by 17? Is 8933 divisible by 523? Directly answer this question with yes or no only. No, 8933 is not divisible by 523. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Divisibility by 17**: A number is divisible by 17 if the difference between twice the last digit and the rest"
+    },
+    {
+        "question": 17,
+        "answer": "Is 4789 divisible by 13? Is 4789 divisible by 367? Directly answer this question with yes or no only. No, 4789 is not divisible by 367. Yes, 4789 is divisible by 13."
+    },
+    {
+        "question": 18,
+        "answer": "Is 17231 divisible by 41? Is 17231 divisible by 421? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 41:\n- A number is divisible by 41 if it ends in either 0 or 5.\n- The last digit of 17231 is 1"
+    },
+    {
+        "question": 19,
+        "answer": "Is 12553 divisible by 7? Is 12553 divisible by 1793? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit"
+    },
+    {
+        "question": 20,
+        "answer": "Is 16333 divisible by 19? Is 16333 divisible by 859? Directly answer this question with yes or no only. No, 16333 is not divisible by 859. Yes, 16333 is divisible by 19."
+    },
+    {
+        "question": 21,
+        "answer": "Is 12149 divisible by 7? Is 12149 divisible by 1737? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 12149 to be divisible by 7:\n- The last digit must be odd.\n- Remove the last digit and double it (if doubling results in a two-digit number"
+    },
+    {
+        "question": 22,
+        "answer": "Is 9187 divisible by 23? Is 9187 divisible by 401? Directly answer this question with yes or no only. To determine if a number is divisible by another, we need to check the divisibility rules for each divisor.\n\nFirst, let's check if 9187 is divisible by 23:\n- A number is divisible by 23 if the remainder when divided by 23 is zero.\n- We can"
+    },
+    {
+        "question": 23,
+        "answer": "Is 1481 divisible by 7? Is 1481 divisible by 211? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit) is divisible by"
+    },
+    {
+        "question": 24,
+        "answer": "Is 8513 divisible by 7? Is 8513 divisible by 1219? Directly answer this question with yes or no only. No, 8513 is not divisible by 1219. Yes, 8513 is divisible by 7."
+    },
+    {
+        "question": 25,
+        "answer": "Is 16421 divisible by 7? Is 16421 divisible by 2317? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 16421:\n- It's not immediately clear from just looking at it whether it's divisible by 7 or 2317 without performing the division.\n- We"
+    },
+    {
+        "question": 26,
+        "answer": "Is 5743 divisible by 19? Is 5743 divisible by 299? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit)"
+    },
+    {
+        "question": 27,
+        "answer": "Is 3617 divisible by 59? Is 3617 divisible by 61? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3617 divided by 59:\n\\[ 3617 \\div 59 = 62 \\]\nSince there is no remainder, 3617 is divisible by "
+    },
+    {
+        "question": 28,
+        "answer": "Is 8089 divisible by 23? Is 8089 divisible by 347? Directly answer this question with yes or no only. No, 8089 is not divisible by 347."
+    },
+    {
+        "question": 29,
+        "answer": "Is 7487 divisible by 13? Is 7487 divisible by 579? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 7487 to be divisible by 13:\n- The sum of its digits (7 + 4 + 8 + 7 = 26) must be divisible by 13"
+    },
+    {
+        "question": 30,
+        "answer": "Is 6301 divisible by 7? Is 6301 divisible by 901? Directly answer this question with yes or no only. No, 6301 is not divisible by 901."
+    },
+    {
+        "question": 31,
+        "answer": "Is 9199 divisible by 23? Is 9199 divisible by 407? Directly answer this question with yes or no only. No, 9199 is not divisible by 407."
+    },
+    {
+        "question": 32,
+        "answer": "Is 2221 divisible by 43? Is 2221 divisible by 51? Directly answer this question with yes or no only. No, 2221 is not divisible by 43; it is also not divisible by 51."
+    },
+    {
+        "question": 33,
+        "answer": "Is 18181 divisible by 43? Is 18181 divisible by 421? Directly answer this question with yes or no only. No, 18181 is not divisible by 421. Yes, 18181 is divisible by 43."
+    },
+    {
+        "question": 34,
+        "answer": "Is 8699 divisible by 23? Is 8699 divisible by 379? Directly answer this question with yes or no only. No, 8699 is not divisible by 379. Yes, 8699 is divisible by 23."
+    },
+    {
+        "question": 35,
+        "answer": "Is 7937 divisible by 13? Is 7937 divisible by 607? Directly answer this question with yes or no only. No, 7937 is not divisible by 607."
+    },
+    {
+        "question": 36,
+        "answer": "Is 12967 divisible by 3? Is 12967 divisible by 4322? Directly answer this question with yes or no only. No, 12967 is not divisible by 4322."
+    },
+    {
+        "question": 37,
+        "answer": "Is 4597 divisible by 13? Is 4597 divisible by 361? Directly answer this question with yes or no only. No, 4597 is not divisible by 361."
+    },
+    {
+        "question": 38,
+        "answer": "Is 4129 divisible by 7? Is 4129 divisible by 589? Directly answer this question with yes or no only. No, 4129 is not divisible by 589."
+    },
+    {
+        "question": 39,
+        "answer": "Is 6427 divisible by 19? Is 6427 divisible by 337? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit) is divisible"
+    },
+    {
+        "question": 40,
+        "answer": "Is 18587 divisible by 23? Is 18587 divisible by 809? Directly answer this question with yes or no only. No. Yes. No. Yes.\nTo determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 18587 to be divisible by 23:\n- The last digit of 18587 is 7, which means it"
+    },
+    {
+        "question": 41,
+        "answer": "Is 13219 divisible by 7? Is 13219 divisible by 1889? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 13219 to be divisible by 7:\n- The last digit must be odd.\n- Remove the last digit and double it (if doubling results in a two-digit number"
+    },
+    {
+        "question": 42,
+        "answer": "Is 17657 divisible by 19? Is 17657 divisible by 923? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility Rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit) is"
+    },
+    {
+        "question": 43,
+        "answer": "Is 1601 divisible by 43? Is 1601 divisible by 37? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor divisibility by 43:\n- The last two digits of 1601 are 01.\n- We need to check if 1601 - (last two digits) ="
+    },
+    {
+        "question": 44,
+        "answer": "Is 4231 divisible by 7? Is 4231 divisible by 605? Directly answer this question with yes or no only. No, 4231 is not divisible by 605. Yes, 4231 is divisible by 7."
+    },
+    {
+        "question": 45,
+        "answer": "Is 15289 divisible by 73? Is 15289 divisible by 209? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 15289 is divisible by 73:\n- The last digit of 15289 is 9.\n- We need"
+    },
+    {
+        "question": 46,
+        "answer": "Is 10177 divisible by 19? Is 10177 divisible by 533? Directly answer this question with yes or no only. No, 10177 is not divisible by 533. Yes, 10177 is divisible by 19."
+    },
+    {
+        "question": 47,
+        "answer": "Is 11411 divisible by 7? Is 11411 divisible by 1631? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each number.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit) is divisible by"
+    },
+    {
+        "question": 48,
+        "answer": "Is 19121 divisible by 43? Is 19121 divisible by 43? Directly answer this question with yes or no only. Yes."
+    },
+    {
+        "question": 49,
+        "answer": "Is 3821 divisible by 47? Is 3821 divisible by 83? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 3821 to be divisible by 47:\n- The last two digits of 3821 are 21.\n- We need to check if 21 is"
+    },
+    {
+        "question": 50,
+        "answer": "Is 4861 divisible by 7? Is 4861 divisible by 694? Directly answer this question with yes or no only. No, 4861 is not divisible by 694. Yes, 4861 is divisible by 7."
+    },
+    {
+        "question": 51,
+        "answer": "Is 9419 divisible by 23? Is 9419 divisible by 407? Directly answer this question with yes or no only. To determine if a number is divisible by another, we need to check the divisibility rules for each divisor.\n\nFirst, let's check if 9419 is divisible by 23:\n- A number is divisible by 23 if the remainder when divided by 23 is zero.\n- We can"
+    },
+    {
+        "question": 52,
+        "answer": "Is 2647 divisible by 19? Is 2647 divisible by 137? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the remaining number formed by the rest of the digits is"
+    },
+    {
+        "question": 53,
+        "answer": "Is 8447 divisible by 23? Is 8447 divisible by 367? Directly answer this question with yes or no only. No, 8447 is not divisible by 367. To determine if a number is divisible by another number, you can use the following methods:\n\n1. **Divisibility Rule for 23**: A number is divisible by 23 if the difference between twice the last digit and the"
+    },
+    {
+        "question": 54,
+        "answer": "Is 12301 divisible by 7? Is 12301 divisible by 1761? Directly answer this question with yes or no only. To determine if a number is divisible by another, you can perform the division and check for any remainder.\n\nFor 12301 divided by 7:\n\\[ 12301 \\div 7 = 1757.2857... \\]\nThere is a remainder"
+    },
+    {
+        "question": 55,
+        "answer": "Is 14533 divisible by 7? Is 14533 divisible by 2077? Directly answer this question with yes or no only. No, 14533 is not divisible by 2077."
+    },
+    {
+        "question": 56,
+        "answer": "Is 16249 divisible by 73? Is 16249 divisible by 223? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 73:**\nA number is divisible by 73 if it ends in either 0 or 5 and all other digits are zero. However"
+    },
+    {
+        "question": 57,
+        "answer": "Is 19997 divisible by 3? Is 19997 divisible by 6665? Directly answer this question with yes or no only. No, 19997 is not divisible by 6665."
+    },
+    {
+        "question": 58,
+        "answer": "Is 1559 divisible by 7? Is 1559 divisible by 223? Directly answer this question with yes or no only. No, 1559 is not divisible by 223. Yes, 1559 is divisible by 7."
+    },
+    {
+        "question": 59,
+        "answer": "Is 15299 divisible by 7? Is 15299 divisible by 2187? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms"
+    },
+    {
+        "question": 60,
+        "answer": "Is 19231 divisible by 47? Is 19231 divisible by 409? Directly answer this question with yes or no only. No, 19231 is not divisible by 409. Yes, 19231 is divisible by 47."
+    },
+    {
+        "question": 61,
+        "answer": "Is 6983 divisible by 17? Is 6983 divisible by 401? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 17:\n- The rule states that a number is divisible by 17 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a number"
+    },
+    {
+        "question": 62,
+        "answer": "Is 14347 divisible by 3? Is 14347 divisible by 4782? Directly answer this question with yes or no only. No, 14347 is not divisible by 4782. Yes, 14347 is divisible by 3."
+    },
+    {
+        "question": 63,
+        "answer": "Is 9067 divisible by 13? Is 9067 divisible by 697? Directly answer this question with yes or no only. No, 9067 is not divisible by 697."
+    },
+    {
+        "question": 64,
+        "answer": "Is 6581 divisible by 43? Is 6581 divisible by 151? Directly answer this question with yes or no only. No, 6581 is not divisible by 151. Yes, 6581 is divisible by 43."
+    },
+    {
+        "question": 65,
+        "answer": "Is 15859 divisible by 7? Is 15859 divisible by 2265? Directly answer this question with yes or no only. No, 15859 is not divisible by 2265. Yes, 15859 is divisible by 7."
+    },
+    {
+        "question": 66,
+        "answer": "Is 18731 divisible by 41? Is 18731 divisible by 461? Directly answer this question with yes or no only. No, 18731 is not divisible by 41 and it is also not divisible by 461."
+    },
+    {
+        "question": 67,
+        "answer": "Is 12037 divisible by 19? Is 12037 divisible by 631? Directly answer this question with yes or no only. No, 12037 is not divisible by 631. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Divisibility by 19**: A number is divisible by 19 if the remainder of its division by "
+    },
+    {
+        "question": 68,
+        "answer": "Is 10463 divisible by 7? Is 10463 divisible by 1493? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\nFirst, let's check if 10463 is divisible by 1493:\n\n1. **Divisibility Rule for 1493:**\n   -"
+    },
+    {
+        "question": 69,
+        "answer": "Is 16529 divisible by 7? Is 16529 divisible by 2361? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 16529:\n- It's not immediately clear from its digits alone whether it's divisible by 7 or 2361 without performing the division.\n-"
+    },
+    {
+        "question": 70,
+        "answer": "Is 4447 divisible by 13? Is 4447 divisible by 349? Directly answer this question with yes or no only. No, 4447 is not divisible by 349. To determine if a number is divisible by another number, you can use the divisibility rules for each of those numbers.\n\nFor 349:\n- It's an odd prime number.\n- The sum of its digits (3 + "
+    },
+    {
+        "question": 71,
+        "answer": "Is 9491 divisible by 7? Is 9491 divisible by 1355? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 9491 to be divisible by 7:\n- The last digit must be even.\n- Remove the last digit and double it (2 * 1 = 2).\n- Subtract that"
+    },
+    {
+        "question": 72,
+        "answer": "Is 11617 divisible by 37? Is 11617 divisible by 313? Directly answer this question with yes or no only. No, 11617 is not divisible by 37; Yes, 11617 is divisible by 313."
+    },
+    {
+        "question": 73,
+        "answer": "Is 8623 divisible by 7? Is 8623 divisible by 1231? Directly answer this question with yes or no only. No, 8623 is not divisible by 1231."
+    },
+    {
+        "question": 74,
+        "answer": "Is 8821 divisible by 3? Is 8821 divisible by 7? Is 8821 divisible by 409? Directly answer this question with yes or no only. No, No, Yes."
+    },
+    {
+        "question": 75,
+        "answer": "Is 3121 divisible by 59? Is 3121 divisible by 53? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each number.\n\n**Divisibility rule for 59:**\nA number is divisible by 59 if it ends in 0 or 5 and all digits except the last two are zero. However, since we don't"
+    },
+    {
+        "question": 76,
+        "answer": "Is 9787 divisible by 13? Is 9787 divisible by 749? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the divisors.\n\n**Divisibility Rule for 13:**\nA number is divisible by 13 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms"
+    },
+    {
+        "question": 77,
+        "answer": "Is 2393 divisible by 17? Is 2393 divisible by 141? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\n**Divisibility rule for 17:**\nA number is divisible by 17 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a"
+    },
+    {
+        "question": 78,
+        "answer": "Is 4253 divisible by 7? Is 4253 divisible by 608? Directly answer this question with yes or no only. No, 4253 is not divisible by 608. Yes, 4253 is divisible by 7."
+    },
+    {
+        "question": 79,
+        "answer": "Is 16033 divisible by 7? Is 16033 divisible by 2290? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 16033 to be divisible by 7:\n- The last digit must be odd.\n- Remove the last digit and double it (if doubling results in a two-digit number"
+    },
+    {
+        "question": 80,
+        "answer": "Is 2731 divisible by 29? Is 2731 divisible by 97? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rules for divisibility.\n\n**Divisibility by 29:**\nA number is divisible by 29 if the remainder when divided by 29 is zero. We need to check if \\(2731 \\mod 29 ="
+    },
+    {
+        "question": 81,
+        "answer": "Is 5233 divisible by 17? Is 5233 divisible by 307? Directly answer this question with yes or no only. No, 5233 is not divisible by 307. Yes, 5233 is divisible by 17."
+    },
+    {
+        "question": 82,
+        "answer": "Is 3209 divisible by 17? Is 3209 divisible by 187? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFirst, let's check if 3209 is divisible by 17:\n- The rule for checking divisibility by 17 involves subtracting twice the last digit from the rest of the"
+    },
+    {
+        "question": 83,
+        "answer": "Is 17489 divisible by 13? Is 17489 divisible by 1357? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rule of divisibility for 13 and then check for other divisors.\n\nFirst, let's check if 17489 is divisible by 13:\n- The alternating sum of the digits of 174"
+    },
+    {
+        "question": 84,
+        "answer": "Is 6317 divisible by 41? Is 6317 divisible by 153? Directly answer this question with yes or no only. No, 6317 is not divisible by 153. Yes, 6317 is divisible by 41."
+    },
+    {
+        "question": 85,
+        "answer": "Is 12547 divisible by 13? Is 12547 divisible by 967? Directly answer this question with yes or no only. No, 12547 is not divisible by 967. Yes, 12547 is divisible by 13."
+    },
+    {
+        "question": 86,
+        "answer": "Is 16253 divisible by 7? Is 16253 divisible by 2317? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 16253 to be divisible by 7:\n- The last digit is 3.\n- We double it: \\(3 \\times 2 = 6\\).\n-"
+    },
+    {
+        "question": 87,
+        "answer": "Is 11467 divisible by 3? Is 11467 divisible by 3822? Is 11467 divisible by 1? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rule that a number is divisible by 3 if the sum of its digits is divisible by 3.\n\nLet's check for divisibility by 3:\nThe sum of the digits"
+    },
+    {
+        "question": 88,
+        "answer": "Is 3547 divisible by 19? Is 3547 divisible by 187? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFirst, let's check if 3547 is divisible by 19:\n- The rule for divisibility by 19 states that you need to subtract twice the last digit from the rest"
+    },
+    {
+        "question": 89,
+        "answer": "Is 12959 divisible by 7? Is 12959 divisible by 1851? Directly answer this question with yes or no only. No, 12959 is not divisible by 1851."
+    },
+    {
+        "question": 90,
+        "answer": "Is 13171 divisible by 41? Is 13171 divisible by 321? Directly answer this question with yes or no only. No, 13171 is not divisible by 321. Yes, 13171 is divisible by 41."
+    },
+    {
+        "question": 91,
+        "answer": "Is 17707 divisible by 19? Is 17707 divisible by 923? Directly answer this question with yes or no only. No, 17707 is not divisible by 923. Yes, 17707 is divisible by 19."
+    },
+    {
+        "question": 92,
+        "answer": "Is 19403 divisible by 7? Is 19403 divisible by 2771? Directly answer this question with yes or no only. No, 19403 is not divisible by 2771. Yes, 19403 is divisible by 7."
+    },
+    {
+        "question": 93,
+        "answer": "Is 2011 divisible by 43? Is 2011 divisible by 47? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 43 if it leaves a remainder of 0 when divided by 43.\n2. A number is divisible by 47 if it leaves a remainder of 0 when divided by 4"
+    },
+    {
+        "question": 94,
+        "answer": "Is 8629 divisible by 13? Is 8629 divisible by 667? Directly answer this question with yes or no only. No, 8629 is not divisible by 667. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Divisibility by 13**: A number is divisible by 13 if the remainder of its division by 13 is"
+    },
+    {
+        "question": 95,
+        "answer": "Is 9221 divisible by 7? Is 9221 divisible by 1317? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 9221 to be divisible by 7:\n- The last digit is 1.\n- Double it: \\(1 \\times 2 = 2\\).\n- Subtract that"
+    },
+    {
+        "question": 96,
+        "answer": "Is 17923 divisible by 17? Is 17923 divisible by 1051? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each divisor.\n\n**Divisibility rule for 17:**\nA number is divisible by 17 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms"
+    },
+    {
+        "question": 97,
+        "answer": "Is 7489 divisible by 23? Is 7489 divisible by 329? Directly answer this question with yes or no only. No, 7489 is not divisible by 329. To determine if a number is divisible by another number, you can check the divisibility rules for each divisor.\n\nFor 329:\n- It's an odd number.\n- The sum of its digits (3 + 2 + "
+    },
+    {
+        "question": 98,
+        "answer": "Is 8111 divisible by 7? Is 8111 divisible by 1159? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining digits forms a number that is divisible by 7 (or 0"
+    },
+    {
+        "question": 99,
+        "answer": "Is 2801 divisible by 7? Is 2801 divisible by 401? Directly answer this question with yes or no only. No, 2801 is not divisible by 401. Yes, 2801 is divisible by 7."
+    },
+    {
+        "question": 100,
+        "answer": "Is 7237 divisible by 19? Is 7237 divisible by 383? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 7237 to be divisible by 19:\n- The last digit must be even.\n- Sum of digits: \\(7 + 2 + 3 + 7 = 1"
+    },
+    {
+        "question": 101,
+        "answer": "Is 5351 divisible by 7? Is 5351 divisible by 769? Directly answer this question with yes or no only. No, 5351 is not divisible by 769."
+    },
+    {
+        "question": 102,
+        "answer": "Is 14057 divisible by 19? Is 14057 divisible by 739? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last"
+    },
+    {
+        "question": 103,
+        "answer": "Is 7691 divisible by 7? Is 7691 divisible by 1099? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\nFirst, let's check if 7691 is divisible by 7:\n- The rule for checking divisibility by 7 involves subtracting twice the last digit from the rest of the number"
+    },
+    {
+        "question": 104,
+        "answer": "Is 19433 divisible by 7? Is 19433 divisible by 2773? Directly answer this question with yes or no only. No, 19433 is not divisible by 2773. Yes, 19433 is divisible by 7."
+    },
+    {
+        "question": 105,
+        "answer": "Is 10093 divisible by 7? Is 10093 divisible by 1441? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 10093 to be divisible by 7:\n- The last digit must be checked first: 3 (which is not 0 or 5).\n- Then, double"
+    },
+    {
+        "question": 106,
+        "answer": "Is 13537 divisible by 19? Is 13537 divisible by 709? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit) is divisible by 1"
+    },
+    {
+        "question": 107,
+        "answer": "Is 9337 divisible by 13? Is 9337 divisible by 683? Directly answer this question with yes or no only. No, 9337 is not divisible by 683. To determine if a number is divisible by another number, you can perform the division and check if there is no remainder.\n\nFor divisibility by 13:\n\\[ 9337 \\div 13 = 718"
+    },
+    {
+        "question": 108,
+        "answer": "Is 16561 divisible by 43? Is 16561 divisible by 389? Directly answer this question with yes or no only. No, 16561 is not divisible by 389. Yes, 16561 is divisible by 43."
+    },
+    {
+        "question": 109,
+        "answer": "Is 2459 divisible by 7? Is 2459 divisible by 351? Directly answer this question with yes or no only. No, 2459 is not divisible by 351. To determine if a number is divisible by another number, you can use the divisibility rules for each of those numbers.\n\nFor 351:\n- It's important to note that 351 has more than two factors (3,"
+    },
+    {
+        "question": 110,
+        "answer": "Is 14143 divisible by 7? Is 14143 divisible by 2029? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each number.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a multiple of"
+    },
+    {
+        "question": 111,
+        "answer": "Is 15233 divisible by 7? Is 15233 divisible by 2176? Directly answer this question with yes or no only. No, 15233 is not divisible by 2176. Yes, 15233 is divisible by 7."
+    },
+    {
+        "question": 112,
+        "answer": "Is 11159 divisible by 7? Is 11159 divisible by 1591? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining digits forms a number that is divisible by 7 (or"
+    },
+    {
+        "question": 113,
+        "answer": "Is 1321 divisible by 7? Is 1321 divisible by 189? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 1321:\n- It's not immediately clear from its digits alone whether it's divisible by 7 or 189 without performing the division.\n- However, we can check"
+    },
+    {
+        "question": 114,
+        "answer": "Is 11897 divisible by 13? Is 11897 divisible by 913? Directly answer this question with yes or no only. No, 11897 is not divisible by 913. To determine if a number is divisible by another number, you can use the divisibility rules for each of those numbers.\n\nFor 913:\n- It's an odd number.\n- The sum of its digits (9"
+    },
+    {
+        "question": 115,
+        "answer": "Is 4799 divisible by 13? Is 4799 divisible by 368? Directly answer this question with yes or no only. No, 4799 is not divisible by 368. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Divisibility by 13**: A number is divisible by 13 if the remainder of its division by 13 is"
+    },
+    {
+        "question": 116,
+        "answer": "Is 6637 divisible by 19? Is 6637 divisible by 353? Directly answer this question with yes or no only. No, 6637 is not divisible by 353. Yes, 6637 is divisible by 19."
+    },
+    {
+        "question": 117,
+        "answer": "Is 14519 divisible by 7? Is 14519 divisible by 2071? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit) is divisible"
+    },
+    {
+        "question": 118,
+        "answer": "Is 18097 divisible by 13? Is 18097 divisible by 1393? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each divisor.\n\nFirst, let's check if 18097 is divisible by 13:\n- The sum of the digits of 18097 is \\(1 + 8 + "
+    },
+    {
+        "question": 119,
+        "answer": "Is 1171 divisible by 37? Is 1171 divisible by 31? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rule that a number is divisible by 37 if and only if it leaves a remainder of 0 when divided by 37.\n\nLet's check for divisibility by 37:\n\n1. **Divide 1171 by "
+    },
+    {
+        "question": 120,
+        "answer": "Is 6073 divisible by 19? Is 6073 divisible by 323? Directly answer this question with yes or no only. No, 6073 is not divisible by 323. To determine if a number is divisible by another number, you can use the divisibility rules for each number.\n\nFor 6073 to be divisible by 19:\n- The last digit of 6073 is "
+    },
+    {
+        "question": 121,
+        "answer": "Is 3259 divisible by 17? Is 3259 divisible by 191? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 17:\n- The last three digits of 3259 are 259.\n- We check if 259 is divisible by 17: \\(259"
+    },
+    {
+        "question": 122,
+        "answer": "Is 3607 divisible by 19? Is 3607 divisible by 187? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 3607 is divisible by 19:\n- The rule for divisibility by 19 states that you need to subtract twice the last digit from"
+    },
+    {
+        "question": 123,
+        "answer": "Is 15101 divisible by 7? Is 15101 divisible by 2153? Directly answer this question with yes or no only. No, 15101 is not divisible by 2153. Yes, 15101 is divisible by 7."
+    },
+    {
+        "question": 124,
+        "answer": "Is 8293 divisible by 17? Is 8293 divisible by 481? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility rule for 17:**\nA number is divisible by 17 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a multiple"
+    },
+    {
+        "question": 125,
+        "answer": "Is 12143 divisible by 7? Is 12143 divisible by 1739? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit"
+    },
+    {
+        "question": 126,
+        "answer": "Is 11257 divisible by 37? Is 11257 divisible by 301? Directly answer this question with yes or no only. No, 11257 is not divisible by 37 and it is also not divisible by 301."
+    },
+    {
+        "question": 127,
+        "answer": "Is 17107 divisible by 3? Is 17107 divisible by 5702? Directly answer this question with yes or no only. No, 17107 is not divisible by 5702. Yes, 17107 is divisible by 3."
+    },
+    {
+        "question": 128,
+        "answer": "Is 1489 divisible by 23? Is 1489 divisible by 63? Directly answer this question with yes or no only. To determine if a number is divisible by another, we need to check the divisibility rules for each divisor.\n\nFor 1489:\n- It ends in 9, so it's not divisible by 2 (since even numbers end in 0, 2, 4, 6, or 8"
+    },
+    {
+        "question": 129,
+        "answer": "Is 4243 divisible by 7? Is 4243 divisible by 607? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between twice the last digit and the rest of the number (excluding the last digit) is divisible by 7.\n2. A number is divisible by 607 if it"
+    },
+    {
+        "question": 130,
+        "answer": "Is 10723 divisible by 19? Is 10723 divisible by 563? Directly answer this question with yes or no only. No, 10723 is not divisible by 563. Yes, 10723 is divisible by 19."
+    },
+    {
+        "question": 131,
+        "answer": "Is 11177 divisible by 43? Is 11177 divisible by 257? Directly answer this question with yes or no only. No, 11177 is not divisible by 257. Yes, 11177 is divisible by 43."
+    },
+    {
+        "question": 132,
+        "answer": "Is 18307 divisible by 19? Is 18307 divisible by 959? Directly answer this question with yes or no only. No, 18307 is not divisible by 959. Yes, 18307 is divisible by 19."
+    },
+    {
+        "question": 133,
+        "answer": "Is 5521 divisible by 7? Is 5521 divisible by 793? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rule for 7 and 793.\n\nFor 7:\nA number is divisible by 7 if the difference between twice the last digit and the remaining digits forms a number that is divisible by 7. Let's check:\n\n- For"
+    },
+    {
+        "question": 134,
+        "answer": "Is 17341 divisible by 19? Is 17341 divisible by 899? Directly answer this question with yes or no only. No, 17341 is not divisible by 899. Yes, 17341 is divisible by 19."
+    },
+    {
+        "question": 135,
+        "answer": "Is 15473 divisible by 19? Is 15473 divisible by 809? Directly answer this question with yes or no only. No, 15473 is not divisible by 809. Yes, 15473 is divisible by 19."
+    },
+    {
+        "question": 136,
+        "answer": "Is 16229 divisible by 17? Is 16229 divisible by 953? Directly answer this question with yes or no only. No, 16229 is not divisible by 953. Yes, 16229 is divisible by 17."
+    },
+    {
+        "question": 137,
+        "answer": "Is 3181 divisible by 3? Is 3181 divisible by 1060? Is 3181 divisible by 1? Directly answer this question with yes or no only. No, 3181 is not divisible by 1060. Yes, 3181 is divisible by 3. No, 3181 is not divisible by 1."
+    },
+    {
+        "question": 138,
+        "answer": "Is 17863 divisible by 19? Is 17863 divisible by 931? Directly answer this question with yes or no only. No, 17863 is not divisible by 931. To determine if a number is divisible by another number, you can use the divisibility rules for each of those numbers.\n\nFor 17863 to be divisible by 19:\n- The sum of its digits"
+    },
+    {
+        "question": 139,
+        "answer": "Is 8231 divisible by 7? Is 8231 divisible by 1169? Directly answer this question with yes or no only. No, 8231 is not divisible by 1169. Yes, 8231 is divisible by 7."
+    },
+    {
+        "question": 140,
+        "answer": "Is 6971 divisible by 43? Is 6971 divisible by 163? Directly answer this question with yes or no only. No, 6971 is not divisible by 163. Yes, 6971 is divisible by 43."
+    },
+    {
+        "question": 141,
+        "answer": "Is 3917 divisible by 41? Is 3917 divisible by 95? Directly answer this question with yes or no only. No, 3917 is not divisible by 95. To determine if a number is divisible by another number, you can use the divisibility rules for each of those numbers.\n\nFor 3917 to be divisible by 41:\n- The last two digits must form a number that is divisible"
+    },
+    {
+        "question": 142,
+        "answer": "Is 18427 divisible by 19? Is 18427 divisible by 967? Directly answer this question with yes or no only. No, 18427 is not divisible by 967. Yes, 18427 is divisible by 19."
+    },
+    {
+        "question": 143,
+        "answer": "Is 10651 divisible by 7? Is 10651 divisible by 1523? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 10651 to be divisible by 7:\n- The last digit must be removed and then multiplied by 2.\n- If the result minus the sum of all other digits"
+    },
+    {
+        "question": 144,
+        "answer": "Is 2113 divisible by 7? Is 2113 divisible by 301? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining digits forms a number that is divisible by 7 (or 0).\n\n"
+    },
+    {
+        "question": 145,
+        "answer": "Is 4729 divisible by 13? Is 4729 divisible by 361? Directly answer this question with yes or no only. No, 4729 is not divisible by 361. To determine if a number is divisible by another number, you can use the following steps:\n\n1. Check divisibility by smaller prime numbers first.\n2. If one of these checks fails, move on to larger primes.\n\nFor 47"
+    },
+    {
+        "question": 146,
+        "answer": "Is 5987 divisible by 13? Is 5987 divisible by 463? Directly answer this question with yes or no only. No, 5987 is not divisible by 463. Yes, 5987 is divisible by 13."
+    },
+    {
+        "question": 147,
+        "answer": "Is 18059 divisible by 37? Is 18059 divisible by 491? Directly answer this question with yes or no only. No, 18059 is not divisible by 491. Yes, 18059 is divisible by 37."
+    },
+    {
+        "question": 148,
+        "answer": "Is 5483 divisible by 19? Is 5483 divisible by 287? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit)"
+    },
+    {
+        "question": 149,
+        "answer": "Is 14431 divisible by 7? Is 14431 divisible by 2063? Directly answer this question with yes or no only. No, 14431 is not divisible by 2063. Yes, 14431 is divisible by 7."
+    },
+    {
+        "question": 150,
+        "answer": "Is 7349 divisible by 101? Is 7349 divisible by 73? Directly answer this question with yes or no only. No."
+    },
+    {
+        "question": 151,
+        "answer": "Is 15889 divisible by 37? Is 15889 divisible by 421? Directly answer this question with yes or no only. No, 15889 is not divisible by 421. Yes, 15889 is divisible by 37."
+    },
+    {
+        "question": 152,
+        "answer": "Is 5077 divisible by 19? Is 5077 divisible by 263? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder when divided by 19 is zero.\n- We can check this by dividing 5077 by 1"
+    },
+    {
+        "question": 153,
+        "answer": "Is 19801 divisible by 43? Is 19801 divisible by 457? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 43:\n- A number is divisible by 43 if it ends in one of these digits: 0, 2, 4, 6, or 8.\n"
+    },
+    {
+        "question": 154,
+        "answer": "Is 10301 divisible by 79? Is 10301 divisible by 127? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 10301 to be divisible by 79:\n- The last digit must be 0.\n- The sum of the digits must be divisible by 79"
+    },
+    {
+        "question": 155,
+        "answer": "Is 2549 divisible by 13? Is 2549 divisible by 195? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 13:\n- A simple way to check if a number is divisible by 13 is to see if the difference between twice the last digit and the rest of the number (excluding the last"
+    },
+    {
+        "question": 156,
+        "answer": "Is 8297 divisible by 13? Is 8297 divisible by 631? Directly answer this question with yes or no only. No, 8297 is not divisible by 631. To determine if a number is divisible by another number, you can use the following methods:\n\n1. **Divisibility Rule for 13**: A number is divisible by 13 if the difference between twice the last digit and the"
+    },
+    {
+        "question": 157,
+        "answer": "Is 12323 divisible by 7? Is 12323 divisible by 1763? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 12323:\n- It ends in 3, so it's not divisible by 2.\n- The sum of its digits (1+2+3+2+"
+    },
+    {
+        "question": 158,
+        "answer": "Is 15647 divisible by 37? Is 15647 divisible by 421? Directly answer this question with yes or no only. No, 15647 is not divisible by 421. Yes, 15647 is divisible by 37."
+    },
+    {
+        "question": 159,
+        "answer": "Is 7333 divisible by 19? Is 7333 divisible by 389? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit) is divisible"
+    },
+    {
+        "question": 160,
+        "answer": "Is 3779 divisible by 101? Is 3779 divisible by 37? Directly answer this question with yes or no only. No."
+    },
+    {
+        "question": 161,
+        "answer": "Is 9091 divisible by 23? Is 9091 divisible by 391? Directly answer this question with yes or no only. No, 9091 is not divisible by 391."
+    },
+    {
+        "question": 162,
+        "answer": "Is 17077 divisible by 13? Is 17077 divisible by 1313? Directly answer this question with yes or no only. No. Yes. No. Yes.\nTo determine if a number is divisible by 13, we can use the rule that states you subtract nine times the last digit from the rest of the number and then check if the result is divisible by 13.\n\nLet's apply this to 17"
+    },
+    {
+        "question": 163,
+        "answer": "Is 15959 divisible by 7? Is 15959 divisible by 2279? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each number.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit) is divisible by"
+    },
+    {
+        "question": 164,
+        "answer": "Is 9623 divisible by 7? Is 9623 divisible by 1373? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 9623 to be divisible by 7:\n- The last digit is 3.\n- Double it: \\(3 \\times 2 = 6\\).\n- Subtract that from the"
+    },
+    {
+        "question": 165,
+        "answer": "Is 15887 divisible by 19? Is 15887 divisible by 833? Directly answer this question with yes or no only. No, 15887 is not divisible by 833. Yes, 15887 is divisible by 19."
+    },
+    {
+        "question": 166,
+        "answer": "Is 18041 divisible by 73? Is 18041 divisible by 241? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 18041 is divisible by 73:\n- The last digit of 18041 is 1.\n- We need"
+    },
+    {
+        "question": 167,
+        "answer": "Is 7589 divisible by 13? Is 7589 divisible by 583? Directly answer this question with yes or no only. No, 7589 is not divisible by 583. To determine if a number is divisible by another number, you can perform the division and check if there is no remainder.\n\nFor divisibility by 13:\n\\[ 7589 \\div 13 = 583"
+    },
+    {
+        "question": 168,
+        "answer": "Is 19429 divisible by 7? Is 19429 divisible by 2773? Directly answer this question with yes or no only. No, 19429 is not divisible by 2773. Yes, 19429 is divisible by 7."
+    },
+    {
+        "question": 169,
+        "answer": "Is 7309 divisible by 19? Is 7309 divisible by 389? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit) is either 0 or a multiple"
+    },
+    {
+        "question": 170,
+        "answer": "Is 18229 divisible by 43? Is 18229 divisible by 421? Directly answer this question with yes or no only. No, 18229 is not divisible by 421. Yes, 18229 is divisible by 43."
+    },
+    {
+        "question": 171,
+        "answer": "Is 10067 divisible by 23? Is 10067 divisible by 439? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 10067 to be divisible by 23:\n- The last digit of 10067 is 7.\n- Check if 7 is divisible by 23"
+    },
+    {
+        "question": 172,
+        "answer": "Is 1129 divisible by 7? Is 1129 divisible by 161? Directly answer this question with yes or no only. No, 1129 is not divisible by 161."
+    },
+    {
+        "question": 173,
+        "answer": "Is 19267 divisible by 43? Is 19267 divisible by 451? Directly answer this question with yes or no only. To determine if a number is divisible by another, we need to check the divisibility rules for each divisor.\n\n**Divisibility rule for 43:**\nA number is divisible by 43 if the remainder when divided by 43 is zero. This can be checked using long division or direct"
+    },
+    {
+        "question": 174,
+        "answer": "Is 13003 divisible by 7? Is 13003 divisible by 1859? Directly answer this question with yes or no only. No. Yes. No. Yes.\nTo determine if a number is divisible by another, you can use the divisibility rule for that number. Let's check each part of your questions:\n\n### Divisibility by 7:\nA number is divisible by 7 if the difference between twice the last digit and"
+    },
+    {
+        "question": 175,
+        "answer": "Is 8963 divisible by 7? Is 8963 divisible by 1279? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 8963 is divisible by 7:\n- The rule for checking divisibility by 7 is to subtract twice the last digit from the rest of the"
+    },
+    {
+        "question": 176,
+        "answer": "Is 9511 divisible by 37? Is 9511 divisible by 257? Directly answer this question with yes or no only. No, 9511 is not divisible by 257. To determine if a number is divisible by another number, you can use the divisibility rule for that number. For example, to check if a number is divisible by 37, you would add up all the digits in the number and"
+    },
+    {
+        "question": 177,
+        "answer": "Is 17599 divisible by 13? Is 17599 divisible by 1363? Directly answer this question with yes or no only. No, 17599 is not divisible by 1363."
+    },
+    {
+        "question": 178,
+        "answer": "Is 7013 divisible by 29? Is 7013 divisible by 241? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 29:\n- A number is divisible by 29 if the remainder when divided by 29 is zero.\n- We can check this by dividing 7013 by 2"
+    },
+    {
+        "question": 179,
+        "answer": "Is 7127 divisible by 7? Is 7127 divisible by 1019? Directly answer this question with yes or no only. No, 7127 is not divisible by 1019. Yes, 7127 is divisible by 7."
+    },
+    {
+        "question": 180,
+        "answer": "Is 5869 divisible by 7? Is 5869 divisible by 837? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n1. **Divisibility by 7:**\n   - A number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit) is divisible"
+    },
+    {
+        "question": 181,
+        "answer": "Is 15013 divisible by 7? Is 15013 divisible by 2143? Directly answer this question with yes or no only. No, 15013 is not divisible by 2143. Yes, 15013 is divisible by 7."
+    },
+    {
+        "question": 182,
+        "answer": "Is 16883 divisible by 7? Is 16883 divisible by 2413? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Step 1: Check if 16883 is divisible by 7**\n\nTo check for divisibility by 7, we perform the division:\n\\[ 168"
+    },
+    {
+        "question": 183,
+        "answer": "Is 6577 divisible by 19? Is 6577 divisible by 347? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the number formed by its last two digits is divisible by 19. For example, to check if"
+    },
+    {
+        "question": 184,
+        "answer": "Is 11069 divisible by 73? Is 11069 divisible by 151? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 73:**\nA number is divisible by 73 if it ends in 0, 2, 4, 6, or "
+    },
+    {
+        "question": 185,
+        "answer": "Is 11551 divisible by 3? Is 11551 divisible by 3850? Directly answer this question with yes or no only. No, 11551 is not divisible by 3850. Yes, 11551 is divisible by 3."
+    },
+    {
+        "question": 186,
+        "answer": "Is 7949 divisible by 13? Is 7949 divisible by 607? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 7949 to be divisible by 13:\n- The sum of its digits should be divisible by 13.\n- Alternatively, you can divide the number by 13 and see if"
+    },
+    {
+        "question": 187,
+        "answer": "Is 11777 divisible by 13? Is 11777 divisible by 891? Directly answer this question with yes or no only. No, 11777 is not divisible by 891. To determine if a number is divisible by another number, you can perform the division and check for any remainder. If there's no remainder, then the first number is divisible by the second.\n\nFor 11777"
+    },
+    {
+        "question": 188,
+        "answer": "Is 14489 divisible by 73? Is 14489 divisible by 203? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 73:**\nA number is divisible by 73 if it ends in 0, 1, 2, 3, 4"
+    },
+    {
+        "question": 189,
+        "answer": "Is 18617 divisible by 3? Is 18617 divisible by 59? Is 18617 divisible by 101? Directly answer this question with yes or no only. To determine if a number is divisible by another, we need to check the remainder when dividing the larger number by the smaller one.\n\nFor 18617:\n- Dividing by 3: \\(1 + 8 + 6 +"
+    },
+    {
+        "question": 190,
+        "answer": "Is 19333 divisible by 19? Is 19333 divisible by 101? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19333 to be divisible by 19:\n- The last digit must be even.\n- Sum of digits in odd positions (starting from right) minus sum of digits"
+    },
+    {
+        "question": 191,
+        "answer": "Is 5209 divisible by 17? Is 5209 divisible by 307? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility rule for 17:**\nA number is divisible by 17 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a multiple"
+    },
+    {
+        "question": 192,
+        "answer": "Is 5023 divisible by 7? Is 5023 divisible by 719? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\nFirst, let's check if 5023 is divisible by 7:\n- The last digit of 5023 is 3.\n- We need to see if 3 is divisible"
+    },
+    {
+        "question": 193,
+        "answer": "Is 9173 divisible by 23? Is 9173 divisible by 401? Directly answer this question with yes or no only. No, 9173 is not divisible by 401. Yes, 9173 is divisible by 23."
+    },
+    {
+        "question": 194,
+        "answer": "Is 3677 divisible by 19? Is 3677 divisible by 192? Directly answer this question with yes or no only. No."
+    },
+    {
+        "question": 195,
+        "answer": "Is 2887 divisible by 13? Is 2887 divisible by 222? Directly answer this question with yes or no only. No, 2887 is not divisible by 222."
+    },
+    {
+        "question": 196,
+        "answer": "Is 3217 divisible by 43? Is 3217 divisible by 75? Directly answer this question with yes or no only. No, 3217 is not divisible by 75. To determine if a number is divisible by another number, you can check the divisibility rules for each divisor.\n\nFor 3217 to be divisible by 43:\n- The last two digits of 3217 are 1"
+    },
+    {
+        "question": 197,
+        "answer": "Is 1327 divisible by 19? Is 1327 divisible by 67? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder of its division by 19 is zero.\n2. A number is divisible by 67 if the remainder of its division by 67 is zero.\n\nLet's"
+    },
+    {
+        "question": 198,
+        "answer": "Is 14887 divisible by 19? Is 14887 divisible by 773? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder after dividing by 19 is zero.\n- We can check this by performing the division: \\(14"
+    },
+    {
+        "question": 199,
+        "answer": "Is 14939 divisible by 7? Is 14939 divisible by 2137? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit)"
+    },
+    {
+        "question": 200,
+        "answer": "Is 4373 divisible by 19? Is 4373 divisible by 231? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder after dividing it by 19 is zero.\n- We can check this by performing the division: \\(437"
+    },
+    {
+        "question": 201,
+        "answer": "Is 1021 divisible by 7? Is 1021 divisible by 143? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining number formed by omitting the last digit is divisible by "
+    },
+    {
+        "question": 202,
+        "answer": "Is 13049 divisible by 7? Is 13049 divisible by 1867? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\nFirst, let's check if 13049 is divisible by 7:\n- The rule for checking divisibility by 7 is to subtract twice the last digit from the rest"
+    },
+    {
+        "question": 203,
+        "answer": "Is 6673 divisible by 19? Is 6673 divisible by 353? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder after dividing it by 19 is zero.\n- We can check this by performing the division: \\(667"
+    },
+    {
+        "question": 204,
+        "answer": "Is 5701 divisible by 37? Is 5701 divisible by 157? Directly answer this question with yes or no only. No, 5701 is not divisible by 157. Yes, 5701 is divisible by 37."
+    },
+    {
+        "question": 205,
+        "answer": "Is 12983 divisible by 7? Is 12983 divisible by 1854? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the units digit and the remaining digits forms a number that is divisible by 7"
+    },
+    {
+        "question": 206,
+        "answer": "Is 19687 divisible by 13? Is 19687 divisible by 1513? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 13:**\nA number is divisible by 13 if the difference between twice the last digit and the rest of the number (excluding the"
+    },
+    {
+        "question": 207,
+        "answer": "Is 6089 divisible by 23? Is 6089 divisible by 263? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the remainder when dividing by that number.\n\nFor 6089 to be divisible by 23:\n\\[ 6089 \\div 23 = 265 \\]\nSince there is no remainder (the division results in an"
+    },
+    {
+        "question": 208,
+        "answer": "Is 1109 divisible by 37? Is 1109 divisible by 31? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rule that a number is divisible by 37 if and only if the difference between twice the last digit of the number and the remaining digits is divisible by 37.\n\nLet's check for divisibility by 37:\n\nFor 110"
+    },
+    {
+        "question": 209,
+        "answer": "Is 3907 divisible by 13? Is 3907 divisible by 299? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 3907 is divisible by 13:\n- The rule for divisibility by 13 states that you should subtract four times the last digit from"
+    },
+    {
+        "question": 210,
+        "answer": "Is 13007 divisible by 19? Is 13007 divisible by 683? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder when divided by 19 is zero.\n- We can check this by performing the division: \\(13"
+    },
+    {
+        "question": 211,
+        "answer": "Is 18493 divisible by 3? Is 18493 divisible by 6165? Directly answer this question with yes or no only. No, 18493 is not divisible by 6165. To determine if a number is divisible by another number, you can check the divisibility rules for each of those numbers.\n\nFor 18493 to be divisible by 3:\n- The sum of its digits"
+    },
+    {
+        "question": 212,
+        "answer": "Is 6841 divisible by 73? Is 6841 divisible by 93? Directly answer this question with yes or no only. No, 6841 is not divisible by 93. To determine if a number is divisible by another number, you can use the divisibility rules for those numbers.\n\nFor 6841 to be divisible by 93:\n- The sum of its digits must be divisible by 93.\n"
+    },
+    {
+        "question": 213,
+        "answer": "Is 8053 divisible by 29? Is 8053 divisible by 277? Directly answer this question with yes or no only. No, 8053 is not divisible by 29 and it is also not divisible by 277."
+    },
+    {
+        "question": 214,
+        "answer": "Is 4283 divisible by 19? Is 4283 divisible by 223? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder when divided by 19 is zero.\n- We can check this by dividing 4283 by 1"
+    },
+    {
+        "question": 215,
+        "answer": "Is 7109 divisible by 7? Is 7109 divisible by 1015? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit) forms"
+    },
+    {
+        "question": 216,
+        "answer": "Is 6203 divisible by 7? Is 6203 divisible by 889? Directly answer this question with yes or no only. No, 6203 is not divisible by 889."
+    },
+    {
+        "question": 217,
+        "answer": "Is 16411 divisible by 3? Is 16411 divisible by 5470? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 16411 to be divisible by 3:\n- A number is divisible by 3 if the sum of its digits is divisible by 3.\n- The sum of the"
+    },
+    {
+        "question": 218,
+        "answer": "Is 16823 divisible by 7? Is 16823 divisible by 2403? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit) is divisible"
+    },
+    {
+        "question": 219,
+        "answer": "Is 4019 divisible by 23? Is 4019 divisible by 173? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 4019 is divisible by 23:\n- A number is divisible by 23 if the remainder when divided by 23 is zero.\n"
+    },
+    {
+        "question": 220,
+        "answer": "Is 14479 divisible by 13? Is 14479 divisible by 1081? Directly answer this question with yes or no only. No, 14479 is not divisible by 1081. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Check divisibility by smaller numbers first**: Start with checking for divisibility by 2 (even numbers are always"
+    },
+    {
+        "question": 221,
+        "answer": "Is 13523 divisible by 7? Is 13523 divisible by 1931? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 13523 to be divisible by 7:\n- The last digit must be odd.\n- Remove the last digit and double it (if doubling results in a two-digit number"
+    },
+    {
+        "question": 222,
+        "answer": "Is 8539 divisible by 17? Is 8539 divisible by 497? Directly answer this question with yes or no only. No, 8539 is not divisible by 497. To determine if a number is divisible by another number, you can use the divisibility rules for each of those numbers.\n\nFor 8539 to be divisible by 17:\n- The last digit must be odd.\n- Subtract"
+    },
+    {
+        "question": 223,
+        "answer": "Is 7549 divisible by 13? Is 7549 divisible by 581? Directly answer this question with yes or no only. No, 7549 is not divisible by 581. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Check divisibility by smaller prime numbers first**: Start with the smallest prime number and check for divisibility.\n\n2. **Divisibility"
+    },
+    {
+        "question": 224,
+        "answer": "Is 3919 divisible by 7? Is 3919 divisible by 559? Directly answer this question with yes or no only. No, 3919 is not divisible by 559. Yes, 3919 is divisible by 7."
+    },
+    {
+        "question": 225,
+        "answer": "Is 15937 divisible by 15937? Is 15937 divisible by 23? Is 15937 divisible by 689? Directly answer this question with yes or no only. No, No, Yes."
+    },
+    {
+        "question": 226,
+        "answer": "Is 19727 divisible by 13? Is 19727 divisible by 1519? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 13:\n- A number is divisible by 13 if the difference between twice the last digit and the rest of the number (excluding the last digit) is divisible by "
+    },
+    {
+        "question": 227,
+        "answer": "Is 12041 divisible by 7? Is 12041 divisible by 1717? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit"
+    },
+    {
+        "question": 228,
+        "answer": "Is 2423 divisible by 19? Is 2423 divisible by 127? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the difference between twice the last digit and the remaining digits forms a multiple of 19.\n- For 2423"
+    },
+    {
+        "question": 229,
+        "answer": "Is 19927 divisible by 13? Is 19927 divisible by 1531? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the divisors.\n\n**Divisibility rule for 13:**\nA number is divisible by 13 if the difference between twice the last digit and the rest of the number (excluding the last"
+    },
+    {
+        "question": 230,
+        "answer": "Is 6521 divisible by 43? Is 6521 divisible by 151? Directly answer this question with yes or no only. No, 6521 is not divisible by 151. Yes, 6521 is divisible by 43."
+    },
+    {
+        "question": 231,
+        "answer": "Is 11839 divisible by 7? Is 11839 divisible by 1691? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\nFirst, let's check if 11839 is divisible by 7:\n- The rule for checking divisibility by 7 is to subtract twice the last digit from the rest of the"
+    },
+    {
+        "question": 232,
+        "answer": "Is 7883 divisible by 19? Is 7883 divisible by 415? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 7883 to be divisible by 19:\n- The last digit must be even.\n- Sum of digits in odd positions: \\(7 + 8 = 15\\)\n"
+    },
+    {
+        "question": 233,
+        "answer": "Is 10627 divisible by 19? Is 10627 divisible by 553? Directly answer this question with yes or no only. No, 10627 is not divisible by 553. Yes, 10627 is divisible by 19."
+    },
+    {
+        "question": 234,
+        "answer": "Is 17417 divisible by 19? Is 17417 divisible by 899? Directly answer this question with yes or no only. No, 17417 is not divisible by 899. Yes, 17417 is divisible by 19."
+    },
+    {
+        "question": 235,
+        "answer": "Is 12373 divisible by 41? Is 12373 divisible by 301? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Divisibility Rule for 41:**\nA number is divisible by 41 if it leaves a remainder of zero when divided by 41. We will divide 1"
+    },
+    {
+        "question": 236,
+        "answer": "Is 11923 divisible by 7? Is 11923 divisible by 1689? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\nFirst, let's check if 11923 is divisible by 7:\n- The rule for checking divisibility by 7 involves subtracting twice the last digit from the rest"
+    },
+    {
+        "question": 237,
+        "answer": "Is 18959 divisible by 23? Is 18959 divisible by 823? Directly answer this question with yes or no only. No, 18959 is not divisible by 823. To determine if a number is divisible by another number, you can use the following steps:\n\n1. Check divisibility rules for each divisor.\n2. If any rule fails, then the number is not divisible.\n\nFor 1"
+    },
+    {
+        "question": 238,
+        "answer": "Is 12421 divisible by 7? Is 12421 divisible by 1789? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the rest of the number (excluding the last digit)"
+    },
+    {
+        "question": 239,
+        "answer": "Is 14657 divisible by 19? Is 14657 divisible by 763? Directly answer this question with yes or no only. No, 14657 is not divisible by 763. Yes, 14657 is divisible by 19."
+    },
+    {
+        "question": 240,
+        "answer": "Is 15973 divisible by 15973? Is 15973 divisible by 41? Is 15973 divisible by 391? Directly answer this question with yes or no only. No, No, Yes."
+    },
+    {
+        "question": 241,
+        "answer": "Is 8543 divisible by 19? Is 8543 divisible by 457? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 8543 to be divisible by 19:\n- The last digit must be even.\n- Sum the digits in an alternating pattern (starting from left): \\(8 - 5 +"
+    },
+    {
+        "question": 242,
+        "answer": "Is 12953 divisible by 7? Is 12953 divisible by 1851? Directly answer this question with yes or no only. No, 12953 is not divisible by 1851. Yes, 12953 is divisible by 7."
+    },
+    {
+        "question": 243,
+        "answer": "Is 18503 divisible by 7? Is 18503 divisible by 2647? Directly answer this question with yes or no only. No, 18503 is not divisible by 2647. Yes, 18503 is divisible by 7."
+    },
+    {
+        "question": 244,
+        "answer": "Is 10859 divisible by 23? Is 10859 divisible by 473? Directly answer this question with yes or no only. No, 10859 is not divisible by 473. Yes, 10859 is divisible by 23."
+    },
+    {
+        "question": 245,
+        "answer": "Is 1543 divisible by 7? Is 1543 divisible by 220? Directly answer this question with yes or no only. No, 1543 is not divisible by 220. To determine if a number is divisible by another number, you can check the divisibility rules for each divisor.\n\nFor 1543 to be divisible by 7:\n- The last digit of 1543 is 3.\n"
+    },
+    {
+        "question": 246,
+        "answer": "Is 12503 divisible by 7? Is 12503 divisible by 1789? Directly answer this question with yes or no only. To determine if a number is divisible by another, you can perform the division and check for any remainder.\n\nFor 12503 divided by 7:\n\\[ 12503 \\div 7 = 1786.142857 \\]\nThere is a"
+    },
+    {
+        "question": 247,
+        "answer": "Is 2017 divisible by 43? Is 2017 divisible by 469? Directly answer this question with yes or no only. No, 2017 is not divisible by 43. Yes, 2017 is not divisible by 469."
+    },
+    {
+        "question": 248,
+        "answer": "Is 13177 divisible by 19? Is 13177 divisible by 691? Directly answer this question with yes or no only. No, 13177 is not divisible by 691. Yes, 13177 is divisible by 19."
+    },
+    {
+        "question": 249,
+        "answer": "Is 1693 divisible by 17? Is 1693 divisible by 97? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 17:\n- The last three digits of 1693 are 693.\n- We check if 693 is divisible by 17: \\(693 \\"
+    },
+    {
+        "question": 250,
+        "answer": "Is 1019 divisible by 23? Is 1019 divisible by 43? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the remainder when dividing the two numbers.\n\nFor 1019 divided by 23:\n\\[ 1019 \\div 23 = 44 \\text{ R } 7 \\]\nSince there is a remainder of 7"
+    },
+    {
+        "question": 251,
+        "answer": "Is 4793 divisible by 13? Is 4793 divisible by 368? Directly answer this question with yes or no only. No, 4793 is not divisible by 368."
+    },
+    {
+        "question": 252,
+        "answer": "Is 5189 divisible by 7? Is 5189 divisible by 737? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rule for 7 and 737.\n\nFor 7:\nA number is divisible by 7 if the difference between twice the last digit and the remaining digits forms a number that is divisible by 7. Let's check:\n\n- For"
+    },
+    {
+        "question": 253,
+        "answer": "Is 14051 divisible by 7? Is 14051 divisible by 2007? Directly answer this question with yes or no only. No, 14051 is not divisible by 2007. Yes, 14051 is divisible by 7."
+    },
+    {
+        "question": 254,
+        "answer": "Is 1831 divisible by 47? Is 1831 divisible by 39? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 1831 to be divisible by 47:\n- The last two digits of 1831 are 31.\n- We need to check if 31 is"
+    },
+    {
+        "question": 255,
+        "answer": "Is 8161 divisible by 29? Is 8161 divisible by 283? Directly answer this question with yes or no only. Yes, No."
+    },
+    {
+        "question": 256,
+        "answer": "Is 7823 divisible by 19? Is 7823 divisible by 413? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit)"
+    },
+    {
+        "question": 257,
+        "answer": "Is 2441 divisible by 7? Is 2441 divisible by 349? Directly answer this question with yes or no only. No, 2441 is not divisible by 349. Yes, 2441 is divisible by 7."
+    },
+    {
+        "question": 258,
+        "answer": "Is 5237 divisible by 19? Is 5237 divisible by 271? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder when divided by 19 is zero.\n- We can check this by performing the division: \\(5237"
+    },
+    {
+        "question": 259,
+        "answer": "Is 1709 divisible by 13? Is 1709 divisible by 131? Directly answer this question with yes or no only. No, 1709 is not divisible by 131."
+    },
+    {
+        "question": 260,
+        "answer": "Is 5179 divisible by 23? Is 5179 divisible by 223? Directly answer this question with yes or no only. No, 5179 is not divisible by 23 and it is also not divisible by 223."
+    },
+    {
+        "question": 261,
+        "answer": "Is 6547 divisible by 19? Is 6547 divisible by 343? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit)"
+    },
+    {
+        "question": 262,
+        "answer": "Is 8929 divisible by 7? Is 8929 divisible by 1274? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a multiple"
+    },
+    {
+        "question": 263,
+        "answer": "Is 4703 divisible by 19? Is 4703 divisible by 251? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the remaining number formed by the rest of the digits is"
+    },
+    {
+        "question": 264,
+        "answer": "Is 4339 divisible by 7? Is 4339 divisible by 619? Directly answer this question with yes or no only. No, 4339 is not divisible by 619. Yes, 4339 is divisible by 7."
+    },
+    {
+        "question": 265,
+        "answer": "Is 3413 divisible by 7? Is 3413 divisible by 487? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a multiple of 7"
+    },
+    {
+        "question": 266,
+        "answer": "Is 3767 divisible by 19? Is 3767 divisible by 199? Directly answer this question with yes or no only. No."
+    },
+    {
+        "question": 267,
+        "answer": "Is 11909 divisible by 37? Is 11909 divisible by 323? Directly answer this question with yes or no only. No, 11909 is not divisible by 37. Yes, 11909 is divisible by 323."
+    },
+    {
+        "question": 268,
+        "answer": "Is 18451 divisible by 73? Is 18451 divisible by 251? Directly answer this question with yes or no only. No, 18451 is not divisible by 251. Yes, 18451 is divisible by 73."
+    },
+    {
+        "question": 269,
+        "answer": "Is 10069 divisible by 23? Is 10069 divisible by 437? Directly answer this question with yes or no only. No, 10069 is not divisible by 437. Yes, 10069 is divisible by 23."
+    },
+    {
+        "question": 270,
+        "answer": "Is 11579 divisible by 23? Is 11579 divisible by 499? Directly answer this question with yes or no only. No, 11579 is not divisible by 499. Yes, 11579 is divisible by 23."
+    },
+    {
+        "question": 271,
+        "answer": "Is 7321 divisible by 7? Is 7321 divisible by 1043? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\nFirst, let's check if 7321 is divisible by 7:\n- The rule for checking divisibility by 7 involves subtracting twice the last digit from the rest of the number"
+    },
+    {
+        "question": 272,
+        "answer": "Is 2347 divisible by 19? Is 2347 divisible by 121? Directly answer this question with yes or no only. No, 2347 is not divisible by 19. Yes, 2347 is divisible by 121."
+    },
+    {
+        "question": 273,
+        "answer": "Is 2179 divisible by 43? Is 2179 divisible by 49? Directly answer this question with yes or no only. No, 2179 is not divisible by 43 and no, it is also not divisible by 49."
+    },
+    {
+        "question": 274,
+        "answer": "Is 7927 divisible by 13? Is 7927 divisible by 601? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 7927 to be divisible by 13:\n- The sum of its digits (7 + 9 + 2 + 7) should be divisible by 13.\n- \\(7"
+    },
+    {
+        "question": 275,
+        "answer": "Is 17747 divisible by 19? Is 17747 divisible by 923? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the remainder when divided by 19 is zero.\n- We can check this by performing the division: \\( 1"
+    },
+    {
+        "question": 276,
+        "answer": "Is 3319 divisible by 7? Is 3319 divisible by 474? Directly answer this question with yes or no only. No, 3319 is not divisible by 474. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Divisibility by 2**: A number is divisible by 2 if its last digit is even (0, 2, 4"
+    },
+    {
+        "question": 277,
+        "answer": "Is 9049 divisible by 23? Is 9049 divisible by 391? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 9049 to be divisible by 23:\n- The last digit of 9049 is 9.\n- A number is divisible by 23 if the difference between twice the"
+    },
+    {
+        "question": 278,
+        "answer": "Is 5843 divisible by 19? Is 5843 divisible by 299? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit)"
+    },
+    {
+        "question": 279,
+        "answer": "Is 2539 divisible by 7? Is 2539 divisible by 361? Directly answer this question with yes or no only. No, 2539 is not divisible by 361."
+    },
+    {
+        "question": 280,
+        "answer": "Is 3727 divisible by 19? Is 3727 divisible by 196? Directly answer this question with yes or no only. No, 3727 is not divisible by 196. To determine if a number is divisible by another number, you can perform the division and check for any remainder. If there's no remainder, then the first number is divisible by the second.\n\nFor 3727 divided by 1"
+    },
+    {
+        "question": 281,
+        "answer": "Is 11681 divisible by 73? Is 11681 divisible by 161? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 11681 is divisible by 73:\n- The last digit of 11681 is 1.\n- We need"
+    },
+    {
+        "question": 282,
+        "answer": "Is 17989 divisible by 13? Is 17989 divisible by 1383? Directly answer this question with yes or no only. No."
+    },
+    {
+        "question": 283,
+        "answer": "Is 6257 divisible by 19? Is 6257 divisible by 331? Directly answer this question with yes or no only. No, 6257 is not divisible by 331. Yes, 6257 is divisible by 19."
+    },
+    {
+        "question": 284,
+        "answer": "Is 8741 divisible by 29? Is 8741 divisible by 301? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 8741 to be divisible by 29:\n- The last digit of 8741 is 1.\n- Since 1 is not divisible by 2 (the remainder when dividing"
+    },
+    {
+        "question": 285,
+        "answer": "Is 12203 divisible by 7? Is 12203 divisible by 1743? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining part of the number (excluding the last digit"
+    },
+    {
+        "question": 286,
+        "answer": "Is 7541 divisible by 7? Is 7541 divisible by 1073? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining digits forms a number that is divisible by 7 ("
+    },
+    {
+        "question": 287,
+        "answer": "Is 12457 divisible by 37? Is 12457 divisible by 337? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 37:**\nA number is divisible by 37 if it satisfies the following condition:\n- Take the last digit and multiply it by 5"
+    },
+    {
+        "question": 288,
+        "answer": "Is 14557 divisible by 3? Is 14557 divisible by 4852? Is 14557 divisible by 1? Directly answer this question with yes or no only. To determine if a number is divisible by another, we need to check the divisibility rules for each divisor.\n\n1. **Divisibility by 3**: A number is divisible by 3 if the sum of its digits is divisible by 3"
+    },
+    {
+        "question": 289,
+        "answer": "Is 2617 divisible by 37? Is 2617 divisible by 71? Directly answer this question with yes or no only. No, 2617 is not divisible by 71. Yes, 2617 is divisible by 37."
+    },
+    {
+        "question": 290,
+        "answer": "Is 11213 divisible by 7? Is 11213 divisible by 1589? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor divisibility by 7:\n- A number is divisible by 7 if the difference between twice the last digit and the rest of the number (excluding the last digit) is divisible by "
+    },
+    {
+        "question": 291,
+        "answer": "Is 15053 divisible by 7? Is 15053 divisible by 2151? Directly answer this question with yes or no only. No, 15053 is not divisible by 2151."
+    },
+    {
+        "question": 292,
+        "answer": "Is 10687 divisible by 23? Is 10687 divisible by 463? Directly answer this question with yes or no only. No, 10687 is not divisible by 463. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Check divisibility by smaller prime numbers first**: Start with the smallest prime number and check for divisibility.\n\n2. **"
+    },
+    {
+        "question": 293,
+        "answer": "Is 6701 divisible by 43? Is 6701 divisible by 157? Directly answer this question with yes or no only. No, 6701 is not divisible by 157. Yes, 6701 is divisible by 43."
+    },
+    {
+        "question": 294,
+        "answer": "Is 12923 divisible by 7? Is 12923 divisible by 1846? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 12923 to be divisible by 7:\n- The last digit must be odd.\n- Remove the last digit and double it (if doubling results in a two-digit number"
+    },
+    {
+        "question": 295,
+        "answer": "Is 7043 divisible by 19? Is 7043 divisible by 367? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit)"
+    },
+    {
+        "question": 296,
+        "answer": "Is 3881 divisible by 47? Is 3881 divisible by 83? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 47:**\nA number is divisible by 47 if it leaves a remainder of 0 when divided by 47. We need to check if \\("
+    },
+    {
+        "question": 297,
+        "answer": "Is 8329 divisible by 17? Is 8329 divisible by 487? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility Rule for 17:**\nA number is divisible by 17 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a multiple"
+    },
+    {
+        "question": 298,
+        "answer": "Is 6199 divisible by 7? Is 6199 divisible by 885? Directly answer this question with yes or no only. No, 6199 is not divisible by 885."
+    },
+    {
+        "question": 299,
+        "answer": "Is 11887 divisible by 23? Is 11887 divisible by 517? Directly answer this question with yes or no only. No, 11887 is not divisible by 517. Yes, 11887 is divisible by 23."
+    },
+    {
+        "question": 300,
+        "answer": "Is 15467 divisible by 37? Is 15467 divisible by 421? Directly answer this question with yes or no only. No, 15467 is not divisible by 421. Yes, 15467 is divisible by 37."
+    },
+    {
+        "question": 301,
+        "answer": "Is 8117 divisible by 23? Is 8117 divisible by 353? Directly answer this question with yes or no only. No, 8117 is not divisible by 353. Yes, 8117 is divisible by 23."
+    },
+    {
+        "question": 302,
+        "answer": "Is 5669 divisible by 7? Is 5669 divisible by 809? Directly answer this question with yes or no only. No, 5669 is not divisible by 809."
+    },
+    {
+        "question": 303,
+        "answer": "Is 4973 divisible by 17? Is 4973 divisible by 289? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 4973 is divisible by 17:\n- The rule for checking divisibility by 17 involves subtracting twice the last digit from the rest"
+    },
+    {
+        "question": 304,
+        "answer": "Is 9901 divisible by 83? Is 9901 divisible by 121? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rule that a number is divisible by \\( d \\) if and only if the remainder of the division of the number by \\( d \\) is zero.\n\n### Step-by-Step Solution for Divisibility by 83:\n\n1. **Check"
+    },
+    {
+        "question": 305,
+        "answer": "Is 11443 divisible by 7? Is 11443 divisible by 1633? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\nFirst, let's check if 11443 is divisible by 1633:\n\n1. **Divisibility Rule for 1633:**\n   - A number"
+    },
+    {
+        "question": 306,
+        "answer": "Is 7351 divisible by 7? Is 7351 divisible by 1051? Directly answer this question with yes or no only. No, 7351 is not divisible by 1051."
+    },
+    {
+        "question": 307,
+        "answer": "Is 9241 divisible by 7? Is 9241 divisible by 13? Is 9241 divisible by 97? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining digits forms a"
+    },
+    {
+        "question": 308,
+        "answer": "Is 19699 divisible by 3? Is 19699 divisible by 6566? Directly answer this question with yes or no only. No."
+    },
+    {
+        "question": 309,
+        "answer": "Is 4957 divisible by 13? Is 4957 divisible by 381? Directly answer this question with yes or no only. No, 4957 is not divisible by 13 and it is also not divisible by 381."
+    },
+    {
+        "question": 310,
+        "answer": "Is 12479 divisible by 31? Is 12479 divisible by 401? Directly answer this question with yes or no only. No, 12479 is not divisible by 401. Yes, 12479 is divisible by 31."
+    },
+    {
+        "question": 311,
+        "answer": "Is 4759 divisible by 13? Is 4759 divisible by 367? Directly answer this question with yes or no only. No, 4759 is not divisible by 367. Yes, 4759 is divisible by 13."
+    },
+    {
+        "question": 312,
+        "answer": "Is 19471 divisible by 3? Is 19471 divisible by 6490? Directly answer this question with yes or no only. No. Yes. To determine if a number is divisible by another, we need to check the divisibility rules for both numbers.\n\nFor 19471:\n- A number is divisible by 3 if the sum of its digits is divisible by 3.\n- The sum of the digits in "
+    },
+    {
+        "question": 313,
+        "answer": "Is 14071 divisible by 3? Is 14071 divisible by 4690? Directly answer this question with yes or no only. No, 14071 is not divisible by 4690. Yes, 14071 is divisible by 3."
+    },
+    {
+        "question": 314,
+        "answer": "Is 3931 divisible by 7? Is 3931 divisible by 561? Directly answer this question with yes or no only. No, 3931 is not divisible by 561."
+    },
+    {
+        "question": 315,
+        "answer": "Is 7703 divisible by 19? Is 7703 divisible by 401? Directly answer this question with yes or no only. No, 7703 is not divisible by 401."
+    },
+    {
+        "question": 316,
+        "answer": "Is 10459 divisible by 7? Is 10459 divisible by 23? Is 10459 divisible by 71? Directly answer this question with yes or no only. No, No, Yes."
+    },
+    {
+        "question": 317,
+        "answer": "Is 19559 divisible by 37? Is 19559 divisible by 523? Directly answer this question with yes or no only. No, 19559 is not divisible by 523. Yes, 19559 is divisible by 37."
+    },
+    {
+        "question": 318,
+        "answer": "Is 3109 divisible by 7? Is 3109 divisible by 441? Directly answer this question with yes or no only. No, 3109 is not divisible by 441."
+    },
+    {
+        "question": 319,
+        "answer": "Is 15667 divisible by 3? Is 15667 divisible by 5223? Directly answer this question with yes or no only. No, 15667 is not divisible by 5223. Yes, 15667 is divisible by 3."
+    },
+    {
+        "question": 320,
+        "answer": "Is 6311 divisible by 7? Is 6311 divisible by 901? Directly answer this question with yes or no only. No, 6311 is not divisible by 901. Yes, 6311 is divisible by 7."
+    },
+    {
+        "question": 321,
+        "answer": "Is 1667 divisible by 23? Is 1667 divisible by 71? Directly answer this question with yes or no only. No, 1667 is not divisible by 71. Yes, 1667 is divisible by 23."
+    },
+    {
+        "question": 322,
+        "answer": "Is 14639 divisible by 7? Is 14639 divisible by 2089? Directly answer this question with yes or no only. No, 14639 is not divisible by 2089. Yes, 14639 is divisible by 7."
+    },
+    {
+        "question": 323,
+        "answer": "Is 16447 divisible by 3? Is 16447 divisible by 5482? Directly answer this question with yes or no only. No. Yes. No. Yes.\nTo determine if a number is divisible by another, we need to check the divisibility rules for each divisor.\n\nFor 16447:\n- A number is divisible by 3 if the sum of its digits is divisible by 3. The sum of the"
+    },
+    {
+        "question": 324,
+        "answer": "Is 4289 divisible by 13? Is 4289 divisible by 331? Directly answer this question with yes or no only. No, 4289 is not divisible by 331. Yes, 4289 is divisible by 13."
+    },
+    {
+        "question": 325,
+        "answer": "Is 16829 divisible by 7? Is 16829 divisible by 2393? Directly answer this question with yes or no only. No, 16829 is not divisible by 2393. Yes, 16829 is divisible by 7."
+    },
+    {
+        "question": 326,
+        "answer": "Is 13921 divisible by 7? Is 13921 divisible by 1989? Directly answer this question with yes or no only. No, 13921 is not divisible by 1989. Yes, 13921 is divisible by 7."
+    },
+    {
+        "question": 327,
+        "answer": "Is 3203 divisible by 17? Is 3203 divisible by 189? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\n**Divisibility by 17:**\nTo check if 3203 is divisible by 17, we perform the division:\n\\[ 3203 \\div 17 = "
+    },
+    {
+        "question": 328,
+        "answer": "Is 6659 divisible by 17? Is 6659 divisible by 389? Directly answer this question with yes or no only. No, 6659 is not divisible by 389. Yes, 6659 is divisible by 17."
+    },
+    {
+        "question": 329,
+        "answer": "Is 8761 divisible by 29? Is 8761 divisible by 301? Directly answer this question with yes or no only. No, 8761 is not divisible by 301. To determine if a number is divisible by another number, you can check the remainder when dividing the two numbers. If the remainder is zero, then the first number is divisible by the second.\n\nFor 8761 divided by 3"
+    },
+    {
+        "question": 330,
+        "answer": "Is 13487 divisible by 19? Is 13487 divisible by 701? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit"
+    },
+    {
+        "question": 331,
+        "answer": "Is 3583 divisible by 19? Is 3583 divisible by 187? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFirst, let's check if 3583 is divisible by 19:\n- The rule for divisibility by 19 states that you need to subtract twice the last digit from the rest"
+    },
+    {
+        "question": 332,
+        "answer": "Is 19031 divisible by 47? Is 19031 divisible by 409? Directly answer this question with yes or no only. No, 19031 is not divisible by 409. Yes, 19031 is divisible by 47."
+    },
+    {
+        "question": 333,
+        "answer": "Is 11903 divisible by 7? Is 11903 divisible by 1689? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\nFirst, let's check if 11903 is divisible by 7:\n- The rule for checking divisibility by 7 is to subtract twice the last digit from the rest"
+    },
+    {
+        "question": 334,
+        "answer": "Is 1993 divisible by 47? Is 1993 divisible by 41? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 47:\n- The last two digits of 1993 are 93.\n- We need to check if 93 is divisible by 47.\n- \\( "
+    },
+    {
+        "question": 335,
+        "answer": "Is 16553 divisible by 7? Is 16553 divisible by 2361? Directly answer this question with yes or no only. No, 16553 is not divisible by 2361."
+    },
+    {
+        "question": 336,
+        "answer": "Is 19183 divisible by 47? Is 19183 divisible by 409? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rule that a number is divisible by 47 if it leaves a remainder of 0 when divided by 47.\n\nLet's check for divisibility by 47:\n\n1. **Divide 19183 by"
+    },
+    {
+        "question": 337,
+        "answer": "Is 4261 divisible by 7? Is 4261 divisible by 609? Directly answer this question with yes or no only. No, 4261 is not divisible by 609."
+    },
+    {
+        "question": 338,
+        "answer": "Is 1621 divisible by 43? Is 1621 divisible by 37? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 43:**\nA number is divisible by 43 if it ends in 0, 1, 2, 3, 4, 5"
+    },
+    {
+        "question": 339,
+        "answer": "Is 10789 divisible by 23? Is 10789 divisible by 469? Directly answer this question with yes or no only. No, 10789 is not divisible by 469."
+    },
+    {
+        "question": 340,
+        "answer": "Is 5333 divisible by 17? Is 5333 divisible by 313? Directly answer this question with yes or no only. No, 5333 is not divisible by 313. To determine if a number is divisible by another number, you can use the divisibility rules for each of those numbers.\n\nFor 313:\n- The sum of its digits (3 + 1 + 3 = 7)"
+    },
+    {
+        "question": 341,
+        "answer": "Is 11743 divisible by 11? Is 11743 divisible by 1069? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rule for 11 and 1069.\n\n### Divisibility by 11:\nA number is divisible by 11 if the difference between the sum of its digits in odd positions and the sum of"
+    },
+    {
+        "question": 342,
+        "answer": "Is 11587 divisible by 23? Is 11587 divisible by 499? Directly answer this question with yes or no only. No, 11587 is not divisible by 499. Yes, 11587 is divisible by 23."
+    },
+    {
+        "question": 343,
+        "answer": "Is 16451 divisible by 7? Is 16451 divisible by 2351? Directly answer this question with yes or no only. No, 16451 is not divisible by 2351. Yes, 16451 is divisible by 7."
+    },
+    {
+        "question": 344,
+        "answer": "Is 12823 divisible by 7? Is 12823 divisible by 1831? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 12823 to be divisible by 7:\n- The last digit must be odd.\n- Remove the last digit and double it (if doubling results in a two-digit number"
+    },
+    {
+        "question": 345,
+        "answer": "Is 6091 divisible by 7? Is 6091 divisible by 871? Directly answer this question with yes or no only. No, 6091 is not divisible by 871."
+    },
+    {
+        "question": 346,
+        "answer": "Is 1237 divisible by 41? Is 1237 divisible by 30? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 41:\n- A number is divisible by 41 if it ends in either 01, 41, 81, etc.\n- The last digit of 123"
+    },
+    {
+        "question": 347,
+        "answer": "Is 5881 divisible by 7? Is 5881 divisible by 839? Directly answer this question with yes or no only. No, 5881 is not divisible by 839. Yes, 5881 is divisible by 7."
+    },
+    {
+        "question": 348,
+        "answer": "Is 17029 divisible by 13? Is 17029 divisible by 1303? Directly answer this question with yes or no only. No, 17029 is not divisible by 1303."
+    },
+    {
+        "question": 349,
+        "answer": "Is 1307 divisible by 19? Is 1307 divisible by 67? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder when divided by 19 is zero.\n2. A number is divisible by 67 if the remainder when divided by 67 is zero.\n\nLet's check these"
+    },
+    {
+        "question": 350,
+        "answer": "Is 7211 divisible by 73? Is 7211 divisible by 97? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 73:**\nA number is divisible by 73 if it leaves a remainder of zero when divided by 73. This rule is not straightforward and typically"
+    },
+    {
+        "question": 351,
+        "answer": "Is 13567 divisible by 19? Is 13567 divisible by 713? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- The last digit must be even.\n- The sum of the digits must be divisible by 19 (except for multiples of 10).\n\nLet's check these"
+    },
+    {
+        "question": 352,
+        "answer": "Is 16657 divisible by 3? Is 16657 divisible by 5552? Is 16657 divisible by 1? Directly answer this question with yes or no only. No, it is not divisible by 5552. Yes, it is divisible by 1. No, it is not divisible by 5552. No, it is not divisible by 1. No, it is not"
+    },
+    {
+        "question": 353,
+        "answer": "Is 14767 divisible by 3? Is 14767 divisible by 4923? Directly answer this question with yes or no only. No, 14767 is not divisible by 4923."
+    },
+    {
+        "question": 354,
+        "answer": "Is 18077 divisible by 23? Is 18077 divisible by 809? Directly answer this question with yes or no only. No, 18077 is not divisible by 809. Yes, 18077 is divisible by 23."
+    },
+    {
+        "question": 355,
+        "answer": "Is 3529 divisible by 7? Is 3529 divisible by 491? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFirst, let's check if 3529 is divisible by 7:\n- The rule for divisibility by 7 states that you need to double the last digit and subtract it from the"
+    },
+    {
+        "question": 356,
+        "answer": "Is 19963 divisible by 47? Is 19963 divisible by 421? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility Rule for 47:**\nA number is divisible by 47 if the remainder when divided by 47 is zero. However, without performing the actual"
+    },
+    {
+        "question": 357,
+        "answer": "Is 7253 divisible by 19? Is 7253 divisible by 383? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit) is divisible"
+    },
+    {
+        "question": 358,
+        "answer": "Is 3221 divisible by 47? Is 3221 divisible by 69? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rules for divisibility.\n\n**Divisibility by 47:**\n- A number is divisible by 47 if it leaves a remainder of 0 when divided by 47.\n- We need to check if \\( 3221"
+    },
+    {
+        "question": 359,
+        "answer": "Is 12911 divisible by 7? Is 12911 divisible by 1843? Directly answer this question with yes or no only. No, 12911 is not divisible by 1843. Yes, 12911 is divisible by 7."
+    },
+    {
+        "question": 360,
+        "answer": "Is 14153 divisible by 7? Is 14153 divisible by 2021? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers involved.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the units digit and the remaining digits forms a number that is divisible by 7"
+    },
+    {
+        "question": 361,
+        "answer": "Is 3929 divisible by 7? Is 3929 divisible by 561? Directly answer this question with yes or no only. No, 3929 is not divisible by 561."
+    },
+    {
+        "question": 362,
+        "answer": "Is 16267 divisible by 19? Is 16267 divisible by 853? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 19:\n- A number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last digit) is divisible by 1"
+    },
+    {
+        "question": 363,
+        "answer": "Is 1549 divisible by 7? Is 1549 divisible by 221? Directly answer this question with yes or no only. No, 1549 is not divisible by 221."
+    },
+    {
+        "question": 364,
+        "answer": "Is 18911 divisible by 43? Is 18911 divisible by 437? Directly answer this question with yes or no only. No, 18911 is not divisible by 437."
+    },
+    {
+        "question": 365,
+        "answer": "Is 17683 divisible by 19? Is 17683 divisible by 929? Directly answer this question with yes or no only. No, 17683 is not divisible by 929. Yes, 17683 is divisible by 19."
+    },
+    {
+        "question": 366,
+        "answer": "Is 14033 divisible by 7? Is 14033 divisible by 2005? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining digits forms a number that is divisible by "
+    },
+    {
+        "question": 367,
+        "answer": "Is 10133 divisible by 7? Is 10133 divisible by 1447? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 10133 to be divisible by 7:\n- The last digit must be removed and then multiplied by 2.\n- Subtract that from the remaining digits: \\(10"
+    },
+    {
+        "question": 368,
+        "answer": "Is 10861 divisible by 7? Is 10861 divisible by 1543? Directly answer this question with yes or no only. No, 10861 is not divisible by 1543. Yes, 10861 is divisible by 7."
+    },
+    {
+        "question": 369,
+        "answer": "Is 11321 divisible by 47? Is 11321 divisible by 241? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 47:\n- A number is divisible by 47 if it ends in one of these digits: 0, 5, and -5 (since 47"
+    },
+    {
+        "question": 370,
+        "answer": "Is 1459 divisible by 7? Is 1459 divisible by 208? Directly answer this question with yes or no only. No, 1459 is not divisible by 208."
+    },
+    {
+        "question": 371,
+        "answer": "Is 11549 divisible by 73? Is 11549 divisible by 157? Directly answer this question with yes or no only. No, 11549 is not divisible by 157. Yes, 11549 is divisible by 73."
+    },
+    {
+        "question": 372,
+        "answer": "Is 9277 divisible by 13? Is 9277 divisible by 683? Directly answer this question with yes or no only. No, 9277 is not divisible by 683. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Divisibility by 13**: A number is divisible by 13 if the remainder of its division by 13 is"
+    },
+    {
+        "question": 373,
+        "answer": "Is 1747 divisible by 23? Is 1747 divisible by 77? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 1747 to be divisible by 23:\n- The last digit of 1747 is 7.\n- A number is divisible by 23 if the difference between twice the last"
+    },
+    {
+        "question": 374,
+        "answer": "Is 19867 divisible by 43? Is 19867 divisible by 457? Directly answer this question with yes or no only. To determine if a number is divisible by another, we need to check the divisibility rules for each divisor.\n\n**Step 1: Check divisibility by 43**\n\nTo check if 19867 is divisible by 43, we perform the division:\n\n\\[ 1986"
+    },
+    {
+        "question": 375,
+        "answer": "Is 11113 divisible by 3? Is 11113 divisible by 3704? Directly answer this question with yes or no only. No, 11113 is not divisible by 3704. Yes, 11113 is divisible by 3."
+    },
+    {
+        "question": 376,
+        "answer": "Is 11699 divisible by 3? Is 11699 divisible by 7? Is 11699 divisible by 593? Directly answer this question with yes or no only. No, No, Yes."
+    },
+    {
+        "question": 377,
+        "answer": "Is 13553 divisible by 7? Is 13553 divisible by 1933? Directly answer this question with yes or no only. No. Yes. No. Yes.\nTo determine if a number is divisible by another, you can use the divisibility rule for that number. Let's check each part of your question:\n\n1. **Divisibility by 7:**\n   - The divisibility rule for 7 states that you need"
+    },
+    {
+        "question": 378,
+        "answer": "Is 1297 divisible by 37? Is 1297 divisible by 35? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the rule that a number is divisible by 37 if and only if it leaves a remainder of 0 when divided by 37.\n\nLet's check for divisibility by 37:\n\n\\[ 1297 \\div 37 ="
+    },
+    {
+        "question": 379,
+        "answer": "Is 14243 divisible by 7? Is 14243 divisible by 2039? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the rest of the number (excluding the last digit) forms a multiple"
+    },
+    {
+        "question": 380,
+        "answer": "Is 7121 divisible by 43? Is 7121 divisible by 163? Directly answer this question with yes or no only. No, 7121 is not divisible by 163. Yes, 7121 is divisible by 43."
+    },
+    {
+        "question": 381,
+        "answer": "Is 14753 divisible by 19? Is 14753 divisible by 773? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 19:**\nA number is divisible by 19 if the difference between twice the last digit and the rest of the number (excluding the last"
+    },
+    {
+        "question": 382,
+        "answer": "Is 3989 divisible by 17? Is 3989 divisible by 231? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 17:**\nA number is divisible by 17 if the difference between twice the last digit and the rest of the number (excluding the last digit)"
+    },
+    {
+        "question": 383,
+        "answer": "Is 4663 divisible by 7? Is 4663 divisible by 666? Directly answer this question with yes or no only. No, 4663 is not divisible by 666. Yes, 4663 is divisible by 7."
+    },
+    {
+        "question": 384,
+        "answer": "Is 8669 divisible by 23? Is 8669 divisible by 379? Directly answer this question with yes or no only. No, 8669 is not divisible by 379. To determine if a number is divisible by another number, you can use the following steps:\n\n1. **Divisibility by 2**: A number is divisible by 2 if its last digit is even (0, 2, "
+    },
+    {
+        "question": 385,
+        "answer": "Is 6229 divisible by 17? Is 6229 divisible by 367? Directly answer this question with yes or no only. No, 6229 is not divisible by 367. To determine if a number is divisible by another number, you can use the divisibility rules for each of those numbers.\n\nFor 367:\n- It's an odd number.\n- The sum of its digits (3 + 6"
+    },
+    {
+        "question": 386,
+        "answer": "Is 13619 divisible by 7? Is 13619 divisible by 1947? Directly answer this question with yes or no only. No, 13619 is not divisible by 1947. Yes, 13619 is divisible by 7."
+    },
+    {
+        "question": 387,
+        "answer": "Is 10847 divisible by 23? Is 10847 divisible by 469? Directly answer this question with yes or no only. No, 10847 is not divisible by 469. To determine if a number is divisible by another number, you can check the divisibility rules for each divisor.\n\nFor 469:\n- It ends in 9, so it's not divisible by 2.\n-"
+    },
+    {
+        "question": 388,
+        "answer": "Is 4621 divisible by 7? Is 4621 divisible by 661? Directly answer this question with yes or no only. No, 4621 is not divisible by 661. Yes, 4621 is divisible by 7."
+    },
+    {
+        "question": 389,
+        "answer": "Is 7517 divisible by 7? Is 7517 divisible by 1073? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\nFor 7517:\n- It does not end in 0 or 5, so it's not divisible by 5.\n- The sum of its digits (7 + 5"
+    },
+    {
+        "question": 390,
+        "answer": "Is 7523 divisible by 19? Is 7523 divisible by 397? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of those numbers.\n\nFor 7523 to be divisible by 19:\n- The last digit must be even.\n- Sum of digits: \\(7 + 5 + 2 + 3 = 1"
+    },
+    {
+        "question": 391,
+        "answer": "Is 18401 divisible by 43? Is 18401 divisible by 421? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of the numbers in question.\n\n**Divisibility rule for 43:**\nA number is divisible by 43 if it ends in either 07 or 90 (since \\(43 \\"
+    },
+    {
+        "question": 392,
+        "answer": "Is 5297 divisible by 13? Is 5297 divisible by 409? Directly answer this question with yes or no only. No, 5297 is not divisible by 409."
+    },
+    {
+        "question": 393,
+        "answer": "Is 11083 divisible by 7? Is 11083 divisible by 1583? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can use the divisibility rules for each of them.\n\n**Divisibility Rule for 7:**\nA number is divisible by 7 if the difference between twice the last digit and the remaining number formed by omitting the last digit is divisible by "
+    },
+    {
+        "question": 394,
+        "answer": "Is 9769 divisible by 13? Is 9769 divisible by 749? Directly answer this question with yes or no only. No, 9769 is not divisible by 13 and it is also not divisible by 749."
+    },
+    {
+        "question": 395,
+        "answer": "Is 11971 divisible by 3? Is 11971 divisible by 3? Is 11971 divisible by 1063? Directly answer this question with yes or no only. No."
+    },
+    {
+        "question": 396,
+        "answer": "Is 15121 divisible by 43? Is 15121 divisible by 353? Directly answer this question with yes or no only. No, 15121 is not divisible by 353. Yes, 15121 is divisible by 43."
+    },
+    {
+        "question": 397,
+        "answer": "Is 8243 divisible by 19? Is 8243 divisible by 435? Directly answer this question with yes or no only. No, 8243 is not divisible by 435. To determine if a number is divisible by another number, you can use the divisibility rules for those numbers.\n\nFor 8243 to be divisible by 19:\n- The sum of its digits must be divisible by 1"
+    },
+    {
+        "question": 398,
+        "answer": "Is 7879 divisible by 13? Is 7879 divisible by 607? Directly answer this question with yes or no only. To determine if a number is divisible by another, we can check the divisibility rules for each divisor.\n\nFor 7879 to be divisible by 13:\n- The sum of its digits (7 + 8 + 7 + 9) should be divisible by 13.\n- \\(7"
+    },
+    {
+        "question": 399,
+        "answer": "Is 11369 divisible by 7? Is 11369 divisible by 1621? Directly answer this question with yes or no only. No, 11369 is not divisible by 1621."
+    }
+]
