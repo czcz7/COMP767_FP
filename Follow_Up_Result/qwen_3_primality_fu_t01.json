@@ -1,0 +1,914 @@
+[
+    {
+        "question": "Is 7411 divisible by the provided factor 19? Is 7411 divisible by the provided factor 389? Directly answer this question.",
+        "answer": "Is 7411 divisible by the provided factor 19? Is 7411 divisible by the provided factor 389? Directly answer this question. To determine if 7411 is divisible by 19, we perform the division:\n\n\\[ 7"
+    },
+    {
+        "question": "Is 10733 divisible by the provided factor 11? Is 10733 divisible by the provided factor 973? Directly answer this question.",
+        "answer": "Is 10733 divisible by the provided factor 11? Is 10733 divisible by the provided factor 973? Directly answer this question. To determine if 10733 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 10663 divisible by the provided factor 7? Is 10663 divisible by the provided factor 1523? Directly answer this question.",
+        "answer": "Is 10663 divisible by the provided factor 7? Is 10663 divisible by the provided factor 1523? Directly answer this question. No, 10663 is not divisible by 7 or 1523."
+    },
+    {
+        "question": "Is 6911 divisible by the provided factor 73? Is 6911 divisible by the provided factor 95? Directly answer this question.",
+        "answer": "Is 6911 divisible by the provided factor 73? Is 6911 divisible by the provided factor 95? Directly answer this question. No, 6911 is not divisible by the provided factor 73. Additionally, 691"
+    },
+    {
+        "question": "Is 16921 divisible by the provided factor 13? Is 16921 divisible by the provided factor 130? Directly answer this question.",
+        "answer": "Is 16921 divisible by the provided factor 13? Is 16921 divisible by the provided factor 130? Directly answer this question. No, 16921 is not divisible by the provided factor 13. To verify"
+    },
+    {
+        "question": "Is 3691 divisible by the provided factor 23? Is 3691 divisible by the provided factor 160? Directly answer this question.",
+        "answer": "Is 3691 divisible by the provided factor 23? Is 3691 divisible by the provided factor 160? Directly answer this question. No, 3691 is not divisible by 23 or 160. To be more"
+    },
+    {
+        "question": "Is 11131 divisible by the provided factor 11? Directly answer this question.",
+        "answer": "Is 11131 divisible by the provided factor 11? Directly answer this question. To determine if 11131 is divisible by 11, we can use the divisibility rule for 11. The rule states that a number is divisible by "
+    },
+    {
+        "question": "Is 14699 divisible by the provided factor 7? Is 14699 divisible by the provided factor 2099? Directly answer this question.",
+        "answer": "Is 14699 divisible by the provided factor 7? Is 14699 divisible by the provided factor 2099? Directly answer this question. No, 14699 is not divisible by 7. Additionally, it is also not"
+    },
+    {
+        "question": "Is 5449 divisible by the provided factor 73? Is 5449 divisible by the provided factor 73? Directly answer this question.",
+        "answer": "Is 5449 divisible by the provided factor 73? Is 5449 divisible by the provided factor 73? Directly answer this question. To determine if 5449 is divisible by 73, we perform the division:\n\n\\[ 54"
+    },
+    {
+        "question": "Is 8933 divisible by the provided factor 29? Is 8933 divisible by the provided factor 307? Directly answer this question.",
+        "answer": "Is 8933 divisible by the provided factor 29? Is 8933 divisible by the provided factor 307? Directly answer this question. To determine if 8933 is divisible by the provided factors, we need to perform division and check for"
+    },
+    {
+        "question": "Is 4789 divisible by the provided factor 23? Is 4789 divisible by the provided factor 212? Directly answer this question.",
+        "answer": "Is 4789 divisible by the provided factor 23? Is 4789 divisible by the provided factor 212? Directly answer this question. No, 4789 is not divisible by either of the provided factors, 23 or 2"
+    },
+    {
+        "question": "Is 16333 divisible by the provided factor 7? Is 16333 divisible by the provided factor 2333? Directly answer this question.",
+        "answer": "Is 16333 divisible by the provided factor 7? Is 16333 divisible by the provided factor 2333? Directly answer this question. No, 16333 is not divisible by either 7 or 2333"
+    },
+    {
+        "question": "Is 12149 divisible by the provided factor 73? Is 12149 divisible by the provided factor 167? Directly answer this question.",
+        "answer": "Is 12149 divisible by the provided factor 73? Is 12149 divisible by the provided factor 167? Directly answer this question. To determine if 12149 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 9187 divisible by the provided factor 37? Is 9187 divisible by the provided factor 247? Directly answer this question.",
+        "answer": "Is 9187 divisible by the provided factor 37? Is 9187 divisible by the provided factor 247? Directly answer this question. To determine if 9187 is divisible by the provided factors, we need to perform the division for each"
+    },
+    {
+        "question": "Is 8513 divisible by the provided factor 7? Is 8513 divisible by the provided factor 1216? Directly answer this question.",
+        "answer": "Is 8513 divisible by the provided factor 7? Is 8513 divisible by the provided factor 1216? Directly answer this question. No, 8513 is not divisible by 7 or 1216. To be more"
+    },
+    {
+        "question": "Is 3617 divisible by the provided factor 19? Is 3617 divisible by the provided factor 191? Directly answer this question.",
+        "answer": "Is 3617 divisible by the provided factor 19? Is 3617 divisible by the provided factor 191? Directly answer this question. To determine if 3617 is divisible by 19, we perform the division:\n\n\\[ 3"
+    },
+    {
+        "question": "Is 9199 divisible by the provided factor 7? Is 9199 divisible by the provided factor 1314? Directly answer this question.",
+        "answer": "Is 9199 divisible by the provided factor 7? Is 9199 divisible by the provided factor 1314? Directly answer this question. No, 9199 is not divisible by the provided factor 7. Additionally, 919"
+    },
+    {
+        "question": "Is 2221 divisible by the provided factor 37? Is 2221 divisible by the provided factor 59? Directly answer this question.",
+        "answer": "Is 2221 divisible by the provided factor 37? Is 2221 divisible by the provided factor 59? Directly answer this question. No, 2221 is not divisible by either 37 or 59. To verify:\n\n-"
+    },
+    {
+        "question": "Is 8699 divisible by the provided factor 23? Is 8699 divisible by the provided factor 379? Directly answer this question.",
+        "answer": "Is 8699 divisible by the provided factor 23? Is 8699 divisible by the provided factor 379? Directly answer this question. To determine if 8699 is divisible by a given factor, we need to perform the division and check"
+    },
+    {
+        "question": "Is 12967 divisible by the provided factor 37? Is 12967 divisible by the provided factor 349? Directly answer this question.",
+        "answer": "Is 12967 divisible by the provided factor 37? Is 12967 divisible by the provided factor 349? Directly answer this question. No, 12967 is not divisible by the provided factor 37. Additionally,"
+    },
+    {
+        "question": "Is 6427 divisible by the provided factor 37? Is 6427 divisible by the provided factor 173? Directly answer this question.",
+        "answer": "Is 6427 divisible by the provided factor 37? Is 6427 divisible by the provided factor 173? Directly answer this question. To determine if 6427 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 13219 divisible by the provided factor 7? Is 13219 divisible by the provided factor 1888? Directly answer this question.",
+        "answer": "Is 13219 divisible by the provided factor 7? Is 13219 divisible by the provided factor 1888? Directly answer this question. No, 13219 is not divisible by 7 or 1888."
+    },
+    {
+        "question": "Is 4231 divisible by the provided factor 7? Is 4231 divisible by the provided factor 604? Directly answer this question.",
+        "answer": "Is 4231 divisible by the provided factor 7? Is 4231 divisible by the provided factor 604? Directly answer this question. No, 4231 is not divisible by the provided factor 7. Additionally, it is also not divisible"
+    },
+    {
+        "question": "Is 15289 divisible by the provided factor 7? Is 15289 divisible by the provided factor 2184? Directly answer this question.",
+        "answer": "Is 15289 divisible by the provided factor 7? Is 15289 divisible by the provided factor 2184? Directly answer this question. No, 15289 is not divisible by either 7 or 2184"
+    },
+    {
+        "question": "Is 11411 divisible by the provided factor 11? Is 11411 divisible by the provided factor 103? Directly answer this question.",
+        "answer": "Is 11411 divisible by the provided factor 11? Is 11411 divisible by the provided factor 103? Directly answer this question. No, 11411 is not divisible by the provided factor 11. Additionally,"
+    },
+    {
+        "question": "Is 19121 divisible by the provided factor 73? Is 19121 divisible by the provided factor 263? Directly answer this question.",
+        "answer": "Is 19121 divisible by the provided factor 73? Is 19121 divisible by the provided factor 263? Directly answer this question. No, 19121 is not divisible by the provided factor 73. Additionally,"
+    },
+    {
+        "question": "Is 4861 divisible by the provided factor 37? Is 4861 divisible by the provided factor 131? Directly answer this question.",
+        "answer": "Is 4861 divisible by the provided factor 37? Is 4861 divisible by the provided factor 131? Directly answer this question. To determine if 4861 is divisible by the provided factors, we need to perform the division of "
+    },
+    {
+        "question": "Is 3671 divisible by the provided factor 29? Is 3671 divisible by the provided factor 127? Directly answer this question.",
+        "answer": "Is 3671 divisible by the provided factor 29? Is 3671 divisible by the provided factor 127? Directly answer this question. No, 3671 is not divisible by 29 or 127. To be more"
+    },
+    {
+        "question": "Is 12301 divisible by the provided factor 37? Is 12301 divisible by the provided factor 331? Directly answer this question.",
+        "answer": "Is 12301 divisible by the provided factor 37? Is 12301 divisible by the provided factor 331? Directly answer this question. To determine if 12301 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 16249 divisible by the provided factor 73? Is 16249 divisible by the provided factor 223? Directly answer this question.",
+        "answer": "Is 16249 divisible by the provided factor 73? Is 16249 divisible by the provided factor 223? Directly answer this question. To determine if 16249 is divisible by 73 and 223,"
+    },
+    {
+        "question": "Is 16729 divisible by the provided factor 103? Directly answer this question.",
+        "answer": "Is 16729 divisible by the provided factor 103? Directly answer this question. No, 16729 is not divisible by 103. To verify this, you can perform the division: 16729 \u00f7 1"
+    },
+    {
+        "question": "Is 15299 divisible by the provided factor 7? Is 15299 divisible by the provided factor 2185? Directly answer this question.",
+        "answer": "Is 15299 divisible by the provided factor 7? Is 15299 divisible by the provided factor 2185? Directly answer this question. No, 15299 is not divisible by either 7 or 2185"
+    },
+    {
+        "question": "Is 19231 divisible by the provided factor 7? Is 19231 divisible by the provided factor 2747? Directly answer this question.",
+        "answer": "Is 19231 divisible by the provided factor 7? Is 19231 divisible by the provided factor 2747? Directly answer this question. No, 19231 is not divisible by 2747. To verify this"
+    },
+    {
+        "question": "Is 6581 divisible by the provided factor 7? Is 6581 divisible by the provided factor 940? Directly answer this question.",
+        "answer": "Is 6581 divisible by the provided factor 7? Is 6581 divisible by the provided factor 940? Directly answer this question. No, 6581 is not divisible by the provided factor 7. However, it is also not divisible"
+    },
+    {
+        "question": "Is 12037 divisible by the provided factor 19? Is 12037 divisible by the provided factor 634? Directly answer this question.",
+        "answer": "Is 12037 divisible by the provided factor 19? Is 12037 divisible by the provided factor 634? Directly answer this question. No, 12037 is not divisible by the provided factor 19. However,"
+    },
+    {
+        "question": "Is 16529 divisible by the provided factor 37? Is 16529 divisible by the provided factor 449? Directly answer this question.",
+        "answer": "Is 16529 divisible by the provided factor 37? Is 16529 divisible by the provided factor 449? Directly answer this question. No, 16529 is not divisible by the provided factor 37. Additionally,"
+    },
+    {
+        "question": "Is 11617 divisible by the provided factor 37? Is 11617 divisible by the provided factor 313? Directly answer this question.",
+        "answer": "Is 11617 divisible by the provided factor 37? Is 11617 divisible by the provided factor 313? Directly answer this question. No, 11617 is not divisible by either 37 or 313"
+    },
+    {
+        "question": "Is 8821 divisible by the provided factor 7? Directly answer this question.",
+        "answer": "Is 8821 divisible by the provided factor 7? Directly answer this question. To determine if 8821 is divisible by 7, we need to perform a division and check if the result is an integer.\n\nLet's divide 8821 by 7"
+    },
+    {
+        "question": "Is 4253 divisible by the provided factor 7? Is 4253 divisible by the provided factor 607? Directly answer this question.",
+        "answer": "Is 4253 divisible by the provided factor 7? Is 4253 divisible by the provided factor 607? Directly answer this question. No, 4253 is not divisible by the provided factor 7. Additionally, 4253"
+    },
+    {
+        "question": "Is 16033 divisible by the provided factor 7? Is 16033 divisible by the provided factor 2291? Directly answer this question.",
+        "answer": "Is 16033 divisible by the provided factor 7? Is 16033 divisible by the provided factor 2291? Directly answer this question. No, 16033 is not divisible by the provided factor 7. Additionally, "
+    },
+    {
+        "question": "Is 2731 divisible by the provided factor 7? Is 2731 divisible by the provided factor 391? Directly answer this question.",
+        "answer": "Is 2731 divisible by the provided factor 7? Is 2731 divisible by the provided factor 391? Directly answer this question. To determine if 2731 is divisible by a factor, we need to check if it can be divided evenly"
+    },
+    {
+        "question": "Is 16633 divisible by the provided factor 7? Is 16633 divisible by the provided factor 2377? Directly answer this question.",
+        "answer": "Is 16633 divisible by the provided factor 7? Is 16633 divisible by the provided factor 2377? Directly answer this question. To determine if 16633 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 16831 divisible by the provided factor 7? Is 16831 divisible by the provided factor 2404? Directly answer this question.",
+        "answer": "Is 16831 divisible by the provided factor 7? Is 16831 divisible by the provided factor 2404? Directly answer this question. No, 16831 is not divisible by the provided factor 2404."
+    },
+    {
+        "question": "Is 17489 divisible by the provided factor 113? Is 17489 divisible by the provided factor 15? Directly answer this question.",
+        "answer": "Is 17489 divisible by the provided factor 113? Is 17489 divisible by the provided factor 15? Directly answer this question. To determine if 17489 is divisible by 113 and 15,"
+    },
+    {
+        "question": "Is 12547 divisible by the provided factor 109? Is 12547 divisible by the provided factor 11? Directly answer this question.",
+        "answer": "Is 12547 divisible by the provided factor 109? Is 12547 divisible by the provided factor 11? Directly answer this question. No, 12547 is not divisible by either of the provided factors, 10"
+    },
+    {
+        "question": "Is 16253 divisible by the provided factor 7? Is 16253 divisible by the provided factor 2321? Directly answer this question.",
+        "answer": "Is 16253 divisible by the provided factor 7? Is 16253 divisible by the provided factor 2321? Directly answer this question. No, 16253 is not divisible by either 7 or 2321"
+    },
+    {
+        "question": "Is 11467 divisible by the provided factor 113? Is 11467 divisible by the provided factor 10? Directly answer this question.",
+        "answer": "Is 11467 divisible by the provided factor 113? Is 11467 divisible by the provided factor 10? Directly answer this question. No, 11467 is not divisible by the provided factor 10. To be"
+    },
+    {
+        "question": "Is 12959 divisible by the provided factor 7? Is 12959 divisible by the provided factor 1851? Directly answer this question.",
+        "answer": "Is 12959 divisible by the provided factor 7? Is 12959 divisible by the provided factor 1851? Directly answer this question. To determine if 12959 is divisible by 7, we perform the division:\n\n\\["
+    },
+    {
+        "question": "Is 17707 divisible by the provided factor 17? Is 17707 divisible by the provided factor 104? Directly answer this question.",
+        "answer": "Is 17707 divisible by the provided factor 17? Is 17707 divisible by the provided factor 104? Directly answer this question. No, 17707 is not divisible by the provided factor 104. To"
+    },
+    {
+        "question": "Is 19403 divisible by the provided factor 7? Is 19403 divisible by the provided factor 2773? Directly answer this question.",
+        "answer": "Is 19403 divisible by the provided factor 7? Is 19403 divisible by the provided factor 2773? Directly answer this question. No, 19403 is not divisible by the provided factor 2773."
+    },
+    {
+        "question": "Is 9221 divisible by the provided factor 73? Is 9221 divisible by the provided factor 127? Directly answer this question.",
+        "answer": "Is 9221 divisible by the provided factor 73? Is 9221 divisible by the provided factor 127? Directly answer this question. To determine if 9221 is divisible by the provided factors, we need to perform division and check for"
+    },
+    {
+        "question": "Is 10781 divisible by the provided factor 7? Is 10781 divisible by the provided factor 1541? Directly answer this question.",
+        "answer": "Is 10781 divisible by the provided factor 7? Is 10781 divisible by the provided factor 1541? Directly answer this question. To determine if 10781 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 7489 divisible by the provided factor 23? Is 7489 divisible by the provided factor 325? Directly answer this question.",
+        "answer": "Is 7489 divisible by the provided factor 23? Is 7489 divisible by the provided factor 325? Directly answer this question. No, 7489 is not divisible by either of the provided factors, 23 or 3"
+    },
+    {
+        "question": "Is 8111 divisible by the provided factor 7? Is 8111 divisible by the provided factor 1145? Directly answer this question.",
+        "answer": "Is 8111 divisible by the provided factor 7? Is 8111 divisible by the provided factor 1145? Directly answer this question. No, 8111 is not divisible by the provided factor 7. Additionally, it is also not"
+    },
+    {
+        "question": "Is 10973 divisible by the provided factor 11? Is 10973 divisible by the provided factor 997? Directly answer this question.",
+        "answer": "Is 10973 divisible by the provided factor 11? Is 10973 divisible by the provided factor 997? Directly answer this question. To determine if 10973 is divisible by a given factor, we need to perform a"
+    },
+    {
+        "question": "Is 17383 divisible by the provided factor 17? Is 17383 divisible by the provided factor 102? Directly answer this question.",
+        "answer": "Is 17383 divisible by the provided factor 17? Is 17383 divisible by the provided factor 102? Directly answer this question. No, 17383 is not divisible by the provided factor 17. However,"
+    },
+    {
+        "question": "Is 18433 divisible by the provided factor 7? Is 18433 divisible by the provided factor 2633? Directly answer this question.",
+        "answer": "Is 18433 divisible by the provided factor 7? Is 18433 divisible by the provided factor 2633? Directly answer this question. No, 18433 is not divisible by 2633. To verify this"
+    },
+    {
+        "question": "Is 13537 divisible by the provided factor 19? Is 13537 divisible by the provided factor 713? Directly answer this question.",
+        "answer": "Is 13537 divisible by the provided factor 19? Is 13537 divisible by the provided factor 713? Directly answer this question. To determine if 13537 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 16561 divisible by the provided factor 127? Is 16561 divisible by the provided factor 13? Directly answer this question.",
+        "answer": "Is 16561 divisible by the provided factor 127? Is 16561 divisible by the provided factor 13? Directly answer this question. To determine if 16561 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 14143 divisible by the provided factor 7? Is 14143 divisible by the provided factor 2021? Directly answer this question.",
+        "answer": "Is 14143 divisible by the provided factor 7? Is 14143 divisible by the provided factor 2021? Directly answer this question. No, 14143 is not divisible by 7 or 2021."
+    },
+    {
+        "question": "Is 15233 divisible by the provided factor 7? Is 15233 divisible by the provided factor 2176? Directly answer this question.",
+        "answer": "Is 15233 divisible by the provided factor 7? Is 15233 divisible by the provided factor 2176? Directly answer this question. No, 15233 is not divisible by either 7 or 2176"
+    },
+    {
+        "question": "Is 4799 divisible by the provided factor 23? Is 4799 divisible by the provided factor 212? Directly answer this question.",
+        "answer": "Is 4799 divisible by the provided factor 23? Is 4799 divisible by the provided factor 212? Directly answer this question. No, 4799 is not divisible by either of the provided factors, 23 or 2"
+    },
+    {
+        "question": "Is 12781 divisible by the provided factor 31? Is 12781 divisible by the provided factor 413? Directly answer this question.",
+        "answer": "Is 12781 divisible by the provided factor 31? Is 12781 divisible by the provided factor 413? Directly answer this question. To determine if 12781 is divisible by a given factor, we need to perform division"
+    },
+    {
+        "question": "Is 3259 divisible by the provided factor 7? Is 3259 divisible by the provided factor 465? Directly answer this question.",
+        "answer": "Is 3259 divisible by the provided factor 7? Is 3259 divisible by the provided factor 465? Directly answer this question. No, 3259 is not divisible by either 7 or 465. To be more specific"
+    },
+    {
+        "question": "Is 18367 divisible by the provided factor 19? Is 18367 divisible by the provided factor 967? Directly answer this question.",
+        "answer": "Is 18367 divisible by the provided factor 19? Is 18367 divisible by the provided factor 967? Directly answer this question. No, 18367 is not divisible by the provided factor 19. Additionally,"
+    },
+    {
+        "question": "Is 15101 divisible by the provided factor 73? Is 15101 divisible by the provided factor 209? Directly answer this question.",
+        "answer": "Is 15101 divisible by the provided factor 73? Is 15101 divisible by the provided factor 209? Directly answer this question. To determine if 15101 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 11257 divisible by the provided factor 37? Is 11257 divisible by the provided factor 301? Directly answer this question.",
+        "answer": "Is 11257 divisible by the provided factor 37? Is 11257 divisible by the provided factor 301? Directly answer this question. No, 11257 is not divisible by either of the provided factors, 37"
+    },
+    {
+        "question": "Is 17107 divisible by the provided factor 17? Is 17107 divisible by the provided factor 100? Directly answer this question.",
+        "answer": "Is 17107 divisible by the provided factor 17? Is 17107 divisible by the provided factor 100? Directly answer this question. No, 17107 is not divisible by the provided factor 100. To"
+    },
+    {
+        "question": "Is 18307 divisible by the provided factor 19? Is 18307 divisible by the provided factor 963? Directly answer this question.",
+        "answer": "Is 18307 divisible by the provided factor 19? Is 18307 divisible by the provided factor 963? Directly answer this question. No, 18307 is not divisible by 19 or 963."
+    },
+    {
+        "question": "Is 17341 divisible by the provided factor 19? Is 17341 divisible by the provided factor 913? Directly answer this question.",
+        "answer": "Is 17341 divisible by the provided factor 19? Is 17341 divisible by the provided factor 913? Directly answer this question. To determine if 17341 is divisible by 19, we perform the division:\n\n"
+    },
+    {
+        "question": "Is 16229 divisible by the provided factor 37? Is 16229 divisible by the provided factor 437? Directly answer this question.",
+        "answer": "Is 16229 divisible by the provided factor 37? Is 16229 divisible by the provided factor 437? Directly answer this question. To determine if 16229 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 3181 divisible by the provided factor 37? Is 3181 divisible by the provided factor 86? Directly answer this question.",
+        "answer": "Is 3181 divisible by the provided factor 37? Is 3181 divisible by the provided factor 86? Directly answer this question. To determine if 3181 is divisible by the provided factors, we need to perform division and check for any"
+    },
+    {
+        "question": "Is 17863 divisible by the provided factor 19? Is 17863 divisible by the provided factor 941? Directly answer this question.",
+        "answer": "Is 17863 divisible by the provided factor 19? Is 17863 divisible by the provided factor 941? Directly answer this question. To determine if 17863 is divisible by 19, we perform the division:\n\n"
+    },
+    {
+        "question": "Is 19763 divisible by the provided factor 19763? Directly answer this question.",
+        "answer": "Is 19763 divisible by the provided factor 19763? Directly answer this question. No, 19763 is not divisible by 19763. Any number divided by itself equals 1, except when considering division in a broader"
+    },
+    {
+        "question": "Is 6971 divisible by the provided factor 37? Is 6971 divisible by the provided factor 187? Directly answer this question.",
+        "answer": "Is 6971 divisible by the provided factor 37? Is 6971 divisible by the provided factor 187? Directly answer this question. To determine if 6971 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 3917 divisible by the provided factor 23? Is 3917 divisible by the provided factor 167? Directly answer this question.",
+        "answer": "Is 3917 divisible by the provided factor 23? Is 3917 divisible by the provided factor 167? Directly answer this question. No, 3917 is not divisible by 23 or 167. To be more"
+    },
+    {
+        "question": "Is 18427 divisible by the provided factor 37? Is 18427 divisible by the provided factor 495? Directly answer this question.",
+        "answer": "Is 18427 divisible by the provided factor 37? Is 18427 divisible by the provided factor 495? Directly answer this question. No, 18427 is not divisible by either of the provided factors, 37"
+    },
+    {
+        "question": "Is 10651 divisible by the provided factor 37? Is 10651 divisible by the provided factor 287? Directly answer this question.",
+        "answer": "Is 10651 divisible by the provided factor 37? Is 10651 divisible by the provided factor 287? Directly answer this question. No, 10651 is not divisible by the provided factor 37. To verify"
+    },
+    {
+        "question": "Is 4729 divisible by the provided factor 37? Is 4729 divisible by the provided factor 127? Directly answer this question.",
+        "answer": "Is 4729 divisible by the provided factor 37? Is 4729 divisible by the provided factor 127? Directly answer this question. To determine if 4729 is divisible by a given factor, we need to perform the division and check"
+    },
+    {
+        "question": "Is 18059 divisible by the provided factor 37? Is 18059 divisible by the provided factor 489? Directly answer this question.",
+        "answer": "Is 18059 divisible by the provided factor 37? Is 18059 divisible by the provided factor 489? Directly answer this question. To determine if 18059 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 14431 divisible by the provided factor 17? Is 14431 divisible by the provided factor 849? Directly answer this question.",
+        "answer": "Is 14431 divisible by the provided factor 17? Is 14431 divisible by the provided factor 849? Directly answer this question. To determine if 14431 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 7349 divisible by the provided factor 23? Is 7349 divisible by the provided factor 319? Directly answer this question.",
+        "answer": "Is 7349 divisible by the provided factor 23? Is 7349 divisible by the provided factor 319? Directly answer this question. To determine if 7349 is divisible by a factor, we need to check if it can be divided"
+    },
+    {
+        "question": "Is 15889 divisible by the provided factor 73? Is 15889 divisible by the provided factor 219? Directly answer this question.",
+        "answer": "Is 15889 divisible by the provided factor 73? Is 15889 divisible by the provided factor 219? Directly answer this question. To determine if 15889 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 5077 divisible by the provided factor 37? Is 5077 divisible by the provided factor 137? Directly answer this question.",
+        "answer": "Is 5077 divisible by the provided factor 37? Is 5077 divisible by the provided factor 137? Directly answer this question. To determine if 5077 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 15319 divisible by the provided factor 7? Is 15319 divisible by the provided factor 2189? Directly answer this question.",
+        "answer": "Is 15319 divisible by the provided factor 7? Is 15319 divisible by the provided factor 2189? Directly answer this question. To determine if 15319 is divisible by 2189, we need to"
+    },
+    {
+        "question": "Is 16927 divisible by the provided factor 37? Is 16927 divisible by the provided factor 457? Directly answer this question.",
+        "answer": "Is 16927 divisible by the provided factor 37? Is 16927 divisible by the provided factor 457? Directly answer this question. No, 16927 is not divisible by either 37 or 457"
+    },
+    {
+        "question": "Is 3779 divisible by the provided factor 29? Is 3779 divisible by the provided factor 131? Directly answer this question.",
+        "answer": "Is 3779 divisible by the provided factor 29? Is 3779 divisible by the provided factor 131? Directly answer this question. No, 3779 is not divisible by the provided factor 29. Additionally, no, "
+    },
+    {
+        "question": "Is 9091 divisible by the provided factor 37? Is 9091 divisible by the provided factor 247? Directly answer this question.",
+        "answer": "Is 9091 divisible by the provided factor 37? Is 9091 divisible by the provided factor 247? Directly answer this question. To determine if 9091 is divisible by the provided factors, we need to perform the division for each"
+    },
+    {
+        "question": "Is 17077 divisible by the provided factor 17? Is 17077 divisible by the provided factor 100? Directly answer this question.",
+        "answer": "Is 17077 divisible by the provided factor 17? Is 17077 divisible by the provided factor 100? Directly answer this question. No, 17077 is not divisible by the provided factor 17. However,"
+    },
+    {
+        "question": "Is 15959 divisible by the provided factor 7? Is 15959 divisible by the provided factor 2279? Directly answer this question.",
+        "answer": "Is 15959 divisible by the provided factor 7? Is 15959 divisible by the provided factor 2279? Directly answer this question. To determine if 15959 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 18041 divisible by the provided factor 73? Is 18041 divisible by the provided factor 247? Directly answer this question.",
+        "answer": "Is 18041 divisible by the provided factor 73? Is 18041 divisible by the provided factor 247? Directly answer this question. To determine if 18041 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 13381 divisible by the provided factor 7? Is 13381 divisible by the provided factor 191? Directly answer this question.",
+        "answer": "Is 13381 divisible by the provided factor 7? Is 13381 divisible by the provided factor 191? Directly answer this question. To determine if 13381 is divisible by the provided factors, we need to perform division for"
+    },
+    {
+        "question": "Is 19429 divisible by the provided factor 73? Is 19429 divisible by the provided factor 269? Directly answer this question.",
+        "answer": "Is 19429 divisible by the provided factor 73? Is 19429 divisible by the provided factor 269? Directly answer this question. To determine if 19429 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 2719 divisible by the provided factor 37? Is 2719 divisible by the provided factor 73? Directly answer this question.",
+        "answer": "Is 2719 divisible by the provided factor 37? Is 2719 divisible by the provided factor 73? Directly answer this question. To determine if 2719 is divisible by 37 and 73, we need to perform the"
+    },
+    {
+        "question": "Is 19267 divisible by the provided factor 193? Is 19267 divisible by the provided factor 10? Directly answer this question.",
+        "answer": "Is 19267 divisible by the provided factor 193? Is 19267 divisible by the provided factor 10? Directly answer this question. No, 19267 is not divisible by the provided factor 10. A number"
+    },
+    {
+        "question": "Is 15619 divisible by the provided factor 7? Is 15619 divisible by the provided factor 2231? Directly answer this question.",
+        "answer": "Is 15619 divisible by the provided factor 7? Is 15619 divisible by the provided factor 2231? Directly answer this question. No, 15619 is not divisible by 7. Additionally, it is also not"
+    },
+    {
+        "question": "Is 13003 divisible by the provided factor 7? Is 13003 divisible by the provided factor 1857? Directly answer this question.",
+        "answer": "Is 13003 divisible by the provided factor 7? Is 13003 divisible by the provided factor 1857? Directly answer this question. To determine if 13003 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 8963 divisible by the provided factor 7? Is 8963 divisible by the provided factor 1280? Directly answer this question.",
+        "answer": "Is 8963 divisible by the provided factor 7? Is 8963 divisible by the provided factor 1280? Directly answer this question. No, 8963 is not divisible by 7 or 1280. To be more"
+    },
+    {
+        "question": "Is 9511 divisible by the provided factor 7? Is 9511 divisible by the provided factor 1361? Directly answer this question.",
+        "answer": "Is 9511 divisible by the provided factor 7? Is 9511 divisible by the provided factor 1361? Directly answer this question. No, 9511 is not divisible by 7 or 1361. To be more"
+    },
+    {
+        "question": "Is 15013 divisible by the provided factor 7? Is 15013 divisible by the provided factor 2143? Directly answer this question.",
+        "answer": "Is 15013 divisible by the provided factor 7? Is 15013 divisible by the provided factor 2143? Directly answer this question. No, 15013 is not divisible by either 7 or 2143"
+    },
+    {
+        "question": "Is 16883 divisible by the provided factor 19? Is 16883 divisible by the provided factor 889? Directly answer this question.",
+        "answer": "Is 16883 divisible by the provided factor 19? Is 16883 divisible by the provided factor 889? Directly answer this question. To determine if 16883 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 6577 divisible by the provided factor 37? Is 6577 divisible by the provided factor 177? Directly answer this question.",
+        "answer": "Is 6577 divisible by the provided factor 37? Is 6577 divisible by the provided factor 177? Directly answer this question. No, 6577 is not divisible by the provided factor 37. Additionally, it is also"
+    },
+    {
+        "question": "Is 11941 divisible by the provided factor 37? Is 11941 divisible by the provided factor 323? Directly answer this question.",
+        "answer": "Is 11941 divisible by the provided factor 37? Is 11941 divisible by the provided factor 323? Directly answer this question. No, 11941 is not divisible by the provided factor 37 or 3"
+    },
+    {
+        "question": "Is 11551 divisible by the provided factor 11? Is 11551 divisible by the provided factor 105? Directly answer this question.",
+        "answer": "Is 11551 divisible by the provided factor 11? Is 11551 divisible by the provided factor 105? Directly answer this question. No, 11551 is not divisible by the provided factor 105. To"
+    },
+    {
+        "question": "Is 14489 divisible by the provided factor 37? Is 14489 divisible by the provided factor 397? Directly answer this question.",
+        "answer": "Is 14489 divisible by the provided factor 37? Is 14489 divisible by the provided factor 397? Directly answer this question. No, 14489 is not divisible by the provided factor 37. Additionally,"
+    },
+    {
+        "question": "Is 18169 divisible by the provided factor 101? Is 18169 divisible by the provided factor 18? Directly answer this question.",
+        "answer": "Is 18169 divisible by the provided factor 101? Is 18169 divisible by the provided factor 18? Directly answer this question. To determine if 18169 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 19333 divisible by the provided factor 7? Is 19333 divisible by the provided factor 2761? Directly answer this question.",
+        "answer": "Is 19333 divisible by the provided factor 7? Is 19333 divisible by the provided factor 2761? Directly answer this question. No, 19333 is not divisible by 2761. To verify this"
+    },
+    {
+        "question": "Is 13033 divisible by the provided factor 7? Is 13033 divisible by the provided factor 1861? Directly answer this question.",
+        "answer": "Is 13033 divisible by the provided factor 7? Is 13033 divisible by the provided factor 1861? Directly answer this question. No, 13033 is not divisible by 7 or 1861."
+    },
+    {
+        "question": "Is 5209 divisible by the provided factor 7? Is 5209 divisible by the provided factor 743? Directly answer this question.",
+        "answer": "Is 5209 divisible by the provided factor 7? Is 5209 divisible by the provided factor 743? Directly answer this question. No, 5209 is not divisible by 7. To check divisibility by 7, you can"
+    },
+    {
+        "question": "Is 3677 divisible by the provided factor 29? Is 3677 divisible by the provided factor 127? Directly answer this question.",
+        "answer": "Is 3677 divisible by the provided factor 29? Is 3677 divisible by the provided factor 127? Directly answer this question. No, 3677 is not divisible by 29 or 127. To be more"
+    },
+    {
+        "question": "Is 15541 divisible by the provided factor 7? Is 15541 divisible by the provided factor 2220? Directly answer this question.",
+        "answer": "Is 15541 divisible by the provided factor 7? Is 15541 divisible by the provided factor 2220? Directly answer this question. No, 15541 is not divisible by 7 or 2220."
+    },
+    {
+        "question": "Is 14887 divisible by the provided factor 13? Is 14887 divisible by the provided factor 114? Directly answer this question.",
+        "answer": "Is 14887 divisible by the provided factor 13? Is 14887 divisible by the provided factor 114? Directly answer this question. No, 14887 is not divisible by the provided factor 13. To check"
+    },
+    {
+        "question": "Is 19687 divisible by the provided factor 103? Is 19687 divisible by the provided factor 19? Directly answer this question.",
+        "answer": "Is 19687 divisible by the provided factor 103? Is 19687 divisible by the provided factor 19? Directly answer this question. To determine if 19687 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 18493 divisible by the provided factor 7? Is 18493 divisible by the provided factor 2641? Directly answer this question.",
+        "answer": "Is 18493 divisible by the provided factor 7? Is 18493 divisible by the provided factor 2641? Directly answer this question. No, 18493 is not divisible by either 7 or 2641"
+    },
+    {
+        "question": "Is 9001 divisible by the provided factor 73? Is 9001 divisible by the provided factor 123? Directly answer this question.",
+        "answer": "Is 9001 divisible by the provided factor 73? Is 9001 divisible by the provided factor 123? Directly answer this question. To determine if 9001 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 6841 divisible by the provided factor 83? Is 6841 divisible by the provided factor 83? Directly answer this question.",
+        "answer": "Is 6841 divisible by the provided factor 83? Is 6841 divisible by the provided factor 83? Directly answer this question. No, 6841 is not divisible by 83. When you divide 6841 by"
+    },
+    {
+        "question": "Is 7109 divisible by the provided factor 73? Is 7109 divisible by the provided factor 97? Directly answer this question.",
+        "answer": "Is 7109 divisible by the provided factor 73? Is 7109 divisible by the provided factor 97? Directly answer this question. To determine if 7109 is divisible by the provided factors, we need to perform the division and check for"
+    },
+    {
+        "question": "Is 16411 divisible by the provided factor 19? Is 16411 divisible by the provided factor 863? Directly answer this question.",
+        "answer": "Is 16411 divisible by the provided factor 19? Is 16411 divisible by the provided factor 863? Directly answer this question. No, 16411 is not divisible by 19 or 863."
+    },
+    {
+        "question": "Is 14479 divisible by the provided factor 13? Is 14479 divisible by the provided factor 111? Directly answer this question.",
+        "answer": "Is 14479 divisible by the provided factor 13? Is 14479 divisible by the provided factor 111? Directly answer this question. To determine if 14479 is divisible by 13, we perform the division:\n\n"
+    },
+    {
+        "question": "Is 13523 divisible by the provided factor 37? Is 13523 divisible by the provided factor 367? Directly answer this question.",
+        "answer": "Is 13523 divisible by the provided factor 37? Is 13523 divisible by the provided factor 367? Directly answer this question. No, 13523 is not divisible by the provided factor 37. Additionally,"
+    },
+    {
+        "question": "Is 7549 divisible by the provided factor 23? Is 7549 divisible by the provided factor 333? Directly answer this question.",
+        "answer": "Is 7549 divisible by the provided factor 23? Is 7549 divisible by the provided factor 333? Directly answer this question. No, 7549 is not divisible by either 23 or 333. To be"
+    },
+    {
+        "question": "Is 12041 divisible by the provided factor 73? Is 12041 divisible by the provided factor 165? Directly answer this question.",
+        "answer": "Is 12041 divisible by the provided factor 73? Is 12041 divisible by the provided factor 165? Directly answer this question. No, 12041 is not divisible by the provided factor 73. However,"
+    },
+    {
+        "question": "Is 19927 divisible by the provided factor 103? Is 19927 divisible by the provided factor 19? Directly answer this question.",
+        "answer": "Is 19927 divisible by the provided factor 103? Is 19927 divisible by the provided factor 19? Directly answer this question. To determine if 19927 is divisible by 103, we perform the division"
+    },
+    {
+        "question": "Is 11839 divisible by the provided factor 7? Is 11839 divisible by the provided factor 1691? Directly answer this question.",
+        "answer": "Is 11839 divisible by the provided factor 7? Is 11839 divisible by the provided factor 1691? Directly answer this question. To determine if 11839 is divisible by 7, we perform the division:\n\n\\["
+    },
+    {
+        "question": "Is 7883 divisible by the provided factor 23? Is 7883 divisible by the provided factor 342? Directly answer this question.",
+        "answer": "Is 7883 divisible by the provided factor 23? Is 7883 divisible by the provided factor 342? Directly answer this question. No, 7883 is not divisible by either of the provided factors, 23 or 3"
+    },
+    {
+        "question": "Is 10627 divisible by the provided factor 37? Is 10627 divisible by the provided factor 287? Directly answer this question.",
+        "answer": "Is 10627 divisible by the provided factor 37? Is 10627 divisible by the provided factor 287? Directly answer this question. No, 10627 is not divisible by the provided factor 37. However,"
+    },
+    {
+        "question": "Is 17417 divisible by the provided factor 17? Is 17417 divisible by the provided factor 102? Directly answer this question.",
+        "answer": "Is 17417 divisible by the provided factor 17? Is 17417 divisible by the provided factor 102? Directly answer this question. No, 17417 is not divisible by the provided factor 102. To"
+    },
+    {
+        "question": "Is 17681 divisible by the provided factor 31? Is 17681 divisible by the provided factor 571? Directly answer this question.",
+        "answer": "Is 17681 divisible by the provided factor 31? Is 17681 divisible by the provided factor 571? Directly answer this question. To determine if 17681 is divisible by 31, we perform the division:\n\n"
+    },
+    {
+        "question": "Is 18959 divisible by the provided factor 7? Is 18959 divisible by the provided factor 2709? Directly answer this question.",
+        "answer": "Is 18959 divisible by the provided factor 7? Is 18959 divisible by the provided factor 2709? Directly answer this question. No, 18959 is not divisible by 2709. To verify this"
+    },
+    {
+        "question": "Is 12421 divisible by the provided factor 7? Is 12421 divisible by the provided factor 1773? Directly answer this question.",
+        "answer": "Is 12421 divisible by the provided factor 7? Is 12421 divisible by the provided factor 1773? Directly answer this question. To determine if 12421 is divisible by 7, we perform the division:\n\n\\["
+    },
+    {
+        "question": "Is 10513 divisible by the provided factor 7? Is 10513 divisible by the provided factor 1501? Directly answer this question.",
+        "answer": "Is 10513 divisible by the provided factor 7? Is 10513 divisible by the provided factor 1501? Directly answer this question. No, 10513 is not divisible by 7 or 1501."
+    },
+    {
+        "question": "Is 12953 divisible by the provided factor 7? Is 12953 divisible by the provided factor 1851? Directly answer this question.",
+        "answer": "Is 12953 divisible by the provided factor 7? Is 12953 divisible by the provided factor 1851? Directly answer this question. No, 12953 is not divisible by 1851. To verify this"
+    },
+    {
+        "question": "Is 18503 divisible by the provided factor 19? Is 18503 divisible by the provided factor 973? Directly answer this question.",
+        "answer": "Is 18503 divisible by the provided factor 19? Is 18503 divisible by the provided factor 973? Directly answer this question. To determine if 18503 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 10859 divisible by the provided factor 37? Is 10859 divisible by the provided factor 291? Directly answer this question.",
+        "answer": "Is 10859 divisible by the provided factor 37? Is 10859 divisible by the provided factor 291? Directly answer this question. To determine if 10859 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 7963 divisible by the provided factor 23? Is 7963 divisible by the provided factor 349? Directly answer this question.",
+        "answer": "Is 7963 divisible by the provided factor 23? Is 7963 divisible by the provided factor 349? Directly answer this question. To determine if 7963 is divisible by 23, we perform the division:\n\n\\[ 7"
+    },
+    {
+        "question": "Is 1693 divisible by the provided factor 13? Directly answer this question.",
+        "answer": "Is 1693 divisible by the provided factor 13? Directly answer this question. To determine if 1693 is divisible by 13, we need to perform a division and check if the result is an integer.\n\nLet's divide 1693 by"
+    },
+    {
+        "question": "Is 6763 divisible by the provided factor 29? Is 6763 divisible by the provided factor 233? Directly answer this question.",
+        "answer": "Is 6763 divisible by the provided factor 29? Is 6763 divisible by the provided factor 233? Directly answer this question. No, 6763 is not divisible by either of the provided factors, 29 or 2"
+    },
+    {
+        "question": "Is 5189 divisible by the provided factor 7? Is 5189 divisible by the provided factor 741? Directly answer this question.",
+        "answer": "Is 5189 divisible by the provided factor 7? Is 5189 divisible by the provided factor 741? Directly answer this question. No, 5189 is not divisible by either 7 or 741. To be more specific"
+    },
+    {
+        "question": "Is 14051 divisible by the provided factor 7? Is 14051 divisible by the provided factor 2007? Directly answer this question.",
+        "answer": "Is 14051 divisible by the provided factor 7? Is 14051 divisible by the provided factor 2007? Directly answer this question. No, 14051 is not divisible by 7 or 2007."
+    },
+    {
+        "question": "Is 1831 divisible by the provided factor 29? Is 1831 divisible by the provided factor 63? Directly answer this question.",
+        "answer": "Is 1831 divisible by the provided factor 29? Is 1831 divisible by the provided factor 63? Directly answer this question. No, 1831 is not divisible by either of the provided factors, 29 or 63"
+    },
+    {
+        "question": "Is 8161 divisible by the provided factor 37? Is 8161 divisible by the provided factor 219? Directly answer this question.",
+        "answer": "Is 8161 divisible by the provided factor 37? Is 8161 divisible by the provided factor 219? Directly answer this question. To determine if 8161 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 4157 divisible by the provided factor 37? Is 4157 divisible by the provided factor 113? Directly answer this question.",
+        "answer": "Is 4157 divisible by the provided factor 37? Is 4157 divisible by the provided factor 113? Directly answer this question. To determine if 4157 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 7823 divisible by the provided factor 1? Directly answer this question.",
+        "answer": "Is 7823 divisible by the provided factor 1? Directly answer this question. Yes, 7823 is divisible by the factor 1."
+    },
+    {
+        "question": "Is 2441 divisible by the provided factor 37? Is 2441 divisible by the provided factor 66? Directly answer this question.",
+        "answer": "Is 2441 divisible by the provided factor 37? Is 2441 divisible by the provided factor 66? Directly answer this question. No, 2441 is not divisible by 37 or 66. To be more specific:\n\n"
+    },
+    {
+        "question": "Is 4703 divisible by the provided factor 29? Is 4703 divisible by the provided factor 162? Directly answer this question.",
+        "answer": "Is 4703 divisible by the provided factor 29? Is 4703 divisible by the provided factor 162? Directly answer this question. No, 4703 is not divisible by the provided factor 29. To check divisibility by"
+    },
+    {
+        "question": "Is 3413 divisible by the provided factor 29? Is 3413 divisible by the provided factor 117? Directly answer this question.",
+        "answer": "Is 3413 divisible by the provided factor 29? Is 3413 divisible by the provided factor 117? Directly answer this question. To determine if 3413 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 3767 divisible by the provided factor 29? Is 3767 divisible by the provided factor 130? Directly answer this question.",
+        "answer": "Is 3767 divisible by the provided factor 29? Is 3767 divisible by the provided factor 130? Directly answer this question. No, 3767 is not divisible by either of the provided factors, 29 or 1"
+    },
+    {
+        "question": "Is 11909 divisible by the provided factor 37? Is 11909 divisible by the provided factor 323? Directly answer this question.",
+        "answer": "Is 11909 divisible by the provided factor 37? Is 11909 divisible by the provided factor 323? Directly answer this question. No, 11909 is not divisible by either 37 or 323"
+    },
+    {
+        "question": "Is 18451 divisible by the provided factor 7? Is 18451 divisible by the provided factor 2637? Directly answer this question.",
+        "answer": "Is 18451 divisible by the provided factor 7? Is 18451 divisible by the provided factor 2637? Directly answer this question. No, 18451 is not divisible by 2637. To verify this"
+    },
+    {
+        "question": "Is 15727 divisible by the provided factor 37? Is 15727 divisible by the provided factor 427? Directly answer this question.",
+        "answer": "Is 15727 divisible by the provided factor 37? Is 15727 divisible by the provided factor 427? Directly answer this question. To determine if 15727 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 12539 divisible by the provided factor 7? Is 12539 divisible by the provided factor 1789? Directly answer this question.",
+        "answer": "Is 12539 divisible by the provided factor 7? Is 12539 divisible by the provided factor 1789? Directly answer this question. No, 12539 is not divisible by the provided factor 7. Additionally, it"
+    },
+    {
+        "question": "Is 7321 divisible by the provided factor 7321? Directly answer this question.",
+        "answer": "Is 7321 divisible by the provided factor 7321? Directly answer this question. No, 7321 is not divisible by 7321. Any number divided by itself equals 1, except when considering division in a broader context where it could"
+    },
+    {
+        "question": "Is 2179 divisible by the provided factor 37? Is 2179 divisible by the provided factor 59? Directly answer this question.",
+        "answer": "Is 2179 divisible by the provided factor 37? Is 2179 divisible by the provided factor 59? Directly answer this question. No, 2179 is not divisible by either 37 or 59. To verify:\n\n-"
+    },
+    {
+        "question": "Is 3169 divisible by the provided factor 29? Is 3169 divisible by the provided factor 109? Directly answer this question.",
+        "answer": "Is 3169 divisible by the provided factor 29? Is 3169 divisible by the provided factor 109? Directly answer this question. No, 3169 is not divisible by the provided factor 29. Additionally, no, "
+    },
+    {
+        "question": "Is 13711 divisible by the provided factor 13711? Directly answer this question.",
+        "answer": "Is 13711 divisible by the provided factor 13711? Directly answer this question. No, 13711 is not divisible by 13711; it is divisible by 1. For any number to be divisible by itself,"
+    },
+    {
+        "question": "Is 1741 divisible by the provided factor 31? Is 1741 divisible by the provided factor 56? Directly answer this question.",
+        "answer": "Is 1741 divisible by the provided factor 31? Is 1741 divisible by the provided factor 56? Directly answer this question. No, 1741 is not divisible by 31 or 56. To be more specific:\n\n"
+    },
+    {
+        "question": "Is 2539 divisible by the provided factor 7? Is 2539 divisible by the provided factor 362? Directly answer this question.",
+        "answer": "Is 2539 divisible by the provided factor 7? Is 2539 divisible by the provided factor 362? Directly answer this question. No, 2539 is not divisible by the provided factor 7. Additionally, it is also not divisible"
+    },
+    {
+        "question": "Is 10979 divisible by the provided factor 7? Is 10979 divisible by the provided factor 1569? Directly answer this question.",
+        "answer": "Is 10979 divisible by the provided factor 7? Is 10979 divisible by the provided factor 1569? Directly answer this question. No, 10979 is not divisible by 7 or 1569."
+    },
+    {
+        "question": "Is 11681 divisible by the provided factor 37? Is 11681 divisible by the provided factor 313? Directly answer this question.",
+        "answer": "Is 11681 divisible by the provided factor 37? Is 11681 divisible by the provided factor 313? Directly answer this question. To determine if 11681 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 17989 divisible by the provided factor 13? Is 17989 divisible by the provided factor 138? Directly answer this question.",
+        "answer": "Is 17989 divisible by the provided factor 13? Is 17989 divisible by the provided factor 138? Directly answer this question. No, 17989 is not divisible by the provided factor 13. To check"
+    },
+    {
+        "question": "Is 6257 divisible by the provided factor 43? Is 6257 divisible by the provided factor 145? Directly answer this question.",
+        "answer": "Is 6257 divisible by the provided factor 43? Is 6257 divisible by the provided factor 145? Directly answer this question. To determine if 6257 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 2617 divisible by the provided factor 37? Is 2617 divisible by the provided factor 71? Directly answer this question.",
+        "answer": "Is 2617 divisible by the provided factor 37? Is 2617 divisible by the provided factor 71? Directly answer this question. To determine if 2617 is divisible by the provided factors, we need to perform division and check for any"
+    },
+    {
+        "question": "Is 15053 divisible by the provided factor 7? Is 15053 divisible by the provided factor 2151? Directly answer this question.",
+        "answer": "Is 15053 divisible by the provided factor 7? Is 15053 divisible by the provided factor 2151? Directly answer this question. No, 15053 is not divisible by either 7 or 2151"
+    },
+    {
+        "question": "Is 17359 divisible by the provided factor 3? Directly answer this question.",
+        "answer": "Is 17359 divisible by the provided factor 3? Directly answer this question. To determine if 17359 is divisible by 3, we need to check if the sum of its digits is divisible by 3.\n\nLet's calculate the sum of the digits"
+    },
+    {
+        "question": "Is 10687 divisible by the provided factor 23? Is 10687 divisible by the provided factor 464? Directly answer this question.",
+        "answer": "Is 10687 divisible by the provided factor 23? Is 10687 divisible by the provided factor 464? Directly answer this question. No, 10687 is not divisible by either 23 or 464"
+    },
+    {
+        "question": "Is 11959 divisible by the provided factor 37? Is 11959 divisible by the provided factor 323? Directly answer this question.",
+        "answer": "Is 11959 divisible by the provided factor 37? Is 11959 divisible by the provided factor 323? Directly answer this question. No, 11959 is not divisible by the provided factor 37. To check"
+    },
+    {
+        "question": "Is 10163 divisible by the provided factor 7? Is 10163 divisible by the provided factor 1459? Directly answer this question.",
+        "answer": "Is 10163 divisible by the provided factor 7? Is 10163 divisible by the provided factor 1459? Directly answer this question. To determine if 10163 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 16141 divisible by the provided factor 73? Is 16141 divisible by the provided factor 223? Directly answer this question.",
+        "answer": "Is 16141 divisible by the provided factor 73? Is 16141 divisible by the provided factor 223? Directly answer this question. To determine if 16141 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 11887 divisible by the provided factor 37? Is 11887 divisible by the provided factor 321? Directly answer this question.",
+        "answer": "Is 11887 divisible by the provided factor 37? Is 11887 divisible by the provided factor 321? Directly answer this question. No, 11887 is not divisible by the provided factor 37. However,"
+    },
+    {
+        "question": "Is 4973 divisible by the provided factor 23? Is 4973 divisible by the provided factor 216? Directly answer this question.",
+        "answer": "Is 4973 divisible by the provided factor 23? Is 4973 divisible by the provided factor 216? Directly answer this question. No, 4973 is not divisible by either 23 or 216. To be"
+    },
+    {
+        "question": "Is 10613 divisible by the provided factor 7? Is 10613 divisible by the provided factor 1516? Directly answer this question.",
+        "answer": "Is 10613 divisible by the provided factor 7? Is 10613 divisible by the provided factor 1516? Directly answer this question. No, 10613 is not divisible by the provided factor 7. However, it"
+    },
+    {
+        "question": "Is 18979 divisible by the provided factor 103? Is 18979 divisible by the provided factor 18? Directly answer this question.",
+        "answer": "Is 18979 divisible by the provided factor 103? Is 18979 divisible by the provided factor 18? Directly answer this question. To determine if 18979 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 17299 divisible by the provided factor 37? Is 17299 divisible by the provided factor 469? Directly answer this question.",
+        "answer": "Is 17299 divisible by the provided factor 37? Is 17299 divisible by the provided factor 469? Directly answer this question. To determine if 17299 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 11443 divisible by the provided factor 11? Is 11443 divisible by the provided factor 103? Directly answer this question.",
+        "answer": "Is 11443 divisible by the provided factor 11? Is 11443 divisible by the provided factor 103? Directly answer this question. To determine if 11443 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 9241 divisible by the provided factor 97? Directly answer this question.",
+        "answer": "Is 9241 divisible by the provided factor 97? Directly answer this question. To determine if 9241 is divisible by 97, we need to perform a division operation and check if the result is an integer.\n\nLet's divide 9241"
+    },
+    {
+        "question": "Is 19699 divisible by the provided factor 7? Is 19699 divisible by the provided factor 2814? Directly answer this question.",
+        "answer": "Is 19699 divisible by the provided factor 7? Is 19699 divisible by the provided factor 2814? Directly answer this question. No, 19699 is not divisible by 7 or 2814."
+    },
+    {
+        "question": "Is 4957 divisible by the provided factor 37? Is 4957 divisible by the provided factor 133? Directly answer this question.",
+        "answer": "Is 4957 divisible by the provided factor 37? Is 4957 divisible by the provided factor 133? Directly answer this question. No, 4957 is not divisible by either of the provided factors, 37 or 1"
+    },
+    {
+        "question": "Is 4759 divisible by the provided factor 23? Is 4759 divisible by the provided factor 207? Directly answer this question.",
+        "answer": "Is 4759 divisible by the provided factor 23? Is 4759 divisible by the provided factor 207? Directly answer this question. No, 4759 is not divisible by either 23 or 207. To be"
+    },
+    {
+        "question": "Is 14071 divisible by the provided factor 37? Is 14071 divisible by the provided factor 383? Directly answer this question.",
+        "answer": "Is 14071 divisible by the provided factor 37? Is 14071 divisible by the provided factor 383? Directly answer this question. No, 14071 is not divisible by the provided factor 37. Additionally,"
+    },
+    {
+        "question": "Is 10459 divisible by the provided factor 37? Is 10459 divisible by the provided factor 281? Directly answer this question.",
+        "answer": "Is 10459 divisible by the provided factor 37? Is 10459 divisible by the provided factor 281? Directly answer this question. No, 10459 is not divisible by the provided factor 37. Additionally,"
+    },
+    {
+        "question": "Is 19559 divisible by the provided factor 7? Is 19559 divisible by the provided factor 2793? Directly answer this question.",
+        "answer": "Is 19559 divisible by the provided factor 7? Is 19559 divisible by the provided factor 2793? Directly answer this question. No, 19559 is not divisible by 2793. To verify this"
+    },
+    {
+        "question": "Is 15667 divisible by the provided factor 13? Is 15667 divisible by the provided factor 120? Directly answer this question.",
+        "answer": "Is 15667 divisible by the provided factor 13? Is 15667 divisible by the provided factor 120? Directly answer this question. No, 15667 is not divisible by the provided factor 13. To verify"
+    },
+    {
+        "question": "Is 6311 divisible by the provided factor 7? Is 6311 divisible by the provided factor 901? Directly answer this question.",
+        "answer": "Is 6311 divisible by the provided factor 7? Is 6311 divisible by the provided factor 901? Directly answer this question. No, 6311 is not divisible by 7 or 901. To be more specific:\n\n"
+    },
+    {
+        "question": "Is 14639 divisible by the provided factor 7? Is 14639 divisible by the provided factor 2091? Directly answer this question.",
+        "answer": "Is 14639 divisible by the provided factor 7? Is 14639 divisible by the provided factor 2091? Directly answer this question. No, 14639 is not divisible by either 7 or 2091"
+    },
+    {
+        "question": "Is 4289 divisible by the provided factor 7? Is 4289 divisible by the provided factor 613? Directly answer this question.",
+        "answer": "Is 4289 divisible by the provided factor 7? Is 4289 divisible by the provided factor 613? Directly answer this question. To determine if 4289 is divisible by the provided factors, we need to perform division for each factor.\n\n"
+    },
+    {
+        "question": "Is 16829 divisible by the provided factor 7? Is 16829 divisible by the provided factor 2404? Directly answer this question.",
+        "answer": "Is 16829 divisible by the provided factor 7? Is 16829 divisible by the provided factor 2404? Directly answer this question. No, 16829 is not divisible by the provided factor 2404."
+    },
+    {
+        "question": "Is 13921 divisible by the provided factor 118? Is 13921 divisible by the provided factor 11? Directly answer this question.",
+        "answer": "Is 13921 divisible by the provided factor 118? Is 13921 divisible by the provided factor 11? Directly answer this question. To determine if 13921 is divisible by 118, we need to perform"
+    },
+    {
+        "question": "Is 3203 divisible by the provided factor 7? Is 3203 divisible by the provided factor 457? Directly answer this question.",
+        "answer": "Is 3203 divisible by the provided factor 7? Is 3203 divisible by the provided factor 457? Directly answer this question. No, 3203 is not divisible by 7 or 457. To be more specific:\n\n"
+    },
+    {
+        "question": "Is 6659 divisible by the provided factor 7? Is 6659 divisible by the provided factor 951? Directly answer this question.",
+        "answer": "Is 6659 divisible by the provided factor 7? Is 6659 divisible by the provided factor 951? Directly answer this question. To determine if 6659 is divisible by 7, we perform the division:\n\n\\[ 665"
+    },
+    {
+        "question": "Is 8761 divisible by the provided factor 41? Is 8761 divisible by the provided factor 213? Directly answer this question.",
+        "answer": "Is 8761 divisible by the provided factor 41? Is 8761 divisible by the provided factor 213? Directly answer this question. To determine if 8761 is divisible by the provided factors, we need to perform division and check for"
+    },
+    {
+        "question": "Is 17293 divisible by the provided factor 3? Directly answer this question.",
+        "answer": "Is 17293 divisible by the provided factor 3? Directly answer this question. To determine if 17293 is divisible by 3, we need to check if the sum of its digits is divisible by 3.\n\nLet's calculate the sum of the digits"
+    },
+    {
+        "question": "Is 6217 divisible by the provided factor 37? Is 6217 divisible by the provided factor 169? Directly answer this question.",
+        "answer": "Is 6217 divisible by the provided factor 37? Is 6217 divisible by the provided factor 169? Directly answer this question. No, 6217 is not divisible by the provided factor 37. To check divisibility by"
+    },
+    {
+        "question": "Is 19031 divisible by the provided factor 7? Is 19031 divisible by the provided factor 2719? Directly answer this question.",
+        "answer": "Is 19031 divisible by the provided factor 7? Is 19031 divisible by the provided factor 2719? Directly answer this question. No, 19031 is not divisible by the provided factor 2719."
+    },
+    {
+        "question": "Is 4261 divisible by the provided factor 7? Is 4261 divisible by the provided factor 609? Directly answer this question.",
+        "answer": "Is 4261 divisible by the provided factor 7? Is 4261 divisible by the provided factor 609? Directly answer this question. No, 4261 is not divisible by 7 or 609. To be more specific:\n\n"
+    },
+    {
+        "question": "Is 1621 divisible by the provided factor 37? Is 1621 divisible by the provided factor 43? Directly answer this question.",
+        "answer": "Is 1621 divisible by the provided factor 37? Is 1621 divisible by the provided factor 43? Directly answer this question. To determine if 1621 is divisible by the provided factors, we need to perform division and check for any"
+    },
+    {
+        "question": "Is 10789 divisible by the provided factor 23? Is 10789 divisible by the provided factor 469? Directly answer this question.",
+        "answer": "Is 10789 divisible by the provided factor 23? Is 10789 divisible by the provided factor 469? Directly answer this question. To determine if 10789 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 5333 divisible by the provided factor 7? Is 5333 divisible by the provided factor 761? Directly answer this question.",
+        "answer": "Is 5333 divisible by the provided factor 7? Is 5333 divisible by the provided factor 761? Directly answer this question. No, 5333 is not divisible by 7. To check divisibility by 761,"
+    },
+    {
+        "question": "Is 11587 divisible by the provided factor 37? Is 11587 divisible by the provided factor 313? Directly answer this question.",
+        "answer": "Is 11587 divisible by the provided factor 37? Is 11587 divisible by the provided factor 313? Directly answer this question. No, 11587 is not divisible by the provided factor 37. Additionally,"
+    },
+    {
+        "question": "Is 6091 divisible by the provided factor 7? Is 6091 divisible by the provided factor 871? Directly answer this question.",
+        "answer": "Is 6091 divisible by the provided factor 7? Is 6091 divisible by the provided factor 871? Directly answer this question. To determine if 6091 is divisible by a given factor, we need to perform a division operation and check"
+    },
+    {
+        "question": "Is 5881 divisible by the provided factor 7? Directly answer this question.",
+        "answer": "Is 5881 divisible by the provided factor 7? Directly answer this question. To determine if 5881 is divisible by 7, we need to perform a division or use divisibility rules.\n\nLet's divide 5881 by 7:\n\n\\[ "
+    },
+    {
+        "question": "Is 17029 divisible by the provided factor 37? Is 17029 divisible by the provided factor 463? Directly answer this question.",
+        "answer": "Is 17029 divisible by the provided factor 37? Is 17029 divisible by the provided factor 463? Directly answer this question. No, 17029 is not divisible by either of the provided factors, 37"
+    },
+    {
+        "question": "Is 16901 divisible by the provided factor 37? Is 16901 divisible by the provided factor 457? Directly answer this question.",
+        "answer": "Is 16901 divisible by the provided factor 37? Is 16901 divisible by the provided factor 457? Directly answer this question. To determine if 16901 is divisible by the provided factors, we need to perform division"
+    },
+    {
+        "question": "Is 14767 divisible by the provided factor 109? Is 14767 divisible by the provided factor 13? Directly answer this question.",
+        "answer": "Is 14767 divisible by the provided factor 109? Is 14767 divisible by the provided factor 13? Directly answer this question. To determine if 14767 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 3529 divisible by the provided factor 17? Is 3529 divisible by the provided factor 199? Directly answer this question.",
+        "answer": "Is 3529 divisible by the provided factor 17? Is 3529 divisible by the provided factor 199? Directly answer this question. To determine if 3529 is divisible by the provided factors, we need to perform the division and check"
+    },
+    {
+        "question": "Is 19963 divisible by the provided factor 7? Is 19963 divisible by the provided factor 2851? Directly answer this question.",
+        "answer": "Is 19963 divisible by the provided factor 7? Is 19963 divisible by the provided factor 2851? Directly answer this question. To determine if 19963 is divisible by 2851, we perform the"
+    },
+    {
+        "question": "Is 7253 divisible by the provided factor 19? Is 7253 divisible by the provided factor 379? Directly answer this question.",
+        "answer": "Is 7253 divisible by the provided factor 19? Is 7253 divisible by the provided factor 379? Directly answer this question. To determine if 7253 is divisible by 19, we perform the division:\n\n\\[ 7"
+    },
+    {
+        "question": "Is 14153 divisible by the provided factor 3? Directly answer this question.",
+        "answer": "Is 14153 divisible by the provided factor 3? Directly answer this question. To determine if 14153 is divisible by 3, we can use the rule that a number is divisible by 3 if the sum of its digits is divisible by 3"
+    },
+    {
+        "question": "Is 3929 divisible by the provided factor 7? Is 3929 divisible by the provided factor 561? Directly answer this question.",
+        "answer": "Is 3929 divisible by the provided factor 7? Is 3929 divisible by the provided factor 561? Directly answer this question. No, 3929 is not divisible by the provided factor 561. To verify, we can"
+    },
+    {
+        "question": "Is 16267 divisible by the provided factor 37? Is 16267 divisible by the provided factor 439? Directly answer this question.",
+        "answer": "Is 16267 divisible by the provided factor 37? Is 16267 divisible by the provided factor 439? Directly answer this question. To determine if 16267 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 1549 divisible by the provided factor 37? Is 1549 divisible by the provided factor 41? Directly answer this question.",
+        "answer": "Is 1549 divisible by the provided factor 37? Is 1549 divisible by the provided factor 41? Directly answer this question. To determine if 1549 is divisible by the provided factors, we need to perform the division of 1"
+    },
+    {
+        "question": "Is 18911 divisible by the provided factor 7? Is 18911 divisible by the provided factor 2701? Directly answer this question.",
+        "answer": "Is 18911 divisible by the provided factor 7? Is 18911 divisible by the provided factor 2701? Directly answer this question. No, 18911 is not divisible by 2701. To be more"
+    },
+    {
+        "question": "Is 17683 divisible by the provided factor 19? Is 17683 divisible by the provided factor 931? Directly answer this question.",
+        "answer": "Is 17683 divisible by the provided factor 19? Is 17683 divisible by the provided factor 931? Directly answer this question. To determine if 17683 is divisible by 19, we perform the division:\n\n"
+    },
+    {
+        "question": "Is 14033 divisible by the provided factor 7? Is 14033 divisible by the provided factor 2005? Directly answer this question.",
+        "answer": "Is 14033 divisible by the provided factor 7? Is 14033 divisible by the provided factor 2005? Directly answer this question. No, 14033 is not divisible by the provided factor 2005."
+    },
+    {
+        "question": "Is 10133 divisible by the provided factor 7? Is 10133 divisible by the provided factor 1447? Directly answer this question.",
+        "answer": "Is 10133 divisible by the provided factor 7? Is 10133 divisible by the provided factor 1447? Directly answer this question. No, 10133 is not divisible by the provided factor 7. Additionally, "
+    },
+    {
+        "question": "Is 10861 divisible by the provided factor 37? Is 10861 divisible by the provided factor 291? Directly answer this question.",
+        "answer": "Is 10861 divisible by the provided factor 37? Is 10861 divisible by the provided factor 291? Directly answer this question. No, 10861 is not divisible by either of the provided factors, 37"
+    },
+    {
+        "question": "Is 11321 divisible by the provided factor 7? Is 11321 divisible by the provided factor 1617? Directly answer this question.",
+        "answer": "Is 11321 divisible by the provided factor 7? Is 11321 divisible by the provided factor 1617? Directly answer this question. No, 11321 is not divisible by 1617. To verify this"
+    },
+    {
+        "question": "Is 9277 divisible by the provided factor 37? Is 9277 divisible by the provided factor 247? Directly answer this question.",
+        "answer": "Is 9277 divisible by the provided factor 37? Is 9277 divisible by the provided factor 247? Directly answer this question. No, 9277 is not divisible by either 37 or 247. To verify"
+    },
+    {
+        "question": "Is 1747 divisible by the provided factor 29? Is 1747 divisible by the provided factor 60? Directly answer this question.",
+        "answer": "Is 1747 divisible by the provided factor 29? Is 1747 divisible by the provided factor 60? Directly answer this question. No, 1747 is not divisible by either 29 or 60. To be more specific"
+    },
+    {
+        "question": "Is 11699 divisible by the provided factor 23? Is 11699 divisible by the provided factor 465? Directly answer this question.",
+        "answer": "Is 11699 divisible by the provided factor 23? Is 11699 divisible by the provided factor 465? Directly answer this question. No, 11699 is not divisible by either of the provided factors, 23"
+    },
+    {
+        "question": "Is 7121 divisible by the provided factor 73? Is 7121 divisible by the provided factor 98? Directly answer this question.",
+        "answer": "Is 7121 divisible by the provided factor 73? Is 7121 divisible by the provided factor 98? Directly answer this question. To determine if 7121 is divisible by the provided factors, we need to perform the division and check for"
+    },
+    {
+        "question": "Is 14753 divisible by the provided factor 3? Directly answer this question.",
+        "answer": "Is 14753 divisible by the provided factor 3? Directly answer this question. To determine if 14753 is divisible by 3, we can use the rule that a number is divisible by 3 if the sum of its digits is divisible by 3"
+    },
+    {
+        "question": "Is 3989 divisible by the provided factor 23? Is 3989 divisible by the provided factor 173? Directly answer this question.",
+        "answer": "Is 3989 divisible by the provided factor 23? Is 3989 divisible by the provided factor 173? Directly answer this question. To determine if 3989 is divisible by the provided factors, we need to perform division operations.\n\n###"
+    },
+    {
+        "question": "Is 13619 divisible by the provided factor 7? Is 13619 divisible by the provided factor 1949? Directly answer this question.",
+        "answer": "Is 13619 divisible by the provided factor 7? Is 13619 divisible by the provided factor 1949? Directly answer this question. No, 13619 is not divisible by either 7 or 1949"
+    },
+    {
+        "question": "Is 4621 divisible by the provided factor 37? Is 4621 divisible by the provided factor 123? Directly answer this question.",
+        "answer": "Is 4621 divisible by the provided factor 37? Is 4621 divisible by the provided factor 123? Directly answer this question. No, 4621 is not divisible by the provided factor 37. To check this, we"
+    },
+    {
+        "question": "Is 13729 divisible by the provided factor 73? Is 13729 divisible by the provided factor 187? Directly answer this question.",
+        "answer": "Is 13729 divisible by the provided factor 73? Is 13729 divisible by the provided factor 187? Directly answer this question. To determine if 13729 is divisible by the provided factors, we need to perform the"
+    },
+    {
+        "question": "Is 18401 divisible by the provided factor 101? Directly answer this question.",
+        "answer": "Is 18401 divisible by the provided factor 101? Directly answer this question. No, 18401 is not divisible by 101. To verify this, you can perform the division: \\( 18401 \\div "
+    },
+    {
+        "question": "Is 15121 divisible by the provided factor 73? Is 15121 divisible by the provided factor 209? Directly answer this question.",
+        "answer": "Is 15121 divisible by the provided factor 73? Is 15121 divisible by the provided factor 209? Directly answer this question. No, 15121 is not divisible by either of the provided factors, 73"
+    },
+    {
+        "question": "Is 11369 divisible by the provided factor 37? Is 11369 divisible by the provided factor 307? Directly answer this question.",
+        "answer": "Is 11369 divisible by the provided factor 37? Is 11369 divisible by the provided factor 307? Directly answer this question. To determine if 11369 is divisible by the provided factors, we need to perform the"
+    }
+]

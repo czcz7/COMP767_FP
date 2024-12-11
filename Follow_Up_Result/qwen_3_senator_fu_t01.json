@@ -1,0 +1,786 @@
+[
+    {
+        "question": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater MIT? Dirctly answer yes or no.",
+        "answer": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater MIT? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Joe Lieberman represented the state of Connecticut as US senator? Was Joe Lieberman's alma mater MIT? Dirctly answer yes or no.",
+        "answer": "Has Joe Lieberman represented the state of Connecticut as US senator? Was Joe Lieberman's alma mater MIT? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has John Kerry represented the state of Massachusetts as US senator? Was John Kerry's alma mater MIT? Dirctly answer yes or no.",
+        "answer": "Has John Kerry represented the state of Massachusetts as US senator? Was John Kerry's alma mater MIT? Dirctly answer yes or no. No. John Kerry did represent Massachusetts as a US senator, but he did not attend MIT. He graduated from Yale University."
+    },
+    {
+        "question": "Has Jack Reed represented the state of Rhode Island as US senator? Was Jack Reed's alma mater MIT? Dirctly answer yes or no.",
+        "answer": "Has Jack Reed represented the state of Rhode Island as US senator? Was Jack Reed's alma mater MIT? Dirctly answer yes or no. No. Jack Reed did represent Rhode Island as a US Senator, but his alma mater was not MIT. He attended Brown University."
+    },
+    {
+        "question": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater the University of Chicago? Dirctly answer yes or no. No. Lisa Murkowski has represented Alaska in the U.S. Senate, but her alma mater is not the University of Chicago. Her alma mater is the University of Alaska Fairbanks."
+    },
+    {
+        "question": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater University of Chicago? Dirctly answer yes or no. No. Barry Goldwater did represent Arizona as a U.S. Senator, but his alma mater was not the University of Chicago. He attended the College of William and Mary."
+    },
+    {
+        "question": "Has Blanche Lincoln represented the state of Arkansas as US senator? Was Blanche Lincoln's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Blanche Lincoln represented the state of Arkansas as US senator? Was Blanche Lincoln's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Hiram Johnson represented the state of California as US senator? Was Hiram Johnson's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Hiram Johnson represented the state of California as US senator? Was Hiram Johnson's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Ken Salazar represented the state of Colorado as US senator? Was Ken Salazar's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Ken Salazar represented the state of Colorado as US senator? Was Ken Salazar's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Tom Carper represented the state of Delaware as US senator? Was Tom Carper's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Tom Carper represented the state of Delaware as US senator? Was Tom Carper's alma mater University of Chicago? Dirctly answer yes or no. No. Tom Carper has represented Delaware in the U.S. Senate, but his alma mater is not the University of Chicago. His alma mater is Georgetown University."
+    },
+    {
+        "question": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater University of Chicago? Dirctly answer yes or no. No. Bob Graham did represent Florida as a U.S. Senator, but his alma mater was not the University of Chicago. He attended the University of Florida."
+    },
+    {
+        "question": "Has Sam Nunn represented the state of Georgia as US senator? Was Sam Nunn's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Sam Nunn represented the state of Georgia as US senator? Was Sam Nunn's alma mater University of Chicago? Dirctly answer yes or no. No. Sam Nunn did represent Georgia as a US Senator, but his alma mater was not the University of Chicago. His alma mater was Emory University."
+    },
+    {
+        "question": "Has Daniel K represented the state of Hawaii as US senator? Was Daniel K's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Daniel K represented the state of Hawaii as US senator? Was Daniel K's alma mater the University of Chicago? Dirctly answer yes or no. No. Daniel K. Inouye, who represented Hawaii in the U.S. Senate, did not attend the University of Chicago. He attended Columbia University."
+    },
+    {
+        "question": "Has Larry Craig represented the state of Idaho as US senator? Was Larry Craig's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Larry Craig represented the state of Idaho as US senator? Was Larry Craig's alma mater the University of Chicago? Dirctly answer yes or no. No. Larry Craig did not represent Idaho as a U.S. Senator; he was a member of the United States House of Representatives from 1995 to 2005. Additionally, his alma mater was not the University of Chicago; it was the University of Idaho."
+    },
+    {
+        "question": "Has Robert A. Dole represented the state of Kansas as US senator? Was Robert A. Dole's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Robert A. Dole represented the state of Kansas as US senator? Was Robert A. Dole's alma mater University of Chicago? Dirctly answer yes or no. No. Robert A. Dole did represent the state of Kansas as a U.S. Senator, but his alma mater was not the University of Chicago. He attended and graduated from Kansas Wesleyan University."
+    },
+    {
+        "question": "Has John Sherman Cooper represented the state of Kentucky as US senator? Was John Sherman Cooper's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has John Sherman Cooper represented the state of Kentucky as US senator? Was John Sherman Cooper's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Huey Long represented the state of Louisiana as US senator? Was Huey Long's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Huey Long represented the state of Louisiana as US senator? Was Huey Long's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Paul Sarbanes represented the state of Maryland as US senator? Was Paul Sarbanes's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Paul Sarbanes represented the state of Maryland as US senator? Was Paul Sarbanes's alma mater the University of Chicago? Dirctly answer yes or no. No. Paul Sarbanes represented Maryland in the United States House of Representatives, not as a US senator. He did not attend the University of Chicago; his alma mater was the University of Maryland, College Park."
+    },
+    {
+        "question": "Has John Kerry represented the state of Massachusetts as US senator? Was John Kerry's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has John Kerry represented the state of Massachusetts as US senator? Was John Kerry's alma mater the University of Chicago? Dirctly answer yes or no. No. John Kerry represented Massachusetts as a US senator, but his alma mater is not the University of Chicago; it was the College of William and Mary."
+    },
+    {
+        "question": "Has Carl Levin represented the state of Michigan as US senator? Was Carl Levin's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Carl Levin represented the state of Michigan as US senator? Was Carl Levin's alma mater the University of Chicago? Dirctly answer yes or no. No. Carl Levin did represent the state of Michigan as a U.S. Senator, but his alma mater was not the University of Chicago. He attended the University of Michigan."
+    },
+    {
+        "question": "Has John C represented the state of Mississippi as US senator? Was John C's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has John C represented the state of Mississippi as US senator? Was John C's alma mater the University of Chicago? Dirctly answer yes or no. No. John C has not represented the state of Mississippi as a US senator. Additionally, his alma mater was not the University of Chicago. He attended Harvard College."
+    },
+    {
+        "question": "Has Harry Reid represented the state of Nevada as US senator? Was Harry Reid's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Harry Reid represented the state of Nevada as US senator? Was Harry Reid's alma mater the University of Chicago? Dirctly answer yes or no. No."
+    },
+    {
+        "question": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Chuck Schumer represented the state of New York as US senator? Was Chuck Schumer's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Chuck Schumer represented the state of New York as US senator? Was Chuck Schumer's alma mater the University of Chicago? Dirctly answer yes or no. No. Chuck Schumer has represented New York in the United States Senate since 2013, but he did not attend the University of Chicago. He graduated from the University of Maryland, College Park."
+    },
+    {
+        "question": "Has Tom Coburn represented the state of Oklahoma as US senator? Was Tom Coburn's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Tom Coburn represented the state of Oklahoma as US senator? Was Tom Coburn's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Wayne Morse represented the state of Oregon as US senator? Was Wayne Morse's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Wayne Morse represented the state of Oregon as US senator? Was Wayne Morse's alma mater the University of Chicago? Dirctly answer yes or no. No. Wayne Morse did represent Oregon in the U.S. Senate, but his alma mater was not the University of Chicago. His alma mater was the University of Oregon."
+    },
+    {
+        "question": "Has Claiborne Pell represented the state of Rhode Island as US senator? Was Claiborne Pell's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Claiborne Pell represented the state of Rhode Island as US senator? Was Claiborne Pell's alma mater University of Chicago? Dirctly answer yes or no. No. Claiborne Pell did not represent Rhode Island as a US Senator; he was a Rhode Island Senator. Additionally, his alma mater was Brown University, not the University of Chicago."
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater the University of Chicago? Dirctly answer yes or no. No. \n\nStrom Thurmond did represent South Carolina as a U.S. Senator, but he did not attend the University of Chicago. He attended the College of Charleston and later received his law degree from the University of South Carolina School of Law."
+    },
+    {
+        "question": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater University of Chicago? Dirctly answer yes or no. No. Al Gore did not represent Tennessee as a US Senator; he was the Governor of Tennessee before that. Additionally, Al Gore's alma mater is not the University of Chicago, but the University of Pennsylvania."
+    },
+    {
+        "question": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater the University of Chicago? Dirctly answer yes or no. No. \n\nOrrin Hatch has indeed represented Utah in the United States Senate since 1976. However, his alma mater is not the University of Chicago; it is Brigham Young University."
+    },
+    {
+        "question": "Has Warren Magnuson represented the state of Washington as US senator? Was Warren Magnuson's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Warren Magnuson represented the state of Washington as US senator? Was Warren Magnuson's alma mater the University of Chicago? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater University of Chicago? Dirctly answer yes or no. No. Robert C did not represent West Virginia as a US senator. His alma mater was not the University of Chicago. He attended the University of Virginia."
+    },
+    {
+        "question": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater the University of Chicago? Dirctly answer yes or no. Yes."
+    },
+    {
+        "question": "Has Bob Beauregard represented the state of Wyoming as US senator? Was Bob Beauregard's alma mater the University of Chicago? Dirctly answer yes or no.",
+        "answer": "Has Bob Beauregard represented the state of Wyoming as US senator? Was Bob Beauregard's alma mater the University of Chicago? Dirctly answer yes or no. No. Bob Beauregard did not represent Wyoming as a U.S. Senator. Additionally, his alma mater was not the University of Chicago. He attended the University of Wyoming."
+    },
+    {
+        "question": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater Johns Hopkins University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Lisa Murkowski has represented Alaska in the U.S. Senate, but she did not attend Johns Hopkins University. Her alma mater is the University of Alaska Fairbanks."
+    },
+    {
+        "question": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Barry Goldwater did not represent Arizona as a US Senator; he was a U.S. Representative from Arizona. Additionally, his alma mater was not Johns Hopkins University but rather the College of William and Mary."
+    },
+    {
+        "question": "Has Blanche Lincoln represented the state of Arkansas as US senator? Was Blanche Lincoln's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Blanche Lincoln represented the state of Arkansas as US senator? Was Blanche Lincoln's alma mater Johns Hopkins University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Thomas C. Southern represented the state of Delaware as US senator? Was Thomas C. Southern's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Thomas C. Southern represented the state of Delaware as US senator? Was Thomas C. Southern's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Thomas C. Southern did not represent Delaware in the U.S. Senate. Additionally, his alma mater was not Johns Hopkins University; it was Harvard University."
+    },
+    {
+        "question": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Bob Graham did represent Florida as a U.S. Senator, but his alma mater was not Johns Hopkins University; it was the University of Florida."
+    },
+    {
+        "question": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Hiram Fong did represent Hawaii in the U.S. Senate, but his alma mater was not Johns Hopkins University; it was the University of Hawaii at Manoa."
+    },
+    {
+        "question": "Has Frank Church represented the state of Idaho as US senator? Was Frank Church's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Frank Church represented the state of Idaho as US senator? Was Frank Church's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Frank Church did represent the state of Idaho as a U.S. Senator, but he did not attend Johns Hopkins University. He attended Washington College (now called Washington and Lee University)."
+    },
+    {
+        "question": "Has Barack Obama represented the state of Illinois as US senator? Was Barack Obama's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Barack Obama represented the state of Illinois as US senator? Was Barack Obama's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Barack Obama did not represent the state of Illinois as a US senator; he was elected to the United States Senate from Illinois in 2004. Additionally, his alma mater is not Johns Hopkins University; it was Columbia University."
+    },
+    {
+        "question": "Has Ben Sasse represented the state of Kansas as US senator? Was Ben Sasse's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Ben Sasse represented the state of Kansas as US senator? Was Ben Sasse's alma mater Johns Hopkins University? Dirctly answer yes or no. No\nBen Sasse has not represented the state of Kansas as a U.S. Senator. He is currently serving as a U.S. Senator from Nebraska. Additionally, Ben Sasse's alma mater is not Johns Hopkins University; he graduated from Harvard University."
+    },
+    {
+        "question": "Has Huey Long represented the state of Louisiana as US senator? Was Huey Long's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Huey Long represented the state of Louisiana as US senator? Was Huey Long's alma mater Johns Hopkins University? Dirctly answer yes or no. No\nHuey Long did not represent Louisiana as a US senator. He was never elected to that position. Additionally, his alma mater was not Johns Hopkins University; it was Tulane University."
+    },
+    {
+        "question": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Edmund Muskie did represent the state of Maine as a US Senator, but he did not attend Johns Hopkins University. He graduated from Bowdoin College."
+    },
+    {
+        "question": "Has Carl Levin represented the state of Michigan as US senator? Was Carl Levin's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Carl Levin represented the state of Michigan as US senator? Was Carl Levin's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Carl Levin did represent the state of Michigan as a U.S. Senator, but he did not attend Johns Hopkins University. He graduated from the University of Michigan Law School."
+    },
+    {
+        "question": "Has John W represented the state of Mississippi as US senator? Was John W's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has John W represented the state of Mississippi as US senator? Was John W's alma mater Johns Hopkins University? Dirctly answer yes or no. No. John W did not represent the state of Mississippi as a U.S. Senator, and his alma mater was not Johns Hopkins University. The correct information is that John W. Cogdell (often referred to as John W) served as a U.S. Senator from Mississippi from 1975 to 1981, and his alma mater was not Johns Hopkins University but rather the University of Mississippi."
+    },
+    {
+        "question": "Has Harry S represented the state of Missouri as US senator? Was Harry S's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Harry S represented the state of Missouri as US senator? Was Harry S's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Harry S. Truman did not represent the state of Missouri as a U.S. Senator. He served as the 33rd President of the United States, not as a U.S. Senator. Additionally, Harry S. Truman attended the University of Missouri, not Johns Hopkins University."
+    },
+    {
+        "question": "Has Max Baucus represented the state of Montana as US senator? Was Max Baucus's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Max Baucus represented the state of Montana as US senator? Was Max Baucus's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Max Baucus represented the state of Montana as a U.S. Senator, but his alma mater was not Johns Hopkins University; he attended Hamilton College."
+    },
+    {
+        "question": "Has John Erlenborn represented the state of New Hampshire as US senator? Was John Erlenborn's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has John Erlenborn represented the state of New Hampshire as US senator? Was John Erlenborn's alma mater Johns Hopkins University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Harrison Williams III represented the state of New Jersey as US senator? Was Harrison Williams III's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Harrison Williams III represented the state of New Jersey as US senator? Was Harrison Williams III's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Harrison Williams III has not represented the state of New Jersey as a U.S. Senator. Additionally, his alma mater is not Johns Hopkins University; he attended Rutgers University."
+    },
+    {
+        "question": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater Johns Hopkins University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has not explicitly mentioned in the provided input represented the state of New York as US senator? Was not explicitly mentioned in the provided input's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has not explicitly mentioned in the provided input represented the state of New York as US senator? Was not explicitly mentioned in the provided input's alma mater Johns Hopkins University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Tom Coburn represented the state of Oklahoma as US senator? Was Tom Coburn's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Tom Coburn represented the state of Oklahoma as US senator? Was Tom Coburn's alma mater Johns Hopkins University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Mark O represented the state of Oregon as US senator? Was Mark O's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Mark O represented the state of Oregon as US senator? Was Mark O's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Mark O did not represent Oregon as a US Senator, and his alma mater was not Johns Hopkins University. He attended the University of Oregon."
+    },
+    {
+        "question": "Has Arlen Specter represented the state of Pennsylvania as US senator? Was Arlen Specter's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Arlen Specter represented the state of Pennsylvania as US senator? Was Arlen Specter's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Arlen Specter did represent Pennsylvania as a U.S. Senator, but his alma mater was not Johns Hopkins University; it was the University of Pennsylvania."
+    },
+    {
+        "question": "Has John J represented the state of Rhode Island as US senator? Was John J's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has John J represented the state of Rhode Island as US senator? Was John J's alma mater Johns Hopkins University? Dirctly answer yes or no. No. John J did not represent Rhode Island as a US Senator, and his alma mater was not Johns Hopkins University. The individual referred to is likely John Montressor, who served as a U.S. Senator from Rhode Island from 1975 to 1981, and his alma mater was Brown University, not Johns Hopkins University."
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Strom Thurmond did represent South Carolina as a US Senator, but he did not attend Johns Hopkins University. He attended the College of Charleston."
+    },
+    {
+        "question": "Has James Abourezk represented the state of South Dakota as US senator? Was James Abourezk's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has James Abourezk represented the state of South Dakota as US senator? Was James Abourezk's alma mater Johns Hopkins University? Dirctly answer yes or no. No. James Abourezk did represent South Dakota as a U.S. Senator, but he did not attend Johns Hopkins University. He graduated from Princeton University."
+    },
+    {
+        "question": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Al Gore did not represent Tennessee as a US Senator; he was the Governor of Tennessee from 1979 to 1985. Additionally, his alma mater is Vanderbilt University, not Johns Hopkins University."
+    },
+    {
+        "question": "Has Patrick Leahy represented the state of Vermont as US senator? Was Patrick Leahy's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Patrick Leahy represented the state of Vermont as US senator? Was Patrick Leahy's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Patrick Leahy has represented Vermont in the U.S. Senate, but he did not attend Johns Hopkins University. His alma mater is the University of Vermont."
+    },
+    {
+        "question": "Has Warren Magnuson represented the state of Washington as US senator? Was Warren Magnuson's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Warren Magnuson represented the state of Washington as US senator? Was Warren Magnuson's alma mater Johns Hopkins University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Robert C. Byrd represented the state of West Virginia as US senator? Was Robert C. Byrd's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Robert C. Byrd represented the state of West Virginia as US senator? Was Robert C. Byrd's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Robert C. Byrd did represent West Virginia as a US senator, but he did not attend Johns Hopkins University. He attended West Virginia University."
+    },
+    {
+        "question": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater Johns Hopkins University? Dirctly answer yes or no. No."
+    },
+    {
+        "question": "Has Bob Beauregard represented the state of Wyoming as US senator? Was Bob Beauregard's alma mater Johns Hopkins University? Dirctly answer yes or no.",
+        "answer": "Has Bob Beauregard represented the state of Wyoming as US senator? Was Bob Beauregard's alma mater Johns Hopkins University? Dirctly answer yes or no. No. Bob Beauregard did not represent Wyoming as a U.S. Senator. Additionally, his alma mater was not Johns Hopkins University; he attended the University of Wyoming."
+    },
+    {
+        "question": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater University of Pennsylvania? Dirctly answer yes or no. No. Lisa Murkowski has represented Alaska in the U.S. Senate, but her alma mater is not the University of Pennsylvania; it is the University of Montana."
+    },
+    {
+        "question": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Barry Goldwater did represent Arizona in the United States Senate, but his alma mater was not the University of Pennsylvania. He attended the University of Arizona."
+    },
+    {
+        "question": "Has Blanche Lincoln represented the state of Arkansas as US senator? Was Blanche Lincoln's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Blanche Lincoln represented the state of Arkansas as US senator? Was Blanche Lincoln's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Hiram Johnson represented the state of California as US senator? Was Hiram Johnson's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Hiram Johnson represented the state of California as US senator? Was Hiram Johnson's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Gary Hart represented the state of Colorado as US senator? Was Gary Hart's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Gary Hart represented the state of Colorado as US senator? Was Gary Hart's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Joe Lieberman represented the state of Connecticut as US senator? Was Joe Lieberman's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Joe Lieberman represented the state of Connecticut as US senator? Was Joe Lieberman's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Bob Graham did represent Florida as a US Senator, but his alma mater was not the University of Pennsylvania. He attended the University of Florida."
+    },
+    {
+        "question": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Hiram Fong did represent Hawaii in the U.S. Senate, but his alma mater was not the University of Pennsylvania. He attended the University of Hawaii."
+    },
+    {
+        "question": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater the University of Pennsylvania? Dirctly answer yes or no. No."
+    },
+    {
+        "question": "Has Tom Harkin represented the state of Iowa as US senator? Was Tom Harkin's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Tom Harkin represented the state of Iowa as US senator? Was Tom Harkin's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has John Kerry represented the state of Massachusetts as US senator? Was John Kerry's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has John Kerry represented the state of Massachusetts as US senator? Was John Kerry's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. John Kerry represented Massachusetts in the United States Senate, but his alma mater is not the University of Pennsylvania; it was the College of William and Mary."
+    },
+    {
+        "question": "Has Carl Levin represented the state of Michigan as US senator? Was Carl Levin's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Carl Levin represented the state of Michigan as US senator? Was Carl Levin's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Carl Levin represented the state of Michigan in the U.S. Senate, not Pennsylvania. His alma mater was not the University of Pennsylvania; it was the University of Michigan."
+    },
+    {
+        "question": "Has Paul Wellstone represented the state of Minnesota as US senator? Was Paul Wellstone's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Paul Wellstone represented the state of Minnesota as US senator? Was Paul Wellstone's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Max Baucus represented the state of Montana as US senator? Was Max Baucus's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Max Baucus represented the state of Montana as US senator? Was Max Baucus's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Max Baucus represented the state of Montana as a U.S. Senator, not Pennsylvania. His alma mater was actually Hamilton College, not the University of Pennsylvania."
+    },
+    {
+        "question": "Has Ben Sasse represented the state of Nebraska as US senator? Was Ben Sasse's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Ben Sasse represented the state of Nebraska as US senator? Was Ben Sasse's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Ben Sasse has represented Nebraska in the U.S. Senate, but his alma mater is not the University of Pennsylvania. He attended Cornell University."
+    },
+    {
+        "question": "Has Jeanette Rankin represented the state of New Hampshire as US senator? Was Jeanette Rankin's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Jeanette Rankin represented the state of New Hampshire as US senator? Was Jeanette Rankin's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Jeanette Rankin did not represent New Hampshire in the U.S. Senate; she represented Montana. Additionally, her alma mater was not the University of Pennsylvania but rather the New York School for Social Work."
+    },
+    {
+        "question": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Chuck Schumer represented the state of New York as US senator? Was Chuck Schumer's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Chuck Schumer represented the state of New York as US senator? Was Chuck Schumer's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Chuck Schumer has represented New York in the United States Senate since 1998, but he did not attend the University of Pennsylvania; he graduated from the University of Maryland, College Park."
+    },
+    {
+        "question": "Has Tom Coburn represented the state of Oklahoma as US senator? Was Tom Coburn's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Tom Coburn represented the state of Oklahoma as US senator? Was Tom Coburn's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Wayne Morse represented the state of Oregon as US senator? Was Wayne Morse's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Wayne Morse represented the state of Oregon as US senator? Was Wayne Morse's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. Wayne Morse did represent Oregon in the U.S. Senate, but his alma mater was not the University of Pennsylvania. He attended the University of Oregon School of Law."
+    },
+    {
+        "question": "Has Claiborne Pell represented the state of Rhode Island as US senator? Was Claiborne Pell's alma mater University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Claiborne Pell represented the state of Rhode Island as US senator? Was Claiborne Pell's alma mater University of Pennsylvania? Dirctly answer yes or no. No. Claiborne Pell did not represent Rhode Island as a US Senator; he was a Rhode Island Senator. Additionally, his alma mater was Brown University, not the University of Pennsylvania."
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. \n\nStrom Thurmond did represent South Carolina as a U.S. Senator, but he did not attend the University of Pennsylvania. He attended the College of Charleston in South Carolina."
+    },
+    {
+        "question": "Has James Abourezk represented the state of South Dakota as US senator? Was James Abourezk's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has James Abourezk represented the state of South Dakota as US senator? Was James Abourezk's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. James Abourezk did represent South Dakota as a U.S. Senator, but his alma mater was not the University of Pennsylvania. He attended Princeton University."
+    },
+    {
+        "question": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater University of Pennsylvania? Dirctly answer yes or no. No. \n\nOrrin Hatch has indeed represented Utah in the U.S. Senate, but he did not attend the University of Pennsylvania. He graduated from Walla Walla College (now Walla Walla University) in Washington state."
+    },
+    {
+        "question": "Has Patrick Leahy represented the state of Vermont as US senator? Was Patrick Leahy's alma mater University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Patrick Leahy represented the state of Vermont as US senator? Was Patrick Leahy's alma mater University of Pennsylvania? Dirctly answer yes or no. No. Patrick Leahy has represented Vermont in the United States Senate, but his alma mater is not the University of Pennsylvania. He attended the University of Vermont."
+    },
+    {
+        "question": "Has Warren Magnuson represented the state of Washington as US senator? Was Warren Magnuson's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Warren Magnuson represented the state of Washington as US senator? Was Warren Magnuson's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater the University of Pennsylvania? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater the University of Pennsylvania? Dirctly answer yes or no.",
+        "answer": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater the University of Pennsylvania? Dirctly answer yes or no. No. \n\nHerb Kohl did represent Wisconsin as a U.S. Senator, but his alma mater was actually the University of Wisconsin-Madison, not the University of Pennsylvania."
+    },
+    {
+        "question": "Has Huey Long represented the state of Alabama as US senator? Was Huey Long's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Huey Long represented the state of Alabama as US senator? Was Huey Long's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater California Institute of Technology? Dirctly answer yes or no. No. Lisa Murkowski has represented Alaska in the U.S. Senate, but she did not attend the California Institute of Technology. Her alma mater is the University of Alaska Fairbanks."
+    },
+    {
+        "question": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Mark Pryor represented the state of Arkansas as US senator? Was Mark Pryor's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Mark Pryor represented the state of Arkansas as US senator? Was Mark Pryor's alma mater California Institute of Technology? Dirctly answer yes or no. No. Mark Pryor did represent the state of Arkansas as a U.S. Senator, but he did not attend the California Institute of Technology. His alma mater was the University of Arkansas at Little Rock."
+    },
+    {
+        "question": "Has Hiram Fong (though he did not represent California) represented the state of California as US senator? Was Hiram Fong (though he did not represent California)'s alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Hiram Fong (though he did not represent California) represented the state of California as US senator? Was Hiram Fong (though he did not represent California)'s alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Gary Hart represented the state of Colorado as US senator? Was Gary Hart's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Gary Hart represented the state of Colorado as US senator? Was Gary Hart's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater California Institute of Technology? Dirctly answer yes or no. No. Bob Graham did not represent Florida as a US Senator; he served as the 53rd Governor of Florida from 1987 to 2000. Additionally, his alma mater was not the California Institute of Technology but the University of North Carolina at Chapel Hill."
+    },
+    {
+        "question": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater California Institute of Technology? Dirctly answer yes or no. No. Hiram Fong did not represent Hawaii as a U.S. Senator; he was the first and only Hawaiian to serve in that capacity, representing Hawaii from 1959 to 1963 when it became a state. Additionally, Hiram Fong's alma mater was not the California Institute of Technology but rather the University of Hawaii at Manoa."
+    },
+    {
+        "question": "Has Barack Obama represented the state of Illinois as US senator? Was Barack Obama's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Barack Obama represented the state of Illinois as US senator? Was Barack Obama's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater California Institute of Technology? Dirctly answer yes or no. No. Birch Bayh did represent Indiana in the U.S. Senate, but his alma mater was not the California Institute of Technology; it was Purdue University."
+    },
+    {
+        "question": "Has Robert A represented the state of Kansas as US senator? Was Robert A's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Robert A represented the state of Kansas as US senator? Was Robert A's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Huey Long represented the state of Louisiana as US senator? Was Huey Long's alma mater California Institute of Technology (Caltech)? Dirctly answer yes or no.",
+        "answer": "Has Huey Long represented the state of Louisiana as US senator? Was Huey Long's alma mater California Institute of Technology (Caltech)? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Carl Levin represented the state of Michigan as US senator? Was Carl Levin's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Carl Levin represented the state of Michigan as US senator? Was Carl Levin's alma mater California Institute of Technology? Dirctly answer yes or no. No. Carl Levin did represent the state of Michigan as a U.S. Senator, but he did not attend the California Institute of Technology. He attended the University of Michigan."
+    },
+    {
+        "question": "Has Hubert Humphrey represented the state of Minnesota as US senator? Was Hubert Humphrey's alma mater California Institute of Technology (Caltech)? Dirctly answer yes or no.",
+        "answer": "Has Hubert Humphrey represented the state of Minnesota as US senator? Was Hubert Humphrey's alma mater California Institute of Technology (Caltech)? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has John C represented the state of Mississippi as US senator? Was John C's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has John C represented the state of Mississippi as US senator? Was John C's alma mater California Institute of Technology? Dirctly answer yes or no. No. John C has not represented the state of Mississippi as a US senator. Additionally, his alma mater was not the California Institute of Technology; he attended the University of Mississippi."
+    },
+    {
+        "question": "Has Max Baucus represented the state of Montana as US senator? Was Max Baucus's alma mater California Institute of Technology (Caltech)? Dirctly answer yes or no.",
+        "answer": "Has Max Baucus represented the state of Montana as US senator? Was Max Baucus's alma mater California Institute of Technology (Caltech)? Dirctly answer yes or no. No\nMax Baucus represented the state of Montana as a U.S. Senator, not California. His alma mater was not the California Institute of Technology (Caltech), but Hamilton College."
+    },
+    {
+        "question": "Has John E represented the state of New Hampshire as US senator? Was John E's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has John E represented the state of New Hampshire as US senator? Was John E's alma mater California Institute of Technology? Dirctly answer yes or no. No. John E has not been represented as a US senator from New Hampshire, and there is no information suggesting that his alma mater was the California Institute of Technology."
+    },
+    {
+        "question": "Has Robert F represented the state of New Jersey as US senator? Was Robert F's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Robert F represented the state of New Jersey as US senator? Was Robert F's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Chuck Schumer represented the state of New York as US senator? Was Chuck Schumer's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Chuck Schumer represented the state of New York as US senator? Was Chuck Schumer's alma mater California Institute of Technology? Dirctly answer yes or no. No. Chuck Schumer has represented New York in the United States Senate, not California Institute of Technology as his alma mater. He attended Harvard College and the University of Pennsylvania Law School."
+    },
+    {
+        "question": "Has Bob Ferguson represented the state of Oklahoma as US senator? Was Bob Ferguson's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Bob Ferguson represented the state of Oklahoma as US senator? Was Bob Ferguson's alma mater California Institute of Technology? Dirctly answer yes or no. No. Bob Ferguson has not represented the state of Oklahoma as a US senator. He is the Attorney General of Washington State, not a US Senator. Additionally, Bob Ferguson did not attend the California Institute of Technology; he graduated from the University of Washington."
+    },
+    {
+        "question": "Has Ron Wyden represented the state of Oregon as US senator? Was Ron Wyden's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Ron Wyden represented the state of Oregon as US senator? Was Ron Wyden's alma mater California Institute of Technology? Dirctly answer yes or no. No. \n\nRon Wyden has represented Oregon in the U.S. Senate since 1993, but he did not attend the California Institute of Technology; he graduated from Willamette University."
+    },
+    {
+        "question": "Has Arlen Specter represented the state of Pennsylvania as US senator? Was Arlen Specter's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Arlen Specter represented the state of Pennsylvania as US senator? Was Arlen Specter's alma mater California Institute of Technology? Dirctly answer yes or no. No. Arlen Specter did represent Pennsylvania in the U.S. Senate, but he did not attend the California Institute of Technology. He attended the University of Pennsylvania."
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater California Institute of Technology? Dirctly answer yes or no. No. Strom Thurmond did not represent South Carolina as a US senator; he represented South Carolina in the US Senate. Additionally, Strom Thurmond's alma mater was not the California Institute of Technology; it was the College of Charleston."
+    },
+    {
+        "question": "Has John Thune represented the state of South Dakota as US senator? Was John Thune's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has John Thune represented the state of South Dakota as US senator? Was John Thune's alma mater California Institute of Technology? Dirctly answer yes or no. No. John Thune did represent South Dakota as a US Senator, but his alma mater is not the California Institute of Technology; it was the University of South Dakota."
+    },
+    {
+        "question": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater California Institute of Technology? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Patty Murray represented the state of Washington as US senator? Was Patty Murray's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Patty Murray represented the state of Washington as US senator? Was Patty Murray's alma mater California Institute of Technology? Dirctly answer yes or no. No. Patty Murray has indeed represented the state of Washington as a U.S. Senator, but she did not attend the California Institute of Technology. Her alma mater is Washington State University."
+    },
+    {
+        "question": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater California Institute of Technology (Caltech)? Dirctly answer yes or no.",
+        "answer": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater California Institute of Technology (Caltech)? Dirctly answer yes or no. No."
+    },
+    {
+        "question": "Has Reed Smoot represented the state of Utah as US senator? Was Reed Smoot's alma mater California Institute of Technology? Dirctly answer yes or no.",
+        "answer": "Has Reed Smoot represented the state of Utah as US senator? Was Reed Smoot's alma mater California Institute of Technology? Dirctly answer yes or no. No. Reed Smoot did not represent the state of Utah as a U.S. Senator; he was a U.S. Representative from Utah. Additionally, Reed Smoot did not attend the California Institute of Technology; he attended the University of Michigan."
+    },
+    {
+        "question": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater Dartmouth College? Dirctly answer yes or no. No. Lisa Murkowski has represented Alaska in the U.S. Senate, but her alma mater is not Dartmouth College; it is the University of Alaska Fairbanks."
+    },
+    {
+        "question": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Barry Goldwater represented the state of Arizona as US senator? Was Barry Goldwater's alma mater Dartmouth College? Dirctly answer yes or no. No. Barry Goldwater did represent Arizona as a U.S. Senator, but he did not attend Dartmouth College. He attended the University of Arizona."
+    },
+    {
+        "question": "Has Blanche Lincoln represented the state of Arkansas as US senator? Was Blanche Lincoln's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Blanche Lincoln represented the state of Arkansas as US senator? Was Blanche Lincoln's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Hiram Johnson represented the state of California as US senator? Was Hiram Johnson's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Hiram Johnson represented the state of California as US senator? Was Hiram Johnson's alma mater Dartmouth College? Dirctly answer yes or no. No. Hiram Johnson did represent the state of California as a US senator, but his alma mater was not Dartmouth College; it was Stanford University."
+    },
+    {
+        "question": "Has Gary Hart represented the state of Colorado as US senator? Was Gary Hart's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Gary Hart represented the state of Colorado as US senator? Was Gary Hart's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Joe Lieberman represented the state of Connecticut as US senator? Was Joe Lieberman's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Joe Lieberman represented the state of Connecticut as US senator? Was Joe Lieberman's alma mater Dartmouth College? Dirctly answer yes or no. No. Joe Lieberman did represent Connecticut as a US Senator, but his alma mater was not Dartmouth College; it was Yale University."
+    },
+    {
+        "question": "Has Thomas R represented the state of Delaware as US senator? Was Thomas R's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Thomas R represented the state of Delaware as US senator? Was Thomas R's alma mater Dartmouth College? Dirctly answer yes or no. No. Thomas R did not represent the state of Delaware as a US senator. Additionally, Thomas R's alma mater was not Dartmouth College. Thomas R is actually Thomas R. Reid, who served as the 49th Governor of New Jersey from 1987 to 1991 and was not involved in US Senate representation or attending Dartmouth College."
+    },
+    {
+        "question": "Has Bill Nelson represented the state of Florida as US senator? Was Bill Nelson's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Bill Nelson represented the state of Florida as US senator? Was Bill Nelson's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Sam Nunn represented the state of Georgia as US senator? Was Sam Nunn's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Sam Nunn represented the state of Georgia as US senator? Was Sam Nunn's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Daniel K represented the state of Hawaii as US senator? Was Daniel K's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Daniel K represented the state of Hawaii as US senator? Was Daniel K's alma mater Dartmouth College? Dirctly answer yes or no. No. Daniel K was a senator from Hawaii, but his alma mater was not Dartmouth College; it was the University of Hawaii at Manoa."
+    },
+    {
+        "question": "Has Larry Craig represented the state of Idaho as US senator? Was Larry Craig's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Larry Craig represented the state of Idaho as US senator? Was Larry Craig's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater Dartmouth College? Dirctly answer yes or no. No. Birch Bayh did represent the state of Indiana as a U.S. Senator, but his alma mater was not Dartmouth College; it was Indiana University."
+    },
+    {
+        "question": "Has Pat Roberts represented the state of Kansas as US senator? Was Pat Roberts's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Pat Roberts represented the state of Kansas as US senator? Was Pat Roberts's alma mater Dartmouth College? Dirctly answer yes or no. No. Pat Roberts has represented Kansas in the U.S. Senate, but his alma mater is not Dartmouth College; it is Drake University."
+    },
+    {
+        "question": "Has John Sherman represented the state of Kentucky as US senator? Was John Sherman's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has John Sherman represented the state of Kentucky as US senator? Was John Sherman's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Bill Cassidy represented the state of Louisiana as US senator? Was Bill Cassidy's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Bill Cassidy represented the state of Louisiana as US senator? Was Bill Cassidy's alma mater Dartmouth College? Dirctly answer yes or no. No. Bill Cassidy represented Louisiana in the U.S. Senate, but his alma mater was not Dartmouth College; it was the University of Mississippi."
+    },
+    {
+        "question": "Has John C represented the state of Mississippi as US senator? Was John C's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has John C represented the state of Mississippi as US senator? Was John C's alma mater Dartmouth College? Dirctly answer yes or no. No. John C did not represent the state of Mississippi as a U.S. Senator. Additionally, his alma mater was not Dartmouth College. John C is likely referring to John C. Danforth, who did serve as a U.S. Senator from Missouri and attended Harvard College."
+    },
+    {
+        "question": "Has Jim Talent represented the state of Missouri as US senator? Was Jim Talent's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Jim Talent represented the state of Missouri as US senator? Was Jim Talent's alma mater Dartmouth College? Dirctly answer yes or no. No. Jim Talent did represent Missouri as a U.S. Senator, but his alma mater was not Dartmouth College; it was Washington University in St. Louis."
+    },
+    {
+        "question": "Has Max Baucus represented the state of Montana as US senator? Was Max Baucus's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Max Baucus represented the state of Montana as US senator? Was Max Baucus's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Alexander Hamilton Blair represented the state of Nebraska as US senator? Was Alexander Hamilton Blair's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Alexander Hamilton Blair represented the state of Nebraska as US senator? Was Alexander Hamilton Blair's alma mater Dartmouth College? Dirctly answer yes or no. No. Alexander Hamilton Blair did not represent Nebraska in the U.S. Senate. He was a U.S. Representative from New York, not Nebraska. Additionally, while he attended Dartmouth College, there is no record of him representing Nebraska in any capacity."
+    },
+    {
+        "question": "Has Harry Reid represented the state of Nevada as US senator? Was Harry Reid's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Harry Reid represented the state of Nevada as US senator? Was Harry Reid's alma mater Dartmouth College? Dirctly answer yes or no. No."
+    },
+    {
+        "question": "Has Robert C. Byrd represented the state of New Jersey as US senator? Was Robert C. Byrd's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Robert C. Byrd represented the state of New Jersey as US senator? Was Robert C. Byrd's alma mater Dartmouth College? Dirctly answer yes or no. No. Robert C. Byrd did not represent the state of New Jersey as a US senator; he represented West Virginia. Additionally, Robert C. Byrd did not attend Dartmouth College; he attended West Virginia University."
+    },
+    {
+        "question": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Wayne Morse represented the state of Oregon as US senator? Was Wayne Morse's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Wayne Morse represented the state of Oregon as US senator? Was Wayne Morse's alma mater Dartmouth College? Dirctly answer yes or no. No. Wayne Morse did represent Oregon in the U.S. Senate, but his alma mater was not Dartmouth College; it was the University of Oregon."
+    },
+    {
+        "question": "Has Arlen Specter represented the state of Pennsylvania as US senator? Was Arlen Specter's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Arlen Specter represented the state of Pennsylvania as US senator? Was Arlen Specter's alma mater Dartmouth College? Dirctly answer yes or no. No. Arlen Specter did represent Pennsylvania as a U.S. Senator, but his alma mater was not Dartmouth College; it was the University of Pennsylvania."
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Dartmouth College? Dirctly answer yes or no. No."
+    },
+    {
+        "question": "Has Tom Daschle represented the state of South Dakota as US senator? Was Tom Daschle's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Tom Daschle represented the state of South Dakota as US senator? Was Tom Daschle's alma mater Dartmouth College? Dirctly answer yes or no. No. Tom Daschle represented South Dakota in the U.S. Senate, but his alma mater was not Dartmouth College; it was Yale University."
+    },
+    {
+        "question": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater Dartmouth College? Dirctly answer yes or no. No. Al Gore did not represent Tennessee as a US Senator; he was the Governor of Tennessee from 1979 to 1985. Additionally, Al Gore is an alumnus of Vanderbilt University, not Dartmouth College."
+    },
+    {
+        "question": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater Dartmouth College? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater Dartmouth College? Dirctly answer yes or no. No."
+    },
+    {
+        "question": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater Dartmouth College? Dirctly answer yes or no. No. Robert C did not represent the state of West Virginia as a US senator. Additionally, his alma mater was not Dartmouth College. Robert C is better known for being a member of the United States House of Representatives from West Virginia and his alma mater was Washington and Lee University."
+    },
+    {
+        "question": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater Dartmouth College? Dirctly answer yes or no. No."
+    },
+    {
+        "question": "Has Reed Smoot represented the state of Wyoming as US senator? Was Reed Smoot's alma mater Dartmouth College? Dirctly answer yes or no.",
+        "answer": "Has Reed Smoot represented the state of Wyoming as US senator? Was Reed Smoot's alma mater Dartmouth College? Dirctly answer yes or no. No\nReed Smoot did represent the state of Utah as a U.S. Senator, not Wyoming. Additionally, Reed Smoot's alma mater was not Dartmouth College; he graduated from the University of Michigan."
+    },
+    {
+        "question": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater Brown University? Dirctly answer yes or no. No\nLister Hill did not represent Alabama as a US senator; he was a U.S. Representative from Alabama. Additionally, his alma mater was not Brown University but Vanderbilt University."
+    },
+    {
+        "question": "Has Tom Carper represented the state of Delaware as US senator? Was Tom Carper's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Tom Carper represented the state of Delaware as US senator? Was Tom Carper's alma mater Brown University? Dirctly answer yes or no. No. Tom Carper has represented Delaware in the U.S. Senate, but his alma mater is not Brown University; it was Georgetown University."
+    },
+    {
+        "question": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Bob Graham represented the state of Florida as US senator? Was Bob Graham's alma mater Brown University? Dirctly answer yes or no. No. Bob Graham did represent Florida as a U.S. Senator, but his alma mater was not Brown University; it was the University of Florida."
+    },
+    {
+        "question": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater Brown University? Dirctly answer yes or no. No. Hiram Fong did not represent Hawaii as a U.S. Senator; he was the first and only Hawaiian to serve in the Senate, representing Hawaii before it became a state. Additionally, Hiram Fong did not attend Brown University; he graduated from the College of Hawaii (now the University of Hawaii) in 1920."
+    },
+    {
+        "question": "Has Barack Obama represented the state of Illinois as US senator? Was Barack Obama's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Barack Obama represented the state of Illinois as US senator? Was Barack Obama's alma mater Brown University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater Brown University? Dirctly answer yes or no. No. Birch Bayh did represent Indiana as a U.S. Senator, but his alma mater was not Brown University; it was Indiana University."
+    },
+    {
+        "question": "Has Huey Long represented the state of Louisiana as US senator? Was Huey Long's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Huey Long represented the state of Louisiana as US senator? Was Huey Long's alma mater Brown University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Mike Harris represented the state of Maryland as US senator? Was Mike Harris's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Mike Harris represented the state of Maryland as US senator? Was Mike Harris's alma mater Brown University? Dirctly answer yes or no. No\nMike Harris is a Canadian politician who served as the 27th Premier of Ontario, not a U.S. Senator from Maryland. He did not attend Brown University."
+    },
+    {
+        "question": "Has John C represented the state of Mississippi as US senator? Was John C's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has John C represented the state of Mississippi as US senator? Was John C's alma mater Brown University? Dirctly answer yes or no. No. John C did not represent the state of Mississippi as a U.S. Senator. Additionally, his alma mater was not Brown University. John C is actually John C. Danforth, who attended Washington University in St. Louis and served as a U.S. Senator from Missouri."
+    },
+    {
+        "question": "Has Harry S represented the state of Missouri as US senator? Was Harry S's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Harry S represented the state of Missouri as US senator? Was Harry S's alma mater Brown University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Robert Menendez represented the state of New Jersey as US senator? Was Robert Menendez's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Robert Menendez represented the state of New Jersey as US senator? Was Robert Menendez's alma mater Brown University? Dirctly answer yes or no. No. Robert Menendez has represented the state of New Jersey as a U.S. Senator, but his alma mater is Seton Hall University, not Brown University."
+    },
+    {
+        "question": "Has Mark O represented the state of Oregon as US senator? Was Mark O's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Mark O represented the state of Oregon as US senator? Was Mark O's alma mater Brown University? Dirctly answer yes or no. No. Mark O did not represent Oregon as a US Senator, and his alma mater was not Brown University. He actually attended the University of Oregon and served as a US Senator from Oklahoma."
+    },
+    {
+        "question": "Has Arlen Specter represented the state of Pennsylvania as US senator? Was Arlen Specter's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Arlen Specter represented the state of Pennsylvania as US senator? Was Arlen Specter's alma mater Brown University? Dirctly answer yes or no. No. Arlen Specter did represent Pennsylvania as a U.S. Senator, but his alma mater was not Brown University; it was the University of Pennsylvania."
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Brown University? Dirctly answer yes or no. No\nTo directly answer your question:\n\n1. Strom Thurmond did represent South Carolina as a US Senator, but this is not related to his alma mater.\n2. Strom Thurmond's alma mater was not Brown University. He attended the College of Charleston."
+    },
+    {
+        "question": "Has Tom Daschle represented the state of South Dakota as US senator? Was Tom Daschle's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Tom Daschle represented the state of South Dakota as US senator? Was Tom Daschle's alma mater Brown University? Dirctly answer yes or no. No. Tom Daschle represented South Dakota in the U.S. Senate, but his alma mater was not Brown University; it was Indiana University."
+    },
+    {
+        "question": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Al Gore represented the state of Tennessee as US senator? Was Al Gore's alma mater Brown University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Patrick Leahy represented the state of Vermont as US senator? Was Patrick Leahy's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Patrick Leahy represented the state of Vermont as US senator? Was Patrick Leahy's alma mater Brown University? Dirctly answer yes or no. No. Patrick Leahy has indeed represented Vermont as a U.S. Senator, but his alma mater is not Brown University; it was the University of Vermont."
+    },
+    {
+        "question": "Has Warren Magnuson represented the state of Washington as US senator? Was Warren Magnuson's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Warren Magnuson represented the state of Washington as US senator? Was Warren Magnuson's alma mater Brown University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater Brown University? Dirctly answer yes or no. No. Robert C did not represent West Virginia as a US senator. His alma mater was not Brown University. He attended Yale University."
+    },
+    {
+        "question": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater Brown University? Dirctly answer yes or no.",
+        "answer": "Has Herb Kohl represented the state of Wisconsin as US senator? Was Herb Kohl's alma mater Brown University? Dirctly answer yes or no. No. Herb Kohl represented Wisconsin in the U.S. Senate and his alma mater was Marquette University, not Brown University."
+    },
+    {
+        "question": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has Lister Hill represented the state of Alabama as US senator? Was Lister Hill's alma mater Vanderbilt University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Sam Nunn represented the state of Georgia as US senator? Was Sam Nunn's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has Sam Nunn represented the state of Georgia as US senator? Was Sam Nunn's alma mater Vanderbilt University? Dirctly answer yes or no. No. Sam Nunn did represent Georgia in the U.S. Senate, but his alma mater is not Vanderbilt University; it was Emory University."
+    },
+    {
+        "question": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has Birch Bayh represented the state of Indiana as US senator? Was Birch Bayh's alma mater Vanderbilt University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has John Sherman Cooper represented the state of Kentucky as US senator? Was John Sherman Cooper's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has John Sherman Cooper represented the state of Kentucky as US senator? Was John Sherman Cooper's alma mater Vanderbilt University? Dirctly answer yes or no. Yes. \n\nJohn Sherman Cooper indeed represented Kentucky in the U.S. Senate and his alma mater was Vanderbilt University."
+    },
+    {
+        "question": "Has Chuck Schumer represented the state of New York as US senator? Was Chuck Schumer's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has Chuck Schumer represented the state of New York as US senator? Was Chuck Schumer's alma mater Vanderbilt University? Dirctly answer yes or no. No. Chuck Schumer has represented New York in the United States Senate since 2013, but he did not attend Vanderbilt University. He graduated from Harvard Law School."
+    },
+    {
+        "question": "Has Tom Coburn represented the state of Oklahoma as US senator? Was Tom Coburn's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has Tom Coburn represented the state of Oklahoma as US senator? Was Tom Coburn's alma mater Vanderbilt University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Vanderbilt University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has John Thune represented the state of South Dakota as US senator? Was John Thune's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has John Thune represented the state of South Dakota as US senator? Was John Thune's alma mater Vanderbilt University? Dirctly answer yes or no. No. John Thune did represent South Dakota as a U.S. Senator, but his alma mater is not Vanderbilt University; it was Eureka College."
+    },
+    {
+        "question": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater Vanderbilt University? Dirctly answer yes or no.",
+        "answer": "Has Robert C represented the state of West Virginia as US senator? Was Robert C's alma mater Vanderbilt University? Dirctly answer yes or no. No. Robert C did not represent West Virginia as a US senator. His alma mater was not Vanderbilt University. He attended Washington and Lee University."
+    },
+    {
+        "question": "Has Pat Roberts represented the state of Kansas as US senator? Was Pat Roberts's alma mater Rice University? Dirctly answer yes or no.",
+        "answer": "Has Pat Roberts represented the state of Kansas as US senator? Was Pat Roberts's alma mater Rice University? Dirctly answer yes or no. No. Pat Roberts has represented Kansas in the U.S. Senate, but his alma mater is not Rice University; it is Baker University."
+    },
+    {
+        "question": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater Rice University? Dirctly answer yes or no.",
+        "answer": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater Rice University? Dirctly answer yes or no. No"
+    },
+    {
+        "question": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater University of Washington? Dirctly answer yes or no.",
+        "answer": "Has Lisa Murkowski represented the state of Alaska as US senator? Was Lisa Murkowski's alma mater University of Washington? Dirctly answer yes or no. No. Lisa Murkowski has represented Alaska in the U.S. Senate, but her alma mater is not the University of Washington; it is the University of Alaska Fairbanks."
+    },
+    {
+        "question": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater the University of Washington? Dirctly answer yes or no.",
+        "answer": "Has Hiram Fong represented the state of Hawaii as US senator? Was Hiram Fong's alma mater the University of Washington? Dirctly answer yes or no. No. Hiram Fong did represent Hawaii in the U.S. Senate, but his alma mater was not the University of Washington. He attended the University of Hawaii."
+    }
+]
