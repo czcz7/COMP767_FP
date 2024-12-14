@@ -1,0 +1,1758 @@
+[
+    {
+        "question": "Is 7411 divisible by the provided factor 7? Is 7411 divisible by the provided factor 1059? Dirctly answer yes or no.",
+        "answer": "Is 7411 divisible by the provided factor 7? Is 7411 divisible by the provided factor 1059? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 10733 divisible by the provided factor 29? Is 10733 divisible by the provided factor 367? Dirctly answer yes or no.",
+        "answer": "Is 10733 divisible by the provided factor 29? Is 10733 divisible by the provided factor 367? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 10733 divided by"
+    },
+    {
+        "question": "Is 4219 divisible by the provided factor 7? Is 4219 divisible by the provided factor 603? Dirctly answer yes or no.",
+        "answer": "Is 4219 divisible by the provided factor 7? Is 4219 divisible by the provided factor 603? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 5471 divisible by the provided factor 23? Is 5471 divisible by the provided factor 239? Dirctly answer yes or no.",
+        "answer": "Is 5471 divisible by the provided factor 23? Is 5471 divisible by the provided factor 239? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10663 divisible by the provided factor 7? Is 10663 divisible by the provided factor 1523? Dirctly answer yes or no.",
+        "answer": "Is 10663 divisible by the provided factor 7? Is 10663 divisible by the provided factor 1523? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18539 divisible by the provided factor 29? Is 18539 divisible by the provided factor 637? Dirctly answer yes or no.",
+        "answer": "Is 18539 divisible by the provided factor 29? Is 18539 divisible by the provided factor 637? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it ends in the same digit as the divisor (for divisibility by 2"
+    },
+    {
+        "question": "Is 6911 divisible by the provided factor 73? Is 6911 divisible by the provided factor 95? Dirctly answer yes or no.",
+        "answer": "Is 6911 divisible by the provided factor 73? Is 6911 divisible by the provided factor 95? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9791 divisible by the provided factor 23? Is 9791 divisible by the provided factor 421? Dirctly answer yes or no.",
+        "answer": "Is 9791 divisible by the provided factor 23? Is 9791 divisible by the provided factor 421? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2677 divisible by the provided factor 19? Is 2677 divisible by the provided factor 137? Dirctly answer yes or no.",
+        "answer": "Is 2677 divisible by the provided factor 19? Is 2677 divisible by the provided factor 137? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 2677 divided by "
+    },
+    {
+        "question": "Is 1933 divisible by the provided factor 47? Is 1933 divisible by the provided factor 41? Dirctly answer yes or no.",
+        "answer": "Is 1933 divisible by the provided factor 47? Is 1933 divisible by the provided factor 41? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 1933 divided by "
+    },
+    {
+        "question": "Is 10631 divisible by the provided factor 7? Is 10631 divisible by the provided factor 1519? Dirctly answer yes or no.",
+        "answer": "Is 10631 divisible by the provided factor 7? Is 10631 divisible by the provided factor 1519? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3691 divisible by the provided factor 7? Is 3691 divisible by the provided factor 527? Dirctly answer yes or no.",
+        "answer": "Is 3691 divisible by the provided factor 7? Is 3691 divisible by the provided factor 527? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 3469 divisible by the provided factor 11? Is 3469 divisible by the provided factor 315? Dirctly answer yes or no.",
+        "answer": "Is 3469 divisible by the provided factor 11? Is 3469 divisible by the provided factor 315? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 11:\nA number is divisible by 11"
+    },
+    {
+        "question": "Is 9343 divisible by the provided factor 17? Is 9343 divisible by the provided factor 547? Dirctly answer yes or no.",
+        "answer": "Is 9343 divisible by the provided factor 17? Is 9343 divisible by the provided factor 547? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 17 if the remainder"
+    },
+    {
+        "question": "Is 14699 divisible by the provided factor 3? Is 14699 divisible by the provided factor 7? Dirctly answer yes or no.",
+        "answer": "Is 14699 divisible by the provided factor 3? Is 14699 divisible by the provided factor 7? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the divisibility rules for that number.\n\nFor 3: A number is divisible by"
+    },
+    {
+        "question": "Is 5449 divisible by the provided factor 7? Is 5449 divisible by the provided factor 778? Dirctly answer yes or no.",
+        "answer": "Is 5449 divisible by the provided factor 7? Is 5449 divisible by the provided factor 778? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17891 divisible by the provided factor 43? Is 17891 divisible by the provided factor 409? Dirctly answer yes or no.",
+        "answer": "Is 17891 divisible by the provided factor 43? Is 17891 divisible by the provided factor 409? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1483 divisible by the provided factor 7? Is 1483 divisible by the provided factor 211? Dirctly answer yes or no.",
+        "answer": "Is 1483 divisible by the provided factor 7? Is 1483 divisible by the provided factor 211? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 8933 divisible by the provided factor 17? Is 8933 divisible by the provided factor 523? Dirctly answer yes or no.",
+        "answer": "Is 8933 divisible by the provided factor 17? Is 8933 divisible by the provided factor 523? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 17 if the remainder"
+    },
+    {
+        "question": "Is 4789 divisible by the provided factor 13? Is 4789 divisible by the provided factor 367? Dirctly answer yes or no.",
+        "answer": "Is 4789 divisible by the provided factor 13? Is 4789 divisible by the provided factor 367? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 19237 divisible by the provided factor 19? Is 19237 divisible by the provided factor 1013? Dirctly answer yes or no.",
+        "answer": "Is 19237 divisible by the provided factor 19? Is 19237 divisible by the provided factor 1013? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 17231 divisible by the provided factor 41? Is 17231 divisible by the provided factor 421? Dirctly answer yes or no.",
+        "answer": "Is 17231 divisible by the provided factor 41? Is 17231 divisible by the provided factor 421? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12553 divisible by the provided factor 7? Is 12553 divisible by the provided factor 1793? Dirctly answer yes or no.",
+        "answer": "Is 12553 divisible by the provided factor 7? Is 12553 divisible by the provided factor 1793? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12149 divisible by the provided factor 7? Is 12149 divisible by the provided factor 1737? Dirctly answer yes or no.",
+        "answer": "Is 12149 divisible by the provided factor 7? Is 12149 divisible by the provided factor 1737? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9187 divisible by the provided factor 3? Is 9187 divisible by the provided factor 2395? Dirctly answer yes or no.",
+        "answer": "Is 9187 divisible by the provided factor 3? Is 9187 divisible by the provided factor 2395? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each factor.\n\nFor factor 3:\nA number is divisible"
+    },
+    {
+        "question": "Is 1481 divisible by the provided factor 7? Is 1481 divisible by the provided factor 211? Dirctly answer yes or no.",
+        "answer": "Is 1481 divisible by the provided factor 7? Is 1481 divisible by the provided factor 211? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 8513 divisible by the provided factor 7? Is 8513 divisible by the provided factor 1219? Dirctly answer yes or no.",
+        "answer": "Is 8513 divisible by the provided factor 7? Is 8513 divisible by the provided factor 1219? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16421 divisible by the provided factor 7? Is 16421 divisible by the provided factor 2317? Dirctly answer yes or no.",
+        "answer": "Is 16421 divisible by the provided factor 7? Is 16421 divisible by the provided factor 2317? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 5743 divisible by the provided factor 19? Is 5743 divisible by the provided factor 299? Dirctly answer yes or no.",
+        "answer": "Is 5743 divisible by the provided factor 19? Is 5743 divisible by the provided factor 299? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3617 divisible by the provided factor 59? Is 3617 divisible by the provided factor 61? Dirctly answer yes or no.",
+        "answer": "Is 3617 divisible by the provided factor 59? Is 3617 divisible by the provided factor 61? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3617 divided by "
+    },
+    {
+        "question": "Is 8089 divisible by the provided factor 23? Is 8089 divisible by the provided factor 347? Dirctly answer yes or no.",
+        "answer": "Is 8089 divisible by the provided factor 23? Is 8089 divisible by the provided factor 347? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 23 if it ends"
+    },
+    {
+        "question": "Is 7487 divisible by the provided factor 13? Is 7487 divisible by the provided factor 579? Dirctly answer yes or no.",
+        "answer": "Is 7487 divisible by the provided factor 13? Is 7487 divisible by the provided factor 579? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 13 if the remainder"
+    },
+    {
+        "question": "Is 6301 divisible by the provided factor 7? Is 6301 divisible by the provided factor 901? Dirctly answer yes or no.",
+        "answer": "Is 6301 divisible by the provided factor 7? Is 6301 divisible by the provided factor 901? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\n**Divisibility Rule for 7:**\nA number is"
+    },
+    {
+        "question": "Is 9199 divisible by the provided factor 23? Is 9199 divisible by the provided factor 407? Dirctly answer yes or no.",
+        "answer": "Is 9199 divisible by the provided factor 23? Is 9199 divisible by the provided factor 407? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it ends in the same digit as the divisor (for divisibility by 2"
+    },
+    {
+        "question": "Is 2221 divisible by the provided factor 43? Is 2221 divisible by the provided factor 51? Dirctly answer yes or no.",
+        "answer": "Is 2221 divisible by the provided factor 43? Is 2221 divisible by the provided factor 51? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 43:\n- The last digit of 2"
+    },
+    {
+        "question": "Is 18181 divisible by the provided factor 43? Is 18181 divisible by the provided factor 421? Dirctly answer yes or no.",
+        "answer": "Is 18181 divisible by the provided factor 43? Is 18181 divisible by the provided factor 421? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8699 divisible by the provided factor 23? Is 8699 divisible by the provided factor 379? Dirctly answer yes or no.",
+        "answer": "Is 8699 divisible by the provided factor 23? Is 8699 divisible by the provided factor 379? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7937 divisible by the provided factor 13? Is 7937 divisible by the provided factor 607? Dirctly answer yes or no.",
+        "answer": "Is 7937 divisible by the provided factor 13? Is 7937 divisible by the provided factor 607? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12967 divisible by the provided factor 3? Is 12967 divisible by the provided factor 4323? Dirctly answer yes or no.",
+        "answer": "Is 12967 divisible by the provided factor 3? Is 12967 divisible by the provided factor 4323? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 3: A number is divisible by 3 if"
+    },
+    {
+        "question": "Is 4597 divisible by the provided factor 13? Is 4597 divisible by the provided factor 361? Dirctly answer yes or no.",
+        "answer": "Is 4597 divisible by the provided factor 13? Is 4597 divisible by the provided factor 361? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 13 if the remainder"
+    },
+    {
+        "question": "Is 4129 divisible by the provided factor 7? Is 4129 divisible by the provided factor 589? Dirctly answer yes or no.",
+        "answer": "Is 4129 divisible by the provided factor 7? Is 4129 divisible by the provided factor 589? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 18587 divisible by the provided factor 19? Is 18587 divisible by the provided factor 97? Dirctly answer yes or no.",
+        "answer": "Is 18587 divisible by the provided factor 19? Is 18587 divisible by the provided factor 97? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 19:\n- The last digit of 18"
+    },
+    {
+        "question": "Is 13219 divisible by the provided factor 7? Is 13219 divisible by the provided factor 1889? Dirctly answer yes or no.",
+        "answer": "Is 13219 divisible by the provided factor 7? Is 13219 divisible by the provided factor 1889? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 13451 divisible by the provided factor 7? Is 13451 divisible by the provided factor 1921? Dirctly answer yes or no.",
+        "answer": "Is 13451 divisible by the provided factor 7? Is 13451 divisible by the provided factor 1921? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17657 divisible by the provided factor 19? Is 17657 divisible by the provided factor 923? Dirctly answer yes or no.",
+        "answer": "Is 17657 divisible by the provided factor 19? Is 17657 divisible by the provided factor 923? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 19:\n- A number is divisible by 1"
+    },
+    {
+        "question": "Is 1601 divisible by the provided factor 43? Is 1601 divisible by the provided factor 37? Dirctly answer yes or no.",
+        "answer": "Is 1601 divisible by the provided factor 43? Is 1601 divisible by the provided factor 37? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4231 divisible by the provided factor 7? Is 4231 divisible by the provided factor 605? Dirctly answer yes or no.",
+        "answer": "Is 4231 divisible by the provided factor 7? Is 4231 divisible by the provided factor 605? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 15289 divisible by the provided factor 73? Is 15289 divisible by the provided factor 209? Dirctly answer yes or no.",
+        "answer": "Is 15289 divisible by the provided factor 73? Is 15289 divisible by the provided factor 209? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10177 divisible by the provided factor 23? Is 10177 divisible by the provided factor 441? Dirctly answer yes or no.",
+        "answer": "Is 10177 divisible by the provided factor 23? Is 10177 divisible by the provided factor 441? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 23:\n- A number is divisible by "
+    },
+    {
+        "question": "Is 11411 divisible by the provided factor 7? Is 11411 divisible by the provided factor 1631? Dirctly answer yes or no.",
+        "answer": "Is 11411 divisible by the provided factor 7? Is 11411 divisible by the provided factor 1631? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 19121 divisible by the provided factor 43? Is 19121 divisible by the provided factor 439? Dirctly answer yes or no.",
+        "answer": "Is 19121 divisible by the provided factor 43? Is 19121 divisible by the provided factor 439? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 5479 divisible by the provided factor 13? Is 5479 divisible by the provided factor 423? Dirctly answer yes or no.",
+        "answer": "Is 5479 divisible by the provided factor 13? Is 5479 divisible by the provided factor 423? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3821 divisible by the provided factor 47? Is 3821 divisible by the provided factor 83? Dirctly answer yes or no.",
+        "answer": "Is 3821 divisible by the provided factor 47? Is 3821 divisible by the provided factor 83? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4861 divisible by the provided factor 7? Is 4861 divisible by the provided factor 694? Dirctly answer yes or no.",
+        "answer": "Is 4861 divisible by the provided factor 7? Is 4861 divisible by the provided factor 694? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9419 divisible by the provided factor 23? Is 9419 divisible by the provided factor 407? Dirctly answer yes or no.",
+        "answer": "Is 9419 divisible by the provided factor 23? Is 9419 divisible by the provided factor 407? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it ends in the same digit as the divisor (for divisibility by 2"
+    },
+    {
+        "question": "Is 2647 divisible by the provided factor 19? Is 2647 divisible by the provided factor 137? Dirctly answer yes or no.",
+        "answer": "Is 2647 divisible by the provided factor 19? Is 2647 divisible by the provided factor 137? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 19:\n\\[ 26"
+    },
+    {
+        "question": "Is 3671 divisible by the provided factor 41? Is 3671 divisible by the provided factor 89? Dirctly answer yes or no.",
+        "answer": "Is 3671 divisible by the provided factor 41? Is 3671 divisible by the provided factor 89? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3671 divided by "
+    },
+    {
+        "question": "Is 8447 divisible by the provided factor 13? Is 8447 divisible by the provided factor 653? Dirctly answer yes or no.",
+        "answer": "Is 8447 divisible by the provided factor 13? Is 8447 divisible by the provided factor 653? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12301 divisible by the provided factor 7? Is 12301 divisible by the provided factor 1757? Dirctly answer yes or no.",
+        "answer": "Is 12301 divisible by the provided factor 7? Is 12301 divisible by the provided factor 1757? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is zero, then it is"
+    },
+    {
+        "question": "Is 14533 divisible by the provided factor 7? Is 14533 divisible by the provided factor 2077? Dirctly answer yes or no.",
+        "answer": "Is 14533 divisible by the provided factor 7? Is 14533 divisible by the provided factor 2077? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 16249 divisible by the provided factor 73? Is 16249 divisible by the provided factor 223? Dirctly answer yes or no.",
+        "answer": "Is 16249 divisible by the provided factor 73? Is 16249 divisible by the provided factor 223? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16729 divisible by the provided factor 13? Is 16729 divisible by the provided factor 1283? Dirctly answer yes or no.",
+        "answer": "Is 16729 divisible by the provided factor 13? Is 16729 divisible by the provided factor 1283? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 19997 divisible by the provided factor 3? Is 19997 divisible by the provided factor 6665? Dirctly answer yes or no.",
+        "answer": "Is 19997 divisible by the provided factor 3? Is 19997 divisible by the provided factor 6665? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 3: A number is divisible by 3 if"
+    },
+    {
+        "question": "Is 1559 divisible by the provided factor 7? Is 1559 divisible by the provided factor 223? Dirctly answer yes or no.",
+        "answer": "Is 1559 divisible by the provided factor 7? Is 1559 divisible by the provided factor 223? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15299 divisible by the provided factor 7? Is 15299 divisible by the provided factor 2187? Dirctly answer yes or no.",
+        "answer": "Is 15299 divisible by the provided factor 7? Is 15299 divisible by the provided factor 2187? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 19231 divisible by the provided factor 47? Is 19231 divisible by the provided factor 409? Dirctly answer yes or no.",
+        "answer": "Is 19231 divisible by the provided factor 47? Is 19231 divisible by the provided factor 409? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 14347 divisible by the provided factor 3? Is 14347 divisible by the provided factor 4782? Dirctly answer yes or no.",
+        "answer": "Is 14347 divisible by the provided factor 3? Is 14347 divisible by the provided factor 4782? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each factor.\n\nFor factor 3:\nA number is divisible"
+    },
+    {
+        "question": "Is 9067 divisible by the provided factor 13? Is 9067 divisible by the provided factor 697? Dirctly answer yes or no.",
+        "answer": "Is 9067 divisible by the provided factor 13? Is 9067 divisible by the provided factor 697? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6581 divisible by the provided factor 43? Is 6581 divisible by the provided factor 151? Dirctly answer yes or no.",
+        "answer": "Is 6581 divisible by the provided factor 43? Is 6581 divisible by the provided factor 151? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 6581 divided by "
+    },
+    {
+        "question": "Is 11981 divisible by the provided factor 7? Is 11981 divisible by the provided factor 1697? Dirctly answer yes or no.",
+        "answer": "Is 11981 divisible by the provided factor 7? Is 11981 divisible by the provided factor 1697? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15859 divisible by the provided factor 7? Is 15859 divisible by the provided factor 2265? Dirctly answer yes or no.",
+        "answer": "Is 15859 divisible by the provided factor 7? Is 15859 divisible by the provided factor 2265? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 18731 divisible by the provided factor 41? Is 18731 divisible by the provided factor 461? Dirctly answer yes or no.",
+        "answer": "Is 18731 divisible by the provided factor 41? Is 18731 divisible by the provided factor 461? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12037 divisible by the provided factor 19? Is 12037 divisible by the provided factor 631? Dirctly answer yes or no.",
+        "answer": "Is 12037 divisible by the provided factor 19? Is 12037 divisible by the provided factor 631? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10463 divisible by the provided factor 7? Is 10463 divisible by the provided factor 1493? Dirctly answer yes or no.",
+        "answer": "Is 10463 divisible by the provided factor 7? Is 10463 divisible by the provided factor 1493? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16529 divisible by the provided factor 7? Is 16529 divisible by the provided factor 2361? Dirctly answer yes or no.",
+        "answer": "Is 16529 divisible by the provided factor 7? Is 16529 divisible by the provided factor 2361? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4447 divisible by the provided factor 13? Is 4447 divisible by the provided factor 349? Dirctly answer yes or no.",
+        "answer": "Is 4447 divisible by the provided factor 13? Is 4447 divisible by the provided factor 349? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9491 divisible by the provided factor 7? Is 9491 divisible by the provided factor 1355? Dirctly answer yes or no.",
+        "answer": "Is 9491 divisible by the provided factor 7? Is 9491 divisible by the provided factor 1355? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11617 divisible by the provided factor 13? Is 11617 divisible by the provided factor 871? Dirctly answer yes or no.",
+        "answer": "Is 11617 divisible by the provided factor 13? Is 11617 divisible by the provided factor 871? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following steps:\n\n1. Check if the first factor (13) divides evenly"
+    },
+    {
+        "question": "Is 8623 divisible by the provided factor 7? Is 8623 divisible by the provided factor 1231? Dirctly answer yes or no.",
+        "answer": "Is 8623 divisible by the provided factor 7? Is 8623 divisible by the provided factor 1231? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 8821 divisible by the provided factor 3? Is 8821 divisible by the provided factor 7? Dirctly answer yes or no.",
+        "answer": "Is 8821 divisible by the provided factor 3? Is 8821 divisible by the provided factor 7? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the divisibility rules for that number.\n\nFor 3: A number is divisible by"
+    },
+    {
+        "question": "Is 3121 divisible by the provided factor 59? Is 3121 divisible by the provided factor 53? Dirctly answer yes or no.",
+        "answer": "Is 3121 divisible by the provided factor 59? Is 3121 divisible by the provided factor 53? Dirctly answer yes or no. To determine if a number is divisible by another, you can perform the division and check for any remainder.\n\nTo check if 3121 is"
+    },
+    {
+        "question": "Is 9787 divisible by the provided factor 13? Is 9787 divisible by the provided factor 749? Dirctly answer yes or no.",
+        "answer": "Is 9787 divisible by the provided factor 13? Is 9787 divisible by the provided factor 749? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2393 divisible by the provided factor 17? Is 2393 divisible by the provided factor 141? Dirctly answer yes or no.",
+        "answer": "Is 2393 divisible by the provided factor 17? Is 2393 divisible by the provided factor 141? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4253 divisible by the provided factor 7? Is 4253 divisible by the provided factor 608? Dirctly answer yes or no.",
+        "answer": "Is 4253 divisible by the provided factor 7? Is 4253 divisible by the provided factor 608? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16033 divisible by the provided factor 7? Is 16033 divisible by the provided factor 2290? Dirctly answer yes or no.",
+        "answer": "Is 16033 divisible by the provided factor 7? Is 16033 divisible by the provided factor 2290? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 2731 divisible by the provided factor 3? Is 2731 divisible by the provided factor 910? Dirctly answer yes or no.",
+        "answer": "Is 2731 divisible by the provided factor 3? Is 2731 divisible by the provided factor 910? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor a number to be divisible by 3, the sum of"
+    },
+    {
+        "question": "Is 16831 divisible by the provided factor 7? Is 16831 divisible by the provided factor 2404? Dirctly answer yes or no.",
+        "answer": "Is 16831 divisible by the provided factor 7? Is 16831 divisible by the provided factor 2404? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 3209 divisible by the provided factor 17? Is 3209 divisible by the provided factor 187? Dirctly answer yes or no.",
+        "answer": "Is 3209 divisible by the provided factor 17? Is 3209 divisible by the provided factor 187? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 17:\n\\[ \\frac{"
+    },
+    {
+        "question": "Is 17489 divisible by the provided factor 23? Is 17489 divisible by the provided factor 761? Dirctly answer yes or no.",
+        "answer": "Is 17489 divisible by the provided factor 23? Is 17489 divisible by the provided factor 761? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6317 divisible by the provided factor 41? Is 6317 divisible by the provided factor 153? Dirctly answer yes or no.",
+        "answer": "Is 6317 divisible by the provided factor 41? Is 6317 divisible by the provided factor 153? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 6317 divided by "
+    },
+    {
+        "question": "Is 12547 divisible by the provided factor 13? Is 12547 divisible by the provided factor 967? Dirctly answer yes or no.",
+        "answer": "Is 12547 divisible by the provided factor 13? Is 12547 divisible by the provided factor 967? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16253 divisible by the provided factor 7? Is 16253 divisible by the provided factor 2317? Dirctly answer yes or no.",
+        "answer": "Is 16253 divisible by the provided factor 7? Is 16253 divisible by the provided factor 2317? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11467 divisible by the provided factor 3? Is 11467 divisible by the provided factor 3823? Dirctly answer yes or no.",
+        "answer": "Is 11467 divisible by the provided factor 3? Is 11467 divisible by the provided factor 3823? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the following rules:\n\n- A number is divisible by 3 if the sum of its"
+    },
+    {
+        "question": "Is 3547 divisible by the provided factor 19? Is 3547 divisible by the provided factor 187? Dirctly answer yes or no.",
+        "answer": "Is 3547 divisible by the provided factor 19? Is 3547 divisible by the provided factor 187? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3547 divided by "
+    },
+    {
+        "question": "Is 12959 divisible by the provided factor 7? Is 12959 divisible by the provided factor 1851? Dirctly answer yes or no.",
+        "answer": "Is 12959 divisible by the provided factor 7? Is 12959 divisible by the provided factor 1851? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 13171 divisible by the provided factor 41? Is 13171 divisible by the provided factor 321? Dirctly answer yes or no.",
+        "answer": "Is 13171 divisible by the provided factor 41? Is 13171 divisible by the provided factor 321? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17707 divisible by the provided factor 19? Is 17707 divisible by the provided factor 923? Dirctly answer yes or no.",
+        "answer": "Is 17707 divisible by the provided factor 19? Is 17707 divisible by the provided factor 923? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 923 if it"
+    },
+    {
+        "question": "Is 19403 divisible by the provided factor 7? Is 19403 divisible by the provided factor 2771? Dirctly answer yes or no.",
+        "answer": "Is 19403 divisible by the provided factor 7? Is 19403 divisible by the provided factor 2771? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 2011 divisible by the provided factor 43? Is 2011 divisible by the provided factor 47? Dirctly answer yes or no.",
+        "answer": "Is 2011 divisible by the provided factor 43? Is 2011 divisible by the provided factor 47? Dirctly answer yes or no. To determine if a number is divisible by another, you can perform the division and check for any remainder.\n\nTo check if 2011 is"
+    },
+    {
+        "question": "Is 8629 divisible by the provided factor 13? Is 8629 divisible by the provided factor 667? Dirctly answer yes or no.",
+        "answer": "Is 8629 divisible by the provided factor 13? Is 8629 divisible by the provided factor 667? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9221 divisible by the provided factor 7? Is 9221 divisible by the provided factor 1317? Dirctly answer yes or no.",
+        "answer": "Is 9221 divisible by the provided factor 7? Is 9221 divisible by the provided factor 1317? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10781 divisible by the provided factor 43? Is 10781 divisible by the provided factor 251? Dirctly answer yes or no.",
+        "answer": "Is 10781 divisible by the provided factor 43? Is 10781 divisible by the provided factor 251? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17923 divisible by the provided factor 17? Is 17923 divisible by the provided factor 1051? Dirctly answer yes or no.",
+        "answer": "Is 17923 divisible by the provided factor 17? Is 17923 divisible by the provided factor 1051? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 17 if the remainder"
+    },
+    {
+        "question": "Is 7489 divisible by the provided factor 13? Is 7489 divisible by the provided factor 577? Dirctly answer yes or no.",
+        "answer": "Is 7489 divisible by the provided factor 13? Is 7489 divisible by the provided factor 577? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8111 divisible by the provided factor 7? Is 8111 divisible by the provided factor 1159? Dirctly answer yes or no.",
+        "answer": "Is 8111 divisible by the provided factor 7? Is 8111 divisible by the provided factor 1159? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 7:\n- A simple rule for checking divisibility by"
+    },
+    {
+        "question": "Is 2801 divisible by the provided factor 7? Is 2801 divisible by the provided factor 401? Dirctly answer yes or no.",
+        "answer": "Is 2801 divisible by the provided factor 7? Is 2801 divisible by the provided factor 401? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10973 divisible by the provided factor 23? Is 10973 divisible by the provided factor 479? Dirctly answer yes or no.",
+        "answer": "Is 10973 divisible by the provided factor 23? Is 10973 divisible by the provided factor 479? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 10973 divided by"
+    },
+    {
+        "question": "Is 7237 divisible by the provided factor 19? Is 7237 divisible by the provided factor 383? Dirctly answer yes or no.",
+        "answer": "Is 7237 divisible by the provided factor 19? Is 7237 divisible by the provided factor 383? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 5351 divisible by the provided factor 7? Is 5351 divisible by the provided factor 769? Dirctly answer yes or no.",
+        "answer": "Is 5351 divisible by the provided factor 7? Is 5351 divisible by the provided factor 769? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 14057 divisible by the provided factor 19? Is 14057 divisible by the provided factor 733? Dirctly answer yes or no.",
+        "answer": "Is 14057 divisible by the provided factor 19? Is 14057 divisible by the provided factor 733? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7691 divisible by the provided factor 7? Is 7691 divisible by the provided factor 1099? Dirctly answer yes or no.",
+        "answer": "Is 7691 divisible by the provided factor 7? Is 7691 divisible by the provided factor 1099? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 19433 divisible by the provided factor 7? Is 19433 divisible by the provided factor 2773? Dirctly answer yes or no.",
+        "answer": "Is 19433 divisible by the provided factor 7? Is 19433 divisible by the provided factor 2773? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 15307 divisible by the provided factor 19? Is 15307 divisible by the provided factor 801? Dirctly answer yes or no.",
+        "answer": "Is 15307 divisible by the provided factor 19? Is 15307 divisible by the provided factor 801? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 19:\n- A number is divisible by "
+    },
+    {
+        "question": "Is 10093 divisible by the provided factor 7? Is 10093 divisible by the provided factor 1441? Dirctly answer yes or no.",
+        "answer": "Is 10093 divisible by the provided factor 7? Is 10093 divisible by the provided factor 1441? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18433 divisible by the provided factor 7? Is 18433 divisible by the provided factor 2633? Dirctly answer yes or no.",
+        "answer": "Is 18433 divisible by the provided factor 7? Is 18433 divisible by the provided factor 2633? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18839 divisible by the provided factor 23? Is 18839 divisible by the provided factor 823? Dirctly answer yes or no.",
+        "answer": "Is 18839 divisible by the provided factor 23? Is 18839 divisible by the provided factor 823? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 23 if it ends"
+    },
+    {
+        "question": "Is 9337 divisible by the provided factor 19? Is 9337 divisible by the provided factor 491? Dirctly answer yes or no.",
+        "answer": "Is 9337 divisible by the provided factor 19? Is 9337 divisible by the provided factor 491? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2459 divisible by the provided factor 7? Is 2459 divisible by the provided factor 351? Dirctly answer yes or no.",
+        "answer": "Is 2459 divisible by the provided factor 7? Is 2459 divisible by the provided factor 351? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 14143 divisible by the provided factor 7? Is 14143 divisible by the provided factor 2029? Dirctly answer yes or no.",
+        "answer": "Is 14143 divisible by the provided factor 7? Is 14143 divisible by the provided factor 2029? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15233 divisible by the provided factor 7? Is 15233 divisible by the provided factor 2176? Dirctly answer yes or no.",
+        "answer": "Is 15233 divisible by the provided factor 7? Is 15233 divisible by the provided factor 2176? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 11159 divisible by the provided factor 7? Is 11159 divisible by the provided factor 1591? Dirctly answer yes or no.",
+        "answer": "Is 11159 divisible by the provided factor 7? Is 11159 divisible by the provided factor 1591? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1321 divisible by the provided factor 7? Is 1321 divisible by the provided factor 189? Dirctly answer yes or no.",
+        "answer": "Is 1321 divisible by the provided factor 7? Is 1321 divisible by the provided factor 189? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11897 divisible by the provided factor 13? Is 11897 divisible by the provided factor 899? Dirctly answer yes or no.",
+        "answer": "Is 11897 divisible by the provided factor 13? Is 11897 divisible by the provided factor 899? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 11897 divided by"
+    },
+    {
+        "question": "Is 4799 divisible by the provided factor 13? Is 4799 divisible by the provided factor 368? Dirctly answer yes or no.",
+        "answer": "Is 4799 divisible by the provided factor 13? Is 4799 divisible by the provided factor 368? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 13 if the remainder"
+    },
+    {
+        "question": "Is 6637 divisible by the provided factor 19? Is 6637 divisible by the provided factor 353? Dirctly answer yes or no.",
+        "answer": "Is 6637 divisible by the provided factor 19? Is 6637 divisible by the provided factor 353? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12781 divisible by the provided factor 43? Is 12781 divisible by the provided factor 299? Dirctly answer yes or no.",
+        "answer": "Is 12781 divisible by the provided factor 43? Is 12781 divisible by the provided factor 299? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it leaves no remainder when divided by that number.\n\nFor 1278"
+    },
+    {
+        "question": "Is 14519 divisible by the provided factor 7? Is 14519 divisible by the provided factor 2071? Dirctly answer yes or no.",
+        "answer": "Is 14519 divisible by the provided factor 7? Is 14519 divisible by the provided factor 2071? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 18097 divisible by the provided factor 23? Is 18097 divisible by the provided factor 809? Dirctly answer yes or no.",
+        "answer": "Is 18097 divisible by the provided factor 23? Is 18097 divisible by the provided factor 809? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 23:\n- A number is divisible by "
+    },
+    {
+        "question": "Is 1171 divisible by the provided factor 37? Is 1171 divisible by the provided factor 31? Dirctly answer yes or no.",
+        "answer": "Is 1171 divisible by the provided factor 37? Is 1171 divisible by the provided factor 31? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 6073 divisible by the provided factor 19? Is 6073 divisible by the provided factor 323? Dirctly answer yes or no.",
+        "answer": "Is 6073 divisible by the provided factor 19? Is 6073 divisible by the provided factor 323? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 3259 divisible by the provided factor 7? Is 3259 divisible by the provided factor 465? Dirctly answer yes or no.",
+        "answer": "Is 3259 divisible by the provided factor 7? Is 3259 divisible by the provided factor 465? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18367 divisible by the provided factor 19? Is 18367 divisible by the provided factor 959? Dirctly answer yes or no.",
+        "answer": "Is 18367 divisible by the provided factor 19? Is 18367 divisible by the provided factor 959? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 19:\n- A number is divisible by 1"
+    },
+    {
+        "question": "Is 3607 divisible by the provided factor 19? Is 3607 divisible by the provided factor 187? Dirctly answer yes or no.",
+        "answer": "Is 3607 divisible by the provided factor 19? Is 3607 divisible by the provided factor 187? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3607 divided by "
+    },
+    {
+        "question": "Is 15101 divisible by the provided factor 7? Is 15101 divisible by the provided factor 2153? Dirctly answer yes or no.",
+        "answer": "Is 15101 divisible by the provided factor 7? Is 15101 divisible by the provided factor 2153? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 8293 divisible by the provided factor 17? Is 8293 divisible by the provided factor 481? Dirctly answer yes or no.",
+        "answer": "Is 8293 divisible by the provided factor 17? Is 8293 divisible by the provided factor 481? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12143 divisible by the provided factor 7? Is 12143 divisible by the provided factor 1739? Dirctly answer yes or no.",
+        "answer": "Is 12143 divisible by the provided factor 7? Is 12143 divisible by the provided factor 1739? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11257 divisible by the provided factor 3? Is 11257 divisible by the provided factor 3752? Dirctly answer yes or no.",
+        "answer": "Is 11257 divisible by the provided factor 3? Is 11257 divisible by the provided factor 3752? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the divisibility rule for that number.\nTo check if a number is divisible by "
+    },
+    {
+        "question": "Is 17107 divisible by the provided factor 3? Is 17107 divisible by the provided factor 5702? Dirctly answer yes or no.",
+        "answer": "Is 17107 divisible by the provided factor 3? Is 17107 divisible by the provided factor 5702? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor divisibility by 3:\nA number is divisible by"
+    },
+    {
+        "question": "Is 1489 divisible by the provided factor 7? Is 1489 divisible by the provided factor 213? Dirctly answer yes or no.",
+        "answer": "Is 1489 divisible by the provided factor 7? Is 1489 divisible by the provided factor 213? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 7:\n- The last digit of 14"
+    },
+    {
+        "question": "Is 4243 divisible by the provided factor 7? Is 4243 divisible by the provided factor 607? Dirctly answer yes or no.",
+        "answer": "Is 4243 divisible by the provided factor 7? Is 4243 divisible by the provided factor 607? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10723 divisible by the provided factor 19? Is 10723 divisible by the provided factor 563? Dirctly answer yes or no.",
+        "answer": "Is 10723 divisible by the provided factor 19? Is 10723 divisible by the provided factor 563? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11177 divisible by the provided factor 13? Is 11177 divisible by the provided factor 859? Dirctly answer yes or no.",
+        "answer": "Is 11177 divisible by the provided factor 13? Is 11177 divisible by the provided factor 859? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18307 divisible by the provided factor 19? Is 18307 divisible by the provided factor 959? Dirctly answer yes or no.",
+        "answer": "Is 18307 divisible by the provided factor 19? Is 18307 divisible by the provided factor 959? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 5521 divisible by the provided factor 7? Is 5521 divisible by the provided factor 793? Dirctly answer yes or no.",
+        "answer": "Is 5521 divisible by the provided factor 7? Is 5521 divisible by the provided factor 793? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15473 divisible by the provided factor 19? Is 15473 divisible by the provided factor 809? Dirctly answer yes or no.",
+        "answer": "Is 15473 divisible by the provided factor 19? Is 15473 divisible by the provided factor 809? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16229 divisible by the provided factor 7? Is 16229 divisible by the provided factor 2317? Dirctly answer yes or no.",
+        "answer": "Is 16229 divisible by the provided factor 7? Is 16229 divisible by the provided factor 2317? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each factor.\n\nFor factor 7:\n- A number is"
+    },
+    {
+        "question": "Is 3181 divisible by the provided factor 3? Is 3181 divisible by the provided factor 1060? Dirctly answer yes or no.",
+        "answer": "Is 3181 divisible by the provided factor 3? Is 3181 divisible by the provided factor 1060? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor divisibility by 3:\nA number is divisible by"
+    },
+    {
+        "question": "Is 17863 divisible by the provided factor 19? Is 17863 divisible by the provided factor 937? Dirctly answer yes or no.",
+        "answer": "Is 17863 divisible by the provided factor 19? Is 17863 divisible by the provided factor 937? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 19:\n- A number is divisible by 1"
+    },
+    {
+        "question": "Is 2957 divisible by the provided factor 13? Is 2957 divisible by the provided factor 229? Dirctly answer yes or no.",
+        "answer": "Is 2957 divisible by the provided factor 13? Is 2957 divisible by the provided factor 229? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8231 divisible by the provided factor 7? Is 8231 divisible by the provided factor 1169? Dirctly answer yes or no.",
+        "answer": "Is 8231 divisible by the provided factor 7? Is 8231 divisible by the provided factor 1169? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 7:\n- A simple rule for checking divisibility by"
+    },
+    {
+        "question": "Is 19763 divisible by the provided factor 19? Is 19763 divisible by the provided factor 1041? Dirctly answer yes or no.",
+        "answer": "Is 19763 divisible by the provided factor 19? Is 19763 divisible by the provided factor 1041? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it ends in that other number's digits.\nTo determine if a number is divisible"
+    },
+    {
+        "question": "Is 6971 divisible by the provided factor 43? Is 6971 divisible by the provided factor 163? Dirctly answer yes or no.",
+        "answer": "Is 6971 divisible by the provided factor 43? Is 6971 divisible by the provided factor 163? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 6971 divided by "
+    },
+    {
+        "question": "Is 3917 divisible by the provided factor 41? Is 3917 divisible by the provided factor 95? Dirctly answer yes or no.",
+        "answer": "Is 3917 divisible by the provided factor 41? Is 3917 divisible by the provided factor 95? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 41:\n- The last digit of 3"
+    },
+    {
+        "question": "Is 3581 divisible by the provided factor 47? Is 3581 divisible by the provided factor 77? Dirctly answer yes or no.",
+        "answer": "Is 3581 divisible by the provided factor 47? Is 3581 divisible by the provided factor 77? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3581 divided by "
+    },
+    {
+        "question": "Is 18427 divisible by the provided factor 19? Is 18427 divisible by the provided factor 967? Dirctly answer yes or no.",
+        "answer": "Is 18427 divisible by the provided factor 19? Is 18427 divisible by the provided factor 967? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 967 if it"
+    },
+    {
+        "question": "Is 10651 divisible by the provided factor 7? Is 10651 divisible by the provided factor 1523? Dirctly answer yes or no.",
+        "answer": "Is 10651 divisible by the provided factor 7? Is 10651 divisible by the provided factor 1523? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2113 divisible by the provided factor 7? Is 2113 divisible by the provided factor 301? Dirctly answer yes or no.",
+        "answer": "Is 2113 divisible by the provided factor 7? Is 2113 divisible by the provided factor 301? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 7:\n- The rule for divisibility by 7"
+    },
+    {
+        "question": "Is 4729 divisible by the provided factor 13? Is 4729 divisible by the provided factor 361? Dirctly answer yes or no.",
+        "answer": "Is 4729 divisible by the provided factor 13? Is 4729 divisible by the provided factor 361? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 13:\n- The rule for checking divisibility by"
+    },
+    {
+        "question": "Is 5987 divisible by the provided factor 13? Is 5987 divisible by the provided factor 463? Dirctly answer yes or no.",
+        "answer": "Is 5987 divisible by the provided factor 13? Is 5987 divisible by the provided factor 463? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18059 divisible by the provided factor 37? Is 18059 divisible by the provided factor 491? Dirctly answer yes or no.",
+        "answer": "Is 18059 divisible by the provided factor 37? Is 18059 divisible by the provided factor 491? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15791 divisible by the provided factor 43? Is 15791 divisible by the provided factor 367? Dirctly answer yes or no.",
+        "answer": "Is 15791 divisible by the provided factor 43? Is 15791 divisible by the provided factor 367? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 43 if it ends"
+    },
+    {
+        "question": "Is 5483 divisible by the provided factor 19? Is 5483 divisible by the provided factor 287? Dirctly answer yes or no.",
+        "answer": "Is 5483 divisible by the provided factor 19? Is 5483 divisible by the provided factor 287? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 5483 divided by "
+    },
+    {
+        "question": "Is 14431 divisible by the provided factor 7? Is 14431 divisible by the provided factor 2063? Dirctly answer yes or no.",
+        "answer": "Is 14431 divisible by the provided factor 7? Is 14431 divisible by the provided factor 2063? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7349 divisible by the provided factor 101? Is 7349 divisible by the provided factor 73? Dirctly answer yes or no.",
+        "answer": "Is 7349 divisible by the provided factor 101? Is 7349 divisible by the provided factor 73? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 7349 divided by "
+    },
+    {
+        "question": "Is 15889 divisible by the provided factor 37? Is 15889 divisible by the provided factor 421? Dirctly answer yes or no.",
+        "answer": "Is 15889 divisible by the provided factor 37? Is 15889 divisible by the provided factor 421? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 5077 divisible by the provided factor 19? Is 5077 divisible by the provided factor 263? Dirctly answer yes or no.",
+        "answer": "Is 5077 divisible by the provided factor 19? Is 5077 divisible by the provided factor 263? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 19801 divisible by the provided factor 43? Is 19801 divisible by the provided factor 457? Dirctly answer yes or no.",
+        "answer": "Is 19801 divisible by the provided factor 43? Is 19801 divisible by the provided factor 457? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10301 divisible by the provided factor 79? Is 10301 divisible by the provided factor 127? Dirctly answer yes or no.",
+        "answer": "Is 10301 divisible by the provided factor 79? Is 10301 divisible by the provided factor 127? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2549 divisible by the provided factor 13? Is 2549 divisible by the provided factor 195? Dirctly answer yes or no.",
+        "answer": "Is 2549 divisible by the provided factor 13? Is 2549 divisible by the provided factor 195? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 2549 divided by "
+    },
+    {
+        "question": "Is 8297 divisible by the provided factor 13? Is 8297 divisible by the provided factor 631? Dirctly answer yes or no.",
+        "answer": "Is 8297 divisible by the provided factor 13? Is 8297 divisible by the provided factor 631? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12323 divisible by the provided factor 7? Is 12323 divisible by the provided factor 1763? Dirctly answer yes or no.",
+        "answer": "Is 12323 divisible by the provided factor 7? Is 12323 divisible by the provided factor 1763? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is zero, then it is"
+    },
+    {
+        "question": "Is 15647 divisible by the provided factor 3? Is 15647 divisible by the provided factor 5213? Dirctly answer yes or no.",
+        "answer": "Is 15647 divisible by the provided factor 3? Is 15647 divisible by the provided factor 5213? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor divisibility by 3:\nA number is divisible by "
+    },
+    {
+        "question": "Is 16927 divisible by the provided factor 13? Is 16927 divisible by the provided factor 1303? Dirctly answer yes or no.",
+        "answer": "Is 16927 divisible by the provided factor 13? Is 16927 divisible by the provided factor 1303? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7333 divisible by the provided factor 19? Is 7333 divisible by the provided factor 389? Dirctly answer yes or no.",
+        "answer": "Is 7333 divisible by the provided factor 19? Is 7333 divisible by the provided factor 389? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3779 divisible by the provided factor 101? Is 3779 divisible by the provided factor 37? Dirctly answer yes or no.",
+        "answer": "Is 3779 divisible by the provided factor 101? Is 3779 divisible by the provided factor 37? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3779 divided by "
+    },
+    {
+        "question": "Is 9091 divisible by the provided factor 23? Is 9091 divisible by the provided factor 397? Dirctly answer yes or no.",
+        "answer": "Is 9091 divisible by the provided factor 23? Is 9091 divisible by the provided factor 397? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 23 if it ends"
+    },
+    {
+        "question": "Is 17077 divisible by the provided factor 19? Is 17077 divisible by the provided factor 893? Dirctly answer yes or no.",
+        "answer": "Is 17077 divisible by the provided factor 19? Is 17077 divisible by the provided factor 893? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15959 divisible by the provided factor 7? Is 15959 divisible by the provided factor 2279? Dirctly answer yes or no.",
+        "answer": "Is 15959 divisible by the provided factor 7? Is 15959 divisible by the provided factor 2279? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9623 divisible by the provided factor 7? Is 9623 divisible by the provided factor 1373? Dirctly answer yes or no.",
+        "answer": "Is 9623 divisible by the provided factor 7? Is 9623 divisible by the provided factor 1373? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15887 divisible by the provided factor 3? Is 15887 divisible by the provided factor 5295? Dirctly answer yes or no.",
+        "answer": "Is 15887 divisible by the provided factor 3? Is 15887 divisible by the provided factor 5295? Dirctly answer yes or no. To determine if a number is divisible by another, we need to check if it meets the divisibility rules for that number.\n\nFor 3: A"
+    },
+    {
+        "question": "Is 18041 divisible by the provided factor 73? Is 18041 divisible by the provided factor 241? Dirctly answer yes or no.",
+        "answer": "Is 18041 divisible by the provided factor 73? Is 18041 divisible by the provided factor 241? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7589 divisible by the provided factor 13? Is 7589 divisible by the provided factor 583? Dirctly answer yes or no.",
+        "answer": "Is 7589 divisible by the provided factor 13? Is 7589 divisible by the provided factor 583? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 13 if the remainder"
+    },
+    {
+        "question": "Is 19429 divisible by the provided factor 7? Is 19429 divisible by the provided factor 2773? Dirctly answer yes or no.",
+        "answer": "Is 19429 divisible by the provided factor 7? Is 19429 divisible by the provided factor 2773? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2719 divisible by the provided factor 43? Is 2719 divisible by the provided factor 64? Dirctly answer yes or no.",
+        "answer": "Is 2719 divisible by the provided factor 43? Is 2719 divisible by the provided factor 64? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 2719 divided by "
+    },
+    {
+        "question": "Is 7309 divisible by the provided factor 19? Is 7309 divisible by the provided factor 389? Dirctly answer yes or no.",
+        "answer": "Is 7309 divisible by the provided factor 19? Is 7309 divisible by the provided factor 389? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18229 divisible by the provided factor 43? Is 18229 divisible by the provided factor 427? Dirctly answer yes or no.",
+        "answer": "Is 18229 divisible by the provided factor 43? Is 18229 divisible by the provided factor 427? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10067 divisible by the provided factor 23? Is 10067 divisible by the provided factor 439? Dirctly answer yes or no.",
+        "answer": "Is 10067 divisible by the provided factor 23? Is 10067 divisible by the provided factor 439? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 10067 divided by"
+    },
+    {
+        "question": "Is 1129 divisible by the provided factor 7? Is 1129 divisible by the provided factor 161? Dirctly answer yes or no.",
+        "answer": "Is 1129 divisible by the provided factor 7? Is 1129 divisible by the provided factor 161? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 19267 divisible by the provided factor 13? Is 19267 divisible by the provided factor 1483? Dirctly answer yes or no.",
+        "answer": "Is 19267 divisible by the provided factor 13? Is 19267 divisible by the provided factor 1483? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15619 divisible by the provided factor 7? Is 15619 divisible by the provided factor 2231? Dirctly answer yes or no.",
+        "answer": "Is 15619 divisible by the provided factor 7? Is 15619 divisible by the provided factor 2231? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 13003 divisible by the provided factor 7? Is 13003 divisible by the provided factor 1859? Dirctly answer yes or no.",
+        "answer": "Is 13003 divisible by the provided factor 7? Is 13003 divisible by the provided factor 1859? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8963 divisible by the provided factor 7? Is 8963 divisible by the provided factor 1279? Dirctly answer yes or no.",
+        "answer": "Is 8963 divisible by the provided factor 7? Is 8963 divisible by the provided factor 1279? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9511 divisible by the provided factor 7? Is 9511 divisible by the provided factor 1357? Dirctly answer yes or no.",
+        "answer": "Is 9511 divisible by the provided factor 7? Is 9511 divisible by the provided factor 1357? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17599 divisible by the provided factor 13? Is 17599 divisible by the provided factor 1363? Dirctly answer yes or no.",
+        "answer": "Is 17599 divisible by the provided factor 13? Is 17599 divisible by the provided factor 1363? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7013 divisible by the provided factor 7? Is 7013 divisible by the provided factor 1002? Dirctly answer yes or no.",
+        "answer": "Is 7013 divisible by the provided factor 7? Is 7013 divisible by the provided factor 1002? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 7127 divisible by the provided factor 7? Is 7127 divisible by the provided factor 1019? Dirctly answer yes or no.",
+        "answer": "Is 7127 divisible by the provided factor 7? Is 7127 divisible by the provided factor 1019? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 5869 divisible by the provided factor 7? Is 5869 divisible by the provided factor 837? Dirctly answer yes or no.",
+        "answer": "Is 5869 divisible by the provided factor 7? Is 5869 divisible by the provided factor 837? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15013 divisible by the provided factor 7? Is 15013 divisible by the provided factor 2143? Dirctly answer yes or no.",
+        "answer": "Is 15013 divisible by the provided factor 7? Is 15013 divisible by the provided factor 2143? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 16883 divisible by the provided factor 7? Is 16883 divisible by the provided factor 2411? Dirctly answer yes or no.",
+        "answer": "Is 16883 divisible by the provided factor 7? Is 16883 divisible by the provided factor 2411? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6577 divisible by the provided factor 19? Is 6577 divisible by the provided factor 347? Dirctly answer yes or no.",
+        "answer": "Is 6577 divisible by the provided factor 19? Is 6577 divisible by the provided factor 347? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11941 divisible by the provided factor 7? Is 11941 divisible by the provided factor 1691? Dirctly answer yes or no.",
+        "answer": "Is 11941 divisible by the provided factor 7? Is 11941 divisible by the provided factor 1691? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11069 divisible by the provided factor 73? Is 11069 divisible by the provided factor 151? Dirctly answer yes or no.",
+        "answer": "Is 11069 divisible by the provided factor 73? Is 11069 divisible by the provided factor 151? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7949 divisible by the provided factor 13? Is 7949 divisible by the provided factor 607? Dirctly answer yes or no.",
+        "answer": "Is 7949 divisible by the provided factor 13? Is 7949 divisible by the provided factor 607? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11777 divisible by the provided factor 13? Is 11777 divisible by the provided factor 891? Dirctly answer yes or no.",
+        "answer": "Is 11777 divisible by the provided factor 13? Is 11777 divisible by the provided factor 891? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 14489 divisible by the provided factor 73? Is 14489 divisible by the provided factor 203? Dirctly answer yes or no.",
+        "answer": "Is 14489 divisible by the provided factor 73? Is 14489 divisible by the provided factor 203? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18169 divisible by the provided factor 43? Is 18169 divisible by the provided factor 421? Dirctly answer yes or no.",
+        "answer": "Is 18169 divisible by the provided factor 43? Is 18169 divisible by the provided factor 421? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18617 divisible by the provided factor 3? Is 18617 divisible by the provided factor 59? Dirctly answer yes or no.",
+        "answer": "Is 18617 divisible by the provided factor 3? Is 18617 divisible by the provided factor 59? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor divisibility by 3:\nA number is divisible by "
+    },
+    {
+        "question": "Is 13033 divisible by the provided factor 7? Is 13033 divisible by the provided factor 1861? Dirctly answer yes or no.",
+        "answer": "Is 13033 divisible by the provided factor 7? Is 13033 divisible by the provided factor 1861? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 5209 divisible by the provided factor 73? Is 5209 divisible by the provided factor 71? Dirctly answer yes or no.",
+        "answer": "Is 5209 divisible by the provided factor 73? Is 5209 divisible by the provided factor 71? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9173 divisible by the provided factor 41? Is 9173 divisible by the provided factor 223? Dirctly answer yes or no.",
+        "answer": "Is 9173 divisible by the provided factor 41? Is 9173 divisible by the provided factor 223? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3677 divisible by the provided factor 19? Is 3677 divisible by the provided factor 192? Dirctly answer yes or no.",
+        "answer": "Is 3677 divisible by the provided factor 19? Is 3677 divisible by the provided factor 192? Dirctly answer yes or no. To determine if a number is divisible by another, you can use long division and check for any remainder.\n\nTo find out if 3677"
+    },
+    {
+        "question": "Is 18679 divisible by the provided factor 23? Is 18679 divisible by the provided factor 811? Dirctly answer yes or no.",
+        "answer": "Is 18679 divisible by the provided factor 23? Is 18679 divisible by the provided factor 811? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 23:\n- A number is divisible by "
+    },
+    {
+        "question": "Is 2887 divisible by the provided factor 13? Is 2887 divisible by the provided factor 222? Dirctly answer yes or no.",
+        "answer": "Is 2887 divisible by the provided factor 13? Is 2887 divisible by the provided factor 222? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3217 divisible by the provided factor 43? Is 3217 divisible by the provided factor 75? Dirctly answer yes or no.",
+        "answer": "Is 3217 divisible by the provided factor 43? Is 3217 divisible by the provided factor 75? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1327 divisible by the provided factor 19? Is 1327 divisible by the provided factor 67? Dirctly answer yes or no.",
+        "answer": "Is 1327 divisible by the provided factor 19? Is 1327 divisible by the provided factor 67? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 1327 divided by "
+    },
+    {
+        "question": "Is 14887 divisible by the provided factor 23? Is 14887 divisible by the provided factor 653? Dirctly answer yes or no.",
+        "answer": "Is 14887 divisible by the provided factor 23? Is 14887 divisible by the provided factor 653? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4373 divisible by the provided factor 19? Is 4373 divisible by the provided factor 231? Dirctly answer yes or no.",
+        "answer": "Is 4373 divisible by the provided factor 19? Is 4373 divisible by the provided factor 231? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15679 divisible by the provided factor 13? Is 15679 divisible by the provided factor 1207? Dirctly answer yes or no.",
+        "answer": "Is 15679 divisible by the provided factor 13? Is 15679 divisible by the provided factor 1207? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1021 divisible by the provided factor 7? Is 1021 divisible by the provided factor 143? Dirctly answer yes or no.",
+        "answer": "Is 1021 divisible by the provided factor 7? Is 1021 divisible by the provided factor 143? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the remainder when"
+    },
+    {
+        "question": "Is 13049 divisible by the provided factor 7? Is 13049 divisible by the provided factor 1867? Dirctly answer yes or no.",
+        "answer": "Is 13049 divisible by the provided factor 7? Is 13049 divisible by the provided factor 1867? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6673 divisible by the provided factor 19? Is 6673 divisible by the provided factor 353? Dirctly answer yes or no.",
+        "answer": "Is 6673 divisible by the provided factor 19? Is 6673 divisible by the provided factor 353? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 5701 divisible by the provided factor 37? Is 5701 divisible by the provided factor 157? Dirctly answer yes or no.",
+        "answer": "Is 5701 divisible by the provided factor 37? Is 5701 divisible by the provided factor 157? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12983 divisible by the provided factor 7? Is 12983 divisible by the provided factor 1854? Dirctly answer yes or no.",
+        "answer": "Is 12983 divisible by the provided factor 7? Is 12983 divisible by the provided factor 1854? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 19687 divisible by the provided factor 13? Is 19687 divisible by the provided factor 1513? Dirctly answer yes or no.",
+        "answer": "Is 19687 divisible by the provided factor 13? Is 19687 divisible by the provided factor 1513? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6089 divisible by the provided factor 23? Is 6089 divisible by the provided factor 263? Dirctly answer yes or no.",
+        "answer": "Is 6089 divisible by the provided factor 23? Is 6089 divisible by the provided factor 263? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1109 divisible by the provided factor 37? Is 1109 divisible by the provided factor 31? Dirctly answer yes or no.",
+        "answer": "Is 1109 divisible by the provided factor 37? Is 1109 divisible by the provided factor 31? Dirctly answer yes or no. To determine if a number is divisible by another, you can perform the division and check for any remainder.\n\nTo check if 1109 is"
+    },
+    {
+        "question": "Is 12893 divisible by the provided factor 7? Is 12893 divisible by the provided factor 1841? Dirctly answer yes or no.",
+        "answer": "Is 12893 divisible by the provided factor 7? Is 12893 divisible by the provided factor 1841? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3907 divisible by the provided factor 13? Is 3907 divisible by the provided factor 299? Dirctly answer yes or no.",
+        "answer": "Is 3907 divisible by the provided factor 13? Is 3907 divisible by the provided factor 299? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 13007 divisible by the provided factor 19? Is 13007 divisible by the provided factor 683? Dirctly answer yes or no.",
+        "answer": "Is 13007 divisible by the provided factor 19? Is 13007 divisible by the provided factor 683? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6841 divisible by the provided factor 73? Is 6841 divisible by the provided factor 93? Dirctly answer yes or no.",
+        "answer": "Is 6841 divisible by the provided factor 73? Is 6841 divisible by the provided factor 93? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8053 divisible by the provided factor 29? Is 8053 divisible by the provided factor 277? Dirctly answer yes or no.",
+        "answer": "Is 8053 divisible by the provided factor 29? Is 8053 divisible by the provided factor 277? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 8053 divided by "
+    },
+    {
+        "question": "Is 2273 divisible by the provided factor 19? Is 2273 divisible by the provided factor 119? Dirctly answer yes or no.",
+        "answer": "Is 2273 divisible by the provided factor 19? Is 2273 divisible by the provided factor 119? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 19:\n- The last digit of 22"
+    },
+    {
+        "question": "Is 4283 divisible by the provided factor 19? Is 4283 divisible by the provided factor 223? Dirctly answer yes or no.",
+        "answer": "Is 4283 divisible by the provided factor 19? Is 4283 divisible by the provided factor 223? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7109 divisible by the provided factor 7? Is 7109 divisible by the provided factor 1015? Dirctly answer yes or no.",
+        "answer": "Is 7109 divisible by the provided factor 7? Is 7109 divisible by the provided factor 1015? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 6203 divisible by the provided factor 7? Is 6203 divisible by the provided factor 889? Dirctly answer yes or no.",
+        "answer": "Is 6203 divisible by the provided factor 7? Is 6203 divisible by the provided factor 889? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 16411 divisible by the provided factor 3? Is 16411 divisible by the provided factor 5470? Dirctly answer yes or no.",
+        "answer": "Is 16411 divisible by the provided factor 3? Is 16411 divisible by the provided factor 5470? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 3 if the sum of"
+    },
+    {
+        "question": "Is 16823 divisible by the provided factor 7? Is 16823 divisible by the provided factor 2403? Dirctly answer yes or no.",
+        "answer": "Is 16823 divisible by the provided factor 7? Is 16823 divisible by the provided factor 2403? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each factor.\n\nFor factor 7:\n- A number is"
+    },
+    {
+        "question": "Is 4019 divisible by the provided factor 23? Is 4019 divisible by the provided factor 173? Dirctly answer yes or no.",
+        "answer": "Is 4019 divisible by the provided factor 23? Is 4019 divisible by the provided factor 173? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 4019 divided by "
+    },
+    {
+        "question": "Is 14479 divisible by the provided factor 13? Is 14479 divisible by the provided factor 1081? Dirctly answer yes or no.",
+        "answer": "Is 14479 divisible by the provided factor 13? Is 14479 divisible by the provided factor 1081? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 13 if the remainder"
+    },
+    {
+        "question": "Is 13523 divisible by the provided factor 7? Is 13523 divisible by the provided factor 1931? Dirctly answer yes or no.",
+        "answer": "Is 13523 divisible by the provided factor 7? Is 13523 divisible by the provided factor 1931? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8539 divisible by the provided factor 17? Is 8539 divisible by the provided factor 497? Dirctly answer yes or no.",
+        "answer": "Is 8539 divisible by the provided factor 17? Is 8539 divisible by the provided factor 497? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 8539 divided by "
+    },
+    {
+        "question": "Is 12919 divisible by the provided factor 7? Is 12919 divisible by the provided factor 1845? Dirctly answer yes or no.",
+        "answer": "Is 12919 divisible by the provided factor 7? Is 12919 divisible by the provided factor 1845? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7549 divisible by the provided factor 13? Is 7549 divisible by the provided factor 577? Dirctly answer yes or no.",
+        "answer": "Is 7549 divisible by the provided factor 13? Is 7549 divisible by the provided factor 577? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 13 if the remainder"
+    },
+    {
+        "question": "Is 3919 divisible by the provided factor 7? Is 3919 divisible by the provided factor 559? Dirctly answer yes or no.",
+        "answer": "Is 3919 divisible by the provided factor 7? Is 3919 divisible by the provided factor 559? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the remainder when"
+    },
+    {
+        "question": "Is 19727 divisible by the provided factor 13? Is 19727 divisible by the provided factor 1519? Dirctly answer yes or no.",
+        "answer": "Is 19727 divisible by the provided factor 13? Is 19727 divisible by the provided factor 1519? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12041 divisible by the provided factor 7? Is 12041 divisible by the provided factor 1717? Dirctly answer yes or no.",
+        "answer": "Is 12041 divisible by the provided factor 7? Is 12041 divisible by the provided factor 1717? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 2423 divisible by the provided factor 19? Is 2423 divisible by the provided factor 127? Dirctly answer yes or no.",
+        "answer": "Is 2423 divisible by the provided factor 19? Is 2423 divisible by the provided factor 127? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 19927 divisible by the provided factor 13? Is 19927 divisible by the provided factor 1531? Dirctly answer yes or no.",
+        "answer": "Is 19927 divisible by the provided factor 13? Is 19927 divisible by the provided factor 1531? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6521 divisible by the provided factor 43? Is 6521 divisible by the provided factor 151? Dirctly answer yes or no.",
+        "answer": "Is 6521 divisible by the provided factor 43? Is 6521 divisible by the provided factor 151? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11839 divisible by the provided factor 7? Is 11839 divisible by the provided factor 1691? Dirctly answer yes or no.",
+        "answer": "Is 11839 divisible by the provided factor 7? Is 11839 divisible by the provided factor 1691? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7883 divisible by the provided factor 19? Is 7883 divisible by the provided factor 415? Dirctly answer yes or no.",
+        "answer": "Is 7883 divisible by the provided factor 19? Is 7883 divisible by the provided factor 415? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10627 divisible by the provided factor 19? Is 10627 divisible by the provided factor 553? Dirctly answer yes or no.",
+        "answer": "Is 10627 divisible by the provided factor 19? Is 10627 divisible by the provided factor 553? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 19:\n- The last digit of 1"
+    },
+    {
+        "question": "Is 17417 divisible by the provided factor 19? Is 17417 divisible by the provided factor 899? Dirctly answer yes or no.",
+        "answer": "Is 17417 divisible by the provided factor 19? Is 17417 divisible by the provided factor 899? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 12373 divisible by the provided factor 41? Is 12373 divisible by the provided factor 301? Dirctly answer yes or no.",
+        "answer": "Is 12373 divisible by the provided factor 41? Is 12373 divisible by the provided factor 301? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 41 if it ends"
+    },
+    {
+        "question": "Is 11923 divisible by the provided factor 7? Is 11923 divisible by the provided factor 1689? Dirctly answer yes or no.",
+        "answer": "Is 11923 divisible by the provided factor 7? Is 11923 divisible by the provided factor 1689? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10007 divisible by the provided factor 23? Is 10007 divisible by the provided factor 435? Dirctly answer yes or no.",
+        "answer": "Is 10007 divisible by the provided factor 23? Is 10007 divisible by the provided factor 435? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 10007 divided by"
+    },
+    {
+        "question": "Is 17681 divisible by the provided factor 43? Is 17681 divisible by the provided factor 409? Dirctly answer yes or no.",
+        "answer": "Is 17681 divisible by the provided factor 43? Is 17681 divisible by the provided factor 409? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18959 divisible by the provided factor 23? Is 18959 divisible by the provided factor 823? Dirctly answer yes or no.",
+        "answer": "Is 18959 divisible by the provided factor 23? Is 18959 divisible by the provided factor 823? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12421 divisible by the provided factor 7? Is 12421 divisible by the provided factor 1789? Dirctly answer yes or no.",
+        "answer": "Is 12421 divisible by the provided factor 7? Is 12421 divisible by the provided factor 1789? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 14657 divisible by the provided factor 19? Is 14657 divisible by the provided factor 763? Dirctly answer yes or no.",
+        "answer": "Is 14657 divisible by the provided factor 19? Is 14657 divisible by the provided factor 763? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 10513 divisible by the provided factor 7? Is 10513 divisible by the provided factor 1501? Dirctly answer yes or no.",
+        "answer": "Is 10513 divisible by the provided factor 7? Is 10513 divisible by the provided factor 1501? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8543 divisible by the provided factor 19? Is 8543 divisible by the provided factor 457? Dirctly answer yes or no.",
+        "answer": "Is 8543 divisible by the provided factor 19? Is 8543 divisible by the provided factor 457? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12953 divisible by the provided factor 7? Is 12953 divisible by the provided factor 1851? Dirctly answer yes or no.",
+        "answer": "Is 12953 divisible by the provided factor 7? Is 12953 divisible by the provided factor 1851? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 18503 divisible by the provided factor 7? Is 18503 divisible by the provided factor 2647? Dirctly answer yes or no.",
+        "answer": "Is 18503 divisible by the provided factor 7? Is 18503 divisible by the provided factor 2647? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10859 divisible by the provided factor 23? Is 10859 divisible by the provided factor 473? Dirctly answer yes or no.",
+        "answer": "Is 10859 divisible by the provided factor 23? Is 10859 divisible by the provided factor 473? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 10859 divided by"
+    },
+    {
+        "question": "Is 1543 divisible by the provided factor 7? Is 1543 divisible by the provided factor 220? Dirctly answer yes or no.",
+        "answer": "Is 1543 divisible by the provided factor 7? Is 1543 divisible by the provided factor 220? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 7:\n- The last digit of 15"
+    },
+    {
+        "question": "Is 12503 divisible by the provided factor 7? Is 12503 divisible by the provided factor 1789? Dirctly answer yes or no.",
+        "answer": "Is 12503 divisible by the provided factor 7? Is 12503 divisible by the provided factor 1789? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15551 divisible by the provided factor 7? Is 15551 divisible by the provided factor 2221? Dirctly answer yes or no.",
+        "answer": "Is 15551 divisible by the provided factor 7? Is 15551 divisible by the provided factor 2221? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2017 divisible by the provided factor 43? Is 2017 divisible by the provided factor 469? Dirctly answer yes or no.",
+        "answer": "Is 2017 divisible by the provided factor 43? Is 2017 divisible by the provided factor 469? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 43:\n\\[ \\frac{"
+    },
+    {
+        "question": "Is 7963 divisible by the provided factor 11? Is 7963 divisible by the provided factor 723? Dirctly answer yes or no.",
+        "answer": "Is 7963 divisible by the provided factor 11? Is 7963 divisible by the provided factor 723? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\n**Divisibility Rule for 11:**\nA number"
+    },
+    {
+        "question": "Is 1693 divisible by the provided factor 17? Is 1693 divisible by the provided factor 97? Dirctly answer yes or no.",
+        "answer": "Is 1693 divisible by the provided factor 17? Is 1693 divisible by the provided factor 97? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1019 divisible by the provided factor 23? Is 1019 divisible by the provided factor 43? Dirctly answer yes or no.",
+        "answer": "Is 1019 divisible by the provided factor 23? Is 1019 divisible by the provided factor 43? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 1019 divided by "
+    },
+    {
+        "question": "Is 4793 divisible by the provided factor 101? Is 4793 divisible by the provided factor 47? Dirctly answer yes or no.",
+        "answer": "Is 4793 divisible by the provided factor 101? Is 4793 divisible by the provided factor 47? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 4793 divided by "
+    },
+    {
+        "question": "Is 5189 divisible by the provided factor 7? Is 5189 divisible by the provided factor 737? Dirctly answer yes or no.",
+        "answer": "Is 5189 divisible by the provided factor 7? Is 5189 divisible by the provided factor 737? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 14051 divisible by the provided factor 7? Is 14051 divisible by the provided factor 2007? Dirctly answer yes or no.",
+        "answer": "Is 14051 divisible by the provided factor 7? Is 14051 divisible by the provided factor 2007? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 1831 divisible by the provided factor 47? Is 1831 divisible by the provided factor 39? Dirctly answer yes or no.",
+        "answer": "Is 1831 divisible by the provided factor 47? Is 1831 divisible by the provided factor 39? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 1831 divided by "
+    },
+    {
+        "question": "Is 8161 divisible by the provided factor 23? Is 8161 divisible by the provided factor 353? Dirctly answer yes or no.",
+        "answer": "Is 8161 divisible by the provided factor 23? Is 8161 divisible by the provided factor 353? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4157 divisible by the provided factor 23? Is 4157 divisible by the provided factor 181? Dirctly answer yes or no.",
+        "answer": "Is 4157 divisible by the provided factor 23? Is 4157 divisible by the provided factor 181? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 4157 divided by "
+    },
+    {
+        "question": "Is 7823 divisible by the provided factor 19? Is 7823 divisible by the provided factor 409? Dirctly answer yes or no.",
+        "answer": "Is 7823 divisible by the provided factor 19? Is 7823 divisible by the provided factor 409? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2441 divisible by the provided factor 7? Is 2441 divisible by the provided factor 349? Dirctly answer yes or no.",
+        "answer": "Is 2441 divisible by the provided factor 7? Is 2441 divisible by the provided factor 349? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 1229 divisible by the provided factor 37? Is 1229 divisible by the provided factor 34? Dirctly answer yes or no.",
+        "answer": "Is 1229 divisible by the provided factor 37? Is 1229 divisible by the provided factor 34? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of dividing the first number by the second number"
+    },
+    {
+        "question": "Is 1709 divisible by the provided factor 13? Is 1709 divisible by the provided factor 131? Dirctly answer yes or no.",
+        "answer": "Is 1709 divisible by the provided factor 13? Is 1709 divisible by the provided factor 131? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 5179 divisible by the provided factor 23? Is 5179 divisible by the provided factor 223? Dirctly answer yes or no.",
+        "answer": "Is 5179 divisible by the provided factor 23? Is 5179 divisible by the provided factor 223? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6547 divisible by the provided factor 19? Is 6547 divisible by the provided factor 343? Dirctly answer yes or no.",
+        "answer": "Is 6547 divisible by the provided factor 19? Is 6547 divisible by the provided factor 343? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 8929 divisible by the provided factor 13? Is 8929 divisible by the provided factor 683? Dirctly answer yes or no.",
+        "answer": "Is 8929 divisible by the provided factor 13? Is 8929 divisible by the provided factor 683? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4703 divisible by the provided factor 19? Is 4703 divisible by the provided factor 251? Dirctly answer yes or no.",
+        "answer": "Is 4703 divisible by the provided factor 19? Is 4703 divisible by the provided factor 251? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4339 divisible by the provided factor 7? Is 4339 divisible by the provided factor 619? Dirctly answer yes or no.",
+        "answer": "Is 4339 divisible by the provided factor 7? Is 4339 divisible by the provided factor 619? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3413 divisible by the provided factor 7? Is 3413 divisible by the provided factor 487? Dirctly answer yes or no.",
+        "answer": "Is 3413 divisible by the provided factor 7? Is 3413 divisible by the provided factor 487? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3767 divisible by the provided factor 19? Is 3767 divisible by the provided factor 199? Dirctly answer yes or no.",
+        "answer": "Is 3767 divisible by the provided factor 19? Is 3767 divisible by the provided factor 199? Dirctly answer yes or no. To determine if a number is divisible by another, you can use long division and check for any remainder.\n\nTo find out if 3767"
+    },
+    {
+        "question": "Is 11909 divisible by the provided factor 3? Is 11909 divisible by the provided factor 7? Dirctly answer yes or no.",
+        "answer": "Is 11909 divisible by the provided factor 3? Is 11909 divisible by the provided factor 7? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the divisibility rules for that number.\n\nFor 3: A number is divisible by"
+    },
+    {
+        "question": "Is 18451 divisible by the provided factor 73? Is 18451 divisible by the provided factor 251? Dirctly answer yes or no.",
+        "answer": "Is 18451 divisible by the provided factor 73? Is 18451 divisible by the provided factor 251? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10069 divisible by the provided factor 7? Is 10069 divisible by the provided factor 1439? Dirctly answer yes or no.",
+        "answer": "Is 10069 divisible by the provided factor 7? Is 10069 divisible by the provided factor 1439? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15727 divisible by the provided factor 37? Is 15727 divisible by the provided factor 421? Dirctly answer yes or no.",
+        "answer": "Is 15727 divisible by the provided factor 37? Is 15727 divisible by the provided factor 421? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12539 divisible by the provided factor 7? Is 12539 divisible by the provided factor 1791? Dirctly answer yes or no.",
+        "answer": "Is 12539 divisible by the provided factor 7? Is 12539 divisible by the provided factor 1791? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11579 divisible by the provided factor 23? Is 11579 divisible by the provided factor 499? Dirctly answer yes or no.",
+        "answer": "Is 11579 divisible by the provided factor 23? Is 11579 divisible by the provided factor 499? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7321 divisible by the provided factor 7? Is 7321 divisible by the provided factor 1043? Dirctly answer yes or no.",
+        "answer": "Is 7321 divisible by the provided factor 7? Is 7321 divisible by the provided factor 1043? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 2347 divisible by the provided factor 19? Is 2347 divisible by the provided factor 121? Dirctly answer yes or no.",
+        "answer": "Is 2347 divisible by the provided factor 19? Is 2347 divisible by the provided factor 121? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2179 divisible by the provided factor 43? Is 2179 divisible by the provided factor 49? Dirctly answer yes or no.",
+        "answer": "Is 2179 divisible by the provided factor 43? Is 2179 divisible by the provided factor 49? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 2179 divided by "
+    },
+    {
+        "question": "Is 7927 divisible by the provided factor 13? Is 7927 divisible by the provided factor 601? Dirctly answer yes or no.",
+        "answer": "Is 7927 divisible by the provided factor 13? Is 7927 divisible by the provided factor 601? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3169 divisible by the provided factor 7? Is 3169 divisible by the provided factor 451? Dirctly answer yes or no.",
+        "answer": "Is 3169 divisible by the provided factor 7? Is 3169 divisible by the provided factor 451? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 13711 divisible by the provided factor 19? Is 13711 divisible by the provided factor 721? Dirctly answer yes or no.",
+        "answer": "Is 13711 divisible by the provided factor 19? Is 13711 divisible by the provided factor 721? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17747 divisible by the provided factor 19? Is 17747 divisible by the provided factor 923? Dirctly answer yes or no.",
+        "answer": "Is 17747 divisible by the provided factor 19? Is 17747 divisible by the provided factor 923? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 19:\n- A number is divisible by 1"
+    },
+    {
+        "question": "Is 3319 divisible by the provided factor 7? Is 3319 divisible by the provided factor 474? Dirctly answer yes or no.",
+        "answer": "Is 3319 divisible by the provided factor 7? Is 3319 divisible by the provided factor 474? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9049 divisible by the provided factor 23? Is 9049 divisible by the provided factor 391? Dirctly answer yes or no.",
+        "answer": "Is 9049 divisible by the provided factor 23? Is 9049 divisible by the provided factor 391? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 23 if it ends"
+    },
+    {
+        "question": "Is 1741 divisible by the provided factor 37? Is 1741 divisible by the provided factor 49? Dirctly answer yes or no.",
+        "answer": "Is 1741 divisible by the provided factor 37? Is 1741 divisible by the provided factor 49? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 5843 divisible by the provided factor 19? Is 5843 divisible by the provided factor 299? Dirctly answer yes or no.",
+        "answer": "Is 5843 divisible by the provided factor 19? Is 5843 divisible by the provided factor 299? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 2539 divisible by the provided factor 7? Is 2539 divisible by the provided factor 361? Dirctly answer yes or no.",
+        "answer": "Is 2539 divisible by the provided factor 7? Is 2539 divisible by the provided factor 361? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 7:\n- The rule for checking divisibility by "
+    },
+    {
+        "question": "Is 3727 divisible by the provided factor 19? Is 3727 divisible by the provided factor 196? Dirctly answer yes or no.",
+        "answer": "Is 3727 divisible by the provided factor 19? Is 3727 divisible by the provided factor 196? Dirctly answer yes or no. To determine if a number is divisible by another, you can use long division and check for any remainder.\n\nTo determine if 3727 is"
+    },
+    {
+        "question": "Is 11681 divisible by the provided factor 73? Is 11681 divisible by the provided factor 161? Dirctly answer yes or no.",
+        "answer": "Is 11681 divisible by the provided factor 73? Is 11681 divisible by the provided factor 161? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17989 divisible by the provided factor 13? Is 17989 divisible by the provided factor 1383? Dirctly answer yes or no.",
+        "answer": "Is 17989 divisible by the provided factor 13? Is 17989 divisible by the provided factor 1383? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6257 divisible by the provided factor 19? Is 6257 divisible by the provided factor 331? Dirctly answer yes or no.",
+        "answer": "Is 6257 divisible by the provided factor 19? Is 6257 divisible by the provided factor 331? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8741 divisible by the provided factor 29? Is 8741 divisible by the provided factor 301? Dirctly answer yes or no.",
+        "answer": "Is 8741 divisible by the provided factor 29? Is 8741 divisible by the provided factor 301? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it ends in zero (for divisibility by 5) and then divide the"
+    },
+    {
+        "question": "Is 19037 divisible by the provided factor 19? Is 19037 divisible by the provided factor 983? Dirctly answer yes or no.",
+        "answer": "Is 19037 divisible by the provided factor 19? Is 19037 divisible by the provided factor 983? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 983 if it"
+    },
+    {
+        "question": "Is 12203 divisible by the provided factor 7? Is 12203 divisible by the provided factor 1743? Dirctly answer yes or no.",
+        "answer": "Is 12203 divisible by the provided factor 7? Is 12203 divisible by the provided factor 1743? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7541 divisible by the provided factor 7? Is 7541 divisible by the provided factor 1073? Dirctly answer yes or no.",
+        "answer": "Is 7541 divisible by the provided factor 7? Is 7541 divisible by the provided factor 1073? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12457 divisible by the provided factor 37? Is 12457 divisible by the provided factor 337? Dirctly answer yes or no.",
+        "answer": "Is 12457 divisible by the provided factor 37? Is 12457 divisible by the provided factor 337? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operation: If `number % divisor == 0`, then it's divisible"
+    },
+    {
+        "question": "Is 14557 divisible by the provided factor 3? Is 14557 divisible by the provided factor 4852? Dirctly answer yes or no.",
+        "answer": "Is 14557 divisible by the provided factor 3? Is 14557 divisible by the provided factor 4852? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 3 if the sum of"
+    },
+    {
+        "question": "Is 2617 divisible by the provided factor 37? Is 2617 divisible by the provided factor 71? Dirctly answer yes or no.",
+        "answer": "Is 2617 divisible by the provided factor 37? Is 2617 divisible by the provided factor 71? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each of the factors.\n\nFor 37:\n- The"
+    },
+    {
+        "question": "Is 11213 divisible by the provided factor 7? Is 11213 divisible by the provided factor 1589? Dirctly answer yes or no.",
+        "answer": "Is 11213 divisible by the provided factor 7? Is 11213 divisible by the provided factor 1589? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 15053 divisible by the provided factor 7? Is 15053 divisible by the provided factor 2151? Dirctly answer yes or no.",
+        "answer": "Is 15053 divisible by the provided factor 7? Is 15053 divisible by the provided factor 2151? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 17359 divisible by the provided factor 17? Is 17359 divisible by the provided factor 1021? Dirctly answer yes or no.",
+        "answer": "Is 17359 divisible by the provided factor 17? Is 17359 divisible by the provided factor 1021? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 17 if the remainder"
+    },
+    {
+        "question": "Is 10687 divisible by the provided factor 23? Is 10687 divisible by the provided factor 463? Dirctly answer yes or no.",
+        "answer": "Is 10687 divisible by the provided factor 23? Is 10687 divisible by the provided factor 463? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6701 divisible by the provided factor 43? Is 6701 divisible by the provided factor 157? Dirctly answer yes or no.",
+        "answer": "Is 6701 divisible by the provided factor 43? Is 6701 divisible by the provided factor 157? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 6701 divided by "
+    },
+    {
+        "question": "Is 11959 divisible by the provided factor 7? Is 11959 divisible by the provided factor 1691? Dirctly answer yes or no.",
+        "answer": "Is 11959 divisible by the provided factor 7? Is 11959 divisible by the provided factor 1691? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12923 divisible by the provided factor 7? Is 12923 divisible by the provided factor 1846? Dirctly answer yes or no.",
+        "answer": "Is 12923 divisible by the provided factor 7? Is 12923 divisible by the provided factor 1846? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each factor.\n\nFor 7:\n- The rule for "
+    },
+    {
+        "question": "Is 7043 divisible by the provided factor 19? Is 7043 divisible by the provided factor 367? Dirctly answer yes or no.",
+        "answer": "Is 7043 divisible by the provided factor 19? Is 7043 divisible by the provided factor 367? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3881 divisible by the provided factor 47? Is 3881 divisible by the provided factor 83? Dirctly answer yes or no.",
+        "answer": "Is 3881 divisible by the provided factor 47? Is 3881 divisible by the provided factor 83? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3881 divided by "
+    },
+    {
+        "question": "Is 10163 divisible by the provided factor 7? Is 10163 divisible by the provided factor 1451? Dirctly answer yes or no.",
+        "answer": "Is 10163 divisible by the provided factor 7? Is 10163 divisible by the provided factor 1451? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8329 divisible by the provided factor 17? Is 8329 divisible by the provided factor 487? Dirctly answer yes or no.",
+        "answer": "Is 8329 divisible by the provided factor 17? Is 8329 divisible by the provided factor 487? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6199 divisible by the provided factor 7? Is 6199 divisible by the provided factor 885? Dirctly answer yes or no.",
+        "answer": "Is 6199 divisible by the provided factor 7? Is 6199 divisible by the provided factor 885? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 11887 divisible by the provided factor 37? Is 11887 divisible by the provided factor 329? Dirctly answer yes or no.",
+        "answer": "Is 11887 divisible by the provided factor 37? Is 11887 divisible by the provided factor 329? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operation: If `number % divisor == 0`, then it's divisible"
+    },
+    {
+        "question": "Is 15467 divisible by the provided factor 37? Is 15467 divisible by the provided factor 421? Dirctly answer yes or no.",
+        "answer": "Is 15467 divisible by the provided factor 37? Is 15467 divisible by the provided factor 421? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8117 divisible by the provided factor 23? Is 8117 divisible by the provided factor 353? Dirctly answer yes or no.",
+        "answer": "Is 8117 divisible by the provided factor 23? Is 8117 divisible by the provided factor 353? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 23:\n- A number is divisible by 2"
+    },
+    {
+        "question": "Is 10391 divisible by the provided factor 7? Is 10391 divisible by the provided factor 1483? Dirctly answer yes or no.",
+        "answer": "Is 10391 divisible by the provided factor 7? Is 10391 divisible by the provided factor 1483? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 5669 divisible by the provided factor 7? Is 5669 divisible by the provided factor 809? Dirctly answer yes or no.",
+        "answer": "Is 5669 divisible by the provided factor 7? Is 5669 divisible by the provided factor 809? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4973 divisible by the provided factor 17? Is 4973 divisible by the provided factor 289? Dirctly answer yes or no.",
+        "answer": "Is 4973 divisible by the provided factor 17? Is 4973 divisible by the provided factor 289? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it leaves no remainder when divided by that number.\n\nFor 4973"
+    },
+    {
+        "question": "Is 10613 divisible by the provided factor 7? Is 10613 divisible by the provided factor 1513? Dirctly answer yes or no.",
+        "answer": "Is 10613 divisible by the provided factor 7? Is 10613 divisible by the provided factor 1513? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9901 divisible by the provided factor 83? Is 9901 divisible by the provided factor 121? Dirctly answer yes or no.",
+        "answer": "Is 9901 divisible by the provided factor 83? Is 9901 divisible by the provided factor 121? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 83 if it ends"
+    },
+    {
+        "question": "Is 18979 divisible by the provided factor 23? Is 18979 divisible by the provided factor 823? Dirctly answer yes or no.",
+        "answer": "Is 18979 divisible by the provided factor 23? Is 18979 divisible by the provided factor 823? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17299 divisible by the provided factor 13? Is 17299 divisible by the provided factor 1331? Dirctly answer yes or no.",
+        "answer": "Is 17299 divisible by the provided factor 13? Is 17299 divisible by the provided factor 1331? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each factor.\n\nFor factor 13:\n- The last"
+    },
+    {
+        "question": "Is 9437 divisible by the provided factor 13? Is 9437 divisible by the provided factor 721? Dirctly answer yes or no.",
+        "answer": "Is 9437 divisible by the provided factor 13? Is 9437 divisible by the provided factor 721? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11443 divisible by the provided factor 7? Is 11443 divisible by the provided factor 1633? Dirctly answer yes or no.",
+        "answer": "Is 11443 divisible by the provided factor 7? Is 11443 divisible by the provided factor 1633? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7351 divisible by the provided factor 7? Is 7351 divisible by the provided factor 1051? Dirctly answer yes or no.",
+        "answer": "Is 7351 divisible by the provided factor 7? Is 7351 divisible by the provided factor 1051? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 9241 divisible by the provided factor 7? Is 9241 divisible by the provided factor 13? Dirctly answer yes or no.",
+        "answer": "Is 9241 divisible by the provided factor 7? Is 9241 divisible by the provided factor 13? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 19699 divisible by the provided factor 3? Is 19699 divisible by the provided factor 7? Dirctly answer yes or no.",
+        "answer": "Is 19699 divisible by the provided factor 3? Is 19699 divisible by the provided factor 7? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 3: A number is divisible by 3 if the"
+    },
+    {
+        "question": "Is 4957 divisible by the provided factor 13? Is 4957 divisible by the provided factor 381? Dirctly answer yes or no.",
+        "answer": "Is 4957 divisible by the provided factor 13? Is 4957 divisible by the provided factor 381? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 13 if the remainder"
+    },
+    {
+        "question": "Is 12479 divisible by the provided factor 31? Is 12479 divisible by the provided factor 401? Dirctly answer yes or no.",
+        "answer": "Is 12479 divisible by the provided factor 31? Is 12479 divisible by the provided factor 401? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If a number \\( n \\) divided by \\( d \\)"
+    },
+    {
+        "question": "Is 4759 divisible by the provided factor 13? Is 4759 divisible by the provided factor 367? Dirctly answer yes or no.",
+        "answer": "Is 4759 divisible by the provided factor 13? Is 4759 divisible by the provided factor 367? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 19471 divisible by the provided factor 3? Is 19471 divisible by the provided factor 6490? Dirctly answer yes or no.",
+        "answer": "Is 19471 divisible by the provided factor 3? Is 19471 divisible by the provided factor 6490? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 14071 divisible by the provided factor 3? Is 14071 divisible by the provided factor 4690? Dirctly answer yes or no.",
+        "answer": "Is 14071 divisible by the provided factor 3? Is 14071 divisible by the provided factor 4690? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 3 if the sum of"
+    },
+    {
+        "question": "Is 3931 divisible by the provided factor 7? Is 3931 divisible by the provided factor 561? Dirctly answer yes or no.",
+        "answer": "Is 3931 divisible by the provided factor 7? Is 3931 divisible by the provided factor 561? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 7703 divisible by the provided factor 19? Is 7703 divisible by the provided factor 401? Dirctly answer yes or no.",
+        "answer": "Is 7703 divisible by the provided factor 19? Is 7703 divisible by the provided factor 401? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10459 divisible by the provided factor 7? Is 10459 divisible by the provided factor 23? Dirctly answer yes or no.",
+        "answer": "Is 10459 divisible by the provided factor 7? Is 10459 divisible by the provided factor 23? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each factor.\n\nFor factor 7:\n- A number is"
+    },
+    {
+        "question": "Is 19559 divisible by the provided factor 7? Is 19559 divisible by the provided factor 2791? Dirctly answer yes or no.",
+        "answer": "Is 19559 divisible by the provided factor 7? Is 19559 divisible by the provided factor 2791? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 13877 divisible by the provided factor 19? Is 13877 divisible by the provided factor 727? Dirctly answer yes or no.",
+        "answer": "Is 13877 divisible by the provided factor 19? Is 13877 divisible by the provided factor 727? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3109 divisible by the provided factor 7? Is 3109 divisible by the provided factor 441? Dirctly answer yes or no.",
+        "answer": "Is 3109 divisible by the provided factor 7? Is 3109 divisible by the provided factor 441? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 15667 divisible by the provided factor 3? Is 15667 divisible by the provided factor 5223? Dirctly answer yes or no.",
+        "answer": "Is 15667 divisible by the provided factor 3? Is 15667 divisible by the provided factor 5223? Dirctly answer yes or no. To determine if a number is divisible by another, we need to check if it meets the divisibility rules for that number.\n\nFor 3: A"
+    },
+    {
+        "question": "Is 6311 divisible by the provided factor 7? Is 6311 divisible by the provided factor 901? Dirctly answer yes or no.",
+        "answer": "Is 6311 divisible by the provided factor 7? Is 6311 divisible by the provided factor 901? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor divisibility by 7:\n- A number is divisible by"
+    },
+    {
+        "question": "Is 1667 divisible by the provided factor 13? Is 1667 divisible by the provided factor 129? Dirctly answer yes or no.",
+        "answer": "Is 1667 divisible by the provided factor 13? Is 1667 divisible by the provided factor 129? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 1667 divided by "
+    },
+    {
+        "question": "Is 3373 divisible by the provided factor 19? Is 3373 divisible by the provided factor 179? Dirctly answer yes or no.",
+        "answer": "Is 3373 divisible by the provided factor 19? Is 3373 divisible by the provided factor 179? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16447 divisible by the provided factor 3? Is 16447 divisible by the provided factor 5482? Dirctly answer yes or no.",
+        "answer": "Is 16447 divisible by the provided factor 3? Is 16447 divisible by the provided factor 5482? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor divisibility by 3:\nA number is divisible by "
+    },
+    {
+        "question": "Is 4289 divisible by the provided factor 13? Is 4289 divisible by the provided factor 331? Dirctly answer yes or no.",
+        "answer": "Is 4289 divisible by the provided factor 13? Is 4289 divisible by the provided factor 331? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 13:\n- The rule for checking divisibility by"
+    },
+    {
+        "question": "Is 16829 divisible by the provided factor 7? Is 16829 divisible by the provided factor 239? Dirctly answer yes or no.",
+        "answer": "Is 16829 divisible by the provided factor 7? Is 16829 divisible by the provided factor 239? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the divisibility rules for each factor.\n\nFor factor 7:\n- A number is"
+    },
+    {
+        "question": "Is 3203 divisible by the provided factor 17? Is 3203 divisible by the provided factor 189? Dirctly answer yes or no.",
+        "answer": "Is 3203 divisible by the provided factor 17? Is 3203 divisible by the provided factor 189? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 3203 divided by "
+    },
+    {
+        "question": "Is 6659 divisible by the provided factor 13? Is 6659 divisible by the provided factor 437? Dirctly answer yes or no.",
+        "answer": "Is 6659 divisible by the provided factor 13? Is 6659 divisible by the provided factor 437? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 6659 divided by "
+    },
+    {
+        "question": "Is 8761 divisible by the provided factor 29? Is 8761 divisible by the provided factor 301? Dirctly answer yes or no.",
+        "answer": "Is 8761 divisible by the provided factor 29? Is 8761 divisible by the provided factor 301? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it leaves no remainder when divided by that number.\n\nFor 8761"
+    },
+    {
+        "question": "Is 13487 divisible by the provided factor 19? Is 13487 divisible by the provided factor 701? Dirctly answer yes or no.",
+        "answer": "Is 13487 divisible by the provided factor 19? Is 13487 divisible by the provided factor 701? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3583 divisible by the provided factor 19? Is 3583 divisible by the provided factor 187? Dirctly answer yes or no.",
+        "answer": "Is 3583 divisible by the provided factor 19? Is 3583 divisible by the provided factor 187? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following steps:\n\n1. Check if the remainder when dividing by the divisor is zero"
+    },
+    {
+        "question": "Is 19031 divisible by the provided factor 47? Is 19031 divisible by the provided factor 409? Dirctly answer yes or no.",
+        "answer": "Is 19031 divisible by the provided factor 47? Is 19031 divisible by the provided factor 409? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11903 divisible by the provided factor 7? Is 11903 divisible by the provided factor 1687? Dirctly answer yes or no.",
+        "answer": "Is 11903 divisible by the provided factor 7? Is 11903 divisible by the provided factor 1687? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1993 divisible by the provided factor 47? Is 1993 divisible by the provided factor 41? Dirctly answer yes or no.",
+        "answer": "Is 1993 divisible by the provided factor 47? Is 1993 divisible by the provided factor 41? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 16553 divisible by the provided factor 7? Is 16553 divisible by the provided factor 2361? Dirctly answer yes or no.",
+        "answer": "Is 16553 divisible by the provided factor 7? Is 16553 divisible by the provided factor 2361? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4261 divisible by the provided factor 7? Is 4261 divisible by the provided factor 609? Dirctly answer yes or no.",
+        "answer": "Is 4261 divisible by the provided factor 7? Is 4261 divisible by the provided factor 609? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 1621 divisible by the provided factor 43? Is 1621 divisible by the provided factor 37? Dirctly answer yes or no.",
+        "answer": "Is 1621 divisible by the provided factor 43? Is 1621 divisible by the provided factor 37? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10789 divisible by the provided factor 23? Is 10789 divisible by the provided factor 469? Dirctly answer yes or no.",
+        "answer": "Is 10789 divisible by the provided factor 23? Is 10789 divisible by the provided factor 469? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it's possible to divide one by the other without leaving any remainder.\n\nLet's"
+    },
+    {
+        "question": "Is 5333 divisible by the provided factor 17? Is 5333 divisible by the provided factor 313? Dirctly answer yes or no.",
+        "answer": "Is 5333 divisible by the provided factor 17? Is 5333 divisible by the provided factor 313? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11743 divisible by the provided factor 109? Is 11743 divisible by the provided factor 107? Dirctly answer yes or no.",
+        "answer": "Is 11743 divisible by the provided factor 109? Is 11743 divisible by the provided factor 107? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 11743 divided by"
+    },
+    {
+        "question": "Is 11587 divisible by the provided factor 13? Is 11587 divisible by the provided factor 883? Dirctly answer yes or no.",
+        "answer": "Is 11587 divisible by the provided factor 13? Is 11587 divisible by the provided factor 883? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16451 divisible by the provided factor 7? Is 16451 divisible by the provided factor 2351? Dirctly answer yes or no.",
+        "answer": "Is 16451 divisible by the provided factor 7? Is 16451 divisible by the provided factor 2351? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 12823 divisible by the provided factor 7? Is 12823 divisible by the provided factor 1831? Dirctly answer yes or no.",
+        "answer": "Is 12823 divisible by the provided factor 7? Is 12823 divisible by the provided factor 1831? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 6091 divisible by the provided factor 7? Is 6091 divisible by the provided factor 871? Dirctly answer yes or no.",
+        "answer": "Is 6091 divisible by the provided factor 7? Is 6091 divisible by the provided factor 871? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 1237 divisible by the provided factor 41? Is 1237 divisible by the provided factor 301? Dirctly answer yes or no.",
+        "answer": "Is 1237 divisible by the provided factor 41? Is 1237 divisible by the provided factor 301? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 5881 divisible by the provided factor 7? Is 5881 divisible by the provided factor 839? Dirctly answer yes or no.",
+        "answer": "Is 5881 divisible by the provided factor 7? Is 5881 divisible by the provided factor 839? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 17029 divisible by the provided factor 17? Is 17029 divisible by the provided factor 1003? Dirctly answer yes or no.",
+        "answer": "Is 17029 divisible by the provided factor 17? Is 17029 divisible by the provided factor 1003? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 17 if the remainder"
+    },
+    {
+        "question": "Is 1307 divisible by the provided factor 19? Is 1307 divisible by the provided factor 67? Dirctly answer yes or no.",
+        "answer": "Is 1307 divisible by the provided factor 19? Is 1307 divisible by the provided factor 67? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 1307 divided by "
+    },
+    {
+        "question": "Is 7211 divisible by the provided factor 7? Is 7211 divisible by the provided factor 1031? Dirctly answer yes or no.",
+        "answer": "Is 7211 divisible by the provided factor 7? Is 7211 divisible by the provided factor 1031? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 13567 divisible by the provided factor 19? Is 13567 divisible by the provided factor 713? Dirctly answer yes or no.",
+        "answer": "Is 13567 divisible by the provided factor 19? Is 13567 divisible by the provided factor 713? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 16657 divisible by the provided factor 3? Is 16657 divisible by the provided factor 5552? Dirctly answer yes or no.",
+        "answer": "Is 16657 divisible by the provided factor 3? Is 16657 divisible by the provided factor 5552? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor divisibility by 3:\nA number is divisible by "
+    },
+    {
+        "question": "Is 14767 divisible by the provided factor 3? Is 14767 divisible by the provided factor 4923? Dirctly answer yes or no.",
+        "answer": "Is 14767 divisible by the provided factor 3? Is 14767 divisible by the provided factor 4923? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 3 if the sum of"
+    },
+    {
+        "question": "Is 18077 divisible by the provided factor 23? Is 18077 divisible by the provided factor 809? Dirctly answer yes or no.",
+        "answer": "Is 18077 divisible by the provided factor 23? Is 18077 divisible by the provided factor 809? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 23:\n- A number is divisible by "
+    },
+    {
+        "question": "Is 3529 divisible by the provided factor 7? Is 3529 divisible by the provided factor 491? Dirctly answer yes or no.",
+        "answer": "Is 3529 divisible by the provided factor 7? Is 3529 divisible by the provided factor 491? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the remainder when"
+    },
+    {
+        "question": "Is 19963 divisible by the provided factor 47? Is 19963 divisible by the provided factor 421? Dirctly answer yes or no.",
+        "answer": "Is 19963 divisible by the provided factor 47? Is 19963 divisible by the provided factor 421? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 7253 divisible by the provided factor 19? Is 7253 divisible by the provided factor 381? Dirctly answer yes or no.",
+        "answer": "Is 7253 divisible by the provided factor 19? Is 7253 divisible by the provided factor 381? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 12911 divisible by the provided factor 7? Is 12911 divisible by the provided factor 1843? Dirctly answer yes or no.",
+        "answer": "Is 12911 divisible by the provided factor 7? Is 12911 divisible by the provided factor 1843? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operation: If `number % divisor == 0`, then it's divisible"
+    },
+    {
+        "question": "Is 14153 divisible by the provided factor 7? Is 14153 divisible by the provided factor 2021? Dirctly answer yes or no.",
+        "answer": "Is 14153 divisible by the provided factor 7? Is 14153 divisible by the provided factor 2021? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 15731 divisible by the provided factor 41? Is 15731 divisible by the provided factor 389? Dirctly answer yes or no.",
+        "answer": "Is 15731 divisible by the provided factor 41? Is 15731 divisible by the provided factor 389? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 3929 divisible by the provided factor 7? Is 3929 divisible by the provided factor 561? Dirctly answer yes or no.",
+        "answer": "Is 3929 divisible by the provided factor 7? Is 3929 divisible by the provided factor 561? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 7:\n- A number is divisible by 7"
+    },
+    {
+        "question": "Is 16267 divisible by the provided factor 3? Is 16267 divisible by the provided factor 5423? Dirctly answer yes or no.",
+        "answer": "Is 16267 divisible by the provided factor 3? Is 16267 divisible by the provided factor 5423? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 3 if the sum of"
+    },
+    {
+        "question": "Is 1549 divisible by the provided factor 7? Is 1549 divisible by the provided factor 221? Dirctly answer yes or no.",
+        "answer": "Is 1549 divisible by the provided factor 7? Is 1549 divisible by the provided factor 221? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 7:\n- The last digit of 15"
+    },
+    {
+        "question": "Is 18911 divisible by the provided factor 43? Is 18911 divisible by the provided factor 437? Dirctly answer yes or no.",
+        "answer": "Is 18911 divisible by the provided factor 43? Is 18911 divisible by the provided factor 437? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 14033 divisible by the provided factor 7? Is 14033 divisible by the provided factor 2005? Dirctly answer yes or no.",
+        "answer": "Is 14033 divisible by the provided factor 7? Is 14033 divisible by the provided factor 2005? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the difference between"
+    },
+    {
+        "question": "Is 10133 divisible by the provided factor 7? Is 10133 divisible by the provided factor 1447? Dirctly answer yes or no.",
+        "answer": "Is 10133 divisible by the provided factor 7? Is 10133 divisible by the provided factor 1447? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10861 divisible by the provided factor 7? Is 10861 divisible by the provided factor 1543? Dirctly answer yes or no.",
+        "answer": "Is 10861 divisible by the provided factor 7? Is 10861 divisible by the provided factor 1543? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11321 divisible by the provided factor 7? Is 11321 divisible by the provided factor 1619? Dirctly answer yes or no.",
+        "answer": "Is 11321 divisible by the provided factor 7? Is 11321 divisible by the provided factor 1619? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1459 divisible by the provided factor 7? Is 1459 divisible by the provided factor 208? Dirctly answer yes or no.",
+        "answer": "Is 1459 divisible by the provided factor 7? Is 1459 divisible by the provided factor 208? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if it is even"
+    },
+    {
+        "question": "Is 11549 divisible by the provided factor 7? Is 11549 divisible by the provided factor 1657? Dirctly answer yes or no.",
+        "answer": "Is 11549 divisible by the provided factor 7? Is 11549 divisible by the provided factor 1657? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9277 divisible by the provided factor 13? Is 9277 divisible by the provided factor 689? Dirctly answer yes or no.",
+        "answer": "Is 9277 divisible by the provided factor 13? Is 9277 divisible by the provided factor 689? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1747 divisible by the provided factor 19? Is 1747 divisible by the provided factor 91? Dirctly answer yes or no.",
+        "answer": "Is 1747 divisible by the provided factor 19? Is 1747 divisible by the provided factor 91? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it's possible to divide one by the other without leaving any remainder.\n\nFor "
+    },
+    {
+        "question": "Is 19867 divisible by the provided factor 13? Is 19867 divisible by the provided factor 1529? Dirctly answer yes or no.",
+        "answer": "Is 19867 divisible by the provided factor 13? Is 19867 divisible by the provided factor 1529? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11113 divisible by the provided factor 3? Is 11113 divisible by the provided factor 3704? Dirctly answer yes or no.",
+        "answer": "Is 11113 divisible by the provided factor 3? Is 11113 divisible by the provided factor 3704? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the divisibility rule for that number.\nTo check if a number is divisible by "
+    },
+    {
+        "question": "Is 11699 divisible by the provided factor 3? Is 11699 divisible by the provided factor 7? Dirctly answer yes or no.",
+        "answer": "Is 11699 divisible by the provided factor 3? Is 11699 divisible by the provided factor 7? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the divisibility rules for that number.\n\nFor 3: A number is divisible by"
+    },
+    {
+        "question": "Is 13553 divisible by the provided factor 7? Is 13553 divisible by the provided factor 1939? Dirctly answer yes or no.",
+        "answer": "Is 13553 divisible by the provided factor 7? Is 13553 divisible by the provided factor 1939? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 1297 divisible by the provided factor 37? Is 1297 divisible by the provided factor 35? Dirctly answer yes or no.",
+        "answer": "Is 1297 divisible by the provided factor 37? Is 1297 divisible by the provided factor 35? Dirctly answer yes or no. To determine if a number is divisible by another, you can use the modulo operator (%). If the result of the operation is 0, then it"
+    },
+    {
+        "question": "Is 7919 divisible by the provided factor 7? Is 7919 divisible by the provided factor 1131? Dirctly answer yes or no.",
+        "answer": "Is 7919 divisible by the provided factor 7? Is 7919 divisible by the provided factor 1131? Dirctly answer yes or no. To determine if a number is divisible by another, we can use divisibility rules.\n\nFor 7:\n- A number is divisible by 7 if"
+    },
+    {
+        "question": "Is 14243 divisible by the provided factor 7? Is 14243 divisible by the provided factor 2039? Dirctly answer yes or no.",
+        "answer": "Is 14243 divisible by the provided factor 7? Is 14243 divisible by the provided factor 2039? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 2 if its last digit"
+    },
+    {
+        "question": "Is 8059 divisible by the provided factor 23? Is 8059 divisible by the provided factor 347? Dirctly answer yes or no.",
+        "answer": "Is 8059 divisible by the provided factor 23? Is 8059 divisible by the provided factor 347? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 23 if it ends"
+    },
+    {
+        "question": "Is 7121 divisible by the provided factor 43? Is 7121 divisible by the provided factor 163? Dirctly answer yes or no.",
+        "answer": "Is 7121 divisible by the provided factor 43? Is 7121 divisible by the provided factor 163? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 14753 divisible by the provided factor 19? Is 14753 divisible by the provided factor 773? Dirctly answer yes or no.",
+        "answer": "Is 14753 divisible by the provided factor 19? Is 14753 divisible by the provided factor 773? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 6997 divisible by the provided factor 13? Is 6997 divisible by the provided factor 539? Dirctly answer yes or no.",
+        "answer": "Is 6997 divisible by the provided factor 13? Is 6997 divisible by the provided factor 539? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 13 if the remainder"
+    },
+    {
+        "question": "Is 3989 divisible by the provided factor 17? Is 3989 divisible by the provided factor 231? Dirctly answer yes or no.",
+        "answer": "Is 3989 divisible by the provided factor 17? Is 3989 divisible by the provided factor 231? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4663 divisible by the provided factor 7? Is 4663 divisible by the provided factor 666? Dirctly answer yes or no.",
+        "answer": "Is 4663 divisible by the provided factor 7? Is 4663 divisible by the provided factor 666? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8669 divisible by the provided factor 23? Is 8669 divisible by the provided factor 379? Dirctly answer yes or no.",
+        "answer": "Is 8669 divisible by the provided factor 23? Is 8669 divisible by the provided factor 379? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 10271 divisible by the provided factor 43? Is 10271 divisible by the provided factor 239? Dirctly answer yes or no.",
+        "answer": "Is 10271 divisible by the provided factor 43? Is 10271 divisible by the provided factor 239? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 6229 divisible by the provided factor 17? Is 6229 divisible by the provided factor 367? Dirctly answer yes or no.",
+        "answer": "Is 6229 divisible by the provided factor 17? Is 6229 divisible by the provided factor 367? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 17 if the remainder"
+    },
+    {
+        "question": "Is 10847 divisible by the provided factor 23? Is 10847 divisible by the provided factor 469? Dirctly answer yes or no.",
+        "answer": "Is 10847 divisible by the provided factor 23? Is 10847 divisible by the provided factor 469? Dirctly answer yes or no. To determine if a number is divisible by another, we can check if it ends in an even digit (for divisibility by 2) and then"
+    },
+    {
+        "question": "Is 4621 divisible by the provided factor 7? Is 4621 divisible by the provided factor 661? Dirctly answer yes or no.",
+        "answer": "Is 4621 divisible by the provided factor 7? Is 4621 divisible by the provided factor 661? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 4091 divisible by the provided factor 7? Is 4091 divisible by the provided factor 583? Dirctly answer yes or no.",
+        "answer": "Is 4091 divisible by the provided factor 7? Is 4091 divisible by the provided factor 583? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 7 if the remainder when"
+    },
+    {
+        "question": "Is 7517 divisible by the provided factor 7? Is 7517 divisible by the provided factor 1073? Dirctly answer yes or no.",
+        "answer": "Is 7517 divisible by the provided factor 7? Is 7517 divisible by the provided factor 1073? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 13729 divisible by the provided factor 13? Is 13729 divisible by the provided factor 1057? Dirctly answer yes or no.",
+        "answer": "Is 13729 divisible by the provided factor 13? Is 13729 divisible by the provided factor 1057? Dirctly answer yes or no. To determine if a number is divisible by another, we can check for divisibility rules.\n\nFor 13729 to be divisible by "
+    },
+    {
+        "question": "Is 7523 divisible by the provided factor 19? Is 7523 divisible by the provided factor 397? Dirctly answer yes or no.",
+        "answer": "Is 7523 divisible by the provided factor 19? Is 7523 divisible by the provided factor 397? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the following rules:\n\n1. A number is divisible by 19 if the remainder"
+    },
+    {
+        "question": "Is 18401 divisible by the provided factor 73? Is 18401 divisible by the provided factor 251? Dirctly answer yes or no.",
+        "answer": "Is 18401 divisible by the provided factor 73? Is 18401 divisible by the provided factor 251? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 5297 divisible by the provided factor 13? Is 5297 divisible by the provided factor 409? Dirctly answer yes or no.",
+        "answer": "Is 5297 divisible by the provided factor 13? Is 5297 divisible by the provided factor 409? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11083 divisible by the provided factor 7? Is 11083 divisible by the provided factor 1583? Dirctly answer yes or no.",
+        "answer": "Is 11083 divisible by the provided factor 7? Is 11083 divisible by the provided factor 1583? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 9769 divisible by the provided factor 13? Is 9769 divisible by the provided factor 749? Dirctly answer yes or no.",
+        "answer": "Is 9769 divisible by the provided factor 13? Is 9769 divisible by the provided factor 749? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11971 divisible by the provided factor 3? Is 11971 divisible by the provided factor 3? Dirctly answer yes or no.",
+        "answer": "Is 11971 divisible by the provided factor 3? Is 11971 divisible by the provided factor 3? Dirctly answer yes or no. To determine if a number is divisible by 3, you add up all of its digits and see if that sum is divisible by 3.\nTo"
+    },
+    {
+        "question": "Is 15121 divisible by the provided factor 73? Is 15121 divisible by the provided factor 209? Dirctly answer yes or no.",
+        "answer": "Is 15121 divisible by the provided factor 73? Is 15121 divisible by the provided factor 209? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 8243 divisible by the provided factor 19? Is 8243 divisible by the provided factor 435? Dirctly answer yes or no.",
+        "answer": "Is 8243 divisible by the provided factor 19? Is 8243 divisible by the provided factor 435? Dirctly answer yes or no. To determine if a number is divisible by another, we can perform the division and check for any remainder.\n\nFor 8243 divided by "
+    },
+    {
+        "question": "Is 7879 divisible by the provided factor 13? Is 7879 divisible by the provided factor 607? Dirctly answer yes or no.",
+        "answer": "Is 7879 divisible by the provided factor 13? Is 7879 divisible by the provided factor 607? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    },
+    {
+        "question": "Is 11369 divisible by the provided factor 7? Is 11369 divisible by the provided factor 1621? Dirctly answer yes or no.",
+        "answer": "Is 11369 divisible by the provided factor 7? Is 11369 divisible by the provided factor 1621? Dirctly answer yes or no. To determine if a number is divisible by another, we can use the modulo operation. If the result of \\( n \\mod d = 0 \\"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "question": "Is 16921 divisible by the provided factor 7? Is 16921 divisible by the provided factor 23? Directly answer the question.",
+        "answer": "Is 16921 divisible by the provided factor 7? Is 16921 divisible by the provided factor 23? Directly answer the question.\n\nSolution:\nTo determine if 16921 is divisible by 7, we can use the divisibility rule for 7. According to the"
+    },
+    {
+        "question": "Is 1933 divisible by the provided factor 3? Is 1933 divisible by the provided factor 11? Directly answer the question.",
+        "answer": "Is 1933 divisible by the provided factor 3? Is 1933 divisible by the provided factor 11? Directly answer the question.\n\nAnswer: Yes, 1933 is divisible by the factor 3. Yes, 1933 is divisible by the factor 11.\n\nExercise"
+    },
+    {
+        "question": "Is 8089 divisible by the provided factor 3? Is 8089 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 8089 divisible by the provided factor 3? Is 8089 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 8089 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 9199 divisible by the provided factor 3? Is 9199 divisible by the provided factor 3233? Directly answer the question.",
+        "answer": "Is 9199 divisible by the provided factor 3? Is 9199 divisible by the provided factor 3233? Directly answer the question.\n\nSolution:\nTo determine if 9199 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 18587 divisible by the provided factor 3? Is 18587 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 18587 divisible by the provided factor 3? Is 18587 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 18587 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 19373 divisible by the provided factor 3? Is 19373 divisible by the provided factor 9? Directly answer the question.",
+        "answer": "Is 19373 divisible by the provided factor 3? Is 19373 divisible by the provided factor 9? Directly answer the question.\n\nSolution:\nTo determine if 19373 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 14533 divisible by the provided factor 3? Is 14533 divisible by the provided factor 5? Directly answer the question.",
+        "answer": "Is 14533 divisible by the provided factor 3? Is 14533 divisible by the provided factor 5? Directly answer the question.\n\nSolution:\nTo determine if 14533 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 10463 divisible by the provided factor 3? Is 10463 divisible by the provided factor 37? Directly answer the question.",
+        "answer": "Is 10463 divisible by the provided factor 3? Is 10463 divisible by the provided factor 37? Directly answer the question.\n\nSolution:\nTo determine if 10463 is divisible by 3, we can add up its digits: 1 + 0 + 4 + 6"
+    },
+    {
+        "question": "Is 4253 divisible by the provided factor 3? Is 4253 divisible by the provided factor 13? Directly answer the question.",
+        "answer": "Is 4253 divisible by the provided factor 3? Is 4253 divisible by the provided factor 13? Directly answer the question.\n\nSolution:\nTo determine if 4253 is divisible by 3, we can add up its digits: 4 + 2 + 5 + 3"
+    },
+    {
+        "question": "Is 19973 divisible by the provided factor 3? Is 19973 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 19973 divisible by the provided factor 3? Is 19973 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 19973 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 19961 divisible by the provided factor 3? Is 19961 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 19961 divisible by the provided factor 3? Is 19961 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 19961 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 8111 divisible by the provided factor 3? Is 8111 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 8111 divisible by the provided factor 3? Is 8111 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 8111 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 15307 divisible by the provided factor 3? Directly answer the question.",
+        "answer": "Is 15307 divisible by the provided factor 3? Directly answer the question.\n"
+    },
+    {
+        "question": "Is 14519 divisible by the provided factor 3? Is 14519 divisible by the provided factor 5? Directly answer the question.",
+        "answer": "Is 14519 divisible by the provided factor 3? Is 14519 divisible by the provided factor 5? Directly answer the question.\n\nSolution:\nTo determine if 14519 is divisible by 3, we can add up its digits: 1 + 4 + 5 + 1"
+    },
+    {
+        "question": "Is 18307 divisible by the provided factor 3? Directly answer the question.",
+        "answer": "Is 18307 divisible by the provided factor 3? Directly answer the question.\n\nAnswer: Yes, 18307 is divisible by 3 because the sum of its digits (1 + 8 + 3 + 0 + 7)"
+    },
+    {
+        "question": "Is 19763 divisible by the provided factor 3? Directly answer the question.",
+        "answer": "Is 19763 divisible by the provided factor 3? Directly answer the question.\n\nAnswer: Yes, 19763 is divisible by 3 because the sum of its digits (2 + 7 + 6 + 8 + 3)"
+    },
+    {
+        "question": "Is 18059 divisible by the provided factor 3? Directly answer the question.",
+        "answer": "Is 18059 divisible by the provided factor 3? Directly answer the question.\n\nAnswer: Yes, 18059 is divisible by 3 because the sum of its digits (1 + 8 + 0 + 5 + 9)"
+    },
+    {
+        "question": "Is 7309 divisible by the provided factor 3? Is 7309 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 7309 divisible by the provided factor 3? Is 7309 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 7309 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 7127 divisible by the provided factor 3? Directly answer the question.",
+        "answer": "Is 7127 divisible by the provided factor 3? Directly answer the question.\n"
+    },
+    {
+        "question": "Is 9001 divisible by the provided factor 3? Is 9001 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 9001 divisible by the provided factor 3? Is 9001 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 9001 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 8053 divisible by the provided factor 3? Is 8053 divisible by the provided factor 6? Directly answer the question.",
+        "answer": "Is 8053 divisible by the provided factor 3? Is 8053 divisible by the provided factor 6? Directly answer the question.\n\nSolution:\nTo determine if 8053 is divisible by 3, we need to check if the sum of its digits is divisible"
+    },
+    {
+        "question": "Is 7109 divisible by the provided factor 3? Is 7109 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 7109 divisible by the provided factor 3? Is 7109 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 7109 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 7549 divisible by the provided factor 3? Is 7549 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 7549 divisible by the provided factor 3? Is 7549 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 7549 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 19927 divisible by the provided factor 3? Is 19927 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 19927 divisible by the provided factor 3? Is 19927 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 19927 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 9049 divisible by the provided factor 3? Is 9049 divisible by the provided factor 9? Directly answer the question.",
+        "answer": "Is 9049 divisible by the provided factor 3? Is 9049 divisible by the provided factor 9? Directly answer the question.\n"
+    },
+    {
+        "question": "Is 3881 divisible by the provided factor 3? Is 3881 divisible by the provided factor 13? Directly answer the question.",
+        "answer": "Is 3881 divisible by the provided factor 3? Is 3881 divisible by the provided factor 13? Directly answer the question.\n\nSolution:\nTo determine if 3881 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 9901 divisible by the provided factor 3? Is 9901 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 9901 divisible by the provided factor 3? Is 9901 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 9901 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 6311 divisible by the provided factor 3? Is 6311 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 6311 divisible by the provided factor 3? Is 6311 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 6311 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 1993 divisible by the provided factor 3? Is 1993 divisible by the provided factor 6? Directly answer the question.",
+        "answer": "Is 1993 divisible by the provided factor 3? Is 1993 divisible by the provided factor 6? Directly answer the question.\n\n(3). Content: The number of factors of a number can be determined by finding all the possible pairs of factors. For example, the"
+    },
+    {
+        "question": "Is 16553 divisible by the provided factor 3? Is 16553 divisible by the provided factor 5? Directly answer the question.",
+        "answer": "Is 16553 divisible by the provided factor 3? Is 16553 divisible by the provided factor 5? Directly answer the question.\n"
+    },
+    {
+        "question": "Is 16901 divisible by the provided factor 17? Is 16901 divisible by the provided factor 13? Directly answer the question.",
+        "answer": "Is 16901 divisible by the provided factor 17? Is 16901 divisible by the provided factor 13? Directly answer the question.\n\nSolution:\nTo determine if 16901 is divisible by 17, we can use the divisibility rule for 17. According to the"
+    },
+    {
+        "question": "Is 19963 divisible by the provided factor 3? Is 19963 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 19963 divisible by the provided factor 3? Is 19963 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 19963 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 7253 divisible by the provided factor 3? Directly answer the question.",
+        "answer": "Is 7253 divisible by the provided factor 3? Directly answer the question.\n\nAnswer: Yes, 7253 is divisible by 3 because the sum of its digits (7 + 5 + 2 + 3) is equal"
+    },
+    {
+        "question": "Is 10861 divisible by the provided factor 3? Is 10861 divisible by the provided factor 3? Directly answer the question.",
+        "answer": "Is 10861 divisible by the provided factor 3? Is 10861 divisible by the provided factor 3? Directly answer the question.\n"
+    },
+    {
+        "question": "Is 7121 divisible by the provided factor 3? Is 7121 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 7121 divisible by the provided factor 3? Is 7121 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 7121 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 7523 divisible by the provided factor 3? Is 7523 divisible by the provided factor 7? Directly answer the question.",
+        "answer": "Is 7523 divisible by the provided factor 3? Is 7523 divisible by the provided factor 7? Directly answer the question.\n\nSolution:\nTo determine if 7523 is divisible by 3, we need to check if the sum of its digits is divisible by"
+    },
+    {
+        "question": "Is 8243 divisible by the provided factor 3? Directly answer the question.",
+        "answer": "Is 8243 divisible by the provided factor 3? Directly answer the question.\n\nAnswer: Yes, 8243 is divisible by 3 because the sum of its digits (8 + 2 + 4 + 3) is 17"
+    }
+]
