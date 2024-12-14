@@ -1,0 +1,926 @@
+[
+    {
+        "question": "Has John Sparkman represented the state of Alabama as US senator? Was John Sparkman's alma mater MIT?"
+    },
+    {
+        "question": "Has Ted Stevens represented the state of Alaska as US senator? Was Ted Stevens's alma mater MIT?"
+    },
+    {
+        "question": "Has John McCain represented the state of Arizona as US senator? Was John McCain's alma mater MIT?"
+    },
+    {
+        "question": "Has John L. McClellan represented the state of Arkansas as US senator? Was John L. McClellan's alma mater MIT?"
+    },
+    {
+        "question": "Has William A represented the state of Colorado as US senator? Was William A's alma mater MIT?"
+    },
+    {
+        "question": "Has George P. McLean represented the state of Connecticut as US senator? Was George P. McLean's alma mater MIT?"
+    },
+    {
+        "question": "Has George Smathers represented the state of Florida as US senator? Was George Smathers's alma mater MIT?"
+    },
+    {
+        "question": "Has John C represented the state of Georgia as US senator? Was John C's alma mater MIT?"
+    },
+    {
+        "question": "Has Daniel Inouye represented the state of Hawaii as US senator? Was Daniel Inouye's alma mater MIT?"
+    },
+    {
+        "question": "Has Frank Church represented the state of Idaho as US senator? Was Frank Church's alma mater MIT?"
+    },
+    {
+        "question": "Has Everett Dirksen represented the state of Illinois as US senator? Was Everett Dirksen's alma mater MIT?"
+    },
+    {
+        "question": "Has Thomas A. Hendricks represented the state of Indiana as US senator? Was Thomas A. Hendricks's alma mater MIT?"
+    },
+    {
+        "question": "Has Charles Curtis represented the state of Iowa as US senator? Was Charles Curtis's alma mater MIT?"
+    },
+    {
+        "question": "Has George McGill represented the state of Kansas as US senator? Was George McGill's alma mater MIT?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Kentucky as US senator? Was John Sherman's alma mater MIT?"
+    },
+    {
+        "question": "Has Allen J. Ellender represented the state of Louisiana as US senator? Was Allen J. Ellender's alma mater MIT?"
+    },
+    {
+        "question": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater MIT?"
+    },
+    {
+        "question": "Has Edward Brooke represented the state of Massachusetts as US senator? Was Edward Brooke's alma mater MIT?"
+    },
+    {
+        "question": "Has John Ding represented the state of Michigan as US senator? Was John Ding's alma mater MIT?"
+    },
+    {
+        "question": "Has Hubert represented the state of Minnesota as US senator? Was Hubert's alma mater MIT?"
+    },
+    {
+        "question": "Has John C. Stennis represented the state of Mississippi as US senator? Was John C. Stennis's alma mater MIT?"
+    },
+    {
+        "question": "Has Thomas Hart Benton represented the state of Missouri as US senator? Was Thomas Hart Benton's alma mater MIT?"
+    },
+    {
+        "question": "Has Jon Tester represented the state of Montana as US senator? Was Jon Tester's alma mater MIT?"
+    },
+    {
+        "question": "Has George W. Norris represented the state of Nebraska as US senator? Was George W. Norris's alma mater MIT?"
+    },
+    {
+        "question": "Has William H. Robertson represented the state of Nevada as US senator? Was William H. Robertson's alma mater MIT?"
+    },
+    {
+        "question": "Has William represented the state of New Jersey as US senator? Was William's alma mater MIT?"
+    },
+    {
+        "question": "Has Pete represented the state of New Mexico as US senator? Was Pete's alma mater MIT?"
+    },
+    {
+        "question": "Has Charles represented the state of New York as US senator? Was Charles's alma mater MIT?"
+    },
+    {
+        "question": "Has Jesse Helms represented the state of North Carolina as US senator? Was Jesse Helms's alma mater MIT?"
+    },
+    {
+        "question": "Has Quentin Burdick represented the state of North Dakota as US senator? Was Quentin Burdick's alma mater MIT?"
+    },
+    {
+        "question": "Has John Glenn represented the state of Ohio as US senator? Was John Glenn's alma mater MIT?"
+    },
+    {
+        "question": "Has James E. Berry represented the state of Oklahoma as US senator? Was James E. Berry's alma mater MIT?"
+    },
+    {
+        "question": "Has Henry F represented the state of Oregon as US senator? Was Henry F's alma mater MIT?"
+    },
+    {
+        "question": "Has John Heinz represented the state of Pennsylvania as US senator? Was John Heinz's alma mater MIT?"
+    },
+    {
+        "question": "Has Henry Cabot Lodge represented the state of Rhode Island as US senator? Was Henry Cabot Lodge's alma mater MIT?"
+    },
+    {
+        "question": "Has John C. Calhoun represented the state of South Carolina as US senator? Was John C. Calhoun's alma mater MIT?"
+    },
+    {
+        "question": "Has George McGovern represented the state of South Dakota as US senator? Was George McGovern's alma mater MIT?"
+    },
+    {
+        "question": "Has Bill Frist represented the state of Tennessee as US senator? Was Bill Frist's alma mater MIT?"
+    },
+    {
+        "question": "Has Lyndon B represented the state of Texas as US senator? Was Lyndon B's alma mater MIT?"
+    },
+    {
+        "question": "Has Orrin represented the state of Utah as US senator? Was Orrin's alma mater MIT?"
+    },
+    {
+        "question": "Has Bernie Sanders represented the state of Vermont as US senator? Was Bernie Sanders's alma mater MIT?"
+    },
+    {
+        "question": "Has Henry M. Jackson represented the state of Washington as US senator? Was Henry M. Jackson's alma mater MIT?"
+    },
+    {
+        "question": "Has John D. Rockefeller represented the state of West Virginia as US senator? Was John D. Rockefeller's alma mater MIT?"
+    },
+    {
+        "question": "Has William Pro represented the state of Wisconsin as US senator? Was William Pro's alma mater MIT?"
+    },
+    {
+        "question": "Has John Barrasso represented the state of Wyoming as US senator? Was John Barrasso's alma mater MIT?"
+    },
+    {
+        "question": "Has Mark Begich represented the state of Alaska as US senator? Was Mark Begich's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has Thomas R. Marshall represented the state of Delaware as US senator? Was Thomas R. Marshall's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has Jim McClure represented the state of Idaho as US senator? Was Jim McClure's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has James W. Flanagan represented the state of Kansas as US senator? Was James W. Flanagan's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Kentucky as US senator? Was John Sherman's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has Harry Reid represented the state of Nevada as US senator? Was Harry Reid's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has Jim Inhofe represented the state of Oklahoma as US senator? Was Jim Inhofe's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has John Chafee represented the state of Rhode Island as US senator? Was John Chafee's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has Mitt Romney represented the state of Utah as US senator? Was Mitt Romney's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has Paul Simon represented the state of Washington as US senator? Was Paul Simon's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has Robert Byrd represented the state of West Virginia as US senator? Was Robert Byrd's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has John Barrasso represented the state of Wyoming as US senator? Was John Barrasso's alma mater University of Chicago?"
+    },
+    {
+        "question": "Has John Sparkman represented the state of Alabama as US senator? Was John Sparkman's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Mark Begich represented the state of Alaska as US senator? Was Mark Begich's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John Little McClellan represented the state of Arkansas as US senator? Was John Little McClellan's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Thomas F. Bayard represented the state of Delaware as US senator? Was Thomas F. Bayard's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John Barrow represented the state of Georgia as US senator? Was John Barrow's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Thomas A. Hendricks represented the state of Indiana as US senator? Was Thomas A. Hendricks's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John C. Culver represented the state of Iowa as US senator? Was John C. Culver's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has James A. Reed represented the state of Kansas as US senator? Was James A. Reed's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Kentucky as US senator? Was John Sherman's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Allen Ellender represented the state of Louisiana as US senator? Was Allen Ellender's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John F. Kennedy represented the state of Massachusetts as US senator? Was John F. Kennedy's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has James McMillan represented the state of Michigan as US senator? Was James McMillan's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John C. Stennis represented the state of Mississippi as US senator? Was John C. Stennis's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Thomas Hart Benton represented the state of Missouri as US senator? Was Thomas Hart Benton's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has George Norris represented the state of Nebraska as US senator? Was George Norris's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John P. Hale represented the state of New Hampshire as US senator? Was John P. Hale's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Thomas Kean represented the state of New Jersey as US senator? Was Thomas Kean's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Tom Udall represented the state of New Mexico as US senator? Was Tom Udall's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Daniel Patrick Moynihan represented the state of New York as US senator? Was Daniel Patrick Moynihan's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Jesse Helms represented the state of North Carolina as US senator? Was Jesse Helms's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has William Langer represented the state of North Dakota as US senator? Was William Langer's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Ohio as US senator? Was John Sherman's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Henry W. Corbett represented the state of Oregon as US senator? Was Henry W. Corbett's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John Heinz represented the state of Pennsylvania as US senator? Was John Heinz's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John Chafee represented the state of Rhode Island as US senator? Was John Chafee's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has James Abourezk represented the state of South Dakota as US senator? Was James Abourezk's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John Tower represented the state of Texas as US senator? Was John Tower's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Jake Garn represented the state of Utah as US senator? Was Jake Garn's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has William P. Dillingham represented the state of Vermont as US senator? Was William P. Dillingham's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has Jennings Randolph represented the state of West Virginia as US senator? Was Jennings Randolph's alma mater Johns Hopkins University?"
+    },
+    {
+        "question": "Has John McCain represented the state of Arizona as US senator? Was John McCain's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has John L. McClellan represented the state of Arkansas as US senator? Was John L. McClellan's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has William A represented the state of Connecticut as US senator? Was William A's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Thomas A. Hendricks represented the state of Indiana as US senator? Was Thomas A. Hendricks's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has James A. Reed represented the state of Kansas as US senator? Was James A. Reed's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has John J represented the state of Kentucky as US senator? Was John J's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has William P. Frye represented the state of Maine as US senator? Was William P. Frye's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Rick Santorum represented the state of Michigan as US senator? Was Rick Santorum's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Thomas Hart Benton represented the state of Missouri as US senator? Was Thomas Hart Benton's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Thomas J represented the state of Montana as US senator? Was Thomas J's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has George Norris represented the state of Nebraska as US senator? Was George Norris's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has William H represented the state of Nevada as US senator? Was William H's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Tom Udall represented the state of New Mexico as US senator? Was Tom Udall's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Jesse Helms represented the state of North Carolina as US senator? Was Jesse Helms's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Milton Young represented the state of North Dakota as US senator? Was Milton Young's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has James E represented the state of Oklahoma as US senator? Was James E's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Rick Santorum represented the state of Oregon as US senator? Was Rick Santorum's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has John Chafee represented the state of Rhode Island as US senator? Was John Chafee's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has John C. Calhoun represented the state of South Carolina as US senator? Was John C. Calhoun's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has John W. Gardner represented the state of Utah as US senator? Was John W. Gardner's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has William P represented the state of Vermont as US senator? Was William P's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has John Tyler represented the state of West Virginia as US senator? Was John Tyler's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has Joseph McCarthy represented the state of Wisconsin as US senator? Was Joseph McCarthy's alma mater University of Pennsylvania?"
+    },
+    {
+        "question": "Has John McCain represented the state of Arizona as US senator? Was John McCain's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John L. McClellan represented the state of Arkansas as US senator? Was John L. McClellan's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John F. Kennedy represented the state of California as US senator? Was John F. Kennedy's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has George P represented the state of Connecticut as US senator? Was George P's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has Frank Church represented the state of Idaho as US senator? Was Frank Church's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has [Incomplete in the provided input] represented the state of Illinois as US senator? Was [Incomplete in the provided input]'s alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Indiana as US senator? Was John Sherman's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has Charles Curtis represented the state of Iowa as US senator? Was Charles Curtis's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John Breaux represented the state of Louisiana as US senator? Was John Breaux's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John Kerry represented the state of Massachusetts as US senator? Was John Kerry's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has William J. Randall represented the state of Missouri as US senator? Was William J. Randall's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has Lee Metcalf represented the state of Montana as US senator? Was Lee Metcalf's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John C. Calhoun represented the state of North Carolina as US senator? Was John C. Calhoun's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has Quentin Burdick represented the state of North Dakota as US senator? Was Quentin Burdick's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John Glenn represented the state of Ohio as US senator? Was John Glenn's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John Heinz represented the state of Pennsylvania as US senator? Was John Heinz's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has Claiborne Pell represented the state of Rhode Island as US senator? Was Claiborne Pell's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John Thune represented the state of South Dakota as US senator? Was John Thune's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has [The name is missing in the provided input.] represented the state of Utah as US senator? Was [The name is missing in the provided input.]'s alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has Maria Cantwell represented the state of Washington as US senator? Was Maria Cantwell's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John D. Dingell represented the state of West Virginia as US senator? Was John D. Dingell's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John Barr represented the state of Wyoming as US senator? Was John Barr's alma mater California Institute of Technology?"
+    },
+    {
+        "question": "Has John represented the state of Alabama as US senator? Was John's alma mater Duke University?"
+    },
+    {
+        "question": "Has Ted represented the state of Alaska as US senator? Was Ted's alma mater Duke University?"
+    },
+    {
+        "question": "Has John McCain represented the state of Arizona as US senator? Was John McCain's alma mater Duke University?"
+    },
+    {
+        "question": "Has John L. McClellan represented the state of Arkansas as US senator? Was John L. McClellan's alma mater Duke University?"
+    },
+    {
+        "question": "Has John represented the state of Colorado as US senator? Was John's alma mater Duke University?"
+    },
+    {
+        "question": "Has Daniel represented the state of Hawaii as US senator? Was Daniel's alma mater Duke University?"
+    },
+    {
+        "question": "Has John represented the state of Illinois as US senator? Was John's alma mater Duke University?"
+    },
+    {
+        "question": "Has Thomas A. Hendricks represented the state of Indiana as US senator? Was Thomas A. Hendricks's alma mater Duke University?"
+    },
+    {
+        "question": "Has George W. Norris represented the state of Iowa as US senator? Was George W. Norris's alma mater Duke University?"
+    },
+    {
+        "question": "Has Allen Ellender represented the state of Louisiana as US senator? Was Allen Ellender's alma mater Duke University?"
+    },
+    {
+        "question": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater Duke University?"
+    },
+    {
+        "question": "Has James represented the state of Michigan as US senator? Was James's alma mater Duke University?"
+    },
+    {
+        "question": "Has Hubert Humphrey represented the state of Minnesota as US senator? Was Hubert Humphrey's alma mater Duke University?"
+    },
+    {
+        "question": "Has John C. Stennis represented the state of Mississippi as US senator? Was John C. Stennis's alma mater Duke University?"
+    },
+    {
+        "question": "Has Thomas Hart Benton represented the state of Missouri as US senator? Was Thomas Hart Benton's alma mater Duke University?"
+    },
+    {
+        "question": "Has Harry Reid represented the state of Nevada as US senator? Was Harry Reid's alma mater Duke University?"
+    },
+    {
+        "question": "Has John E. Sununu represented the state of New Hampshire as US senator? Was John E. Sununu's alma mater Duke University?"
+    },
+    {
+        "question": "Has Cory Booker represented the state of New Jersey as US senator? Was Cory Booker's alma mater Duke University?"
+    },
+    {
+        "question": "Has James Buckley represented the state of New York as US senator? Was James Buckley's alma mater Duke University?"
+    },
+    {
+        "question": "Has Quentin Burdick represented the state of North Dakota as US senator? Was Quentin Burdick's alma mater Duke University?"
+    },
+    {
+        "question": "Has Henry W. Corbett represented the state of Oregon as US senator? Was Henry W. Corbett's alma mater Duke University?"
+    },
+    {
+        "question": "Has William H. Seward represented the state of Pennsylvania as US senator? Was William H. Seward's alma mater Duke University?"
+    },
+    {
+        "question": "Has John Chafee represented the state of Rhode Island as US senator? Was John Chafee's alma mater Duke University?"
+    },
+    {
+        "question": "Has Ellison D. Smith represented the state of South Carolina as US senator? Was Ellison D. Smith's alma mater Duke University?"
+    },
+    {
+        "question": "Has James Abourezk represented the state of South Dakota as US senator? Was James Abourezk's alma mater Duke University?"
+    },
+    {
+        "question": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater Duke University?"
+    },
+    {
+        "question": "Has Bernie Sanders represented the state of Vermont as US senator? Was Bernie Sanders's alma mater Duke University?"
+    },
+    {
+        "question": "Has Henry represented the state of Washington as US senator? Was Henry's alma mater Duke University?"
+    },
+    {
+        "question": "Has William represented the state of Wisconsin as US senator? Was William's alma mater Duke University?"
+    },
+    {
+        "question": "Has John Sparkman represented the state of Alabama as US senator? Was John Sparkman's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Ernest represented the state of Alaska as US senator? Was Ernest's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has William represented the state of Colorado as US senator? Was William's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Thomas F. Bayard represented the state of Delaware as US senator? Was Thomas F. Bayard's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has William represented the state of Florida as US senator? Was William's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has John represented the state of Georgia as US senator? Was John's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Daniel represented the state of Hawaii as US senator? Was Daniel's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Everett represented the state of Illinois as US senator? Was Everett's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has John W. Kern represented the state of Indiana as US senator? Was John W. Kern's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has William represented the state of Iowa as US senator? Was William's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has James A. Reed represented the state of Kansas as US senator? Was James A. Reed's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has James represented the state of Michigan as US senator? Was James's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has John C. Stennis represented the state of Mississippi as US senator? Was John C. Stennis's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Thomas Hart Benton represented the state of Missouri as US senator? Was Thomas Hart Benton's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has John Sununu represented the state of New Hampshire as US senator? Was John Sununu's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has William Hughes represented the state of New Jersey as US senator? Was William Hughes's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Jesse Helms represented the state of North Carolina as US senator? Was Jesse Helms's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Ohio as US senator? Was John Sherman's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Henry represented the state of Oregon as US senator? Was Henry's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has John Chafee represented the state of Rhode Island as US senator? Was John Chafee's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Strom Thurmond represented the state of South Carolina as US senator? Was Strom Thurmond's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Lyndon represented the state of Texas as US senator? Was Lyndon's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Henry represented the state of Washington as US senator? Was Henry's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has John Sherman represented the state of West Virginia as US senator? Was John Sherman's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Robert represented the state of Wisconsin as US senator? Was Robert's alma mater Northwestern University?"
+    },
+    {
+        "question": "Has Ernest represented the state of Alaska as US senator? Was Ernest's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has John L. McClellan represented the state of Arkansas as US senator? Was John L. McClellan's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has Kamala Harris represented the state of California as US senator? Was Kamala Harris's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has Thomas F. Bayard represented the state of Delaware as US senator? Was Thomas F. Bayard's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has Thomas A. Hendricks represented the state of Indiana as US senator? Was Thomas A. Hendricks's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has James A. Reed represented the state of Kansas as US senator? Was James A. Reed's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has John J. McKeithen represented the state of Louisiana as US senator? Was John J. McKeithen's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has John Ensign represented the state of Nevada as US senator? Was John Ensign's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has John A. McMahon represented the state of North Carolina as US senator? Was John A. McMahon's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has John C. Calhoun represented the state of South Carolina as US senator? Was John C. Calhoun's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has Thomas Sterling represented the state of South Dakota as US senator? Was Thomas Sterling's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has John J represented the state of West Virginia as US senator? Was John J's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has Henry represented the state of Wisconsin as US senator? Was Henry's alma mater Dartmouth College?"
+    },
+    {
+        "question": "Has John Sparkman represented the state of Alabama as US senator? Was John Sparkman's alma mater Brown University?"
+    },
+    {
+        "question": "Has Ernest represented the state of Alaska as US senator? Was Ernest's alma mater Brown University?"
+    },
+    {
+        "question": "Has John L. McClellan represented the state of Arkansas as US senator? Was John L. McClellan's alma mater Brown University?"
+    },
+    {
+        "question": "Has Henry Cabot Lodge Jr represented the state of California as US senator? Was Henry Cabot Lodge Jr's alma mater Brown University?"
+    },
+    {
+        "question": "Has Thomas F. Bayard represented the state of Delaware as US senator? Was Thomas F. Bayard's alma mater Brown University?"
+    },
+    {
+        "question": "Has George represented the state of Florida as US senator? Was George's alma mater Brown University?"
+    },
+    {
+        "question": "Has John M. Berrien represented the state of Georgia as US senator? Was John M. Berrien's alma mater Brown University?"
+    },
+    {
+        "question": "Has Daniel represented the state of Hawaii as US senator? Was Daniel's alma mater Brown University?"
+    },
+    {
+        "question": "Has Henry Dworshak represented the state of Idaho as US senator? Was Henry Dworshak's alma mater Brown University?"
+    },
+    {
+        "question": "Has John represented the state of Illinois as US senator? Was John's alma mater Brown University?"
+    },
+    {
+        "question": "Has James Whitcomb Riley represented the state of Indiana as US senator? Was James Whitcomb Riley's alma mater Brown University?"
+    },
+    {
+        "question": "Has George represented the state of Iowa as US senator? Was George's alma mater Brown University?"
+    },
+    {
+        "question": "Has James A. Reed represented the state of Kansas as US senator? Was James A. Reed's alma mater Brown University?"
+    },
+    {
+        "question": "Has Allen Ellender represented the state of Louisiana as US senator? Was Allen Ellender's alma mater Brown University?"
+    },
+    {
+        "question": "Has Thomas Johnson represented the state of Maryland as US senator? Was Thomas Johnson's alma mater Brown University?"
+    },
+    {
+        "question": "Has Thomas represented the state of Minnesota as US senator? Was Thomas's alma mater Brown University?"
+    },
+    {
+        "question": "Has John C. Stennis represented the state of Mississippi as US senator? Was John C. Stennis's alma mater Brown University?"
+    },
+    {
+        "question": "Has Thomas Hart Benton represented the state of Missouri as US senator? Was Thomas Hart Benton's alma mater Brown University?"
+    },
+    {
+        "question": "Has Thomas J. Walsh represented the state of Montana as US senator? Was Thomas J. Walsh's alma mater Brown University?"
+    },
+    {
+        "question": "Has Harry Reid represented the state of Nevada as US senator? Was Harry Reid's alma mater Brown University?"
+    },
+    {
+        "question": "Has William P. C. White represented the state of New Jersey as US senator? Was William P. C. White's alma mater Brown University?"
+    },
+    {
+        "question": "Has Tom Udall represented the state of New Mexico as US senator? Was Tom Udall's alma mater Brown University?"
+    },
+    {
+        "question": "Has Jesse Helms represented the state of North Carolina as US senator? Was Jesse Helms's alma mater Brown University?"
+    },
+    {
+        "question": "Has William Langer represented the state of North Dakota as US senator? Was William Langer's alma mater Brown University?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Ohio as US senator? Was John Sherman's alma mater Brown University?"
+    },
+    {
+        "question": "Has Henry represented the state of Oregon as US senator? Was Henry's alma mater Brown University?"
+    },
+    {
+        "question": "Has William A. Wallace represented the state of Pennsylvania as US senator? Was William A. Wallace's alma mater Brown University?"
+    },
+    {
+        "question": "Has James F. Byrnes represented the state of South Carolina as US senator? Was James F. Byrnes's alma mater Brown University?"
+    },
+    {
+        "question": "Has Thomas Sterling represented the state of South Dakota as US senator? Was Thomas Sterling's alma mater Brown University?"
+    },
+    {
+        "question": "Has John Bell represented the state of Tennessee as US senator? Was John Bell's alma mater Brown University?"
+    },
+    {
+        "question": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater Brown University?"
+    },
+    {
+        "question": "Has George Aiken represented the state of Vermont as US senator? Was George Aiken's alma mater Brown University?"
+    },
+    {
+        "question": "Has John Tyler represented the state of Virginia as US senator? Was John Tyler's alma mater Brown University?"
+    },
+    {
+        "question": "Has Henry represented the state of Washington as US senator? Was Henry's alma mater Brown University?"
+    },
+    {
+        "question": "Has John W represented the state of West Virginia as US senator? Was John W's alma mater Brown University?"
+    },
+    {
+        "question": "Has Henry represented the state of Wisconsin as US senator? Was Henry's alma mater Brown University?"
+    },
+    {
+        "question": "Has John B. Kendrick represented the state of Wyoming as US senator? Was John B. Kendrick's alma mater Brown University?"
+    },
+    {
+        "question": "Has Ernest represented the state of Alaska as US senator? Was Ernest's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has John represented the state of Colorado as US senator? Was John's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Thomas F. Bayard represented the state of Delaware as US senator? Was Thomas F. Bayard's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has John represented the state of Georgia as US senator? Was John's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Daniel represented the state of Hawaii as US senator? Was Daniel's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Frank Church represented the state of Idaho as US senator? Was Frank Church's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Thomas A. Hendricks represented the state of Indiana as US senator? Was Thomas A. Hendricks's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has James A. Reed represented the state of Kansas as US senator? Was James A. Reed's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Edmund Muskie represented the state of Maine as US senator? Was Edmund Muskie's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Thomas Johnson represented the state of Maryland as US senator? Was Thomas Johnson's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has James McMillan represented the state of Michigan as US senator? Was James McMillan's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Thomas Hart Benton represented the state of Missouri as US senator? Was Thomas Hart Benton's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Thomas J. Walsh represented the state of Montana as US senator? Was Thomas J. Walsh's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has John Sherman represented the state of New Hampshire as US senator? Was John Sherman's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has William Hughes represented the state of New Jersey as US senator? Was William Hughes's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has William Langer represented the state of North Dakota as US senator? Was William Langer's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Ohio as US senator? Was John Sherman's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Henry W. Corbett represented the state of Oregon as US senator? Was Henry W. Corbett's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Joseph S. Clark represented the state of Pennsylvania as US senator? Was Joseph S. Clark's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has John Chafee represented the state of Rhode Island as US senator? Was John Chafee's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has James Abourezk represented the state of South Dakota as US senator? Was James Abourezk's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Lyndon represented the state of Texas as US senator? Was Lyndon's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Orrin Hatch represented the state of Utah as US senator? Was Orrin Hatch's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has Henry represented the state of Washington as US senator? Was Henry's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has John W. Davis represented the state of West Virginia as US senator? Was John W. Davis's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has William represented the state of Wisconsin as US senator? Was William's alma mater Vanderbilt University?"
+    },
+    {
+        "question": "Has John Sparkman represented the state of Alabama as US senator? Was John Sparkman's alma mater Rice University?"
+    },
+    {
+        "question": "Has Ted represented the state of Alaska as US senator? Was Ted's alma mater Rice University?"
+    },
+    {
+        "question": "Has John L. McClellan represented the state of Arkansas as US senator? Was John L. McClellan's alma mater Rice University?"
+    },
+    {
+        "question": "Has William represented the state of Colorado as US senator? Was William's alma mater Rice University?"
+    },
+    {
+        "question": "Has [Insert Senator Name Here] represented the state of Connecticut as US senator? Was [Insert Senator Name Here]'s alma mater Rice University?"
+    },
+    {
+        "question": "Has George represented the state of Florida as US senator? Was George's alma mater Rice University?"
+    },
+    {
+        "question": "Has John represented the state of Georgia as US senator? Was John's alma mater Rice University?"
+    },
+    {
+        "question": "Has Daniel represented the state of Hawaii as US senator? Was Daniel's alma mater Rice University?"
+    },
+    {
+        "question": "Has William represented the state of Illinois as US senator? Was William's alma mater Rice University?"
+    },
+    {
+        "question": "Has Thomas R. Marshall represented the state of Indiana as US senator? Was Thomas R. Marshall's alma mater Rice University?"
+    },
+    {
+        "question": "Has James represented the state of Kansas as US senator? Was James's alma mater Rice University?"
+    },
+    {
+        "question": "Has John Sherman Cooper represented the state of Kentucky as US senator? Was John Sherman Cooper's alma mater Rice University?"
+    },
+    {
+        "question": "Has Edmund represented the state of Maine as US senator? Was Edmund's alma mater Rice University?"
+    },
+    {
+        "question": "Has John Kerry represented the state of Massachusetts as US senator? Was John Kerry's alma mater Rice University?"
+    },
+    {
+        "question": "Has Carl represented the state of Michigan as US senator? Was Carl's alma mater Rice University?"
+    },
+    {
+        "question": "Has Hubert H. Humphrey represented the state of Minnesota as US senator? Was Hubert H. Humphrey's alma mater Rice University?"
+    },
+    {
+        "question": "Has John C. Stennis represented the state of Mississippi as US senator? Was John C. Stennis's alma mater Rice University?"
+    },
+    {
+        "question": "Has John H. Sununu represented the state of New Hampshire as US senator? Was John H. Sununu's alma mater Rice University?"
+    },
+    {
+        "question": "Has Pete Domenici represented the state of New Mexico as US senator? Was Pete Domenici's alma mater Rice University?"
+    },
+    {
+        "question": "Has Quentin Burdick represented the state of North Dakota as US senator? Was Quentin Burdick's alma mater Rice University?"
+    },
+    {
+        "question": "Has Henry represented the state of Oregon as US senator? Was Henry's alma mater Rice University?"
+    },
+    {
+        "question": "Has John Chafee represented the state of Rhode Island as US senator? Was John Chafee's alma mater Rice University?"
+    },
+    {
+        "question": "Has John C. Stennis represented the state of South Carolina as US senator? Was John C. Stennis's alma mater Rice University?"
+    },
+    {
+        "question": "Has John Thune represented the state of South Dakota as US senator? Was John Thune's alma mater Rice University?"
+    },
+    {
+        "question": "Has John represented the state of Texas as US senator? Was John's alma mater Rice University?"
+    },
+    {
+        "question": "Has Orin Hatch represented the state of Utah as US senator? Was Orin Hatch's alma mater Rice University?"
+    },
+    {
+        "question": "Has Ernest W. Gibson represented the state of Vermont as US senator? Was Ernest W. Gibson's alma mater Rice University?"
+    },
+    {
+        "question": "Has Henry represented the state of Washington as US senator? Was Henry's alma mater Rice University?"
+    },
+    {
+        "question": "Has John H represented the state of West Virginia as US senator? Was John H's alma mater Rice University?"
+    },
+    {
+        "question": "Has William represented the state of Wisconsin as US senator? Was William's alma mater Rice University?"
+    },
+    {
+        "question": "Has John McCain represented the state of Arizona as US senator? Was John McCain's alma mater University of Washington?"
+    },
+    {
+        "question": "Has John L. McClellan represented the state of Arkansas as US senator? Was John L. McClellan's alma mater University of Washington?"
+    },
+    {
+        "question": "Has Henry M represented the state of California as US senator? Was Henry M's alma mater University of Washington?"
+    },
+    {
+        "question": "Has George P represented the state of Connecticut as US senator? Was George P's alma mater University of Washington?"
+    },
+    {
+        "question": "Has Thomas F. Bayard represented the state of Delaware as US senator? Was Thomas F. Bayard's alma mater University of Washington?"
+    },
+    {
+        "question": "Has Daniel Inouye represented the state of Hawaii as US senator? Was Daniel Inouye's alma mater University of Washington?"
+    },
+    {
+        "question": "Has Henry Dwors represented the state of Idaho as US senator? Was Henry Dwors's alma mater University of Washington?"
+    },
+    {
+        "question": "Has Thomas R. Marshall represented the state of Indiana as US senator? Was Thomas R. Marshall's alma mater University of Washington?"
+    },
+    {
+        "question": "Has James A. Reed represented the state of Kansas as US senator? Was James A. Reed's alma mater University of Washington?"
+    },
+    {
+        "question": "Has John Sherman represented the state of Kentucky as US senator? Was John Sherman's alma mater University of Washington?"
+    },
+    {
+        "question": "Has John Breaux represented the state of Louisiana as US senator? Was John Breaux's alma mater University of Washington?"
+    }
+]
