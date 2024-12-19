@@ -12,7 +12,7 @@ model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.2-3B-Instruct",
 # print("Using device:", device)
 # model.to(device)
 
-prompt = "Answer this question in only one sentence, and make sure you include explaination: Is 7411 a prime number?"
+prompt = "Is 7411 a prime number?"
 
 input_ids = tokenizer(prompt, return_tensors="pt").input_ids
 # input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(device)

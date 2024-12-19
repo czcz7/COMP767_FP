@@ -8,9 +8,7 @@ model = AutoModelForCausalLM.from_pretrained(
     offload_folder="./offload"
 )
 
-model = model.to("mps")
-
-prompt = "Is 7411 a prime number? Firstly you should answer yes or no. If your answer is no, on the second line give me an explanation in one sentence."
+prompt = "Is 7411 a prime number?"
 
 # Tokenize input and move tensors to MPS
 inputs = tokenizer(prompt, return_tensors="pt")
