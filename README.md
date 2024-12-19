@@ -10,6 +10,10 @@ To install requirements:
 pip3 install torch torchvision torchaudio transformers json
 ```
 
+## Datasets/Benchmark
+The Benchmark folder contains five benchmark datasets.
+![datasets](Results/dataset.png)
+
 ## Inference/Testing
 
 To test the model(s) in the paper, select the model script, adjust the benchmark file (i.e. Benchmark/primality_testing.json) and adjust the hyperparameter (max_length, max_new_token, temperature, num_beams, do_sample). Then run the script.
@@ -22,20 +26,15 @@ python3 phi_1B.py
 
 ## Evaluation
 
-To evaluate the result:
-
-```eval
-python eval.py --model-file mymodel.pth --benchmark imagenet
-```
+The TestRun.ipynb file contains the evaluation of results and the produced graphs.
 
 ## Results
 
-Our model achieves the following performance on :
-
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
-
-| Model name         | Top 1 Accuracy  | Top 5 Accuracy |
-| ------------------ |---------------- | -------------- |
-| My awesome model   |     85%         |      95%       |
-
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
+![fullresults](Results/fullresults.png)
+![followup](Results/followup.png)
+![greedy](Results/greedy.png)
+![temp](Results/temp.png)
+![beam](Results/beam.png)
+![simplegraph](Results/simplegraph.png)
+![fewshot](Results/fewshot.png)
+![fullowup1](Results/followup_1.png)
